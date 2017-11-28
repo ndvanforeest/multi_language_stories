@@ -11,4 +11,6 @@ The pdf files speak for themselves, I guess.
 
 In case you like to add a language, or otherwise contribute to this project let me know. The idea is to take the English stories as leading, and translate those stories to a target language, in my case Dutch. The sentences in the target language should be 1) simple and (very important) natural, and once this is ensured, 2) try to stay as close as possible to the English source. It is evident that is in general impossible to translate the English in a one-to-one way to a target language. Hence, (once more), the most important criterion to meet is that the sentences in the target language are simple and natural (from a native's point of view.)
 
+If you plan to help add a language, please mind the structure of the source files. They are input into latex files, so the formatting is crucial.
+
 
