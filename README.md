@@ -13,5 +13,5 @@ In case you like to add a language, or otherwise contribute to this project let 
 
 If you plan to help add a language, please mind the structure of the source files. They are input into latex files, so the formatting is crucial.
 
-An interesting extension would be to read the stories (by a native) and record them (with your mobile) to  mp3, and share the mp3. Like this, one can first read and study a story, and then later listen to it, while biking to work or so. BTW, I don't know whether this is ok with github. 
+An interesting extension would be to read the stories (by a native) and record them (with your mobile) to  mp3, and share the mp3. Like this, one can first read and study a story, and then later listen to it, while biking to work or so. BTW, I don't know whether github allows the sharing of mp3 files.
 
