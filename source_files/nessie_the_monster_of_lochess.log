@@ -1,0 +1,59 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdftex 2017.9.8)  24 NOV 2017 23:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\input nessie_the_monster_of_lochess.tex
+(./nessie_the_monster_of_lochess.tex
+./nessie_the_monster_of_lochess.tex:1: Misplaced alignment tab character &.
+l.1 Nessie - het monster van Loch Ness&
+                                       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+./nessie_the_monster_of_lochess.tex:2: Misplaced alignment tab character &.
+l.2 Nessie â€“ the Loch Ness Monster &
+                                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./nessie_the_monster_of_lochess.tex:3: Misplaced alignment tab character &.
+l.3 &
+     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+)
+Runaway argument?
+ Heb je gehoord van Nessie, het monster van Loch Ness? & Have you hea\ETC.
+! File ended while scanning use of \\.
+<inserted text> 
+                \par 
+<*> \input nessie_the_monster_of_lochess.tex
+                                            
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> \input nessie_the_monster_of_lochess.tex
+                                            
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

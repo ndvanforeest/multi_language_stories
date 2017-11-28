@@ -1,0 +1,71 @@
+%\documentclass[11pt]{article}
+\documentclass[12pt]{article}
+%\usepackage{booktabs}
+\usepackage{ctable}
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{marginnote}
+
+
+\newcommand{\oak}[1]{{\leavevmode\color{red}#1}}
+\newcommand{\nvf}[1]{{\leavevmode\color{red}#1}}
+
+\makeatletter
+\def\input@path{{source_files/}}
+%or: \def\input@path{{/path/to/folder/}{/path/to/other/folder/}}
+\makeatother
+
+% I use the various longtable formats to read a piece of text in just
+% one language. This makes it easier to catch typo's and bad
+% sentences.
+
+\newcolumntype{O}{>{\raggedright\arraybackslash}p{15cm}} % only column
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}} % hide
+\newcolumntype{R}{>{\raggedleft\arraybackslash}p{7.5cm}}
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{7.5cm}}
+
+\begin{document}
+\tableofcontents
+\begin{longtable}{LLLL} % all
+%\begin{longtable}{L|L|L} % all
+%\begin{longtable}{OHH} % just dutch
+%\begin{longtable}{HOH} % just english
+%\begin{longtable}{LLH} % dutch english
+%\begin{longtable}{HHO} % just turkish
+%\begin{longtable}{HLL} % english turkish
+%\begin{longtable}{L||HR} % english turkish
+\toprule
+%\input{elephant_and_friends}
+%\input{lion_and_mouse}
+%\input{elephant_and_mouse.tex}
+%\input{act_as_the_others.tex}
+%\input{ali_baba.tex}
+%\input{rabbit.tex}
+%\input{traffic}
+%\input{airport}
+%\input{gulliver.tex}
+%\input{fire.tex}
+%\input{cinderella.tex}
+%\input{the_frog_prince.tex}
+%\input{the_lost_ring.tex}
+%\input{the_rabbit_and_the_tortoise}
+%\input{the_shepherd_boy}
+%\input{the_kings_nightingale}
+%\input{flying}
+%\input{the_moon_in_the_well}
+%\input{everyday}
+%\input{swimming}
+%\input{the_donkey_that_could_sing.tex}
+%\input{siege_of_vienna.tex}
+%\input{romeo_and_juliet.tex}
+\input{nessie_the_monster_of_lochess.tex}
+\end{longtable}
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
