@@ -5,7 +5,7 @@ This repo contains English stories translated to (currently) Dutch and Turkish. 
 
 The source_files directory contains the source files. Each source file contains one story. A file consists of sets of lines, separated by ampersands (&), the first line of a set is Dutch, the second English, the third is Turkish. The last line of a set ends with a double slash (\\\\).
 
-The python file `make_docs.py` processes the source files into latex files, that in turn are processed (by a call to  pdf_latex) into pdf files.
+The python file `make_docs.py` processes the source files into latex files, that in turn are processed (by a call to  pdf_latex) into pdf files. The other python file `test_single_source_file.tex` allows to test single source files and various ways of formatting. 
 
 The pdf files speak for themselves, I guess.
 
