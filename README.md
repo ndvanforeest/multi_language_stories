@@ -1,4 +1,4 @@
-# multi_language_stories
+# Parallel texts in multiple languages
 
 
 This repo contains English stories translated to (currently) Dutch and Turkish. The structure is like this.
