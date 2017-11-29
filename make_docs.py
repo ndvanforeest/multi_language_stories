@@ -35,8 +35,7 @@ files = [
 """
 
 files = [
-    "the_fox_who_got_caught_in_the_tree_trunk.tex",
-    #"the_hidden_treasure.tex",
+    "japie.tex",
 ]
 """
 
@@ -45,6 +44,7 @@ class Lang(IntEnum):
     DUTCH = 0
     ENGLISH = 1
     TURKISH = 2
+    SPANISH = 3
 
 
 def select_story_and_vocab(fname):
@@ -60,23 +60,24 @@ def select_story_and_vocab(fname):
     for line in fp:
         words += line.strip()
 
-    sentences = story.split(r"\\")
+    lines = story.split(r"\\")
     story = []
-    for sentence in sentences:
-        if len(sentence) < 5:  # minimal length of sensible sentence
+    for line in lines:
+        if len(line) < 3:  # minimal length of sensible sentence
             continue
-        #print(sentence)
-        d, e, t = sentence.split("&")
-        story.append([d.strip(), e.strip(), t.strip()])
+        #print(line)
+        # split line into sentences, one for each language
+        sentences = [s.strip() for s in line.split("&")]
+        story.append(sentences)
     
     words = words.split(r"\\")
     vocab = []
     for word in words:
-        if len(word) < 5:  # minimal length of sensible sentence
+        if len(word) < 3:  # minimal length of sensible sentence
             continue
         #print(word)
-        d, e, t = word.split("&")
-        vocab.append([d.strip(), e.strip(), t.strip()])
+        w = [w.strip() for w in word.split("&")]
+        vocab.append(w) 
     
     return story, vocab
 
