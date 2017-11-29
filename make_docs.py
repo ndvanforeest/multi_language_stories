@@ -2,6 +2,7 @@
 import os  
 from enum import IntEnum
 
+#"""
 files = [
     "elephant_and_friends.tex",
     "lion_and_mouse.tex",
@@ -26,11 +27,16 @@ files = [
     "the_donkey_that_could_sing.tex",
     "siege_of_vienna.tex",
     "romeo_and_juliet.tex",
-    "nessie_the_monster_of_lochess.tex"
+    "nessie_the_monster_of_lochess.tex",
+    "the_fox_who_got_caught_in_the_tree_trunk.tex",
+    "the_hidden_treasure.tex",
 ]
 
 """
+
 files = [
+    "the_fox_who_got_caught_in_the_tree_trunk.tex",
+    #"the_hidden_treasure.tex",
 ]
 """
 
@@ -152,3 +158,4 @@ def make_doc(lang_left, lang_right, fname):
 
 make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
 make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+make_doc(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
