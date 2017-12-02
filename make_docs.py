@@ -2,42 +2,44 @@
 import os  
 from enum import IntEnum
 
-#"""
-files = [
-    "elephant_and_friends.tex",
-    "lion_and_mouse.tex",
-    "elephant_and_mouse.tex",
-    "act_as_the_others.tex",
-    "traffic.tex",
-    "fire.tex",
-    "airport.tex",
-    "rabbit.tex",
-    "gulliver.tex",
-    "ali_baba.tex",
-    "cinderella.tex",
-    "the_frog_prince.tex",
-    "the_lost_ring.tex",
-    "the_rabbit_and_the_tortoise.tex",
-    "the_shepherd_boy.tex",
-    "the_kings_nightingale.tex",
-    "flying.tex",
-    "everyday.tex",
-    "the_moon_in_the_well.tex",
-    "swimming.tex",
-    "the_donkey_that_could_sing.tex",
-    "siege_of_vienna.tex",
-    "romeo_and_juliet.tex",
-    "nessie_the_monster_of_lochess.tex",
-    "the_fox_who_got_caught_in_the_tree_trunk.tex",
-    "the_hidden_treasure.tex",
-]
+test = False
 
-"""
+if test:
+    files = [
+        "a_wise_counting.tex",
+    ]
+else:
+    files = [
+        "fire.tex",
+        "flying.tex",
+        "everyday.tex",
+        "traffic.tex",
+        "airport.tex",
+        "swimming.tex",
+        "elephant_and_friends.tex",
+        "lion_and_mouse.tex",
+        "elephant_and_mouse.tex",
+        "nessie_the_monster_of_lochess.tex",
+        "cinderella.tex",
+        "the_frog_prince.tex",
+        "the_lost_ring.tex",
+        "the_rabbit_and_the_tortoise.tex",
+        "the_shepherd_boy.tex",
+        "the_kings_nightingale.tex",
+        "rabbit.tex",
+        "the_hidden_treasure.tex",
+        "act_as_the_others.tex",
+        "siege_of_vienna.tex",
+        "gulliver.tex",
+        "ali_baba.tex",
+        "the_moon_in_the_well.tex",
+        "the_donkey_that_could_sing.tex",
+        "romeo_and_juliet.tex",
+        "the_fox_who_got_caught_in_the_tree_trunk.tex",
+        "the_sleeping_beauty.tex",
+        "a_wise_counting.tex",
+    ]
 
-files = [
-    "japie.tex",
-]
-"""
 
 
 class Lang(IntEnum):
