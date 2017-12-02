@@ -16,6 +16,7 @@ else:
         "traffic.tex",
         "airport.tex",
         "swimming.tex",
+        "my_daily_pattern.tex",
         "elephant_and_friends.tex",
         "lion_and_mouse.tex",
         "elephant_and_mouse.tex",
@@ -84,7 +85,8 @@ def select_story_and_vocab(fname):
     return story, vocab
 
 def make_latex_string(story, vocab, col1, col2):
-    table_format = "\\begin{longtable}{L||R}\\toprule"
+    #table_format = "\\begin{longtable}{L||R}\\toprule"
+    table_format = "\\begin{longtable}{L||L}\\toprule"
     res = [] # list of latex strings
     # section title 
     res.append("\section{{ {} / {} }}".format(story[0][col1],story[0][col2]))
