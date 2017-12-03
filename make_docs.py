@@ -38,6 +38,7 @@ if len(files) == 0:
         "the_sleeping_beauty.tex",
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
+        "the_lazy_dreamer.tex"
     ]
 
 
