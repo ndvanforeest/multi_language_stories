@@ -38,7 +38,9 @@ if len(files) == 0:
         "the_sleeping_beauty.tex",
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
-        "the_lazy_dreamer.tex"
+        "the_lazy_dreamer.tex",
+    "the_well_dispute.tex",
+    "bluebeard.tex",
     ]
 
 
@@ -161,6 +163,10 @@ def make_doc(lang_left, lang_right, fname):
     os.system("rm {}.tex".format(fname))
     os.system("rm {}.toc".format(fname))
 
-make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
-make_doc(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
+
+if len(files) == 1:
+    make_doc(Lang.DUTCH, Lang.ENGLISH, "test_dutch_english")
+else:
+    make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
+    make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+    make_doc(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
