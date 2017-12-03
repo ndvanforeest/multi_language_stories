@@ -2,13 +2,11 @@
 import os  
 from enum import IntEnum
 
-test = False
 
-if test:
-    files = [
-        "a_wise_counting.tex",
-    ]
-else:
+files = [
+]
+
+if len(files) == 0:
     files = [
         "fire.tex",
         "flying.tex",
@@ -39,6 +37,7 @@ else:
         "the_fox_who_got_caught_in_the_tree_trunk.tex",
         "the_sleeping_beauty.tex",
         "a_wise_counting.tex",
+        "birbals_sweet_reply.tex",
     ]
 
 
