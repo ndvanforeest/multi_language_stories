@@ -8,13 +8,13 @@ files = [
 
 if len(files) == 0:
     files = [
+        "everyday.tex",
+        "my_daily_pattern.tex",
         "fire.tex",
         "flying.tex",
-        "everyday.tex",
         "traffic.tex",
         "airport.tex",
         "swimming.tex",
-        "my_daily_pattern.tex",
         "elephant_and_friends.tex",
         "lion_and_mouse.tex",
         "elephant_and_mouse.tex",
@@ -39,6 +39,7 @@ if len(files) == 0:
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
         "the_lazy_dreamer.tex",
+    "birbal_is_brief.tex",
     "the_well_dispute.tex",
     "bluebeard.tex",
     ]

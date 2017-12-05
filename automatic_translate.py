@@ -6,13 +6,12 @@ translator = Translator()
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "bluebeard"
-
+    
+fname = "birbal_is_brief"
 fin = open(fname + r".txt", 'r')
 fout = open(fname + r".tex", "w")
 
-data = fin.read()
-for token in tokenizer.tokenize(data):
+for token in tokenizer.tokenize(fin.read()):
     if len(token) < 3:
         continue
     nl = translator.translate(token, src="en", dest="nl")
