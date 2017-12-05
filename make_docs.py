@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-import os  
+import os
+import re
 from enum import IntEnum
 
 
 files = [
+        "everyday.tex",
 #    r"../the_story_of_the_baked_head.tex"
 ]
 
@@ -87,15 +89,22 @@ def select_story_and_vocab(fname):
         #print(word)
         w = [w.strip() for w in word.split("&")]
         vocab.append(w) 
-    
     return story, vocab
 
+def make_section_title(t1, t2):
+    if "footnote" in t1:
+        t1 = re.sub(r'\\footnote{.*}', "", t1)
+    if "footnote" in t2:
+        t2 = re.sub(r'\\footnote{.*}', "", t2)
+    return "\section{{ {} / {} }}".format(t1, t2)
+    
+        
 def make_latex_string(story, vocab, col1, col2):
     #table_format = "\\begin{longtable}{L||R}\\toprule"
     table_format = "\\begin{longtable}{L||L}\\toprule"
     res = [] # list of latex strings
-    # section title 
-    res.append("\section{{ {} / {} }}".format(story[0][col1],story[0][col2]))
+    title = make_section_title(story[0][col1],story[0][col2])
+    res.append(title)
     # start story table 
     res.append(table_format)
     # header of table
@@ -164,7 +173,7 @@ def make_doc(lang_left, lang_right, fname):
     os.system("pdflatex {}.tex".format(fname))
     os.system("rm {}.aux".format(fname))
     os.system("rm {}.log".format(fname))
-    #os.system("rm {}.tex".format(fname))
+    os.system("rm {}.tex".format(fname))
     os.system("rm {}.toc".format(fname))
 
 
