@@ -7,7 +7,7 @@ translator = Translator()
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
     
-fname = "birbal_is_brief"
+fname = "birbal_the_wise"
 fin = open(fname + r".txt", 'r')
 fout = open(fname + r".tex", "w")
 

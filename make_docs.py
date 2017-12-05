@@ -38,6 +38,8 @@ if len(files) == 0:
         "the_sleeping_beauty.tex",
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
+        "birbal_the_servant.tex",
+    "birbal_the_wise.tex",
         "the_lazy_dreamer.tex",
     "birbal_is_brief.tex",
     "the_well_dispute.tex",
@@ -166,7 +168,7 @@ def make_doc(lang_left, lang_right, fname):
 
 
 if len(files) == 1:
-    make_doc(Lang.DUTCH, Lang.ENGLISH, "test_dutch_english")
+    make_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
 else:
     make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
     make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
