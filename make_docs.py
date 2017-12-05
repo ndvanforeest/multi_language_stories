@@ -4,12 +4,13 @@ from enum import IntEnum
 
 
 files = [
+#    r"../the_story_of_the_baked_head.tex"
 ]
 
 if len(files) == 0:
     files = [
         "everyday.tex",
-        "my_daily_pattern.tex",
+        "my_daily_rhythm.tex",
         "fire.tex",
         "flying.tex",
         "traffic.tex",
@@ -163,7 +164,7 @@ def make_doc(lang_left, lang_right, fname):
     os.system("pdflatex {}.tex".format(fname))
     os.system("rm {}.aux".format(fname))
     os.system("rm {}.log".format(fname))
-    os.system("rm {}.tex".format(fname))
+    #os.system("rm {}.tex".format(fname))
     os.system("rm {}.toc".format(fname))
 
 
