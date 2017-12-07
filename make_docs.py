@@ -5,14 +5,13 @@ from enum import IntEnum
 
 
 files = [
-        "my_daily_rhythm.tex",
 ]
 
 if len(files) == 0:
     files = [
+        "everyday.tex",
         "my_daily_rhythm.tex",
         "taking_a_shower.tex",
-        "everyday.tex",
         "shaving.tex",
         "grandmas_soup.tex",
         "fire.tex",
