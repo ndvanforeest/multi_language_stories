@@ -5,14 +5,16 @@ from enum import IntEnum
 
 
 files = [
-        "everyday.tex",
-#    r"../the_story_of_the_baked_head.tex"
+        "my_daily_rhythm.tex",
 ]
 
 if len(files) == 0:
     files = [
-        "everyday.tex",
         "my_daily_rhythm.tex",
+        "taking_a_shower.tex",
+        "everyday.tex",
+        "shaving.tex",
+        "grandmas_soup.tex",
         "fire.tex",
         "flying.tex",
         "traffic.tex",
@@ -46,6 +48,8 @@ if len(files) == 0:
         "the_lazy_dreamer.tex",
     "birbal_is_brief.tex",
     "the_well_dispute.tex",
+    "list_of_blinds.tex",
+        "a_handfull_of_answers.tex",
     "bluebeard.tex",
     ]
 
@@ -153,10 +157,13 @@ template = r"""
 \tableofcontents
 \clearpage
 
+\clearpage
+
 {}
 
 \end{{document}}
 """
+#\input{{introduction}}
 
 def make_doc(lang_left, lang_right, fname):
     res = []
