@@ -40,6 +40,7 @@ if len(files) == 0:
         "romeo_and_juliet.tex",
         "the_fox_who_got_caught_in_the_tree_trunk.tex",
         "the_sleeping_beauty.tex",
+        "making_a_difference.tex",
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
         "birbal_the_servant.tex",
@@ -49,6 +50,10 @@ if len(files) == 0:
     "the_well_dispute.tex",
     "list_of_blinds.tex",
         "a_handfull_of_answers.tex",
+    "the_donkey_and_the_dog.tex",
+    "the_cunning_bats.tex",
+    "the_clever_bull.tex",
+    "the_sleepy_teacher.tex",
     "bluebeard.tex",
     ]
 

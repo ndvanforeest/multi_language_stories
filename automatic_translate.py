@@ -6,9 +6,9 @@ translator = Translator()
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
+is_src_dutch = False
     
-#fname = "shaving"
-fname="grandmas_soup"
+fname="the_sleepy_teacher"
 fin = open(fname + r".txt", 'r')
 fout = open(fname + r".tex", "w")
 
@@ -16,7 +16,6 @@ fout = open(fname + r".tex", "w")
 for token in tokenizer.tokenize(fin.read()):
     if len(token) < 3:
         continue
-    is_src_dutch = True
     if is_src_dutch:
         res = translator.translate(token, src="nl", dest="en")
         res = "{}&\n{}&\n\\\\\n".format(token, res.text)
