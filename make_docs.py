@@ -5,7 +5,7 @@ from enum import IntEnum
 
 
 files = [
-    "../pietje.tex",
+    "../the_donkey_and_the_cotton.tex",
 ]
 
 if len(files) == 0:
@@ -59,7 +59,8 @@ if len(files) == 0:
         "bluebeard.tex",
     ]
 
-
+#for f in files:
+#    print("%input{{source_files/{}}}".format(f))
 
 class Lang(IntEnum):
     DUTCH = 0
@@ -82,6 +83,8 @@ def select_story_and_vocab(fname):
         words += line.strip()
 
     lines = story.split(r"\\")
+    #print(fname)
+    
     story = []
     for line in lines:
         if len(line) < 3:  # minimal length of sensible sentence
@@ -113,6 +116,7 @@ def make_latex_string(story, vocab, col1, col2):
     #table_format = "\\begin{longtable}{L||R}\\toprule"
     table_format = "\\begin{longtable}{L||L}\\toprule"
     res = [] # list of latex strings
+    #print(story)
     title = make_section_title(story[0][col1],story[0][col2])
     res.append(title)
     # start story table 
@@ -155,8 +159,8 @@ template = r"""
 
 \newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
 \newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{7.5cm}}}}
-\newcolumntype{{R}}{{>{{\raggedleft\arraybackslash}}p{{7.5cm}}}}
+\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{8cm}}}}
+\newcolumntype{{R}}{{>{{\raggedleft\arraybackslash}}p{{8cm}}}}
 
 \begin{{document}}
 
@@ -171,7 +175,7 @@ template = r"""
 """
 #\input{{introduction}}
 
-def make_doc(lang_left, lang_right, fname):
+def make_all_docs(lang_left, lang_right, fname):
     res = []
     for f in files:
         story, vocab = select_story_and_vocab(f)
@@ -189,11 +193,27 @@ def make_doc(lang_left, lang_right, fname):
     os.system("rm {}.tex".format(fname))
     os.system("rm {}.toc".format(fname))
 
+def make_test_doc(lang_left, lang_right, fname):
+    res = []
+    for f in files:
+        story, vocab = select_story_and_vocab(f)
+        res.append(make_latex_string(story, vocab, lang_left, lang_right))
+    res = template.format("\n".join(res))
+        
+    fp = open(fname+".tex", "w")
+    fp.write(res)
+    fp.close()
+    os.system("pdflatex {}.tex".format(fname))
+    #os.system("rm {}.tex".format(fname))
+    os.system("rm {}.aux".format(fname))
+    os.system("rm {}.log".format(fname))
+    os.system("rm {}.toc".format(fname))
+
 
 if len(files) == 1:
-    make_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
-    make_doc(Lang.TURKISH, Lang.SPANISH, "test_turkish_dutch")
+    make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
+    #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
 else:
-    make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-    make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
-    make_doc(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
+    make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
+    make_all_dosc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+    make_all_docs(Lang.ENGLISH, Lang.DUTCH, "english_dutch")

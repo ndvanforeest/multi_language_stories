@@ -1,0 +1,92 @@
+
+\documentclass[12pt]{article}
+\usepackage{ctable} % for toprule
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{marginnote}
+\usepackage{manfnt}
+
+\newcommand{\oak}[1]{{\leavevmode\color{red}#1}\marginnote{\dbend}}
+\newcommand{\nvf}[1]{{\leavevmode\color{red}#1}\marginnote{\dbend}}
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{7.5cm}}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}p{7.5cm}}
+% only column
+\newcolumntype{O}{>{\raggedright\arraybackslash}p{15cm}} 
+% hide a column
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}} % hide
+
+\begin{document}
+
+%\tableofcontents
+%\clearpage
+%\section{a handful of answers}
+\nvf{I kind of forgot which files you exactly did. The ones that I recall I removed from the list below. I had google translate all files that did not contain any Turkish. As you noticed, the onces that did include Turkish, were not always accurate. So, I kept them in here. 
+
+I guess it will be evident which files have been translate from english to turkish by google. 
+
+I include the list of files as they appear in make-docs.py. The sorting is roughly in order of difficutly. If you think different about the order, just change it in make-docs.py.
+
+The rest speaks for itself I suppose.
+
+To avoid conflicts: I will NOT touch the the files that are here UNQUOTED. So, once you're done with a file, just remove it. 
+}
+
+
+\begin{longtable}{HLL}\toprule % like this you hide the dutch line
+\input{source_files/everyday.tex}
+%\input{source_files/my_daily_rhythm.tex}
+%\input{source_files/taking_a_shower.tex}
+%\input{source_files/shaving.tex}
+%\input{source_files/grandmas_soup.tex}
+%\input{source_files/a_walk_in_the_park.tex}
+%\input{source_files/fire.tex}
+%\input{source_files/flying.tex}
+%\input{source_files/traffic.tex}
+%\input{source_files/airport.tex}
+%\input{source_files/swimming.tex}
+%\input{source_files/elephant_and_friends.tex}
+%\input{source_files/lion_and_mouse.tex}
+%\input{source_files/elephant_and_mouse.tex}
+%\input{source_files/nessie_the_monster_of_lochess.tex}
+%\input{source_files/cinderella.tex}
+%\input{source_files/the_frog_prince.tex}
+%\input{source_files/the_lost_ring.tex}
+%\input{source_files/the_rabbit_and_the_tortoise.tex}
+%\input{source_files/the_shepherd_boy.tex}
+%\input{source_files/the_kings_nightingale.tex}
+%\input{source_files/rabbit.tex}
+%\input{source_files/the_hidden_treasure.tex}
+%\input{source_files/gulliver.tex}
+%\input{source_files/ali_baba.tex}
+%\input{source_files/the_moon_in_the_well.tex}
+%\input{source_files/romeo_and_juliet.tex}
+%\input{source_files/the_fox_who_got_caught_in_the_tree_trunk.tex}
+%\input{source_files/the_sleeping_beauty.tex}
+%\input{source_files/making_a_difference.tex}
+%\input{source_files/a_wise_counting.tex}
+%\input{source_files/birbals_sweet_reply.tex}
+%\input{source_files/birbal_the_servant.tex}
+%\input{source_files/birbal_the_wise.tex}
+%\input{source_files/the_lazy_dreamer.tex}
+%\input{source_files/birbal_is_brief.tex}
+%\input{source_files/the_well_dispute.tex}
+%\input{source_files/list_of_blinds.tex}
+%\input{source_files/the_donkey_and_the_dog.tex}
+%\input{source_files/the_cunning_bats.tex}
+%\input{source_files/the_clever_bull.tex}
+%\input{source_files/the_sleepy_teacher.tex}
+%\input{source_files/bluebeard.tex}
+\bottomrule 
+\end{longtable}
+\clearpage
+
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

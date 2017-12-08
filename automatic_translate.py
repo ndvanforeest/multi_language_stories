@@ -8,7 +8,7 @@ tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 is_src_dutch = False
     
-fname="the_sleepy_teacher"
+fname="the_donkey_and_the_cotton"
 fin = open(fname + r".txt", 'r')
 fout = open(fname + r".tex", "w")
 
