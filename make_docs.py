@@ -14,6 +14,7 @@ if len(files) == 0:
         "taking_a_shower.tex",
         "shaving.tex",
         "grandmas_soup.tex",
+        "a_walk_in_the_park.tex",
         "fire.tex",
         "flying.tex",
         "traffic.tex",
