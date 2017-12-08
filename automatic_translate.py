@@ -17,10 +17,12 @@ for token in tokenizer.tokenize(fin.read()):
     if len(token) < 3:
         continue
     if is_src_dutch:
-        res = translator.translate(token, src="nl", dest="en")
-        res = "{}&\n{}&\n\\\\\n".format(token, res.text)
+        nl = token
+        en = translator.translate(token, src="nl", dest="en").text
     else:
-        res = translator.translate(token, src="en", dest="nl")
-        res = "{}&\n{}&\n\\\\\n".format(res.text, token)
+        en = token
+        nl = translator.translate(token, src="en", dest="nl").text
+    tr = translator.translate(token, src="en", dest="tr").text
+    res = "{}&\n{}&\n{}\\\\\n".format(nl, en, tr)
     fout.write(res)
 

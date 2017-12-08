@@ -1,5 +1,5 @@
 """
-Makes a text file, with fields separated by ;. 
+Makes a text file, with fields separated by semicolons
 
 >python3 anki_format.py > dummy.txt
 

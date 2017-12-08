@@ -5,6 +5,7 @@ from enum import IntEnum
 
 
 files = [
+    "../pietje.tex",
 ]
 
 if len(files) == 0:
@@ -45,17 +46,17 @@ if len(files) == 0:
         "a_wise_counting.tex",
         "birbals_sweet_reply.tex",
         "birbal_the_servant.tex",
-    "birbal_the_wise.tex",
+        "birbal_the_wise.tex",
         "the_lazy_dreamer.tex",
-    "birbal_is_brief.tex",
-    "the_well_dispute.tex",
-    "list_of_blinds.tex",
+        "birbal_is_brief.tex",
+        "the_well_dispute.tex",
+        "list_of_blinds.tex",
         "a_handfull_of_answers.tex",
-    "the_donkey_and_the_dog.tex",
-    "the_cunning_bats.tex",
-    "the_clever_bull.tex",
-    "the_sleepy_teacher.tex",
-    "bluebeard.tex",
+        "the_donkey_and_the_dog.tex",
+        "the_cunning_bats.tex",
+        "the_clever_bull.tex",
+        "the_sleepy_teacher.tex",
+        "bluebeard.tex",
     ]
 
 
@@ -191,6 +192,7 @@ def make_doc(lang_left, lang_right, fname):
 
 if len(files) == 1:
     make_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
+    make_doc(Lang.TURKISH, Lang.SPANISH, "test_turkish_dutch")
 else:
     make_doc(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
     make_doc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
