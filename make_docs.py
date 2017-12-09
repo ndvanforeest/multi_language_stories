@@ -5,7 +5,6 @@ from enum import IntEnum
 
 
 files = [
-    "../the_donkey_and_the_cotton.tex",
 ]
 
 if len(files) == 0:
@@ -31,8 +30,14 @@ if len(files) == 0:
         "the_rabbit_and_the_tortoise.tex",
         "the_shepherd_boy.tex",
         "the_kings_nightingale.tex",
+        "the_donkey_of_hodja.tex",
         "rabbit.tex",
+        "hodja_the_king.tex",
+        "hodja_and_ox.tex",
+        "hodja_and_the_scholar.tex",
         "the_hidden_treasure.tex",
+        "sweet_quarrels.tex",
+        "the_relatives_of_the_donkey.tex",
         "act_as_the_others.tex",
         "siege_of_vienna.tex",
         "gulliver.tex",
@@ -42,25 +47,36 @@ if len(files) == 0:
         "romeo_and_juliet.tex",
         "the_fox_who_got_caught_in_the_tree_trunk.tex",
         "the_sleeping_beauty.tex",
+        "half_the_reward.tex",
         "making_a_difference.tex",
+        "birbal_shortens_the_road.tex",
+        "birbal_turns_tables.tex",
         "a_wise_counting.tex",
+        "question_for_question.tex",
         "birbals_sweet_reply.tex",
         "birbal_the_servant.tex",
         "birbal_the_wise.tex",
+        "the_sharpest_sword.tex",
         "the_lazy_dreamer.tex",
         "birbal_is_brief.tex",
         "the_well_dispute.tex",
         "list_of_blinds.tex",
         "a_handfull_of_answers.tex",
         "the_donkey_and_the_dog.tex",
+        "the_donkey_and_the_cotton.tex",
         "the_cunning_bats.tex",
         "the_clever_bull.tex",
         "the_sleepy_teacher.tex",
+        "four_friends.tex",
+        "the_three_wisemen_and_the_camel.tex",
+        "the_monkey_advisor.tex",
+        "prince_omar.tex",
         "bluebeard.tex",
     ]
 
 #for f in files:
-#    print("%input{{source_files/{}}}".format(f))
+#    print(r"%\input{{source_files/{}}}".format(f))
+#quit()
 
 class Lang(IntEnum):
     DUTCH = 0
@@ -181,7 +197,6 @@ def make_all_docs(lang_left, lang_right, fname):
         story, vocab = select_story_and_vocab(f)
         res.append(make_latex_string(story, vocab, lang_left, lang_right))
     res = template.format("\n".join(res))
-        
     fp = open(fname+".tex", "w")
     fp.write(res)
     fp.close()
@@ -209,11 +224,21 @@ def make_test_doc(lang_left, lang_right, fname):
     os.system("rm {}.log".format(fname))
     os.system("rm {}.toc".format(fname))
 
+def check_if_all_files_are_included():
+    # check whether all files in source_files are included in the list
+    # of files above
+    list1 = set(files)
+    list2 = set(os.listdir("./source_files"))
+    missing = list2 - list1
+    print(missing)
+    quit()
+
+#check_if_all_files_are_included()
 
 if len(files) == 1:
     make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
     #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
 else:
     make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-    make_all_dosc(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+    make_all_docs(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
     make_all_docs(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
