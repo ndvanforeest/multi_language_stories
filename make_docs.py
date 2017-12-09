@@ -172,6 +172,7 @@ template = r"""
 \usepackage{{longtable}}
 \usepackage{{marginnote}}
 \usepackage{{manfnt}}
+\usepackage{{url}}
 
 \newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
 \newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
@@ -235,10 +236,11 @@ def check_if_all_files_are_included():
 
 #check_if_all_files_are_included()
 
-if len(files) == 1:
-    make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
-    #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
-else:
-    make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-    make_all_docs(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
-    make_all_docs(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
+if __name__ == "__main__":
+    if len(files) == 1:
+        make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
+        #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
+    else:
+        make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
+        make_all_docs(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+        make_all_docs(Lang.ENGLISH, Lang.DUTCH, "english_dutch")

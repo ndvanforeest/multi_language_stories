@@ -1,0 +1,43 @@
+
+\documentclass[12pt]{article}
+\usepackage{ctable} % for toprule
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{marginnote}
+\usepackage{manfnt}
+
+\newcommand{\oak}[1]{{\leavevmode\color{red}#1}\marginnote{\dbend}}
+\newcommand{\nvf}[1]{{\leavevmode\color{red}#1}\marginnote{\dbend}}
+
+\newcolumntype{O}{>{\raggedright\arraybackslash}p{15cm}} % only column
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}} % hide
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{7.5cm}}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}p{7.5cm}}
+
+
+
+
+
+\begin{document}
+
+\begin{longtable}{L||LH}\toprule
+\input{source_files/hercules}
+% \input{source_files/the_old_man_with_the_two_black_dogs}
+% \input{source_files/the_enchanting_horse}
+% \input{source_files/cinderella_2}
+% \input{source_files/the_enchanting_horse_2}
+% \input{source_files/the_little_mermaid}
+% \input{source_files/the_princess_and_the_pea}
+% \input{source_files/the_story_of_the_baked_head.tex}
+\bottomrule \end{longtable}
+\clearpage
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
