@@ -72,7 +72,7 @@ all_files = [
     "four_friends.tex",
     "the_three_wisemen_and_the_camel.tex",
     "the_enchanting_horse.tex",
-    "the_old_man_with_the_two_black_dogs.tex"
+    "the_old_man_with_the_two_black_dogs.tex",
     "the_monkey_advisor.tex",
     "prince_omar.tex",
     "bluebeard.tex",

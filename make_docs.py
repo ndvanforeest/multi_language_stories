@@ -6,7 +6,16 @@ import config
 from config import Lang
 
 files = [
+    "cinderella_2.tex",
+    "the_enchanting_horse_2.tex",
+    "the_little_mermaid.tex",
+    "the_princess_and_the_pea.tex",
+    "the_story_of_the_baked_head.tex",
 ]
+
+files = [
+    "cinderella_2.tex",
+    ]
 
 if len(files) == 0:
     files = config.all_files
@@ -163,7 +172,7 @@ def make_test_doc(lang_left, lang_right, fname):
 
 
 if __name__ == "__main__":
-    if len(files) == 1:
+    if len(files) <=10:
         make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
         #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
     else:
