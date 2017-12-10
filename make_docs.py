@@ -9,9 +9,6 @@ files = [
      #"the_story_of_the_baked_head.tex",
 ]
 
-files = [
-    "the_little_mermaid.tex",
-    ]
 
 if len(files) == 0:
     files = config.all_files
@@ -168,7 +165,7 @@ def make_test_doc(lang_left, lang_right, fname):
 
 
 if __name__ == "__main__":
-    if len(files) <=10:
+    if len(files) <=1:
         make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
         #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
     else:

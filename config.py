@@ -78,6 +78,7 @@ all_files = [
     "cinderella_2.tex",
     "the_enchanting_horse_2.tex",
     "prince_omar.tex",
+    "the_little_mermaid.tex",
     "bluebeard.tex",
 ]
     
@@ -121,3 +122,5 @@ doc_template = r"""
 
 if __name__=="__main__":
     format_all_files_for_import_in_latex()
+
+    
