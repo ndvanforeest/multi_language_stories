@@ -6,15 +6,11 @@ import config
 from config import Lang
 
 files = [
-    "cinderella_2.tex",
-    "the_enchanting_horse_2.tex",
-    "the_little_mermaid.tex",
-    "the_princess_and_the_pea.tex",
-    "the_story_of_the_baked_head.tex",
+     #"the_story_of_the_baked_head.tex",
 ]
 
 files = [
-    "cinderella_2.tex",
+    "the_little_mermaid.tex",
     ]
 
 if len(files) == 0:
