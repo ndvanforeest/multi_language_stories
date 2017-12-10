@@ -20,6 +20,7 @@ all_files = [
     "traffic.tex",
     "airport.tex",
     "swimming.tex",
+    "hercules.tex",
     "elephant_and_friends.tex",
     "lion_and_mouse.tex",
     "elephant_and_mouse.tex",
@@ -32,6 +33,7 @@ all_files = [
     "the_kings_nightingale.tex",
     "the_donkey_of_hodja.tex",
     "rabbit.tex",
+    "hercules.tex",
     "hodja_the_king.tex",
     "hodja_and_ox.tex",
     "hodja_and_the_scholar.tex",
@@ -69,6 +71,8 @@ all_files = [
     "the_sleepy_teacher.tex",
     "four_friends.tex",
     "the_three_wisemen_and_the_camel.tex",
+    "the_enchanting_horse.tex",
+    "the_old_man_with_the_two_black_dogs.tex"
     "the_monkey_advisor.tex",
     "prince_omar.tex",
     "bluebeard.tex",
@@ -77,6 +81,8 @@ all_files = [
 def format_all_files_for_import_in_latex():
     for f in all_files:
         print(r"%\input{{source_files/{}}}".format(f))
+
+
 
 
 doc_template = r"""

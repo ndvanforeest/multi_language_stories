@@ -6,11 +6,23 @@ import config
 from config import Lang
 
 files = [
-    "hercules.tex"
 ]
 
 if len(files) == 0:
     files = config.all_files
+
+
+def check_if_all_files_are_included():
+    # check whether all files in source_files are included in the list
+    # of files above
+    list1 = set(config.all_files)
+    list2 = set(os.listdir("./source_files"))
+    missing = list2 - list1
+    print(missing)
+    quit()
+
+#check_if_all_files_are_included()
+
 
 
 def select_story_and_vocab(fname):
@@ -146,17 +158,6 @@ def make_test_doc(lang_left, lang_right, fname):
     os.system("rm {}.aux".format(fname))
     os.system("rm {}.log".format(fname))
     os.system("rm {}.toc".format(fname))
-
-def check_if_all_files_are_included():
-    # check whether all files in source_files are included in the list
-    # of files above
-    list1 = set(files)
-    list2 = set(os.listdir("./source_files"))
-    missing = list2 - list1
-    print(missing)
-    quit()
-
-#check_if_all_files_are_included()
 
 
 
