@@ -1,3 +1,7 @@
+"""
+This script translated english texts, in a txt file, to a dutch and turkish version.
+"""
+
 import nltk.data
 #nltk.download()
 
@@ -10,6 +14,7 @@ is_src_dutch = False
 
 
 files = [
+    "the_song_of_the_armadillo.txt",
     ]
 
 
