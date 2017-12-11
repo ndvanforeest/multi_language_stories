@@ -6,6 +6,7 @@ import config
 from config import Lang
 
 files = [
+    "the_song_of_the_armadillo.tex",
      #"the_story_of_the_baked_head.tex",
 ]
 
