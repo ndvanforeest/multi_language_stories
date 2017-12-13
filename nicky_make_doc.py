@@ -12,7 +12,7 @@ files = [
     #"the_snow_queen.tex",
     #"ali_baba_2.tex",
     #"jack_beanstalk.tex",
-     #"the_story_of_the_baked_head.tex",
+    "the_story_of_the_baked_head.tex",
 ]
 
 
