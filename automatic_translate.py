@@ -14,7 +14,7 @@ is_src_dutch = False
 
 
 files = [
-    "the_song_of_the_armadillo.txt",
+    "the_ruined_man"
     ]
 
 
