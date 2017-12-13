@@ -79,6 +79,7 @@ all_files = [
     "the_enchanting_horse_2.tex",
     "prince_omar.tex",
     "the_little_mermaid.tex",
+    "the_ruined_man.tex",
     "bluebeard.tex",
 ]
     
