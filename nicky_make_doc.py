@@ -6,8 +6,6 @@ import config
 from config import Lang
 
 files = [
-    #"jack_beanstalk.tex"
-    "the_vizir_who_was_punished.tex"
      #"the_story_of_the_baked_head.tex",
 ]
 

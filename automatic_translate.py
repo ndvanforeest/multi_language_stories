@@ -1,5 +1,9 @@
 """
 This script translated english texts, in a txt file, to a dutch and turkish version.
+
+first activate the virtualenv. This contains the modules for google translate.
+
+Include the txt file, without its ".txt" extension. Then move the translated tex file to the source_files. Then, repair the translation in the tex by with nicky_make_doc.py, by setting there the files list to contain just this one file.
 """
 
 import nltk.data
