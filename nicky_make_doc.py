@@ -143,7 +143,12 @@ def make_all_docs(lang_left, lang_right, fname):
     fp = open(fname+".tex", "w")
     fp.write(res)
     fp.close()
-    os.system("pdflatex {}.tex".format(fname))
+    try:
+        # quit if an error occurs, rather than trying to pdflatex the
+        # file a few times.
+        os.system("pdflatex {}.tex".format(fname))
+    except:
+        quit()
     os.system("pdflatex {}.tex".format(fname))
     os.system("pdflatex {}.tex".format(fname))
     os.system("rm {}.aux".format(fname))

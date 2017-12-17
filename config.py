@@ -81,6 +81,7 @@ all_files = [
     "the_little_mermaid.tex",
     "the_ruined_man.tex",
     "bluebeard.tex",
+    "the_story_of_the_baked_head.tex",
 ]
     
 def format_all_files_for_import_in_latex():
