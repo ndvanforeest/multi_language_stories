@@ -6,7 +6,6 @@ import config
 from config import Lang
 
 files = [
-    #"the_merchant_and_the_genie.tex",
     #"the_merchant_and_the_jinnie.tex",
     #"ali_baba_2.tex",
     #"jack_beanstalk.tex",
