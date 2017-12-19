@@ -80,6 +80,7 @@ all_files = [
     "prince_omar.tex",
     "the_little_mermaid.tex",
     "the_ruined_man.tex",
+    "the_lion_and_the_elephant.tex",
     "bluebeard.tex",
     "the_story_of_the_baked_head.tex",
 ]
