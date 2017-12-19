@@ -18,9 +18,7 @@ is_src_dutch = False
 
 
 files = [
-    #"the_ruined_man"
     #"jack_beanstalk"
-    "the_snow_queen"
     ]
 
 

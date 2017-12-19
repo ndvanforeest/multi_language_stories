@@ -73,6 +73,7 @@ all_files = [
     "the_three_wisemen_and_the_camel.tex",
     "the_princess_and_the_pea.tex",
     "the_enchanting_horse.tex",
+    "the_merchant_and_the_genie.tex",
     "the_old_man_with_the_two_black_dogs.tex",
     "the_monkey_advisor.tex",
     "cinderella_2.tex",
