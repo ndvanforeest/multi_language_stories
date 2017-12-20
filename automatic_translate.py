@@ -19,6 +19,9 @@ is_src_dutch = False
 
 files = [
     #"jack_beanstalk"
+    #"the_pink_fairy_book",
+    #"arabian_nights"
+    "old_sultan"
     ]
 
 

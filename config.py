@@ -77,6 +77,7 @@ all_files = [
     "the_old_man_with_the_two_black_dogs.tex",
     "the_monkey_advisor.tex",
     "cinderella_2.tex",
+    "old_sultan.tex",
     "the_enchanting_horse_2.tex",
     "prince_omar.tex",
     "the_little_mermaid.tex",
