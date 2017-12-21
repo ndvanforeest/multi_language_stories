@@ -9,11 +9,14 @@ files = [
     #"the_merchant_and_the_jinnie.tex",
     #"ali_baba_2.tex",
     #"jack_beanstalk.tex",
+    #"elephant_and_friends.tex"
+    #"the_traveling_musicians.tex",
 ]
 
 
 if len(files) == 0:
-    files = config.all_files
+    #files = config.all_files
+    files = config.es
 
 
 def check_if_all_files_are_included():
@@ -132,6 +135,7 @@ def latex_alternating(story, vocab, col1, col2):
 
 def make_all_docs(lang_left, lang_right, fname):
     res = []
+    #for f in files:
     for f in files:
         story, vocab = select_story_and_vocab(f)
         res.append(latex_parallel(story, vocab, lang_left, lang_right))
@@ -172,10 +176,13 @@ def make_test_doc(lang_left, lang_right, fname):
 
 
 if __name__ == "__main__":
-    if len(files) <=1:
-        make_test_doc(Lang.ENGLISH, Lang.DUTCH, "test_english_dutch")
-        #make_test_doc(Lang.TURKISH, Lang.DUTCH, "test_turkish_dutch")
+    #if len(files) <=1:
+    if len(files) <=0:
+        make_test_doc(Lang.en, Lang.es, "test_english_spanish")
+        #make_test_doc(Lang.en, Lang.nl, "test_english_dutch")
+        #make_test_doc(Lang.tr, Lang.nl, "test_turkish_dutch")
     else:
-        make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-        make_all_docs(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
-        make_all_docs(Lang.ENGLISH, Lang.DUTCH, "english_dutch")
+        make_all_docs(Lang.es, Lang.nl, "spanish_dutch")
+        make_all_docs(Lang.tr, Lang.nl, "turkish_dutch")
+        make_all_docs(Lang.nl, Lang.en, "dutch_english")
+        make_all_docs(Lang.en, Lang.nl, "english_dutch")

@@ -2,13 +2,15 @@ from enum import IntEnum
 
 
 class Lang(IntEnum):
-    DUTCH = 0
-    ENGLISH = 1
-    TURKISH = 2
-    SPANISH = 3
+    nl = 0
+    en = 1
+    tr = 2
+    es = 3
 
+# the lists below contain the stories that have been checked for a specific language. x
 
-all_files = [
+# dutch 
+nl = [
     "everyday.tex",
     "my_daily_rhythm.tex",
     "taking_a_shower.tex",
@@ -87,7 +89,20 @@ all_files = [
     "bluebeard.tex",
     "the_story_of_the_baked_head.tex",
 ]
+
+# turkish 
+tr = [
+    "the_donkey_that_could_sing.tex",
+    "siege_of_vienna.tex",
+    ]
     
+
+# spanish
+es = [
+    "elephant_and_friends.tex"
+    ]
+
+  
 def format_all_files_for_import_in_latex():
     for f in all_files:
         print(r"%\input{{source_files/{}}}".format(f))

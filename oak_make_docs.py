@@ -240,7 +240,7 @@ def make_test_doc(lang_left, lang_right, fname):
 
 if __name__ == "__main__":
     if len(files) <=2:
-        make_test_doc(Lang.ENGLISH, Lang.TURKISH, "test_english_turkish")
+        make_test_doc(Lang.en, Lang.tr, "test_english_turkish")
     else:
-        make_all_docs(Lang.TURKISH, Lang.DUTCH, "turkish_dutch")
-        make_all_docs(Lang.DUTCH, Lang.ENGLISH, "dutch_english")
+        make_all_docs(Lang.tr, Lang.nl, "turkish_dutch")
+        make_all_docs(Lang.nl, Lang.en, "dutch_english")
