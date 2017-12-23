@@ -2,8 +2,8 @@
 
 import re
 
-target_language = "es"
-fname = "everyday.tex"
+target_language = "nl"
+#fname = "the_traveling_musicians.tex"
 
 res = {}
 
@@ -24,7 +24,7 @@ regex = r"noindent(.*?)\\newline"
 #re.search(r'Part 1\.(.*?)Part 3', s).group(1)
 english = re.findall(regex, res)
 
-regex = r"\\newline(.*?)\\end{"
+regex = r"\\newline(.*?)}"
 target = re.findall(regex, res)
 
 if len(target) != len(english):

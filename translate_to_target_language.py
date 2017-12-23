@@ -14,18 +14,28 @@ import re
 from googletrans import Translator
 translator = Translator()
 
-#target_language="nl"
-target_language="es"
+target_language="nl"
+#target_language="tr"
+#target_language="es"
 
-files = [
+spanish = [
     "airport"
-    #"the_traveling_musicians"
+]
+
+turkish = [
+    "fire"
+]
+
+dutch = [
+    "the_traveling_musicians"
     #"the_merchant_and_the_jinnie.tex",
     #"ali_baba_2.tex",
     #"jack_beanstalk.tex",
     #"elephant_and_friends.tex"
     #"the_traveling_musicians.tex",
     ]
+
+files = dutch
 
 def translate_single_file(fin):
     res = []
@@ -62,10 +72,11 @@ def latex_alternating(story, fout):
     
     #template = "\\begin{{samepage}}\\noindent\n{}\\newline\n{}\n\\end{{samepage}}\n\n\\vspace{{2mm}}\n"
     for line in story:
-        fout.write("\\begin{samepage}\n\\noindent\n")
+        #fout.write("\\begin{samepage}\n\\noindent\n")
+        fout.write("\\vbox{\n\\noindent\n")
         fout.write("{} \\newline\n{}".format(line[0].strip(), line[1]))
-        fout.write("\n\\end{samepage}\n\\vspace{2mm}\n\n")
-        #fout.write(template.format(line[0], line[1]))
+        #fout.write("\n\\end{samepage}\n\\vspace{2mm}\n\n")
+        fout.write("\n}\n\\vspace{2mm}\n\n")
     fout.write(latex_footer)
 
 
