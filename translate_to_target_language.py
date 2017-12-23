@@ -11,67 +11,69 @@ first activate the virtualenv. This contains the modules for google translate.
 """
 
 import re
-
-
 from googletrans import Translator
 translator = Translator()
 
+target_language="nl"
 
 files = [
     "the_traveling_musicians"
+    #"the_merchant_and_the_jinnie.tex",
+    #"ali_baba_2.tex",
+    #"jack_beanstalk.tex",
+    #"elephant_and_friends.tex"
+    #"the_traveling_musicians.tex",
     ]
 
-target_language="nl"
-
-
-def translate_single_file(fname):
-    fin = open(r"source_files/" + fname +".tex", 'r')
+def translate_single_file(fin):
     res = []
     for line in fin:
         if line[:4] != "<en>":
             continue
-        source = re.sub(r'&', "", line[5:])
-        #target = translator.translate(token, src="en", dest=target_language).text
-        target = "jaap"
+        source = re.sub(r'&', "", line[4:])
+        target = translator.translate(source, src="en", dest=target_language).text
+        # google translate sometimes adds weird characters to the
+        # target translation. The line below removes such weird
+        # characters.
+        target = re.sub(r' ​​', " ", target)
         res.append([source, target])
     return res
 
 
-latex_header =
-r"""
-\documentclass[12pt]{{article}}
-\usepackage{{a4wide}}
-\usepackage[T1]{{fontenc}}
-\usepackage[utf8]{{inputenc}}
-\usepackage{{fouriernc}}
-\usepackage{{longtable}}
+latex_header = r"""
+\documentclass[12pt]{article}
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
 
-\begin{{document}}
-
-\tableofcontents
-\clearpage
-
+\begin{document}
 \clearpage
 """
 
-latex_trailer =
-r"""
-\end{{document}}
+latex_footer = r"""
+\end{document}
 """
-
 
 def latex_alternating(story, fout):
-    # latex output for alternating translations 
-    template = "\\noindent\n{}\\newline\n{}\n\\vspace{{1mm}}\n"
+    fout.write(latex_header)
+    
+    #template = "\\begin{{samepage}}\\noindent\n{}\\newline\n{}\n\\end{{samepage}}\n\n\\vspace{{2mm}}\n"
     for line in story:
-        fout.write(template.format(line[0], line[1]))
+        fout.write("\\begin{samepage}\n\\noindent\n")
+        fout.write("{} \\newline\n{}".format(line[0].strip(), line[1]))
+        fout.write("\n\\end{samepage}\n\\vspace{2mm}\n\n")
+        #fout.write(template.format(line[0], line[1]))
+    fout.write(latex_footer)
 
 
 def translate_files():
     for fname in files:
-        story = translate_single_file(fname)
-        fout_name = ""
-        with open(fname + r"_tranlated.tex", "w") as fout:
+        fin_name = r"source_files/" + fname + ".tex"
+        fout_name = target_language +"_" + fname + ".tex"
+        with open(fin_name, "r") as fin:
+            story = translate_single_file(fin)
+        with open(fout_name, "w") as fout:
             latex_alternating(story, fout)
 
 if __name__ == "__main__":

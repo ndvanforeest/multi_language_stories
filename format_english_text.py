@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 This script splits an english text into single sentences. These sentences have to be improved by hand. such that the final latex output becomes nice. .
 
@@ -29,7 +31,7 @@ def format_single_file(fname):
     for token in tokenizer.tokenize(fin.read()):
         if len(token) < 2:
             continue
-        res = "<en> {}&\n\\\\\n".format(token)
+        res = "<en>{}&\n\\\\\n".format(token)
         fout.write(res)
 
 for fname in files:

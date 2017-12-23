@@ -10,7 +10,7 @@ class Lang(IntEnum):
 # the lists below contain the stories that have been checked for a specific language. x
 
 # dutch 
-nl = [
+files = [
     "everyday.tex",
     "my_daily_rhythm.tex",
     "taking_a_shower.tex",
@@ -43,7 +43,6 @@ nl = [
     "sweet_quarrels.tex",
     "the_relatives_of_the_donkey.tex",
     "act_as_the_others.tex",
-    "siege_of_vienna.tex",
     "gulliver.tex",
     "ali_baba.tex",
     "the_moon_in_the_well.tex",
@@ -72,6 +71,7 @@ nl = [
     "the_clever_bull.tex",
     "the_sleepy_teacher.tex",
     "four_friends.tex",
+    "siege_of_vienna.tex",
     "the_three_wisemen_and_the_camel.tex",
     "the_princess_and_the_pea.tex",
     "the_enchanting_horse.tex",
@@ -90,19 +90,6 @@ nl = [
     "the_story_of_the_baked_head.tex",
 ]
 
-# turkish 
-tr = [
-    "the_donkey_that_could_sing.tex",
-    "siege_of_vienna.tex",
-    ]
-    
-
-# spanish
-es = [
-    "elephant_and_friends.tex"
-    ]
-
-  
 def format_all_files_for_import_in_latex():
     for f in all_files:
         print(r"%\input{{source_files/{}}}".format(f))

@@ -15,5 +15,16 @@ If you plan to help add a language, please mind the structure of the source file
 
 An interesting extension would be to read the stories (by a native) and record them (with your mobile) to  mp3, and share the mp3. Like this, one can first read and study a story, and then later listen to it, while biking to work or so. BTW, I don't know whether github allows the sharing of mp3 files.
 
-So, why did I build this? In the first place, I dislike reading grammar books (and as a child, I did not grow up with a grammar book in my cradle, so I don't believe in reading such books when trying to learn the basics of a language.) Second, I find the stories in most  learners books very boring. I find them so boring in fact that I hate to read them twice, let alone multiple times. However, I don't mind reading a simple, nice, story multiple times, just to study the language. Third, memorizing words in a new language becomes, for me at least, much easier when they are used right away in a story; these words acquire meaning in this context. And finally, after having read a story a few times, so that I know what to expect, I like to listen to it while doing something else, like hanging out the wash. 
+So, why did I build this? In the first place, I dislike reading grammar books (and as a child, I did not grow up with a grammar book in my cradle, so I don't believe in reading such books when trying to learn the basics of a language.) Second, I find the stories in most  learners books very boring. I find them so boring in fact that I hate to read them twice, let alone multiple times. However, I don't mind reading a simple, nice, story multiple times, just to study the language. Third, memorizing words in a new language becomes, for me at least, much easier when they are used right away in a story; these words acquire meaning in this context. And finally, after having read a story a few times, so that I know what to expect, I like to listen to it while doing something else, like hanging out the wash.
+
+
+- format_english_text.py: take raw file and split it into lines
+- by hand, check the result of the previous step, and beautify.
+- now we have a good English source file from which we can build the translations with google translate
+- translate_to_target_language.py: translate english file to target file
+- Ask a native to check the resuting tex file, and repair where necessary. 
+- merge.py, result will be written to a dummy file, called japie.tex. Check this dummy file
+- Once you're happy, change the name of japie.txt to something decent, and move the file to the source_files directory.
+
+- clean_up.py is used to move from the old format to the new.
 
