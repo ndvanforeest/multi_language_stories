@@ -14,10 +14,12 @@ import re
 from googletrans import Translator
 translator = Translator()
 
-target_language="nl"
+#target_language="nl"
+target_language="es"
 
 files = [
-    "the_traveling_musicians"
+    "airport"
+    #"the_traveling_musicians"
     #"the_merchant_and_the_jinnie.tex",
     #"ali_baba_2.tex",
     #"jack_beanstalk.tex",

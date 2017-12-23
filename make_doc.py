@@ -69,7 +69,7 @@ def make_all_doc(lang_left, lang_right, latex_file):
         if story is None:
             continue
         res.append(latex_parallel(story))
-    res = config.doc_template.format("\n".join(res))
+    res = config.doc_template.format(lang_left, lang_right, "\n".join(res))
     with open(latex_file+".tex", "w") as fp:
         fp.write(res)
     try:
@@ -86,6 +86,6 @@ def make_all_doc(lang_left, lang_right, latex_file):
     os.system("rm {}.toc".format(latex_file))
 
 if __name__ == "__main__":
-    #make_all_doc("tr", "nl", "turkish_dutch")
+    make_all_doc("tr", "en", "turkish_english")
     make_all_doc("nl", "en", "dutch_english")
-    #make_all_doc("es","en", "spanish_english")
+    make_all_doc("es","en", "spanish_english")

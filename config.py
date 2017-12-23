@@ -90,13 +90,6 @@ files = [
     "the_story_of_the_baked_head.tex",
 ]
 
-def format_all_files_for_import_in_latex():
-    for f in all_files:
-        print(r"%\input{{source_files/{}}}".format(f))
-
-
-
-
 doc_template = r"""
 \documentclass[12pt]{{article}}
 \usepackage{{ctable}} % for toprule
@@ -114,7 +107,14 @@ doc_template = r"""
 \newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{8cm}}}}
 \newcolumntype{{R}}{{>{{\raggedleft\arraybackslash}}p{{8cm}}}}
 
+\author{{en-nl: Nicky van Foreest\\
+en-tr: Onur Kilic\\
+en-es: Cesar Sala
+}}
+\title{{Parallel translations ({}-{}) }}
+
 \begin{{document}}
+\maketitle
 
 \tableofcontents
 \clearpage
