@@ -1,3 +1,8 @@
 .dropbox
+*.out
+one_file.*
+kind_of_ok_turkish/
+raw_material/
 auto/
 venv/
+__pycache__/

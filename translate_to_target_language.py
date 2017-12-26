@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 
 """
 This script translates an english source text to a target language and turns it into an easy to correct latex file.
 
@@ -23,16 +24,18 @@ spanish = [
 ]
 
 turkish = [
-    "fire"
+    "flying"
+    "swimming"
+    "traffic"
 ]
 
+# first format the english file with format_single_file.py.
+
 dutch = [
-    "the_traveling_musicians"
-    #"the_merchant_and_the_jinnie.tex",
-    #"ali_baba_2.tex",
-    #"jack_beanstalk.tex",
-    #"elephant_and_friends.tex"
-    #"the_traveling_musicians.tex",
+    "the_dog_and_the_sparrow"
+    #"the_merchant_and_the_jinnie",
+    #"ali_baba_2",
+    #"jack_beanstalk",
     ]
 
 files = dutch
@@ -42,7 +45,8 @@ def translate_single_file(fin):
     for line in fin:
         if line[:4] != "<en>":
             continue
-        source = re.sub(r'&', "", line[4:])
+        #source = re.sub(r'&', "", line[4:])
+        source = line[4:]
         target = translator.translate(source, src="en", dest=target_language).text
         # google translate sometimes adds weird characters to the
         # target translation. The line below removes such weird
@@ -69,14 +73,12 @@ latex_footer = r"""
 
 def latex_alternating(story, fout):
     fout.write(latex_header)
-    
-    #template = "\\begin{{samepage}}\\noindent\n{}\\newline\n{}\n\\end{{samepage}}\n\n\\vspace{{2mm}}\n"
     for line in story:
         #fout.write("\\begin{samepage}\n\\noindent\n")
         fout.write("\\vbox{\n\\noindent\n")
         fout.write("{} \\newline\n{}".format(line[0].strip(), line[1]))
-        #fout.write("\n\\end{samepage}\n\\vspace{2mm}\n\n")
-        fout.write("\n}\n\\vspace{2mm}\n\n")
+        #fout.write("\n\\end{samepage}\n\\vspace{3mm}\n\n")
+        fout.write("\n}\n\\vspace{3mm}\n\n")
     fout.write(latex_footer)
 
 

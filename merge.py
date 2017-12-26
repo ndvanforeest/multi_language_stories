@@ -4,10 +4,11 @@ import re
 
 target_language = "nl"
 #fname = "the_traveling_musicians.tex"
+fname = "the_dog_and_the_sparrow.tex"
 
 res = {}
 
-with open("{}_{}".format(target_language,fname), "r") as fp:
+with open("{}_{}".format(target_language, fname), "r") as fp:
     res = []
     for line in fp:
         res.append(line.strip())

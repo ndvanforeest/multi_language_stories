@@ -7,31 +7,30 @@ Include the txt file, without its ".txt" extension. Then move the translated tex
 """
 
 import nltk.data
+from nltk.tokenize import sent_tokenize
 #nltk.download()
 
-from googletrans import Translator
-translator = Translator()
-
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+#tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 is_src_dutch = False
 
 
 files = [
+    "./raw_material/the_dog_and_the_sparrow"
     #"jack_beanstalk"
     #"the_pink_fairy_book",
     #"arabian_nights"
-    "the_traveling_musicians"
     ]
 
 
 def format_single_file(fname):
     fin = open(fname + r".txt", 'r')
     fout = open(fname + r".tex", "w")
-    for token in tokenizer.tokenize(fin.read()):
+    #for token in tokenizer.tokenize(fin.read()):
+    for token in sent_tokenize(fin.read()):
         if len(token) < 2:
             continue
-        res = "<en>{}&\n\\\\\n".format(token)
+        res = "<en>{}\n".format(token)
         fout.write(res)
 
 for fname in files:
