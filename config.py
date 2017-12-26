@@ -91,7 +91,7 @@ files = [
     "the_story_of_the_baked_head.tex",
 ]
 
-doc_template = r"""
+doc_template2 = r"""
 \documentclass[12pt]{{article}}
 \usepackage{{ctable}} % for toprule
 \usepackage{{a4wide}}
@@ -129,7 +129,37 @@ en-es: Cesar Sala
 #\input{{introduction}}
 
 
-if __name__=="__main__":
-    format_all_files_for_import_in_latex()
+doc_template = r"""
+\documentclass[a6paper]{{article}}
+\usepackage[margin=5mm]{{geometry}}
+\usepackage[T1]{{fontenc}}
+\usepackage{{ctable}} % for toprule
+\usepackage[utf8]{{inputenc}}
+\usepackage{{tgheros}}
+\usepackage{{longtable}}
+\usepackage{{url}}
 
-    
+\newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
+\newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
+\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{4cm}}}}
+
+\author{{en-nl: Nicky van Foreest\\
+en-tr: Onur Kilic\\
+en-es: Cesar Sala
+}}
+\title{{Parallel translations ({}-{}) }}
+
+\begin{{document}}
+\maketitle
+
+\tableofcontents
+\clearpage
+
+\clearpage
+
+{}
+
+\end{{document}}
+"""
+
+
