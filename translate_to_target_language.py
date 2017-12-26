@@ -17,10 +17,10 @@ translator = Translator()
 
 target_language="nl"
 #target_language="tr"
-#target_language="es"
+target_language="es"
 
 spanish = [
-    "airport"
+    "hercules"
 ]
 
 turkish = [
@@ -32,13 +32,13 @@ turkish = [
 # first format the english file with format_single_file.py.
 
 dutch = [
-    "the_dog_and_the_sparrow"
     #"the_merchant_and_the_jinnie",
     #"ali_baba_2",
     #"jack_beanstalk",
     ]
 
-files = dutch
+#files = dutch
+files = spanish
 
 def translate_single_file(fin):
     res = []
