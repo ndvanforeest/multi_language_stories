@@ -132,7 +132,7 @@ en-es: Cesar Sala
 
 
 doc_template = r"""
-\documentclass[a6paper]{{article}}
+\documentclass[a5paper]{{article}}
 \usepackage[margin=5mm]{{geometry}}
 \usepackage[T1]{{fontenc}}
 \usepackage{{ctable}} % for toprule
@@ -143,7 +143,7 @@ doc_template = r"""
 
 \newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
 \newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{4cm}}}}
+\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{6.5cm}}}}
 
 \author{{en-nl: Nicky van Foreest\\
 en-tr: Onur Kilic\\
