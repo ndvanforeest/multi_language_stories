@@ -6,3 +6,5 @@ raw_material/
 auto/
 venv/
 __pycache__/
+old_source_files
+parallel.*

@@ -2,12 +2,8 @@
 
 import re
 
-#target_language = "nl"
-#fname = "the_traveling_musicians.tex"
-#fname = "the_dog_and_the_sparrow.tex"
-
-target_language = "es"
-fname = "hercules.tex"
+target_language = "nl"
+fname = "the_stone_cutter.tex"
 
 res = {}
 

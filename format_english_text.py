@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import os
+
 """
 This script splits an english text into single sentences. These sentences have to be improved by hand. such that the final latex output becomes nice. .
 
@@ -12,20 +14,17 @@ from nltk.tokenize import sent_tokenize
 
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-is_src_dutch = False
-
-
 files = [
-    "./raw_material/the_dog_and_the_sparrow"
+    "aladin"
     #"jack_beanstalk"
     #"the_pink_fairy_book",
     #"arabian_nights"
     ]
 
 
-def format_single_file(fname):
-    fin = open(fname + r".txt", 'r')
-    fout = open(fname + r".tex", "w")
+def format_single_file_raw(fname):
+    fin = open("./raw_material/" + fname + r".txt", 'r')
+    fout = open(fname + r".txt", "w")
     #for token in tokenizer.tokenize(fin.read()):
     for token in sent_tokenize(fin.read()):
         if len(token) < 2:
@@ -33,5 +32,43 @@ def format_single_file(fname):
         res = "<en>{}\n".format(token)
         fout.write(res)
 
+
+latex_header = r"""
+\documentclass[12pt]{article}
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
+
+\begin{document}
+\clearpage
+"""
+
+latex_footer = r"""
+\end{document}
+"""
+
+def format_single_file_sourcefile(fname):
+    fin = open(fname + r".txt", 'r')
+    fout = open(fname + r".tex", "w")
+    fout.write(latex_header)
+    for i, line in enumerate(fin):
+        if line[:4] != "<en>":
+            print(i, line)
+            quit()
+        fout.write("\\vbox{\n\\noindent\n")
+        fout.write("{}".format(line[4:].strip()))
+        fout.write("}\\vspace{5mm}\n\n")
+    fout.write(latex_footer)
+    fout.close()
+    os.system("pdflatex {}.tex".format(fname))
+    #os.system("pdflatex {}.tex".format(latex_file))
+    os.system("rm {}.aux".format(fname))
+    os.system("rm {}.log".format(fname))
+    os.system("rm {}.tex".format(fname))
+
+
+
 for fname in files:
     format_single_file(fname)
+    #format_single_file_sourcefile(fname)

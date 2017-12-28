@@ -15,30 +15,28 @@ import re
 from googletrans import Translator
 translator = Translator()
 
-target_language="nl"
-#target_language="tr"
-target_language="es"
-
 spanish = [
-    "hercules"
+    "flying",
+    "swimming",
+    "traffic",
 ]
 
 turkish = [
-    "flying"
-    "swimming"
-    "traffic"
 ]
 
 # first format the english file with format_single_file.py.
 
 dutch = [
+    "aladin"
     #"the_merchant_and_the_jinnie",
     #"ali_baba_2",
     #"jack_beanstalk",
     ]
 
-#files = dutch
-files = spanish
+
+target_language, files ="nl", dutch
+#target_language, files ="es", spanish
+#target_language, files ="tr", turkish
 
 def translate_single_file(fin):
     res = []
@@ -93,3 +91,5 @@ def translate_files():
 
 if __name__ == "__main__":
     translate_files()
+
+    

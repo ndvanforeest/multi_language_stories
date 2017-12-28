@@ -35,7 +35,10 @@ def section_title(t1, t2):
         t1 = re.sub(r'\\footnote{.*}', "", t1)
     if "footnote" in t2:
         t2 = re.sub(r'\\footnote{.*}', "", t2)
-    return "\section{{ {} / {} }}".format(t1, t2)
+    res = "\section*{{{}}}".format(t1)
+    res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
+    #res = "\section{{ {} / {} }}".format(t1, t2)
+    return res
     
         
 def latex_parallel(story):
@@ -88,5 +91,5 @@ def make_all_doc(lang_left, lang_right, latex_file):
 if __name__ == "__main__":
     make_all_doc("tr", "en", "turkish_english")
     make_all_doc("nl", "en", "dutch_english")
-    make_all_doc("en", "nl", "english_dutch")
+    #make_all_doc("en", "nl", "english_dutch")
     make_all_doc("es","en", "spanish_english")

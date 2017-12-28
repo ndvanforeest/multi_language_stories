@@ -7,7 +7,7 @@ class Lang(IntEnum):
     tr = 2
     es = 3
 
-# the lists below contain the stories that have been checked for a specific language. x
+# the lists below contain the stories that have been checked for a specific language. 
 
 # dutch 
 files = [
@@ -66,14 +66,15 @@ files = [
     "the_well_dispute.tex",
     "list_of_blinds.tex",
     "a_handfull_of_answers.tex",
+    "siege_of_vienna.tex",
     "the_donkey_and_the_dog.tex",
     "the_donkey_and_the_cotton.tex",
     "the_cunning_bats.tex",
     "the_clever_bull.tex",
-    "the_dog_and_the_sparrow.tex",
+    "the_stone_cutter.tex",
     "the_sleepy_teacher.tex",
     "four_friends.tex",
-    "siege_of_vienna.tex",
+    "the_dog_and_the_sparrow.tex",
     "the_three_wisemen_and_the_camel.tex",
     "the_princess_and_the_pea.tex",
     "the_traveling_musicians.tex",
@@ -140,6 +141,7 @@ doc_template = r"""
 \usepackage{{tgheros}}
 \usepackage{{longtable}}
 \usepackage{{url}}
+\usepackage{{multicol}}
 
 \newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
 \newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
@@ -154,8 +156,9 @@ en-es: Cesar Sala
 \begin{{document}}
 \maketitle
 
-\tableofcontents
-\clearpage
+\begin{{multicols}}{{2}}
+  \tableofcontents
+\end{{multicols}}
 
 \clearpage
 
