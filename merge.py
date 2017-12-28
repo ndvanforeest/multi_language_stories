@@ -7,7 +7,7 @@ import re
 #fname = "the_dog_and_the_sparrow.tex"
 
 target_language = "es"
-fname = "airport.tex"
+fname = "hercules.tex"
 
 res = {}
 
