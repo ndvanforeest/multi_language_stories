@@ -35,9 +35,12 @@ def section_title(t1, t2):
         t1 = re.sub(r'\\footnote{.*}', "", t1)
     if "footnote" in t2:
         t2 = re.sub(r'\\footnote{.*}', "", t2)
-    res = "\section*{{{}}}".format(t1)
-    res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
-    #res = "\section{{ {} / {} }}".format(t1, t2)
+    include_print_section_numbers = False
+    if include_print_section_numbers:
+        res = "\section{{ {} / {} }}".format(t1, t2)
+    else:
+        res = "\section*{{{}}}".format(t1)
+        res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
     return res
     
         

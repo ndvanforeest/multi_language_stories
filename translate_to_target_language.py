@@ -22,6 +22,7 @@ spanish = [
 ]
 
 turkish = [
+    "hercules"
 ]
 
 # first format the english file with format_single_file.py.
@@ -36,7 +37,7 @@ dutch = [
 
 target_language, files ="nl", dutch
 #target_language, files ="es", spanish
-#target_language, files ="tr", turkish
+target_language, files ="tr", turkish
 
 def translate_single_file(fin):
     res = []
