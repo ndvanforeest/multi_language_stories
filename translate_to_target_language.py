@@ -28,7 +28,7 @@ turkish = [
 # first format the english file with format_single_file.py.
 
 dutch = [
-    "aladin"
+    "aladdin"
     #"the_merchant_and_the_jinnie",
     #"ali_baba_2",
     #"jack_beanstalk",
@@ -37,7 +37,7 @@ dutch = [
 
 target_language, files ="nl", dutch
 #target_language, files ="es", spanish
-target_language, files ="tr", turkish
+#target_language, files ="tr", turkish
 
 def translate_single_file(fin):
     res = []
@@ -51,6 +51,8 @@ def translate_single_file(fin):
         # target translation. The line below removes such weird
         # characters.
         target = re.sub(r' ​​', " ", target)
+        target = re.sub(r"(\. ')", '."', target)
+        target = re.sub(r'(\. ")', '."', target)
         res.append([source, target])
     return res
 

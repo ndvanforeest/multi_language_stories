@@ -7,6 +7,13 @@ class Lang(IntEnum):
     tr = 2
     es = 3
 
+vocabulary = {
+    "en": "<en>Vocabulary",
+    "nl": "<nl>Vocabulair",
+    "es": "<es>Vocabulario",
+    "tr": "<tr>Kelime hazinesi"
+}
+
 # the lists below contain the stories that have been checked for a specific language. 
 
 # dutch 
@@ -36,7 +43,6 @@ files = [
     "the_kings_nightingale.tex",
     "the_donkey_of_hodja.tex",
     "rabbit.tex",
-    "hercules.tex",
     "hodja_the_king.tex",
     "hodja_and_ox.tex",
     "hodja_and_the_scholar.tex",
@@ -74,6 +80,7 @@ files = [
     "the_stone_cutter.tex",
     "the_sleepy_teacher.tex",
     "four_friends.tex",
+    "aladdin.tex",
     "the_dog_and_the_sparrow.tex",
     "the_three_wisemen_and_the_camel.tex",
     "the_princess_and_the_pea.tex",
@@ -93,78 +100,4 @@ files = [
     "bluebeard.tex",
     "the_story_of_the_baked_head.tex",
 ]
-
-doc_template2 = r"""
-\documentclass[12pt]{{article}}
-\usepackage{{ctable}} % for toprule
-\usepackage{{a4wide}}
-\usepackage[T1]{{fontenc}}
-\usepackage[utf8]{{inputenc}}
-\usepackage{{fouriernc}}
-\usepackage{{longtable}}
-\usepackage{{marginnote}}
-\usepackage{{manfnt}}
-\usepackage{{url}}
-
-\newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{8cm}}}}
-\newcolumntype{{R}}{{>{{\raggedleft\arraybackslash}}p{{8cm}}}}
-
-\author{{en-nl: Nicky van Foreest\\
-en-tr: Onur Kilic\\
-en-es: Cesar Sala
-}}
-\title{{Parallel translations ({}-{}) }}
-
-\begin{{document}}
-\maketitle
-
-\tableofcontents
-\clearpage
-
-\clearpage
-
-{}
-
-\end{{document}}
-"""
-#\input{{introduction}}
-
-
-doc_template = r"""
-\documentclass[a5paper]{{article}}
-\usepackage[margin=5mm]{{geometry}}
-\usepackage[T1]{{fontenc}}
-\usepackage{{ctable}} % for toprule
-\usepackage[utf8]{{inputenc}}
-\usepackage{{tgheros}}
-\usepackage{{longtable}}
-\usepackage{{url}}
-\usepackage{{multicol}}
-
-\newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{6.5cm}}}}
-
-\author{{en-nl: Nicky van Foreest\\
-en-tr: Onur Kilic\\
-en-es: Cesar Sala
-}}
-\title{{Parallel translations ({}-{}) }}
-
-\begin{{document}}
-\maketitle
-
-\begin{{multicols}}{{2}}
-  \tableofcontents
-\end{{multicols}}
-
-\clearpage
-
-{}
-
-\end{{document}}
-"""
-
 

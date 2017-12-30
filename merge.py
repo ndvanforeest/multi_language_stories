@@ -3,7 +3,7 @@
 import re
 
 target_language = "nl"
-fname = "the_stone_cutter.tex"
+fname = "aladdin.tex"
 
 res = {}
 

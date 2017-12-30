@@ -1,36 +1,54 @@
 #!/usr/bin/env python3
 
-import os
-
 """
 This script splits an english text into single sentences. These sentences have to be improved by hand. such that the final latex output becomes nice. .
 
 Include the txt file, without its ".txt" extension. Then move the translated tex file to the source_files. 
 """
 
-import nltk.data
-from nltk.tokenize import sent_tokenize
-#nltk.download()
+import os
+import re
 
+# The regular expressions below work better for my purposes than the nltk algorithms.
+#import nltk.data
+#from nltk.tokenize import sent_tokenize
+#nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 files = [
-    "aladin"
+    "aladdin"
     #"jack_beanstalk"
     #"the_pink_fairy_book",
     #"arabian_nights"
     ]
 
-
 def format_single_file_raw(fname):
-    fin = open("./raw_material/" + fname + r".txt", 'r')
-    fout = open(fname + r".txt", "w")
+    story = []
+    with open("./raw_material/" + fname + r".txt", 'r') as fin:
+        for line in fin:
+            story.append(line.strip())
+    story = "\n".join(story)
+    story = re.sub(r'(; )', r';\n', story)
+    story = re.sub(r'(\. )', r'.\n', story)
+    story = re.sub(r'(\.")', r'."\n', story)
+    story = re.sub(r'(\?")', r'?"\n', story)
+    story = re.sub(r'(\? )', r'?\n', story)
+    story = re.sub(r'(\!")', r'!"\n', story)
+    story = re.sub(r'(\! )', r'!\n', story)
+    story = re.sub(r'(, ")', r',\n"', story)
+    story = re.sub(r'(: ")', r':\n"', story)
+    story = re.sub(r'(\n )', r'\n', story)
+    story = re.sub(r'(\n\n\n)', r'\n\n', story)
+
+
+    res = story.split("\n")
+    with open(fname + r".txt", "w") as fout:
+        for line in res:
+            fout.write("<en>{}\n".format(line))
     #for token in tokenizer.tokenize(fin.read()):
-    for token in sent_tokenize(fin.read()):
-        if len(token) < 2:
-            continue
-        res = "<en>{}\n".format(token)
-        fout.write(res)
+    #for token in sent_tokenize(fin.read()):
+    #    res = "<en>{}\n".format(token)
+    #    fout.write(res)
 
 
 latex_header = r"""
@@ -70,5 +88,5 @@ def format_single_file_sourcefile(fname):
 
 
 for fname in files:
-    format_single_file(fname)
-    #format_single_file_sourcefile(fname)
+    format_single_file_raw(fname)
+    format_single_file_sourcefile(fname)
