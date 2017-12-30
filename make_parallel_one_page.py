@@ -87,44 +87,6 @@ def latex_parallel(story, words):
     return "\n".join(res)
 
 
-doc_template2 = r"""
-\documentclass[12pt]{{article}}
-\usepackage{{ctable}} % for toprule
-\usepackage{{a4wide}}
-\usepackage[T1]{{fontenc}}
-\usepackage[utf8]{{inputenc}}
-\usepackage{{fouriernc}}
-\usepackage{{longtable}}
-\usepackage{{marginnote}}
-\usepackage{{manfnt}}
-\usepackage{{url}}
-
-\newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{8cm}}}}
-\newcolumntype{{R}}{{>{{\raggedleft\arraybackslash}}p{{8cm}}}}
-
-\author{{en-nl: Nicky van Foreest\\
-en-tr: Onur Kilic\\
-en-es: Cesar Sala
-}}
-\title{{Parallel translations ({}-{}) }}
-
-\begin{{document}}
-\maketitle
-
-\tableofcontents
-\clearpage
-
-\clearpage
-
-{}
-
-\end{{document}}
-"""
-#\input{{introduction}}
-
-
 doc_template = r"""
 \documentclass[a5paper]{{article}}
 \usepackage[margin=5mm]{{geometry}}

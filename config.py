@@ -1,17 +1,15 @@
-from enum import IntEnum
-
-
-class Lang(IntEnum):
-    nl = 0
-    en = 1
-    tr = 2
-    es = 3
+language = {
+    "en": "english",
+    "nl": "dutch",
+    "tr": "turkish",
+    "es": "spanish",
+}
 
 vocabulary = {
     "en": "<en>Vocabulary",
     "nl": "<nl>Vocabulair",
     "es": "<es>Vocabulario",
-    "tr": "<tr>Kelime hazinesi"
+    "tr": "<tr>Kelime hazinesi",
 }
 
 # the lists below contain the stories that have been checked for a specific language. 
