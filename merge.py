@@ -3,7 +3,8 @@
 import re
 
 target_language = "nl"
-fname = "aladdin.tex"
+#fname = "aladdin.tex"
+fname = "the_emperors_new_clothes.tex"
 
 res = {}
 

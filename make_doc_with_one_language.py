@@ -91,5 +91,6 @@ def make_all_doc(lang, latex_file):
 
 if __name__ == "__main__":
     #make_all_doc("tr", "turkish")
+    make_all_doc("nl", "dutch")
     make_all_doc("en", "english")
     make_all_doc("es", "spanish")

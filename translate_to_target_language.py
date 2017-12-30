@@ -28,8 +28,8 @@ turkish = [
 # first format the english file with format_single_file.py.
 
 dutch = [
-    "aladdin"
-    #"the_merchant_and_the_jinnie",
+    "the_emperors_new_clothes"
+    #"aladdin_2"
     #"ali_baba_2",
     #"jack_beanstalk",
     ]
@@ -58,7 +58,7 @@ def translate_single_file(fin):
 
 
 latex_header = r"""
-\documentclass[12pt]{article}
+\documentclass[11pt]{article}
 \usepackage{a4wide}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}

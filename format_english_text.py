@@ -16,7 +16,8 @@ import re
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 files = [
-    "aladdin"
+    "the_emperors_new_clothes"
+    #"aladdin_2"
     #"jack_beanstalk"
     #"the_pink_fairy_book",
     #"arabian_nights"
@@ -76,7 +77,8 @@ def format_single_file_sourcefile(fname):
             quit()
         fout.write("\\vbox{\n\\noindent\n")
         fout.write("{}".format(line[4:].strip()))
-        fout.write("}\\vspace{5mm}\n\n")
+        #fout.write("}\\vspace{5mm}\n\n")
+        fout.write("}\n")
     fout.write(latex_footer)
     fout.close()
     os.system("pdflatex {}.tex".format(fname))
@@ -89,4 +91,4 @@ def format_single_file_sourcefile(fname):
 
 for fname in files:
     format_single_file_raw(fname)
-    format_single_file_sourcefile(fname)
+    #format_single_file_sourcefile(fname)

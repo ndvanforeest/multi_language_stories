@@ -81,6 +81,7 @@ files = [
     "the_sleepy_teacher.tex",
     "four_friends.tex",
     "aladdin.tex",
+    "the_emperors_new_clothes.tex",
     "the_dog_and_the_sparrow.tex",
     "the_three_wisemen_and_the_camel.tex",
     "the_princess_and_the_pea.tex",
