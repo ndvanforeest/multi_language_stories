@@ -28,7 +28,7 @@ files = [
     "airport.tex",
     "swimming.tex",
     "hercules.tex",
-    "boys_will_be_boys",
+    "boys_will_be_boys.tex",
     "elephant_and_friends.tex",
     "lion_and_mouse.tex",
     "elephant_and_mouse.tex",

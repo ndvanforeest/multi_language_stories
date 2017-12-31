@@ -101,7 +101,6 @@ def make_all_doc(lang_left, lang_right, out_file):
     header, trailer = make_header_and_trailer(lang_left, lang_right)
     res = [header]
     for fname in config.files:
-        print(fname)
         if not os.path.isfile("./source_files/"+fname):
             continue
         story_left, story_right = select_story_and_vocab(lang_left, lang_right, fname)

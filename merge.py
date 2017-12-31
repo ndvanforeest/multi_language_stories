@@ -2,9 +2,9 @@
 
 import re
 
-target_language = "nl"
-#fname = "aladdin.tex"
-fname = "the_emperors_new_clothes.tex"
+target_language, fname = "nl", "aladdin.tex"
+target_language, fname = "es", "aladdin.tex"
+target_language, fname = "tr", "hercules.tex"
 
 res = {}
 
