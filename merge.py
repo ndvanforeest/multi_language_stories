@@ -4,7 +4,7 @@ import re
 
 target_language, fname = "nl", "aladdin.tex"
 target_language, fname = "es", "aladdin.tex"
-target_language, fname = "tr", "hercules.tex"
+target_language, fname = "tr", "boys_will_be_boys.tex"
 
 res = {}
 
