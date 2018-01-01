@@ -152,4 +152,4 @@ if __name__ == "__main__":
     make_all_doc("tr", "en", "turkish_english")
     make_all_doc("nl", "en", "dutch_english")
     #make_all_doc("en", "nl", "english_dutch")
-    make_all_doc("es","en", "spanish_english")
+    #make_all_doc("es","en", "spanish_english")

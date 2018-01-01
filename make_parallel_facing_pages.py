@@ -29,6 +29,8 @@ def select_story_and_vocab(lang_left, lang_right, fname):
         return None, None
 
     if len(story_left) != len(story_right):
+        print(story_left)
+        print(story_right)
         print("left and right stories are not of the same length")
         quit()
 
@@ -87,7 +89,7 @@ def make_header_and_trailer(lang_left, lang_right):
     en-tr: Onur Kilic\\
     en-es: Cesar Sala
     }""")
-    res.append(r"\title{{Parallel translations ({}-{} }}".format(left, right))
+    res.append(r"\title{{Parallel translations ({}-{})}}".format(left, right))
     res.append(r"""
     \begin{document}
     \maketitle
@@ -120,5 +122,5 @@ def make_all_doc(lang_left, lang_right, out_file):
     os.system("rm dummy.*")
 
 if __name__ == "__main__":
-    #make_all_doc("nl", "en", "dutch_english_facing")
+    make_all_doc("nl", "en", "dutch_english_facing")
     make_all_doc("tr", "en", "turkish_english_facing")
