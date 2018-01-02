@@ -32,12 +32,12 @@
 <nl>
 <en>He then entered the court and showed the ring to the King.
 <nl>Hij ging toen de hof binnen en toonde de ring aan de koning.
-<en>The King who recognized Mahesh asked him "Oh young man!
-<nl>De koning die Mahesh herkende, vroeg hem: "O jongeman!
-<en>What do you expect as a reward from the King of Hindustan?"
-<nl>Wat verwacht u als beloning van de koning van Hindustan? "
-<en>"Majesty! I expect 50 lashes from you as a reward."
-<nl>"Majesteit! Ik verwacht 50 zweepslagen van jou als beloning. "
+<en>The King who recognized Mahesh asked him `Oh young man!
+<nl>De koning die Mahesh herkende, vroeg hem: `O jongeman!
+<en>What do you expect as a reward from the King of Hindustan?'
+<nl>Wat verwacht u als beloning van de koning van Hindustan?'
+<en>`Majesty! I expect 50 lashes from you as a reward.'
+<nl>`Majesteit! Ik verwacht 50 zweepslagen van jou als beloning.'
 <en>replied Mahesh Das.
 <nl>antwoordde Mahesh Das.
 <en>The courtiers were stunned.
@@ -58,14 +58,14 @@
 <nl>De bewaker verscheen voor de koning.
 <en>He was happy at the thought that he was called to be rewarded.
 <nl>Hij was blij met de gedachte dat hij gehaald was om te worden beloond.
-<en>But to his surprise, Mahesh Das told the King, "Jahampana!
-<nl>Maar tot zijn verrassing, vertelde Mahesh Das de koning, "Jahampana!
+<en>But to his surprise, Mahesh Das told the King, `Jahampana!
+<nl>Maar tot zijn verrassing, vertelde Mahesh Das de koning, `Jahampana!
 <en>This greedy guard let me inside on condition that I pay him half the reward I receive from you.
 <nl>Deze hebzuchtige bewaker liet me binnen, op voorwaarde dat ik hem de helft betaal van de beloning die ik  krijg  van u.
 <en>I wanted to teach him a lesson.
 <nl>Ik wilde hem een lesje leren.
-<en>Please give the remaining 25 lashes to this guard so that I can keep my promise to him."
-<nl>Geef alstublieft de resterende 25 zweepslagen aan deze bewaker zodat ik mijn belofte aan hem kan houden. "
+<en>Please give the remaining 25 lashes to this guard so that I can keep my promise to him.'
+<nl>Geef alstublieft de resterende 25 zweepslagen aan deze bewaker zodat ik mijn belofte aan hem kan houden.'
 <en>The King then ordered that the guard be given 25 lashes along with 5 years of imprisonment.
 <nl>De koning beval vervolgens dat de bewaker 25 zweepslagen werd gegeven, samen met 5 jaar gevangenisstraf.
 <en>

@@ -2,13 +2,13 @@
 <nl>Het scherpste schild en zwaard
 <en>A man who made spears and shields once came to Akbar's court.
 <nl>Een man die speren en schilden maakte, kwam eens aan het hof van Akbar.
-<en>"Your Majesty, nobody can make shields and spears equal to mine," he said.
-<nl>"Majesteit, niemand kan schilden en speren maken gelijk aan de mijne," zei hij.
-<en>"My shields are so strong that nothing can pierce them and my spears are so sharp that there's nothing they cannot pierce."
-<nl>"Mijn schilden zijn zo sterk dat niets ze kan doorboren en mijn speren zijn zo scherp dat er niets is dat ze niet kunnen doorboren."
-<en>"I can prove you wrong on one account certainly," said Birbal suddenly.
-<nl>"Ik kan zeker bewijzen dat je het bij één punt fout hebt," zei Birbal plotseling.
-<en>"Impossible!" declared the man.
-<nl>"Onmogelijk!" verklaarde de man.
-<en>"Hold up one of your shields and I will pierce it with one of your spears," said Birbal with a smile.
-<nl>"Houd een van je schilden omhoog en ik zal het doorboren met een van je speren," zei Birbal met een glimlach.
+<en>`Your Majesty, nobody can make shields and spears equal to mine,' he said.
+<nl>`Majesteit, niemand kan schilden en speren maken gelijk aan de mijne,' zei hij.
+<en>`My shields are so strong that nothing can pierce them and my spears are so sharp that there's nothing they cannot pierce.'
+<nl>`Mijn schilden zijn zo sterk dat niets ze kan doorboren en mijn speren zijn zo scherp dat er niets is dat ze niet kunnen doorboren.'
+<en>`I can prove you wrong on one account certainly,' said Birbal suddenly.
+<nl>`Ik kan zeker bewijzen dat je het bij één punt fout hebt,' zei Birbal plotseling.
+<en>`Impossible!' declared the man.
+<nl>`Onmogelijk!' verklaarde de man.
+<en>`Hold up one of your shields and I will pierce it with one of your spears,' said Birbal with a smile.
+<nl>`Houd een van je schilden omhoog en ik zal het doorboren met een van je speren,' zei Birbal met een glimlach.

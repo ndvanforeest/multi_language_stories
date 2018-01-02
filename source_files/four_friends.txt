@@ -20,28 +20,28 @@
 <nl>Rivieren en meren begonnen op te drogen.
 <en>The people of the villages started moving to other villages to save their lives.
 <nl>De mensen in de dorpen verhuisden naar andere dorpen om hun leven te redden.
-<en>"We also need to move to another place soon or else we will also die like many others," said Satyanand.
-<nl>"We moeten ook snel naar een andere plaats verhuizen, anders zullen we ook sterven zoals vele anderen," zei Satyanand.
+<en>`We also need to move to another place soon or else we will also die like many others,' said Satyanand.
+<nl>`We moeten ook snel naar een andere plaats verhuizen, anders zullen we ook sterven zoals vele anderen,' zei Satyanand.
 <en>They all agreed with him.
 <nl>Ze waren het allemaal met hem eens.
-<en>"But what about Sivanand?"
-<nl>"Maar hoe zit het met Sivanand?"
+<en>`But what about Sivanand?'
+<nl>`Maar hoe zit het met Sivanand?'
 <en>asked Satyanand.
 <nl>vroeg Satyanand.
-<en>"Do we need him with us?
-<nl>"Hebben we hem nodig bij ons?
+<en>`Do we need him with us?
+<nl>`Hebben we hem nodig bij ons?
 <en>He has no skills or learning.
 <nl>Hij heeft geen vaardigheden of kennis.
-<en>We cannot take him with us," replied Dharmanand.
-<nl>We kunnen hem niet meenemen," antwoordde Dharmanand.
-<en>"He will be a burden on us."
-<nl>"Hij zal een last zijn voor ons."
-<en>"How can we leave him behind?
-<nl>"Hoe kunnen we hem achterlaten?
-<en>He grew up with us," said Vidhyanand.
-<nl>Hij groeide op met ons," zei Vidhyanand.
-<en>"We will share what ever we earn equally among the four of us."
-<nl>"We zullen wat we verdienen gelijkelijk verdelen onder ons vieren."
+<en>We cannot take him with us,' replied Dharmanand.
+<nl>We kunnen hem niet meenemen,' antwoordde Dharmanand.
+<en>`He will be a burden on us.'
+<nl>`Hij zal een last zijn voor ons.'
+<en>`How can we leave him behind?
+<nl>`Hoe kunnen we hem achterlaten?
+<en>He grew up with us,' said Vidhyanand.
+<nl>Hij groeide op met ons,' zei Vidhyanand.
+<en>`We will share what ever we earn equally among the four of us.'
+<nl>`We zullen wat we verdienen gelijkelijk verdelen onder ons vieren.'
 <en>They all agreed to take Sivanand along with them.
 <nl>Ze stemden er allemaal mee in om Sivanand mee te nemen.
 <en>They packed all necessary things and set out for a nearby town.
@@ -54,43 +54,43 @@
 <nl>Terwijl ze door het bos liepen, kwamen ze de botten van een dier tegen.
 <en>They became curious and stopped to take a closer look at the bones.
 <nl>Ze werden nieuwsgierig en stopten om de botten van dichtbij te bekijken.
-<en>"Those are the bones of a lion," said Vidhyanand.
-<nl>"Dat zijn de beenderen van een leeuw", zei Vidhyanand.
+<en>`Those are the bones of a lion,' said Vidhyanand.
+<nl>`Dat zijn de beenderen van een leeuw', zei Vidhyanand.
 <en>The others agreed.
 <nl>De anderen waren het daarmee eens.
-<en>"This is a great opportunity to test our learning," said Satyanand.
-<nl>"Dit is een geweldige kans om onze kennis te testen", zei Satyanand.
-<en>"I can put the bones together."
-<nl>"Ik kan de botten samenvoegen."
+<en>`This is a great opportunity to test our learning,' said Satyanand.
+<nl>`Dit is een geweldige kans om onze kennis te testen', zei Satyanand.
+<en>`I can put the bones together.'
+<nl>`Ik kan de botten samenvoegen.'
 <en>So saying, he brought the bones together to form the skeleton of a lion.
 <nl>Terwijl hij dit zei, bracht hij de botten bij elkaar om het skelet van een leeuw te vormen.
-<en>"Dharmanand said, "I can put muscles and tissue on it."
-<nl>"Dharmanand zei:" Ik kan er spieren en weefsel bij doen."
+<en>`Dharmanand said, `I can put muscles and tissue on it.
+<nl>`Dharmanand zei: `Ik kan er spieren en weefsel bij doen.'
 <en>Soon a lifeless lion lay before them.
 <nl>Al gauw lag een levenloze leeuw voor hen.
-<en>"I can breathe life into that body."
-<nl>"Ik kan leven in dat lichaam blazen."
+<en>`I can breathe life into that body.'
+<nl>`Ik kan leven in dat lichaam blazen.'
 <en>said Vidhyanand.
 <nl>zei Vidhyanand.
 <en>
 <nl>
 <en>But before he could continue, Sivanand jumped up to stop him.
 <nl>Maar voordat hij verder kon gaan, sprong Sivanand op om hem te stoppen.
-<en>"No.
-<nl>"Nee.
+<en>`No.
+<nl>`Nee.
 <en>Don't!
 <nl>Niet doen!
-<en>If you put life into that lion, it will kill us all," he cried.
-<nl>Als je leven in die leeuw brengt, zal het ons allemaal doden," schreeuwde hij.
-<en>"Oh you coward!
-<nl>"Oh jij lafaard!
-<en>You can’t stop me from testing my skills and learning," shouted an angry Vidhyanand.
-<nl>Je kunt me er niet van weerhouden mijn vaardigheden en kennis te testen," schreeuwde een boze Vidhyanand.
-<en>"You are here with us only because I requested the others to let you come along."
-<nl>"Je bent hier alleen bij ons  omdat ik de anderen heb gevraagd  je mee te laten komen."
+<en>If you put life into that lion, it will kill us all,' he cried.
+<nl>Als je leven in die leeuw brengt, zal het ons allemaal doden,' schreeuwde hij.
+<en>`Oh you coward!
+<nl>`Oh jij lafaard!
+<en>You can’t stop me from testing my skills and learning,' shouted an angry Vidhyanand.
+<nl>Je kunt me er niet van weerhouden mijn vaardigheden en kennis te testen,' schreeuwde een boze Vidhyanand.
+<en>`You are here with us only because I requested the others to let you come along.'
+<nl>`Je bent hier alleen bij ons  omdat ik de anderen heb gevraagd  je mee te laten komen.'
 <en>
 <nl>
-<en>"Then please let me climb that tree first,’ said a frightened Sivanand running towards the nearest tree.
+<en>`Then please let me climb that tree first,’ said a frightened Sivanand running towards the nearest tree.
 <nl>'Laat me alsjeblieft eerst die boom beklimmen,' zei een bange Sivan rendend naar de dichtstbijzijnde boom.
 <en>Just as Sivanand pulled himself on to the tallest branch of the tree Vidhyanand brought life into the lion.
 <nl>Net terwijl Sivanand zichzelf optrok tot de hoogste tak van de boom, bracht Vidhyanand leven in de leeuw.

@@ -1,26 +1,26 @@
 <en>Question for Question
 <nl>Vraag voor vraag
-<en>One day Akbar said to Birbal: "Can you tell me how many bangles your wife wears?"
-<nl>Op een dag zei Akbar tegen Birbal: "Kun je me vertellen hoeveel armbanden je vrouw draagt?"
+<en>One day Akbar said to Birbal: `Can you tell me how many bangles your wife wears?'
+<nl>Op een dag zei Akbar tegen Birbal: `Kun je me vertellen hoeveel armbanden je vrouw draagt?'
 <en>Birbal said he could not.
 <nl>Birbal zei dat hij dat niet kon.
-<en>"You cannot?" exclaimed Akbar.
-<nl>"Je kan dat niet?" riep Akbar uit.
-<en>"You see her hands every day while she serves you food.
+<en>`You cannot?' exclaimed Akbar.
+<nl>`Je kan dat niet?' riep Akbar uit.
+<en>`You see her hands every day while she serves you food.
 <nl>'Je ziet haar handen elke dag terwijl ze je eten serveert.
 <en>Yet you do not know how many bangles she has on her hands?
 <nl>Toch weet je niet hoeveel armbanden ze op haar handen heeft?
-<en>How is that?"
-<nl>Hoe kan dat?"
-<en>"Let us go down to the garden, Your Majesty," said Birbal, "and I'll tell you."
-<nl>"Laten we naar de tuin beneden gaan, Majesteit," zei Birbal, "en ik zal het u zeggen."
+<en>How is that?'
+<nl>Hoe kan dat?'
+<en>`Let us go down to the garden, Your Majesty,' said Birbal, `and I'll tell you.'
+<nl>`Laten we naar de tuin beneden gaan, Majesteit,' zei Birbal, `en ik zal het u zeggen.'
 <en>
 <nl>
 <en>They went down the small staircase that led to the garden.
 <nl>Ze liepen de kleine trap af die naar de tuin leidde.
-<en>Birbal turned to the emperor: "Your Majesty," he said, "You go up and down this staircase every day.
-<nl>Birbal wendde zich tot de keizer: "Uwe Majesteit," zei hij, "u gaat deze trap  elke dag op en af.
-<en>Can you tell me how many steps there are in the staircase?"
-<nl>Kun je me vertellen hoeveel treden er in de trap zitten? "
+<en>Birbal turned to the emperor: `Your Majesty,' he said, `You go up and down this staircase every day.
+<nl>Birbal wendde zich tot de keizer: `Uwe Majesteit,' zei hij, `u gaat deze trap  elke dag op en af.
+<en>Can you tell me how many steps there are in the staircase?'
+<nl>Kunt u me vertellen hoeveel treden er in de trap zitten?'
 <en>The emperor grinned sheepishly and quickly changed the subject.
 <nl>De keizer grijnsde schaapachtig en veranderde snel van onderwerp.

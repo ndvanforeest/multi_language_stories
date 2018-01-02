@@ -29,9 +29,12 @@ def select_story_and_vocab(lang_left, lang_right, fname):
         return None, None
 
     if len(story_left) != len(story_right):
-        print(story_left)
-        print(story_right)
         print("left and right stories are not of the same length")
+        print(len(story_left))
+        print(len(story_right))
+        for x, y in zip(story_left, story_right):
+            print(x)
+            print(y)
         quit()
 
     if len(words_left) != len(words_right):

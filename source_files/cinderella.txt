@@ -86,8 +86,8 @@
 <nl>Ze droeg glazen schoenen.
 <en>Cindrella got into the coach.
 <nl>Assepoester ging de koets in.
-<en>The old lady whispered, "Don’t forget to come back before midnight, Cindrella."
-<nl>De oude vrouw fluisterde, "Vergeet niet terug te komen voor middernacht, Assepoester."
+<en>The old lady whispered, `Don’t forget to come back before midnight, Cindrella.'
+<nl>De oude vrouw fluisterde, `Vergeet niet terug te komen voor middernacht, Assepoester.'
 <en>
 <nl>
 <en>Cindrella went to the palace.

@@ -22,9 +22,9 @@ spanish = [
     "traffic",
 ]
 
-#target_language, fname = "nl", "the_emperors_new_clothes"
+target_language, fname = "nl", "merchant"
 #target_language, fname = "es", "flying"
-target_language, fname = "tr", "shaving"
+#target_language, fname = "tr", "shaving"
 
 
 def translate_single_file(fin):
@@ -55,7 +55,7 @@ latex_header = r"""
 \clearpage
 """
 
-latex_footer = r"""
+latex_trailer = r"""
 \end{document}
 """
 
@@ -68,11 +68,11 @@ def latex_alternating(story, fout):
         fout.write("{} \\newline\n{}".format(line[0].strip(), line[1]))
         # fout.write("\n\\end{samepage}\n\\vspace{3mm}\n\n")
         fout.write("\n}\n\\vspace{3mm}\n\n")
-    fout.write(latex_footer)
+    fout.write(latex_trailer)
 
 
-def translate_files():
-    fin_name = r"source_files/" + fname + ".tex"
+def translate_file():
+    fin_name = r"source_files/" + fname + ".txt"
     fout_name = target_language + "_" + fname + ".tex"
     with open(fin_name, "r") as fin:
         story = translate_single_file(fin)
@@ -81,6 +81,6 @@ def translate_files():
 
 
 if __name__ == "__main__":
-    translate_files()
+    translate_file()
 
     

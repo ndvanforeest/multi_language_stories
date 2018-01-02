@@ -114,8 +114,8 @@
 <nl>Dan bleef de wasbak vies.
 <en>My girlfriend then called me.
 <nl>Mijn vriendinnetje riep me dan.
-<en>She said: "You have to clean up.
-<nl>Ze zei: "Je moet opruimen.
+<en>She said: `You have to clean up.
+<nl>Ze zei: `Je moet opruimen.
 <en>You have to clean the sink.
 <nl>Je moet de wasbak schoonmaken.
 <en>I do not accept it like this.
@@ -126,12 +126,12 @@
 <nl>Ik wil een schone wasbak gebruiken.
 <en>Not one with hair.
 <nl>Niet \'e\'en met haren.
-<en>Or with soap."
-<nl>Of met zeep."
+<en>Or with soap.'
+<nl>Of met zeep.'
 <en>
 <nl>
-<en>I said: "Sorry.
-<nl>Ik zei: "Sorry.
+<en>I said: `Sorry.
+<nl>Ik zei: `Sorry.
 <en>I will not forget.
 <nl>Ik zal het niet vergeten.
 <en>Next time I will do it myself.
@@ -144,8 +144,8 @@
 <nl>roep me maar.
 <en>Then I just do it.
 <nl>Dan doe ik het gewoon.
-<en>And then I'll really remember."
-<nl>En dan onthoud ik het echt."
+<en>And then I'll really remember.'
+<nl>En dan onthoud ik het echt.'
 <en>
 <nl>
 <en>I forgot again a week later.
@@ -178,10 +178,10 @@
 <nl>Wat zullen mijn kinderen zeggen?
 <en>My son is drawing.
 <nl>Mijn zoon tekent.
-<en>"I shaved," I say.
-<nl>"Ik heb me geschoren," zeg ik.
-<en>"Oh," he says.
-<nl>"Oh," zegt hij.
+<en>`I shaved,' I say.
+<nl>`Ik heb me geschoren,' zeg ik.
+<en>`Oh,' he says.
+<nl>`Oh,' zegt hij.
 <en>He continues drawing.
 <nl>Hij tekent verder.
 <en>He does not look up.
@@ -190,17 +190,17 @@
 <nl>Mijn dochter leest een boek.
 <en>She does look up.
 <nl>Zij kijkt wel op.
-<en>"Daddy, you look beautiful."
-<nl>"Papa, wat zie je er mooi uit."
+<en>`Daddy, you look beautiful.'
+<nl>`Papa, wat zie je er mooi uit.'
 <en>She says.
 <nl>Zegt ze.
-<en>"How soft your cheeks are.
-<nl>"Wat zijn je wangen zacht.
+<en>`How soft your cheeks are.
+<nl>`Wat zijn je wangen zacht.
 <en>Come here fast.
 <nl>Kom gauw hier.
 <en>For a hug.
 <nl>Voor een knuffel.
 <en>Thank you for shaving.
 <nl>Bedankt dat je je geschoren hebt.
-<en>It makes me very  happy."
-<nl>Ik ben er heel blij mee."
+<en>It makes me very  happy.'
+<nl>Ik ben er heel blij mee.'

@@ -4,35 +4,35 @@
 <nl>Op een dag vroeg Akbar zijn hovelingen of zij hem het verschil tussen waarheid en leugen konden vertellen in drie woorden of minder.
 <en>The courtiers looked at one another in bewilderment.
 <nl>De hovelingen keken elkaar verbijsterd aan.
-<en>"What about you, Birbal?"
-<nl>"Hoe denk jij ervan, Birbal?"
+<en>`What about you, Birbal?'
+<nl>`Hoe denk jij ervan, Birbal?'
 <en>asked the emperor.
 <nl>vroeg de keizer.
-<en>"I'm surprised that you too are silent."
-<nl>"Ik ben verrast dat jij ook stil bent."
-<en>"I'm silent because I want to give others a chance to speak," said Birbal.
-<nl>"Ik ben stil omdat ik anderen de kans wil geven te spreken," zei Birbal.
-<en>"Nobody else has the answer," said the emperor.
-<nl>"Niemand anders heeft het antwoord," zei de keizer.
-<en>"So go ahead and tell me what the difference between truth and falsehood is -- in three words or less."
-<nl>"Dus ga je gang en vertel me wat het verschil is tussen waarheid en onwaarheid -- in drie woorden of minder."
+<en>`I'm surprised that you too are silent.'
+<nl>`Ik ben verrast dat jij ook stil bent.'
+<en>`I'm silent because I want to give others a chance to speak,' said Birbal.
+<nl>`Ik ben stil omdat ik anderen de kans wil geven te spreken,' zei Birbal.
+<en>`Nobody else has the answer,' said the emperor.
+<nl>`Niemand anders heeft het antwoord,' zei de keizer.
+<en>`So go ahead and tell me what the difference between truth and falsehood is -- in three words or less.'
+<nl>`Dus ga je gang en vertel me wat het verschil is tussen waarheid en onwaarheid -- in drie woorden of minder.'
 <en>
 <nl>
-<en>"Four fingers" said Birbal.
-<nl>"Vier vingers" zei Birbal.
-<en>"Four fingers?" asked the emperor, perplexed.
-<nl>"Vier vingers?" vroeg de keizer, verbijsterd.
-<en>"That's the difference between truth and falsehood, your Majesty," said Birbal.
-<nl>"Dat is het verschil tussen waarheid en leugen, Majesteit," zei Birbal.
-<en>"That which you see with your own eyes is the truth.
-<nl>"Dat wat je met je eigen ogen ziet, is de waarheid.
+<en>`Four fingers' said Birbal.
+<nl>`Vier vingers' zei Birbal.
+<en>`Four fingers?' asked the emperor, perplexed.
+<nl>`Vier vingers?' vroeg de keizer, verbijsterd.
+<en>`That's the difference between truth and falsehood, your Majesty,' said Birbal.
+<nl>`Dat is het verschil tussen waarheid en leugen, Majesteit,' zei Birbal.
+<en>`That which you see with your own eyes is the truth.
+<nl>`Dat wat je met je eigen ogen ziet, is de waarheid.
 <en>That which you have only heard about might not be true.
 <nl>Dat waarvan je alleen maar gehoord hebt, is misschien niet waar.
-<en>In fact, more often than not, it's to be false."
-<nl>Eigenlijk, vaker wel dan niet, is het onjuist."
-<en>"That is right," said Akbar.
-<nl>"Dat klopt," zei Akbar.
-<en>"But what did you mean by saying the difference is four fingers?'
-<nl>"Maar wat bedoelde je te zeggen dat het verschil vier vingers is?"
-<en>"The distance between one's eyes and one's ears is the width of four fingers, Your Majesty," said Birbal, grinning.
+<en>In fact, more often than not, it's to be false.'
+<nl>Eigenlijk, vaker wel dan niet, is het onjuist.'
+<en>`That is right,' said Akbar.
+<nl>`Dat klopt,' zei Akbar.
+<en>`But what did you mean by saying the difference is four fingers?'
+<nl>`Maar wat bedoelde je te zeggen dat het verschil vier vingers is?'
+<en>`The distance between one's eyes and one's ears is the width of four fingers, Your Majesty,' said Birbal, grinning.
 <nl>'De afstand tussen je ogen en je oren is de breedte van vier vingers, majesteit,' zei Birbal grijnzend.

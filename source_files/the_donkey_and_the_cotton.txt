@@ -12,12 +12,12 @@
 <nl>
 <en>On the way, they had to walk across a pond.
 <nl>Onderweg moesten ze een vijver oversteken.
-<en>One day, while crossing the pond, the donkey thought, "Ooh!
-<nl>Op een dag, tijdens het oversteken van de vijver, dacht de ezel : "Ooh!
+<en>One day, while crossing the pond, the donkey thought, 'Ooh!
+<nl>Op een dag, tijdens het oversteken van de vijver, dacht de ezel : 'Ooh!
 <en>This load is so heavy that I become exhausted very soon.
 <nl>Deze last is zo zwaar dat ik gauw uitgeput raak.
-<en>I wish I could get some of this load taken off my back."
-<nl>Ik wou dat ik een deel van deze last van mijn rug af kon krijgen. "
+<en>I wish I could get some of this load taken off my back.'
+<nl>Ik wou dat ik een deel van deze last van mijn rug af kon krijgen. '
 <en>Just then the donkey tripped and fell into the water.
 <nl>Op dat moment struikelde de ezel en viel in het water.
 <en>
@@ -48,10 +48,10 @@
 <nl>
 <en>One day, the merchant noticed the donkey deliberately slipping and landing with the sack into the water.
 <nl>Op een dag merkte de koopman op dat de ezel opzettelijk uitgleed en met de zak in het water belandde.
-<en>“Oh!
-<nl>"Oh!
-<en>So this is the way I am losing my salt everyday" he thought.
-<nl>Dus dit is de manier waarop ik elke dag mijn zout verlies ", dacht hij.
+<en>`Oh!
+<nl>`Oh!
+<en>So this is the way I am losing my salt everyday', he thought.
+<nl>Dus dit is de manier waarop ik elke dag mijn zout verlies ', dacht hij.
 <en>He decided to teach the donkey a lesson.
 <nl>Hij besloot de ezel een lesje te leren.
 <en>
@@ -66,22 +66,22 @@
 <nl>Zoals gebruikelijk werden zowel de ezel als het katoen nat.
 <en>But this time, when he got up, the load on his back seemed heavier.
 <nl>Maar deze keer, toen hij opstond, leek de last op zijn rug zwaarder.
-<en>“Ooh!
-<nl>“Ooh!
-<en>The Load seems to have gotten heavier," thought the donkey.
-<nl>De last lijkt zwaarder te zijn geworden," dacht de ezel.
+<en>`Ooh!
+<nl>`Ooh!
+<en>The Load seems to have gotten heavier,' thought the donkey.
+<nl>De last lijkt zwaarder te zijn geworden,' dacht de ezel.
 <en>The donkey was astonished at what had taken place against the usual result.
 <nl>De ezel was  verbaasd dat  het gebruikelijke resultaat niet optrad.
 <en>
 <nl>
 <en>The merchant looked at the donkey and said, “Dear friend, I saw you fall into the water of the pond deliberately every day with the malicious intention of reducing the weight of the salt.
-<nl>De koopman keek naar de ezel en zei: "Beste vriend, ik zag je elke dag bewust in het water van de vijver vallen met de kwaadaardige bedoeling om het gewicht van het zout te verminderen.
+<nl>De koopman keek naar de ezel en zei: 'Beste vriend, ik zag je elke dag bewust in het water van de vijver vallen met de kwaadaardige bedoeling om het gewicht van het zout te verminderen.
 <en>So, I loaded a sack of cotton today.
 <nl>Dus ik heb vandaag een zak katoen gepakt.
 <en>Cotton when wet gets more weight and becomes heavier.
 <nl>Katoen, wanneer nat, krijgt meer gewicht en wordt zwaarder.
-<en>Now you will have to carry it to the town."
-<nl>Nu moet je het naar de stad brengen."
+<en>Now you will have to carry it to the town.'
+<nl>Nu moet je het naar de stad brengen.'
 <en>
 <nl>
 <en>The poor donkey had learnt his lesson.

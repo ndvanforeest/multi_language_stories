@@ -1,5 +1,5 @@
 <en>The Old Man with The Two Black Dogs
-<nl>The oude man met de twee zwarte honden
+<nl>De oude man met de twee zwarte honden
 <en>Long time back, ours was a happy and prosperous family.
 <nl>Lange tijd geleden was  onze familie gelukkig en welvarend.
 <en>We were three brothers who loved each other very much.
@@ -34,10 +34,10 @@
 <nl>Ik pakte een zilveren munt uit mijn zak en gaf die aan hem.
 <en>Seeing this, the poor beggar burst out in tears.
 <nl>Toen hij dit zag, barstte de arme bedelaar in tranen uit.
-<en>"Oh! What fate!" he cried bitterly.
-<nl>"Oh! Welk lot!" hij huilde bitter.
-<en>"A brother is giving another alms in pity."
-<nl>"E'en broer geeft een andere  aalmoezen uit medelijden."
+<en>`Oh! What fate!' he cried bitterly.
+<nl>`Oh! Welk lot!' hij huilde bitter.
+<en>`A brother is giving another alms in pity.'
+<nl>`E'en broer geeft een andere  aalmoezen uit medelijden.'
 <en>I gave him a second look.
 <nl>Ik wierp hem een tweede blik toe.
 <en>Suddenly I recognised him to be my eldest brother.
@@ -84,10 +84,10 @@
 <nl>We leefden gelukkig en samen opnieuw.
 <en>
 <nl>
-<en>One fine morning, both my brothers came to me and said, "Brother, all three of us must go on a long journey to expand our business.
-<nl>Op een mooie ochtend kwamen mijn beide broers naar me toe en zeiden: "Broeder, we moeten alle drie op een lange reis gaan om ons bedrijf uit te breiden.
-<en>We'll trade together and amass wealth."
-<nl>We zullen samen handelen en rijkdom vergaren."
+<en>One fine morning, both my brothers came to me and said, `Brother, all three of us must go on a long journey to expand our business.
+<nl>Op een mooie ochtend kwamen mijn beide broers naar me toe en zeiden: `Broeder, we moeten alle drie op een lange reis gaan om ons bedrijf uit te breiden.
+<en>We'll trade together and amass wealth.'
+<nl>We zullen samen handelen en rijkdom vergaren.'
 <en>I refused because I had seen my brothers becoming penniless after such adventurous business trips.
 <nl>Ik weigerde omdat ik mijn broers berooid had zien worden na dergelijke avontuurlijke zakenreizen.
 <en>But they persisted.
@@ -120,16 +120,16 @@
 <nl>Toen we ons klaar maakten te vertrekken, benaderde een mooie, maar arme vrouw mij.
 <en>She bowed to me and kissed my hand.
 <nl>Ze boog voor me en kuste mijn hand.
-<en>Then she said, "Sir, please be kind enough to accept me as your wife.
-<nl>Toen zei ze: "Heer, wees vriendelijk genoeg mij als uw vrouw te accepteren.
-<en>I have nobody to care for me and nowhere to stay."
+<en>Then she said, 'Sir, please be kind enough to accept me as your wife.
+<nl>Toen zei ze: 'Heer, wees vriendelijk genoeg mij als uw vrouw te accepteren.
+<en>I have nobody to care for me and nowhere to stay.'
 <nl>Ik heb niemand om voor me te zorgen en nergens om te blijven.'
 <en>I was taken aback.
 <nl>Ik was verrast.
-<en>I said, "Dear woman, I don't even know you.
-<nl>Ik zei: "Lieve vrouw, ik ken u niet eens.
-<en>How can you expect me to marry a stranger?"
-<nl>Hoe kunt u  van mij verwachten  een vreemdeling te huwen?"
+<en>I said, `Dear woman, I don't even know you.
+<nl>Ik zei: `Lieve vrouw, ik ken u niet eens.
+<en>How can you expect me to marry a stranger?'
+<nl>Hoe kunt u  van mij verwachten  een vreemdeling te huwen?'
 <en>The woman pleaded tearfully and persuaded me to take her as my wife.
 <nl>De vrouw smeekte met tranen en overtuigde me haar tot vrouw te nemen.
 <en>She promised to be loyal and loving and soon we were married after the required arrangements were made.
@@ -154,24 +154,24 @@
 <nl>Mijn vrouw, die een fee was, gebruikte haar krachten om ons beiden te redden.
 <en>Soon we found ourselves on an island.
 <nl>Al snel bevonden wij ons op een eiland.
-<en>Then my wife said, "Dear, I am a fairy.
-<nl>Toen zei mijn vrouw: "Liefste, ik ben een fee.
+<en>Then my wife said, `Dear, I am a fairy.
+<nl>Toen zei mijn vrouw: `Liefste, ik ben een fee.
 <en>I married you for I saw a kind-hearted man who would be a fit husband for me.
 <nl>Ik ben met je getrouwd, want ik zag een goedhartige man die een geschikte echtgenoot voor me zou zijn.
 <en>You have taken good care of me but I am very hurt and angry at the way your ungrateful brothers have treated you.
 <nl>Je hebt goed voor me gezorgd, maar ik ben erg gekwetst en boos op de manier waarop je ondankbare broeders je hebben behandeld.
-<en>I'll punish them by sinking their ship."
+<en>I'll punish them by sinking their ship.'
 <nl>Ik zal ze straffen door hun schip te laten zinken. '
 <en>
 <nl>
 <en>I was horrified.
 <nl>Ik was geschokt.
-<en>"Please don't do that.
-<nl>"Doe dat alsjeblieft niet.
+<en>`Please don't do that.
+<nl>`Doe dat alsjeblieft niet.
 <en>After all they are my brothers.
 <nl>Ze zijn tenslotte mijn broers.
-<en>Let's forgive and forget."
-<nl>Laten we vergeven en vergeten."
+<en>Let's forgive and forget.'
+<nl>Laten we vergeven en vergeten.'
 <en>But nothing could stop my angry fairy wife.
 <nl>Maar niets kon mijn boze sprookjesvrouw tegenhouden.
 <en>She declared that her fury would end only after she avenged herself.
@@ -190,13 +190,13 @@
 <nl>Ik zag twee ongure zwarte honden net binnen de deur.
 <en>I was surprised.
 <nl>Ik was verrast.
-<en>"Dear, I don't know where these black dogs came from.
-<nl>"Liefst, ik weet niet waar deze zwarte honden vandaan zijn gekomen.
-<en>I never had any pets either." I explained.
+<en>`Dear, I don't know where these black dogs came from.
+<nl>`Liefst, ik weet niet waar deze zwarte honden vandaan zijn gekomen.
+<en>I never had any pets either.' I explained.
 <nl>Ik heb ook nooit huisdieren gehad.' legde ik uit.
-<en>"I know, dear," my fairy wife said.
+<en>`I know, dear,' my fairy wife said.
 <nl>'Ik weet het, liefste, zei mijn sprookjesvrouw.
-<en>"These black dogs are your own ungrateful brothers.
+<en>`These black dogs are your own ungrateful brothers.
 <nl>'Deze zwarte honden zijn jouw eigen ondankbare broers.
 <en>I changed them into  black dogs to punish them.
 <nl>Ik heb ze  veranderd in zwarte honden om ze te straffen.
@@ -206,7 +206,7 @@
 <nl>Ik moet nu afscheid nemen.
 <en>The spell cast by me will last for ten years.
 <nl>De bezwering uitgesproken door mij zal tien jaar aanhouden.
-<en>You can contact me after that time."
+<en>You can contact me after that time.'
 <nl>Je kunt mij bereiken na die tijd.'
 <en>My fairy wife told me where her home was and vanished into thin air.
 <nl>Mijn sprookjesvrouw vertelde me waar haar huis was en verdween in het niets.

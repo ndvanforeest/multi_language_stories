@@ -6,16 +6,16 @@
 <nl>De droom begon ermee dat Akbar en Birbal  naar elkaar toe te liepen op een maanloze nacht.
 <en>It was so dark that they could not see each other and they collided and fell.
 <nl>Het was zo donker dat ze elkaar niet konden zien en ze botsten en vielen.
-<en>"Fortunately for me," said the Emperor.
-<nl>"Gelukkig voor mij", zei de keizer.
-<en>"I fell into a pool of payasam.
-<nl>"Ik viel in een plas payasam.
-<en>But guess what Birbal fell into?"
-<nl>Maar raad eens waar Birbal in viel? '
-<en>"What, your Majesty?" asked the courtiers.
-<nl>"Wat, majesteit?" vroegen de hovelingen.
-<en>"A gutter!"
-<nl>"Een goot!"
+<en>`Fortunately for me,' said the Emperor.
+<nl>`Gelukkig voor mij', zei de keizer.
+<en>`I fell into a pool of payasam.
+<nl>`Ik viel in een plas payasam.
+<en>But guess what Birbal fell into?'
+<nl>Maar raad eens waar Birbal in viel?'
+<en>`What, your Majesty?' asked the courtiers.
+<nl>`Wat, majesteit?' vroegen de hovelingen.
+<en>`A gutter!'
+<nl>`Een goot!'
 <en>The court resounded with laughter.
 <nl>Het hof galmde van het lachen.
 <en>The emperor was thrilled that for once he had been able to score over Birbal.
@@ -24,18 +24,18 @@
 <nl>
 <en>But Birbal was unperturbed.
 <nl>Maar Birbal was onverstoorbaar.
-<en>"Your Majesty," he said when the laughter had died down.
+<en>`Your Majesty,' he said when the laughter had died down.
 <nl>'Majesteit,' zei hij toen het lachen was opgehouden.
-<en>"Strangely, I too had the same dream.
-<nl>"Vreemd genoeg had ik ook dezelfde droom.
+<en>`Strangely, I too had the same dream.
+<nl>`Vreemd genoeg had ik ook dezelfde droom.
 <en>But unlike you I slept on till the end.
 <nl>Maar in tegenstelling tot jou heb ik tot het eind geslapen.
-<en>When you climbed out of that pool of delicious payasam and I out of that stinking gutter, we found that there was no water with which to clean ourselves, so guess what we did?"
-<nl>Toen je uit die plas smakelijke payasam klom en ik uit die stinkende goot, ontdekten we dat er geen water was om onszelf schoon te maken, dus raad eens wat we deden? "
-<en>"What?" asked the emperor, warily.
-<nl>"Wat?" vroeg de keizer behoedzaam.
-<en>"We licked each other clean!"
-<nl>"We likten elkaar schoon!"
+<en>When you climbed out of that pool of delicious payasam and I out of that stinking gutter, we found that there was no water with which to clean ourselves, so guess what we did?'
+<nl>Toen je uit die plas smakelijke payasam klom en ik uit die stinkende goot, ontdekten we dat er geen water was om onszelf schoon te maken, dus raad eens wat we deden?'
+<en>`What?' asked the emperor, warily.
+<nl>`Wat?' vroeg de keizer behoedzaam.
+<en>`We licked each other clean!'
+<nl>`We likten elkaar schoon!'
 <en>
 <nl>
 <en>The emperor became red with embarrassment and resolved never to try to get the better of Birbal again.

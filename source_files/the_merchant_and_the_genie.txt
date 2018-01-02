@@ -1,7 +1,7 @@
 <en>The Merchant and The Genie
-<nl>The koopman en de geest
-<en>Once upon a time there was a merchant who possessed great wealth in land and in merchandise.
-<nl>Er was eens een handelaar die een grote rijkdom bezat in land en in koopwaar.
+<nl>De koopman en de geest
+<en>Sire, once upon a time there was a merchant who possessed great wealth in land and in merchandise.
+<nl>Sire, er was eens een handelaar die een grote rijkdom bezat in land en in koopwaar.
 <en>He had to take journeys to arrange his affairs.
 <nl>Hij moest reizen maken om zijn zaken te regelen.
 <en>
@@ -47,7 +47,7 @@
 <en>said the merchant,
 <nl>zei de koopman,
 <en>`I certainly did.'
-<nl>'dat heb ik zeker gedaan.'
+<nl>`dat heb ik zeker gedaan.'
 <en>`Then,'
 <nl>`Dan,'
 <en>said the Genie,
@@ -70,6 +70,60 @@
 <nl>Hij greep de handelaar bij de arm, gooide hem op de grond en tilde zijn sabel op om zijn hoofd af te hakken.
 <en>The merchant pleaded to the Genie to allow him to see his wife and children and promised to return to the Genie.
 <nl>De koopman smeekte de geest  hem toe te staan zijn vrouw en kinderen te zien en beloofde terug te keren naar de geest.
+<en>Scheherazade, at this point, seeing that it was day, and knowing that the Sultan always rose very early to attend the council, stopped speaking.
+<nl>Scheherazade, toen zij zag dat het dag was, en wetende dat de sultan altijd vroeg opstond om de raad bij te wonen, stopte op dat moment met spreken.
+<en>
+<nl>
+<en>`Indeed, sister,' said Dinarzade,
+<nl>`Inderdaad, zuster,' zei Dinarzade,
+<en>`this is a wonderful story.'
+<nl>`dit is een prachtig verhaal.'
+<en>
+<nl>
+<en>`The rest is still more wonderful,' replied Scheherazade,
+<nl>`De rest is nog mooier,' antwoordde Scheherazade,
+<en>`and you would say so, if the sultan would allow me to live another day, and would give me leave to tell it to you the next night.'
+<nl>`en je zou dat zeggen, als de sultan me nog een dag zou laten leven, en me toestemming zou geven om het je de volgende nacht te vertellen.'
+<en>
+<nl>
+<en>Schahriar, who had been listening to Scheherazade with pleasure, said to himself,
+<nl>Schahriar, die met plezier naar Scheherazade had geluisterd, zei tegen zichzelf:
+<en>`I will wait till to-morrow;
+<nl>`Ik zal wachten tot morgen;
+<en>I can always have her killed when I have heard the end of her story.'
+<nl>Ik kan haar altijd laten doden als ik het einde van haar verhaal heb gehoord.'
+<en>
+<nl>
+<en>All this time the grand-vizir was in a terrible state of anxiety.
+<nl>Al die tijd verkeerde de groots-vizier in een vreselijke angst.
+<en>But he was much delighted when he saw the Sultan enter the council-chamber without giving the terrible command that he was expecting.
+<nl>Maar hij was zeer verheugd toen hij de sultan de raadskamer zag binnengaan zonder het vreselijke bevel te geven dat hij verwachtte.
+<en>
+<nl>
+<en>The next morning, before the day broke, Dinarzade said to her sister,
+<nl>De volgende ochtend, vóór de dag brak, zei Dinarzade tegen haar zuster,
+<en>`Dear sister, if you are awake I pray you to go on with your story.'
+<nl>`Beste zuster, als je wakker bent, vraag ik je om door te gaan met je verhaal.'
+<en>
+<nl>
+<en>The Sultan did not wait for Scheherazade to ask his leave.
+<nl>De sultan wachtte niet op Scheherazade om zijn verlof te vragen.
+<en>`Finish,' said he,
+<nl>`Eindig,' zei hij,
+<en>`the story of the genius and the merchant.
+<nl>`het verhaal van het geest en de handelaar.
+<en>I am curious to hear the end.'
+<nl>Ik ben benieuwd naar het einde.'
+<en>
+<nl>
+<en>So Scheherazade went on with the story.
+<nl>Dus ging Scheherazade verder met het verhaal.
+<en>This happened every morning.
+<nl>Dit gebeurde elke ochtend.
+<en>The Sultana told a story, and the Sultan let her live to finish it.
+<nl>De Sultana vertelde een verhaal en de Sultan liet haar leven om het af te maken.
+<en>
+<nl>
 <en>When the merchant saw that the Genie was determined to cut off his head, he said, `One word more, I entreat you.
 <nl>Toen de koopman zag dat de geest vastbesloten was zijn hoofd af te hakken, zei hij, `Nog één woord, ik smeek u.
 <en>Grant me a little delay, a short time to go home and bid my wife and children farewell and to make my will.
@@ -92,8 +146,8 @@
 <nl>`Ik beloof je dat ik precies na twaalf maanden onder deze bomen zal wachten om mezelf aan jou over te geven.'
 <en>On this the Genie left him near the fountain and disappeared.
 <nl>Hierop liet de geest hem bij de bron achter en verdween.
-<en>The merchant mounted his horse and continued his journey towards home.
-<nl>De koopman klom op zijn paard en vervolgde zijn reis naar huis.
+<en>The merchant, having recovered from his fright, mounted his horse and went on his road.
+<nl>De koopman, hersteld van zijn schrik, klom op zijn paard en ging op weg.
 <en>
 <nl>
 <en>When he arrived home, his wife and children received him with the greatest joy.
@@ -108,10 +162,10 @@
 <nl>antwoordde haar man.
 <en>`I have only a year to live.'
 <nl>`Ik heb nog maar een jaar te leven.'
-<en>Then he told them what had passed between him and the Genie.
-<nl>Toen vertelde hij hen wat er tussen hem en de geest was gebeurd.
-<en>When they heard this sad news they were in despair and dismay.
-<nl>Toen ze dit droevige nieuws hoorden, waren ze wanhopig en ontzet.
+<en>Then he told them what had passed between him and the genius, and how he had given his word to return at the end of a year to be killed.
+<nl>Toen vertelde hij hen wat er tussen hem en de geest was gebeurd, en hoe hij zijn woord had gegeven om aan het einde van een jaar terug te komen om te worden gedood.
+<en>When they heard this sad news they were in despair, and wept much.
+<nl>Toen zij dit droevige nieuws hoorden, waren zij wanhopig en weenden zij veel.
 <en>
 <nl>
 <en>The next day the merchant began to settle his affairs.
@@ -128,8 +182,8 @@
 <nl>Toen hij afscheid probeerde te nemen, was hij volkomen overmand door verdriet en scheurde  zichzelf met moeite los.
 <en>
 <nl>
-<en>At length he reached the place where he had first seen the Genie.
-<nl>Eindelijk bereikte hij de plaats  waar hij de geest voor het eerst had gezien.
+<en>At length he reached the place where he had first seen the genius, on the very day that he had appointed.
+<nl>Eindelijk bereikte hij de plaats waar hij de geest voor het eerst had gezien, precies op de dag dat hij  had afgesproken.
 <en>He dismounted and sat down at the edge of the fountain where he awaited the Genie in terrible suspense.
 <nl>Hij steeg af en ging zitten aan de rand van de bron, waar hij de geest opwachtte in verschrikkelijke spanning.
 <en>
@@ -142,12 +196,14 @@
 <nl>`Mag ik vragen,
 <en>brother, what brought you to this desert place, where there are so many evil genii about?
 <nl>broer, wat bracht je naar deze woestijnplaats, waar er zoveel kwade geesten zijn?
-<en>It is a dangerous place to stay too long.'
-<nl>Het is een gevaarlijke plek om te lang te blijven.'
+<en>To see these beautiful trees one would imagine it was inhabited, but it is a dangerous place to stop long in.'
+<nl>Bij het zien van deze prachtige bomen zou je denken dat het bewoond was, maar het is een gevaarlijke plek om lang te verblijven.'
 <en>The merchant told the old man why he was obliged to come there.
 <nl>De koopman vertelde de oude man waarom hij verplicht was daar te komen.
 <en>He listened in astonishment.
 <nl>Hij luisterde verbaasd.
+<en>
+<nl>
 <en>`This is an incredible affair.
 <nl>`Dit is een ongelooflijke aangelegenheid.
 <en>I should like to be a witness of your interview with the Genie.'
@@ -176,29 +232,29 @@
 <nl>
 <en>They soon saw in the distance a thick smoke, like a cloud of dust.
 <nl>Ze zagen al snel in de verte een dikke rook, als een wolk van stof.
-<en>This smoke came nearer and nearer and then, all at once, it vanished and they saw the Genie who without speaking to them, approached the merchant and said.
-<nl>Deze rook kwam dichterbij en dichterbij en toen, opeens, verdween het en ze zagen de geest die, zonder met hen te praten, de koopman benaderde en zei.
+<en>This smoke came nearer and nearer and then, all at once, it vanished and they saw the Genie who without speaking to them, approached the merchant, sword in hand, and, taking him by the arm, said,
+<nl>Deze rook kwam dichterbij en dichterbij en toen, opeens, verdween het en ze zagen de geest die, zonder met hen te praten, de koopman benaderde,  zwaard in de hand, en, hem bij de arm grijpend, zei:
 <en>`Get up and let me kill you as you killed my son.'
 <nl>`Sta op en laat me je vermoorden zoals je mijn zoon doodde.'
 <en>The merchant and the three old men began to weep and groan.
 <nl>De koopman en de drie oude mannen begonnen te wenen en te kreunen.
 <en>
 <nl>
-<en>Then the old man leading the red deer threw himself at the monster’s feet and said, `O Prince of the Genii.
-<nl>Toen gooide de oude man die het edelhert meenam zich voor de voeten van het monster en zei: `O Prins van de geesten.
-<en>I beg of you to listen to me.
-<nl>Ik smeek je om naar me te luisteren.
-<en>I am going to tell you my story and that of the red deer I have with me and if you find it more miserable than that of the merchant whom you are about to kill, you can do away with his punishment?'
-<nl>Ik ga u mijn verhaal vertellen en dat van het edelhert dat ik bij me heb en als je het verdrietiger vindt dan dat van de handelaar die je gaat doden, kun je afzien van zijn straf?'
+<en>Then the old man leading the red deer threw himself at the monster’s feet and said,
+<nl>Toen gooide de oude man die het edelhert meenam zich voor de voeten van het monster en zei: 
+<en>`O Prince of the Genii, I beg of you to stay your fury and to listen to me.
+<nl>`O Prins van de geesten, ik smeek u om uw woede te weerstaan en naar mij te luisteren.
+<en>I am going to tell you my story and that of the red deer I have with me and if you find it more marvelous than that of the merchant whom you are about to kill, you can do away with his punishment?'
+<nl>Ik ga u mijn verhaal vertellen en dat van het edelhert dat ik bij me heb en als u het wonderbaarlijker vindt dan dat van de handelaar die u gaat doden, kunt u afzien van zijn straf?'
 <en>The Genie thought for a while and then said,
 <nl>De geest dacht een tijdje na en zei toen,
 <en>`Very well.
 <nl>`Uitstekend.
 <en>I agree to this.'
 <nl>Ik ga hiermee akkoord.'
-<en>
-<nl>
-<en>The Genie listened to the story of the old man and his deer which was even more pathetic.
-<nl>De geest luisterde naar het verhaal van de oude man en zijn hert, dat nog zieliger was.
-<en>The Genie became pacified and let the merchant go home without punishment.
-<nl>De geest werd mild gestemd en liet de koopman zonder straf naar huis gaan.
+<en>%
+<nl>%
+<en>%The Genie listened to the story of the old man and his deer which was even more pathetic.
+<nl>%De geest luisterde naar het verhaal van de oude man en zijn hert, dat nog zieliger was.
+<en>%The Genie became pacified and let the merchant go home without punishment.
+<nl>%De geest werd mild gestemd en liet de koopman zonder straf naar huis gaan.

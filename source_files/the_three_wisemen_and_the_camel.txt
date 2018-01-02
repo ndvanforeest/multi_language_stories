@@ -12,56 +12,56 @@
 <nl>Op een zo'n reis raakte hij onverwacht zijn kameel kwijt.
 <en>He was in search of his camel.
 <nl>Hij zocht naar zijn kameel.
-<en>He asked everyone, "Have you seen my camel."
-<nl>Hij vroeg iedereen: "Heb je mijn kameel gezien?"
+<en>He asked everyone, `Have you seen my camel.'
+<nl>Hij vroeg iedereen: `Heb je mijn kameel gezien?'
 <en>But everywhere his effort was in vain.
 <nl>Maar overal bleek zijn moeite tevergeefs.
 <en>
 <nl>
 <en>One day when he came through a city he met three wise men on his way.
 <nl>Op een dag toen hij door een stad kwam ontmoette hij drie wijze mannen op zijn weg.
-<en>As usual he asked the wise men "Has any one of you seen my camel?"
-<nl>Zoals gewoonlijk vroeg hij de wijzen: "Heeft iemand van u mijn kameel gezien?"
+<en>As usual he asked the wise men `Has any one of you seen my camel?'
+<nl>Zoals gewoonlijk vroeg hij de wijzen: `Heeft iemand van u mijn kameel gezien?'
 <en>The three wise men thought for a while and began to speak.
 <nl>De drie wijze mannen dachten een tijdje na en begonnen te spreken.
-<en>The man asked them curiously, "Have you seen my camel on your way?"
-<nl>De man vroeg hun nieuwsgierig: "Heb je mijn kameel gezien onderweg?"
-<en>The first wise man asked him, "Is your camel’s one eye blind?"
-<nl>De eerste wijze man vroeg hem: "Is jouw kameel aan één oog blind?"
-<en>The man replied quickly, "Yes, yes my camel's one eye is blind."
-<nl>De man antwoordde snel: "Ja, ja, mijn kameel's ene oog is blind."
-<en>"Have you seen my camel on your way" the man asked the second wise man.
-<nl>"Heb je mijn kameel onderweg gezien?" vroeg de man de tweede wijze man.
-<en>The second wise man asked him, "Is your camel lame?"
-<nl>De tweede wijze man vroeg hem: "Is uw kameel kreupel?"
-<en>The man became curious and said, "Yes, yes he is lame!"
-<nl>De man werd nieuwsgierig en zei: "Ja, ja hij is kreupel!"
-<en>"Have you seen my camel" again he asked the third wise man.
-<nl>"Heb je mijn kameel gezien", vroeg hij opnieuw de derde wijze man.
-<en>The third wise man asked, "Was your camel carrying honey on one side and grain on the other side?"
-<nl>De derde wijze man vroeg: "Droeg je kameel honing aan de ene kant en graan aan de andere kant?"
-<en>On hearing these words, the owner of the camel became happy and asked them "Have you all seen my camel?
-<nl>Bij het horen van deze woorden werd de eigenaar van de kameel blij en vroeg hen: "Hebben jullie allemaal mijn kameel gezien?
-<en>Please tell me."
-<nl>Vertel me alsjeblieft."
+<en>The man asked them curiously, `Have you seen my camel on your way?'
+<nl>De man vroeg hun nieuwsgierig: `Heb je mijn kameel gezien onderweg?'
+<en>The first wise man asked him, `Is your camel’s one eye blind?'
+<nl>De eerste wijze man vroeg hem: `Is jouw kameel aan één oog blind?'
+<en>The man replied quickly, `Yes, yes my camel's one eye is blind.'
+<nl>De man antwoordde snel: `Ja, ja, mijn kameel's ene oog is blind.'
+<en>`Have you seen my camel on your way' the man asked the second wise man.
+<nl>`Heb je mijn kameel onderweg gezien?' vroeg de man de tweede wijze man.
+<en>The second wise man asked him, `Is your camel lame?'
+<nl>De tweede wijze man vroeg hem: `Is uw kameel kreupel?'
+<en>The man became curious and said, `Yes, yes he is lame!'
+<nl>De man werd nieuwsgierig en zei: `Ja, ja hij is kreupel!'
+<en>`Have you seen my camel' again he asked the third wise man.
+<nl>`Heb je mijn kameel gezien', vroeg hij opnieuw de derde wijze man.
+<en>The third wise man asked, `Was your camel carrying honey on one side and grain on the other side?'
+<nl>De derde wijze man vroeg: `Droeg je kameel honing aan de ene kant en graan aan de andere kant?'
+<en>On hearing these words, the owner of the camel became happy and asked them `Have you all seen my camel?
+<nl>Bij het horen van deze woorden werd de eigenaar van de kameel blij en vroeg hen: `Hebben jullie allemaal mijn kameel gezien?
+<en>Please tell me.'
+<nl>Vertel me alsjeblieft.'
 <en>
 <nl>
-<en>Now the three wise men replied, "We have never seen your camel?"
-<nl>Nu antwoordden de drie wijzen: "We hebben je kameel nog nooit gezien?"
-<en>"You three are fooling me now" Don’t make fun of me", the man said in anger.
-<nl>"Jullie drie houden me nu voor de gek. Maak me  niet belachelijk", zei de man boos.
+<en>Now the three wise men replied, `We have never seen your camel?'
+<nl>Nu antwoordden de drie wijzen: `We hebben je kameel nog nooit gezien?'
+<en>`You three are fooling me now' Don’t make fun of me`, the man said in anger.
+<nl>'Jullie drie houden me nu voor de gek. Maak me  niet belachelijk`, zei de man boos.
 <en>The three wise men said calmly.
 <nl>De drie wijze mannen zeiden kalm. 
-<en>"We are not fooling you man.
-<nl>"We houden je niet voor de gek.
-<en>We didn’t see your camel anywhere".
-<nl>We hebben je kameel nergens gezien".
+<en>`We are not fooling you man.
+<nl>`We houden je niet voor de gek.
+<en>We didn’t see your camel anywhere'.
+<nl>We hebben je kameel nergens gezien'.
 <en>
 <nl>
 <en>The man got angry and took them to the King for enquiry.
 <nl>De man werd boos en nam ze mee naar de koning ter ondervraging.
-<en>He said to the King, "The three men have stolen my camel, my Lord".
-<nl>Hij zei tegen de koning: "De drie mannen hebben mijn kameel gestolen, mijn heer."
+<en>He said to the King, `The three men have stolen my camel, my Lord'.
+<nl>Hij zei tegen de koning: `De drie mannen hebben mijn kameel gestolen, mijn heer.'
 <en>He also described what they had said.
 <nl>Hij beschreef ook wat ze hadden gezegd.
 <en>The king asked the three what had happened.
@@ -72,16 +72,16 @@
 <nl>De koning vroeg hen toen hoe ze de identiteit van de verloren kameel konden vertellen.
 <en>The first man told the king that he had seen the grass eaten on only one side.
 <nl>De eerste man vertelde de koning dat hij gezien had dat het gras aan slechts één kant was weggevreten.
-<en>"So I assumed that the camel must be blind in one eye", He said.
-<nl>"Dus ik nam aan dat de kameel blind moest zijn aan één oog", zei hij.
+<en>`So I assumed that the camel must be blind in one eye', he said.
+<nl>`Dus ik nam aan dat de kameel blind moest zijn aan één oog', zei hij.
 <en>The second man said that he had seen the grains scattered on one side and the honey on the other side.
 <nl>De tweede man zei dat hij de korrels aan de ene kant en de honing aan de andere kant had gezien.
-<en>"So I assumed that the camel was carrying the grains on one side and honey on the other side", He said.
-<nl>"Dus ik nam aan dat de kameel de korrels aan de ene kant droeg en honing aan de andere kant", zei hij.
+<en>`So I assumed that the camel was carrying the grains on one side and honey on the other side', he said.
+<nl>`Dus ik nam aan dat de kameel de korrels aan de ene kant droeg en honing aan de andere kant', zei hij.
 <en>The third man described that the hoof marks of the camel were lighter on one side than the other.
 <nl>De derde man beschreef dat de sporen van de hoeven van de kameel lichter waren aan de ene kant dan aan de andere.
-<en>"So we came to a conclusion that the camel must be lame", He said.
-<nl>"Dus kwamen we tot de conclusie dat de kameel kreupel moest zijn", zei hij.
+<en>`So we came to a conclusion that the camel must be lame', He said.
+<nl>`Dus kwamen we tot de conclusie dat de kameel kreupel moest zijn', zei hij.
 <en>
 <nl>
 <en>The courtiers including the king wondered about the cleverness of the three.

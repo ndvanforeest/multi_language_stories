@@ -4,15 +4,15 @@
 <nl>Een paardenrace stond op het punt te worden gehouden en de deelnemers stonden op een rij.
 <en>Mulla Nasruddin Hodja came with an ox and asked that it be included in the race.
 <nl>Mulla Nasruddin Hodja kwam met een os en vroeg  het op te nemen in de race.
-<en>"Have you gone mad?"
-<nl>"Ben je gek geworden?"
+<en>`Have you gone mad?'
+<nl>`Ben je gek geworden?'
 <en>said the organizers.
 <nl>zeiden de organisatoren.
-<en>"What chance does an ox have against horses?"
-<nl>"Welke kans maakt een os tegen paarden?"
-<en>"You talk that way because you do not know anything about my ox," said Hodja.
-<nl>"Je praat zo omdat je niets van mijn os weet," zei Hodja.
-<en>"When it was a mere calf it could run almost as fast as a pony.
-<nl>"Toen hij nog slechts een kalf was, kon hij bijna net zo snel rennen als een pony.
-<en>Now that it is older it should be able to run even faster."
-<nl>Nu hij ouder is, moet  hij in staat zijn  zelfs sneller te rennen."
+<en>`What chance does an ox have against horses?'
+<nl>`Welke kans maakt een os tegen paarden?'
+<en>`You talk that way because you do not know anything about my ox,' said Hodja.
+<nl>`Je praat zo omdat je niets van mijn os weet,' zei Hodja.
+<en>`When it was a mere calf it could run almost as fast as a pony.
+<nl>`Toen hij nog slechts een kalf was, kon hij bijna net zo snel rennen als een pony.
+<en>Now that it is older it should be able to run even faster.'
+<nl>Nu hij ouder is, moet  hij in staat zijn  zelfs sneller te rennen.'

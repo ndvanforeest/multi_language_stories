@@ -31,15 +31,15 @@
 <en>At last they found him and said to him, “Come to the palace with us”.
 <nl>Eindelijk vonden ze hem en zeiden tegen hem: `Kom mee naar het paleis met ons.'
 <tr>Sonunda onu buldular ve ona "Bizimle saraya gel" dediler.
-<en>He said, “I don’t want to come with you  because  I am free and happy in the forest.
+<en>He said, `I don’t want to come with you  because  I am free and happy in the forest.'
 <nl>Hij zei: `Ik wil niet met jullie mee komen omdat ik vrij en gelukkig ben in het bos.'
-<tr>O da "Sizinle gelmek istemiyorum çünkü ben ormanda özgürüm ve mutluyum" dedi.
+<tr>O da `Sizinle gelmek istemiyorum çünkü ben ormanda özgürüm ve mutluyum' dedi.
 <en>“They begged him, `Please,come with us because the king wants you.'
 <nl>Ze smeekten hem, `Alsjeblieft, kom met ons mee omdat de koning jou wil hebben.'
-<tr>Ona "Lütfen bizimle gel kral seni istiyor" diye yalvardılar.
-<en>The nightingale said, “Yes.”
-<nl>De nachtegaal zei: "Ja."
-<tr>Bülbül "Tamam" dedi.
+<tr>Ona `Lütfen bizimle gel kral seni istiyor' diye yalvardılar.
+<en>The nightingale said, `Yes.'
+<nl>De nachtegaal zei: `Ja.'
+<tr>Bülbül `Tamam' dedi.
 <en>They went to the palace together.
 <nl>Ze gingen samen naar het paleis.
 <tr>Birlikte saraya gittiler.
@@ -109,9 +109,9 @@
 <en>He mended it.
 <nl>Hij maakte het. 
 <tr>Onu tamir etti.
-<en>He said, “It can sing only once a year.'
+<en>He said, `It can sing only once a year.'
 <nl>Hij zei: `Het kan alleen nog maar eens per jaar zingen.'
-<tr>"Senede bir kere ötebilir" dedi.
+<tr>`Senede bir kere ötebilir' dedi.
 <en>The king was very sad.
 <nl>De koning was heel verdrietig.
 <tr>Kral çok üzgündü.
@@ -138,7 +138,7 @@
 <tr>İnsanların arasında bir söylenti başladı.
 <en>Everybody whispered with each other, “The king is dead.”
 <nl>Iedereen fluisterde met elkaar, `De koning is dood.'
-<tr>Herkes birbirine "Kral öldü" diye fısıldadı.
+<tr>Herkes birbirine `Kral öldü' diye fısıldadı.
 <en>
 <nl>
 <tr>
@@ -151,9 +151,9 @@
 <en>The king opened his eyes.
 <nl>De koning opende zijn ogen.
 <tr>Kral gözlerini açtı.
-<en>“My real friend has  come,” he said.
+<en>`My real friend has  come,' he said.
 <nl>`Mijn echte vriend is gekomen,' zei hij.
-<tr>"Gerçek arkadaşım geldi" dedi.
+<tr>`Gerçek arkadaşım geldi' dedi.
 <en>They lived happily ever after.
 <nl>Ze leefden nog lang en gelukkig.
 <tr>Sonsuza kadar mutlu yaşadılar.

@@ -6,8 +6,10 @@
 <nl>Hij zocht altijd een rustige plek om nieuwe gedichten te  componeren.
 <en>One day he went to a forest nearby to find a calm place.
 <nl>Op een dag ging hij naar een bos in de buurt om een rustige plek te vinden.
-<en>At one place he thought, "It is the best place for me to write poems."
-<nl>Op één plaats dacht hij: "Dit is de beste plek voor mij om gedichten te schrijven."
+<en>At one place he thought,
+<nl>Op één plaats dacht hij:
+<en>`It is the best place for me to write poems.'
+<nl>`Dit is de beste plek voor mij om gedichten te schrijven.'
 <en>The place was quiet and surrounded by trees full of flowers.
 <nl>De plaats was rustig en omgeven door bomen vol bloemen.
 <en>So he sat there and began to think.
@@ -20,8 +22,10 @@
 <nl>De plaats was erg rustig.
 <en>So the sudden appearance of the devil made him frightened.
 <nl>Dus de plotselinge verschijning van de duivel maakte hem bang.
-<en>The devil asked the poet "Eyee....! Who are you?" in a fierce voice.
-<nl>De duivel vroeg de dichter met een felle stem, "Eyee ....! Wie ben je?".
+<en>The devil asked the poet
+<nl>De duivel vroeg de dichter met een felle stem,
+<en>`Eyee\ldots! Who are you?' in a fierce voice.
+<nl>`Eyee\ldots! Wie ben je?'
 <en>The poet was stunned for a while on hearing the voice.
 <nl>De dichter was eventjes verdoofd toen hij de stem hoorde.
 <en>The face was so ugly that he was afraid to look at the face.
@@ -32,30 +36,36 @@
 <nl>De dichter was zo bang dat zijn tong happerde.
 <en>
 <nl>
-<en>A little later again the devil spoke, "How dare you enter our place?"
-<nl>Even later sprak de duivel opnieuw: "Hoe durf je onze plaats binnen te gaan?"
-<en>On hearing the roaring of the devil the poet said "I am am an innocent poet, I want to write poem in a lonely and calm place.
-<nl>Toen hij het gebrul van de duivel hoorde, zei de dichter: "Ik ben een onschuldige dichter, ik wil een gedicht schrijven op een eenzame en rustige plaats.
+<en>A little later again the devil spoke,
+<nl>Even later sprak de duivel opnieuw:
+<en>`How dare you enter our place?'
+<nl>`Hoe durf je onze plaats binnen te gaan?'
+<en>On hearing the roaring of the devil the poet said
+<nl>Toen hij het gebrul van de duivel hoorde, zei de dichter:
+<en>`I am am an innocent poet, I want to write poem in a lonely and calm place.
+<nl>`Ik ben een onschuldige dichter, ik wil een gedicht schrijven op een eenzame en rustige plaats.
 <en>So I came here.
 <nl>Dus ik kwam hierheen.
 <en>I didn’t know that this place was yours.
 <nl>Ik wist niet dat deze plaats van jou was.
-<en>I don’t have any bad aim. If you give me a little time, I will quit the place."
-<nl>Ik heb geen slecht bedoelingen. Als je me wat tijd geeft, verlaat  ik deze plaats."
-<en>But the bad devil was not ready to hear his voice and began to curse him, "I won’t excuse you.
-<nl>Maar de boze duivel was niet bereid zijn stem aan te horen en begon hem te vervloeken: "Ik zal je niet vergeven.
+<en>I don’t have any bad aim. If you give me a little time, I will quit the place.'
+<nl>Ik heb geen slecht bedoelingen. Als je me wat tijd geeft, verlaat  ik deze plaats.'
+<en>But the bad devil was not ready to hear his voice and began to curse him,
+<nl>Maar de boze duivel was niet bereid zijn stem aan te horen en begon hem te vervloeken:
+<en>`I won’t excuse you.
+<nl>`Ik zal je niet vergeven.
 <en>You made a big mistake.
 <nl>Je hebt een grote fout gemaakt.
 <en>You should be punished for that.
 <nl>Daar moet je  voor worden gestraft.
-<en>So you will turn into a monkey from now."
-<nl>Dus je zult  in een aap veranderen vanaf nu."
+<en>So you will turn into a monkey from now.'
+<nl>Dus je zult  in een aap veranderen vanaf nu.'
 <en>All of a sudden the poet became a monkey, grey in color.
 <nl>Onmiddellijk werd de dichter een aap, grijs van kleur.
-<en>The devil saw the monkey poet and said, "Oh! Ha!
-<nl>De duivel zag de apendichter en zei: "Oh! Ha!
-<en>You shall be like this for many years."
-<nl>Je zult nog zo zijn voor vele jaren."
+<en>The devil saw the monkey poet and said, `Oh! Ha!
+<nl>De duivel zag de apendichter en zei: `Oh! Ha!
+<en>You shall be like this for many years.'
+<nl>Je zult nog zo zijn voor vele jaren.'
 <en>Then he left the place.
 <nl>Toen verliet hij de plaats.
 <en>
@@ -78,36 +88,34 @@
 <nl>De apendichter sprong onmiddellijk time op het schip en bewoog hier en daar over de bovenkant.
 <en>The passengers saw the monkey on the ship and started to shout.
 <nl>De passagiers zagen de aap op het schip en begonnen te schreeuwen.
-<en>"Monkey!
-<nl>"Aap!
+<en>`Monkey!
+<nl>`Aap!
 <en>Monkey!!
 <nl>Aap!!
-<en>Let anyone come and throw this away"
-<nl>Laat iemand komen en dit weggooien"
+<en>Let anyone come and throw this away'
+<nl>Laat iemand komen en dit weggooien'
 <en>They said with fear.
 <nl>zeiden ze  angstig.
 <en>One of the passengers quickly came forward and threw him into the sea.
 <nl>Een van de passagiers kwam snel naar voren en gooide hem in de zee.
-<en>Some passengers shouted,"Kill him!
-<nl>Sommige passagiers riepen: "Dood hem!
-<en>Kill!."
-<nl>Doden!."
+<en>Some passengers shouted, `Kill him!
+<nl>Sommige passagiers riepen: `Dood hem!
 <en>
 <nl>
 <en>Now the captain of the ship came there and saw the monkey struggling in the water.
 <nl>Nu kwam de kapitein van het schip daar en zag de aap worstelen in het water.
 <en>He was a kind-hearted man.
 <nl>Hij was een goedhartige man.
-<en>So he asked the passengers,"No!
-<nl>Dus hij vroeg de passagiers, "Nee!
+<en>So he asked the passengers, `No!
+<nl>Dus hij vroeg de passagiers, `Nee!
 <en>No, you don’t worry about the monkey.
 <nl>Nee, maak je geen zorgen om de aap.
 <en>It will not harm you.
 <nl>Het zal je niets aandoen.
 <en>This poor creature looks strange.
 <nl>Dit arme schepsel ziet er vreemd uit.
-<en>I can manage him."
-<nl>Ik kan hem beheersen."
+<en>I can manage him.'
+<nl>Ik kan hem beheersen.'
 <en>The Monkey poet was safe.
 <nl>De apendichter was veilig.
 <en>He thanked the captain for his timely help.
@@ -140,20 +148,22 @@
 <nl>Daarom beval hij de schrijver van de brief snel voor hem te brengen.
 <en>The courtiers came with the news to the monkey poet who sprung before the king at once.
 <nl>De hovelingen kwamen met het nieuws naar de apendichter die ogenblikkelijk voor de koning opsprong.
-<en>The King saw the monkey with wonder and said: "This poor monkey!
-<nl>De koning zag de aap met verwondering en zei: "Deze arme aap!
-<en>You all say this creature wrote the letter!".
-<nl>Jullie allen zeggen dat dit schepsel de brief heeft geschreven!"
-<en>One of the minister said: "This is true my lord.
-<nl>Een van de predikers zei: "Dit is waar mijn heer.
-<en>It was written by the monkey, my lord."
-<nl>Het is geschreven door de aap, mijn heer."
+<en>The King saw the monkey with wonder and said:
+<nl>De koning zag de aap met verwondering en zei:
+<en>`This poor monkey!
+<nl>`Deze arme aap!
+<en>You all say this creature wrote the letter!'.
+<nl>Jullie allen zeggen dat dit schepsel de brief heeft geschreven!'
+<en>One of the minister said: `This is true my lord.
+<nl>Een van de predikers zei: `Dit is waar mijn heer.
+<en>It was written by the monkey, my lord.'
+<nl>Het is geschreven door de aap, mijn heer.'
 <en>All the courtiers and the crowded public around the king, cheered the monkey.
 <nl>Alle hovelingen en het overvolle publiek rond de koning, juichten de aap toe.
-<en>They wondered, "He can't talk.
-<nl>Ze vroegen zich af: "Hij kan niet praten.
-<en>But how can he write a letter of such quality?"
-<nl>Maar hoe kan hij een brief van zo'n kwaliteit schrijven?"
+<en>They wondered, `He can't talk.
+<nl>Ze vroegen zich af: `Hij kan niet praten.
+<en>But how can he write a letter of such quality?'
+<nl>Maar hoe kan hij een brief van zo'n kwaliteit schrijven?'
 <en>The monkey stood before the king majestically.
 <nl>De aap stond majestueus voor de koning.
 <en>
@@ -164,8 +174,8 @@
 <nl>De apendichter nam direct een pen en een papier en begon snel dezelfde brief te schrijven.
 <en>The king and the others were in great surprise on his way of writing.
 <nl>De koning en de anderen waren erg verrast over zijn manier van schrijven.
-<en>They said: "This is not an ordinary monkey."
-<nl>Ze zeiden: "Dit is geen gewone aap."
+<en>They said: `This is not an ordinary monkey.'
+<nl>Ze zeiden: `Dit is geen gewone aap.'
 <en>
 <nl>
 <en>The king turned back and called his daughter.

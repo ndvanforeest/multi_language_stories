@@ -15,13 +15,11 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-files = [
-    "the_emperors_new_clothes"
-    #"aladdin_2"
-    #"jack_beanstalk"
-    #"the_pink_fairy_book",
-    #"arabian_nights"
-    ]
+fname = "merchant"
+#"aladdin_2"
+#"jack_beanstalk"
+#"the_pink_fairy_book",
+#"arabian_nights"
 
 def format_single_file_raw(fname):
     story = []
@@ -29,6 +27,9 @@ def format_single_file_raw(fname):
         for line in fin:
             story.append(line.strip())
     story = "\n".join(story)
+    story = re.sub(r'(\n\n)', r'<par>', story)
+    story = re.sub(r'(\n)', r' ', story)
+    story = re.sub(r'<par>', r'\n\n', story)
     story = re.sub(r'(; )', r';\n', story)
     story = re.sub(r'(\. )', r'.\n', story)
     story = re.sub(r'(\.")', r'."\n', story)
@@ -68,6 +69,8 @@ latex_footer = r"""
 """
 
 def format_single_file_sourcefile(fname):
+    # make a latex file to read the file by itself as a pdf file. I
+    # don't use this often.
     fin = open(fname + r".txt", 'r')
     fout = open(fname + r".tex", "w")
     fout.write(latex_header)
@@ -89,6 +92,5 @@ def format_single_file_sourcefile(fname):
 
 
 
-for fname in files:
-    format_single_file_raw(fname)
-    #format_single_file_sourcefile(fname)
+format_single_file_raw(fname)
+#format_single_file_sourcefile(fname)

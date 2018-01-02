@@ -2,25 +2,25 @@
 <nl>Birbal de bediende
 <en>One day Akbar and Birbal were riding through the countryside and they happened to pass by a cabbage patch.
 <nl>Op een dag reden Akbar en Birbal door het landschap en kwamen toevallig langs een koolveld.
-<en>"Cabbages are such delightful vegetables!" said Akbar.
-<nl>"Kool is zulk een heerlijke groente!" zei Akbar.
-<en>"I just love cabbage."
-<nl>"Ik hou gewoon van kool."
-<en>"The cabbage is king of vegetables!" said Birbal.
-<nl>"Kool is de koning onder de groenten!" zei Birbal.
+<en>`Cabbages are such delightful vegetables!' said Akbar.
+<nl>`Kool is zulk een heerlijke groente!' zei Akbar.
+<en>`I just love cabbage.'
+<nl>`Ik hou gewoon van kool.'
+<en>`The cabbage is king of vegetables!' said Birbal.
+<nl>`Kool is de koning onder de groenten!' zei Birbal.
 <en>
 <nl>
 <en>A few weeks later they were riding past the cabbage patch again.
 <nl>Een paar weken later reden ze opnieuw langs het koolveld.
 <en>This time however, the emperor made a face when he saw the vegetables.
 <nl>Deze keer maakte de keizer een gezicht toen hij de groenten zag.
-<en>"I used to love cabbage but now I have no taste for it." said Akbar.
-<nl>"Ik hield altijd van kool, maar nu heb ik er geen zin in." zei Akbar.
-<en>"The cabbage is a tasteless vegetable" agreed Birbal.
-<nl>"De kool is een smakeloze groente" stemde Birbal in.
+<en>`I used to love cabbage but now I have no taste for it.' said Akbar.
+<nl>`Ik hield altijd van kool, maar nu heb ik er geen zin in.' zei Akbar.
+<en>`The cabbage is a tasteless vegetable' agreed Birbal.
+<nl>`De kool is een smakeloze groente' stemde Birbal in.
 <en>The emperor was astonished.
 <nl>De keizer was erg verbaasd.
-<en>"But the last time you said it was the king of vegetables!"
-<nl>"Maar de laatste keer dat je zei dat het de koning onder de groenten was!"
-<en>"I did," admitted Birbal, "But I am your servant, Your Majesty, not the cabbage's."
-<nl>"Dat zei ik," gaf Birbal toe, "Maar ik ben uw dienaar, Majesteit, niet die van de kool."
+<en>`But the last time you said it was the king of vegetables!'
+<nl>`Maar de laatste keer dat je zei dat het de koning onder de groenten was!'
+<en>`I did,' admitted Birbal, `But I am your servant, Your Majesty, not the cabbage's.'
+<nl>`Dat zei ik,' gaf Birbal toe, `Maar ik ben uw dienaar, Majesteit, niet die van de kool.'

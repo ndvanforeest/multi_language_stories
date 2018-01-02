@@ -4,10 +4,10 @@
 <nl>Keizer Akbar reisde naar een verre plaats samen met enkele van zijn hovelingen.
 <en>It was a hot day and the emperor was tired of the journey.
 <nl>Het was een warme dag en de keizer was vermoeid van de reis.
-<en>"Can’t anybody shorten this road for me?" he asked, querulously.
-<nl>"Kan niemand deze weg voor mij verkorten?" vroeg hij ruzieachtig.
-<en>"I can," said Birbal.
-<nl>"Dat kan ik", zei Birbal.
+<en>`Can’t anybody shorten this road for me?' he asked, querulously.
+<nl>`Kan niemand deze weg voor mij verkorten?' vroeg hij ruzieachtig.
+<en>`I can,' said Birbal.
+<nl>`Dat kan ik', zei Birbal.
 <en>The other courtiers looked at one another, perplexed.
 <nl>De andere hovelingen keken elkaar verward aan.
 <en>All of them knew there was no other path through the hilly terrain.
@@ -16,19 +16,19 @@
 <nl>De weg waarop ze reisden was de enige die hen naar hun bestemming kon brengen.
 <en>
 <nl>
-<en>"You can shorten the road?" said the emperor. "Well, do it."
-<nl>"Je kunt de weg inkorten?" zei de keizer. "Ok, doe het."
-<en>"I will," said Birbal.
-<nl>"Dat zal ik doen," zei Birbal.
-<en>"Listen first to this story I have to tell."
-<nl>"Luister eerst naar dit verhaal dat ik moet vertellen."
+<en>`You can shorten the road?' said the emperor. `Well, do it.'
+<nl>`Je kunt de weg inkorten?' zei de keizer. `Ok, doe het.'
+<en>`I will,' said Birbal.
+<nl>`Dat zal ik doen,' zei Birbal.
+<en>`Listen first to this story I have to tell.'
+<nl>`Luister eerst naar dit verhaal dat ik moet vertellen.'
 <en>
 <nl>
 <en>And riding beside the emperor’s palanquin, he launched upon a long and intriguing tale that held Akbar,  and all those listening, spellbound.
 <nl>En rijdend naast de draagstoel van de keizer, begon hij een lang en intrigerend verhaal dat Akbar, en al diegenen die luisterden, in zijn greep hield.
 <en>Before they knew it, they had reached the end of their journey.
 <nl>Voordat ze het wisten, hadden ze het einde van hun reis bereikt.
-<en>"We’ve reached it?" exclaimed Akbar. "So soon?"
-<nl>"We hebben het bereikt?" riep Akbar uit. "Zo snel?"
-<en>"Well," grinned Birbal, "you did say you wanted the road to be shortened."
-<nl>"Wel," grinnikte Birbal, "je zei dat je wou dat de weg werd ingekort."
+<en>`We’ve reached it?' exclaimed Akbar. `So soon?'
+<nl>`We hebben het bereikt?' riep Akbar uit. `Zo snel?'
+<en>`Well,' grinned Birbal, `you did say you wanted the road to be shortened.'
+<nl>`Wel,' grinnikte Birbal, `je zei dat je wou dat de weg werd ingekort.'

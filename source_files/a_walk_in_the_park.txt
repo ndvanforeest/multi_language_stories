@@ -1,4 +1,4 @@
-<en>A Walk by the park
+<en>A Walk by the Park
 <nl>Lopen in het park
 <en>I am going to walk in  the park.
 <nl>Ik ga wandelen in het park.
@@ -116,7 +116,7 @@
 <nl>En liep weg.
 <en>My wife saw that.
 <nl>Mijn vrouw zag dat.
-<en>She said very loudly: "Dirty pig".
+<en>She said very loudly: `Dirty pig.'
 <nl>Ze zei heel hard: `Viezerik'.
 <en>The man came to us.
 <nl>De man kwam naar ons toe.

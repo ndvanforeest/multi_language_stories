@@ -6,15 +6,15 @@
 <nl>Hij schreeuwde tegen haar totdat ze het niet meer kon verdragen en vluchtte naar het huis van haar buren.
 <en>The Mulla followed her there.
 <nl>De Mulla volgde haar daar.
-<en>The neighbors managed to placate the angry husband and served the couple tea and sweetmeats.
-<nl>De buren slaagden erin de boze echtgenoot te kalmeren en serveerden het echtpaar thee en snoep.
+<en>The neighbors managed to placate the angry husbands and served the couple tea and sweetmeats.
+<nl>De buren slaagden erin de boze echtgenoten te kalmeren en serveerden het echtpaar thee en snoep.
 <en>
 <nl>
 <en>When they returned to their house some time later, they began quarrelling again.
 <nl>Toen ze enige tijd later naar hun huis terugkeerden, begonnen ze opnieuw te ruziën.
 <en>When Nasruddin began shouting at her, his wife again opened the door to run out.
 <nl>Toen Nasruddin tegen haar begon te schreeuwen, opende zijn vrouw opnieuw de deur om naar buiten te rennen.
-<en>"This time, go to the baker's house," he advised.
-<nl>"Ga deze keer naar het huis van de bakker," adviseerde hij.
-<en>"He makes delicious  Bread."
-<nl>"Hij maakt heerlijk brood."
+<en>`This time, go to the baker's house,' he advised.
+<nl>`Ga deze keer naar het huis van de bakker,' adviseerde hij.
+<en>`He makes delicious bread.'
+<nl>`Hij maakt heerlijk brood.'

@@ -61,12 +61,12 @@
 <en>But he was angry.
 <tr>Ama kızgındı.
 <nl>Maar hij was boos.
-<en>"Why are you laughing?" he asked Billy.
-<tr>"Neden gülüyorsun?" diye sordu Billy.
-<nl>"Waarom ben je aan het lachen?" vroeg hij Billy.
-<en>"That was funny!" Billy said.
-<tr>"Bu komikti!" dedi Billy.
-<nl>"Dat was grappig!" zei Billy.
+<en>`Why are you laughing?' he asked Billy.
+<tr>`Neden gülüyorsun?' diye sordu Billy.
+<nl>`Waarom ben je aan het lachen?' vroeg hij Billy.
+<en>`That was funny!' Billy said.
+<tr>`Bu komikti!' dedi Billy.
+<nl>`Dat was grappig!' zei Billy.
 <en>Bobby said it wasn't funny.
 <tr>Bobby bunun komik olmadığını söyledi.
 <nl>Bobby zei dat het niet grappig was.
@@ -100,21 +100,21 @@
 <en>Their mom came outside.
 <tr>Anneleri dışarıya çıktı.
 <nl>Hun moeder kwam naar buiten.
-<en>"What are you two doing?" she asked.
-<tr>"Siz ikiniz ne yapıyorsunuz?" diye sordu.
-<nl>"Wat zijn jullie twee aan het doen?" vroeg ze.
+<en>`What are you two doing?' she asked.
+<tr>`Siz ikiniz ne yapıyorsunuz?' diye sordu.
+<nl>`Wat zijn jullie twee aan het doen?' vroeg ze.
 <en>She separated them.
 <tr>Onları ayırdı.
 <nl>Ze haalde ze uit elkaar.
-<en>She said, "You shouldn't hit each other.
-<tr>Dedi ki, "Birbirinize vurmamalısınız.
-<nl>Ze zei: "Je moet elkaar niet slaan.
+<en>She said, `You shouldn't hit each other.
+<tr>Dedi ki, `Birbirinize vurmamalısınız.
+<nl>Ze zei: `Je moet elkaar niet slaan.
 <en>That's not nice.
 <tr>Bu hoş değil.
 <nl>Dat is niet aardig.
-<en>Wait till your father gets home."
-<tr>Babanız eve gelene kadar bekleyin."
-<nl>Wacht tot je vader thuiskomt. '
+<en>Wait till your father gets home.'
+<tr>Babanız eve gelene kadar bekleyin.'
+<nl>Wacht tot je vader thuiskomt.'
 <en>She sent them to their rooms.
 <tr>Onları odalarına gönderdi.
 <nl>Ze stuurde ze naar hun kamers.

@@ -8,24 +8,24 @@
 <nl>Hodja liep diep in gedachten over een weg bij het paleis toen hij tegen een man aan liep.
 <en>The man got very angry and began to curse and shout at Hodja.
 <nl>De man werd erg boos en begon te vloeken en te schreeuwen tegen Hodja.
-<en>"Do you know who I am?" he screamed.
-<nl>"Weet je wel wie ik ben?" schreeuwde hij.
-<en>"I am the king's Advisor!"
-<nl>"Ik ben de adviseur van de koning!"
-<en>"That is nice," said Hodja.
-<nl>"Dat is leuk," zei Hodja.
-<en>"As for me I am a king."
-<nl>"Voor wat mij betreft, ben ik een koning."
-<en>"A king?" asked the man.
-<nl>"Een koning?" vroeg de man.
-<en>"Over which country do you rule?"
-<nl>"Over welk land regeert u?"
-<en>"I rule over myself," said Hodja.
-<nl>"Ik heers over mezelf", zei Hodja.
-<en>"I am master of my passions.
-<nl>"Ik ben meester van mijn emoties.
-<en>You would never find me losing my temper as you did just now."
-<nl>Je zult nooit merken dat ik mijn zelfbeheersing zoals jij net deed."
+<en>`Do you know who I am?' he screamed.
+<nl>`Weet je wel wie ik ben?' schreeuwde hij.
+<en>`I am the king's Advisor!'
+<nl>`Ik ben de adviseur van de koning!'
+<en>`That is nice,' said Hodja.
+<nl>`Dat is leuk,' zei Hodja.
+<en>`As for me I am a king.'
+<nl>`Voor wat mij betreft, ben ik een koning.'
+<en>`A king?' asked the man.
+<nl>`Een koning?' vroeg de man.
+<en>`Over which country do you rule?'
+<nl>`Over welk land regeert u?'
+<en>`I rule over myself,' said Hodja.
+<nl>`Ik heers over mezelf', zei Hodja.
+<en>`I am master of my passions.
+<nl>`Ik ben meester van mijn emoties.
+<en>You would never find me losing my temper as you did just now.'
+<nl>Je zult nooit merken dat ik mijn zelfbeheersing zoals jij net deed.'
 <en>
 <nl>
 <en>The man apologized and went away feeling very ashamed of himself.

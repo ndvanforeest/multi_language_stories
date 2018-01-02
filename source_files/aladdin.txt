@@ -6,10 +6,10 @@
 <nl>Aladdin woonde bij zijn moeder.
 <en>One day a rich and distinguished looking man came to their house and said to Aladdin's mother,
 <nl>Op een dag kwam een rijke en voornaam uitziende man naar hun huis en zei tegen de moeder van Aladdin:
-<en>"I am a merchant from Arabia and want your son to come with me.
-<nl>"Ik ben een koopman uit Arabië en wil dat je zoon met me meekomt.
-<en>I will reward him handsomely."
-<nl>Ik zal hem rijkelijk belonen."
+<en>`I am a merchant from Arabia and want your son to come with me.
+<nl>`Ik ben een koopman uit Arabië en wil dat je zoon met me meekomt.
+<en>I will reward him handsomely.'
+<nl>Ik zal hem rijkelijk belonen.'
 <en>Aladdin's mother instantly agreed.
 <nl>De moeder van Aladdin was het er meteen mee eens.
 <en>Little did she know that the man pretending to be a rich merchant was in reality a magician.
@@ -38,8 +38,8 @@
 <nl>het was een grot.
 <en>The `merchant' turned to Aladdin and said,
 <nl>De `handelaar' wendde zich tot Aladdin en zei:
-<en>"I want you to go inside this cave;
-<nl>"Ik wil dat je deze grot binnen gaat;
+<en>`I want you to go inside this cave;
+<nl>`Ik wil dat je deze grot binnen gaat;
 <en>there will be more gold than you have ever seen;
 <nl>er zal meer goud zijn dan je ooit hebt gezien;
 <en>take as much as you want.
@@ -50,8 +50,8 @@
 <nl>breng dat alsjeblieft terug naar mij.
 <en>Here, take this ring;
 <nl>Hier, neem deze ring;
-<en>it will help you."
-<nl>het zal je helpen."
+<en>it will help you.'
+<nl>het zal je helpen.'
 <en>Aladdin was very suspicious but he decided to do as was told.
 <nl>Aladdin was zeer achterdochtig maar besloot om te doen wat hem werd verteld.
 <en>
@@ -68,18 +68,18 @@
 <nl>het lag in de hoek, vol stof en vuil.
 <en>He picked it up and ran to the cave's opening and shouted to the `merchant',
 <nl>Hij raapte het op en rende naar de opening van de grot en schreeuwde naar de `koopman',
-<en>"I have your lamp.
-<nl>"Ik heb je lamp.
-<en>Can you please pull me out?"
-<nl>Kun je me alsjeblieft eruit trekken?"
-<en>"Give me the lamp," said the `merchant'.
-<nl>"Geef me de lamp", zei de `koopman'.
+<en>`I have your lamp.
+<nl>`Ik heb je lamp.
+<en>Can you please pull me out?'
+<nl>Kun je me alsjeblieft eruit trekken?'
+<en>`Give me the lamp,' said the `merchant'.
+<nl>`Geef me de lamp', zei de `koopman'.
 <en>Aladdin was not sure that he would be pulled out if he gave back the lamp;
 <nl>Aladdin wist niet zeker of hij eruit zou worden gehaald als hij de lamp teruggaf;
 <en>so he said,
 <nl>dus hij zei,
-<en>"First, please pull me out."
-<nl>"Trek me er alsjeblieft eerst uit."
+<en>`First, please pull me out.'
+<nl>`Trek me er alsjeblieft eerst uit.'
 <en>
 <nl>
 <en>This angered the `merchant'.
@@ -90,28 +90,28 @@
 <nl>Aladdin was ongelukkig.
 <en>He thought,
 <nl>Hij dacht,
-<en>"That was no rich merchant;
-<nl>"Dat was geen rijke handelaar;
+<en>`That was no rich merchant;
+<nl>`Dat was geen rijke handelaar;
 <en>he was surely a magician.
 <nl>hij was vast en zeker een tovenaar.
-<en>I wonder why this lamp was so important to him."
-<nl>Ik vraag me af waarom deze lamp zo belangrijk voor hem was."
+<en>I wonder why this lamp was so important to him.'
+<nl>Ik vraag me af waarom deze lamp zo belangrijk voor hem was.'
 <en>As he was thinking he rubbed the lamp.
 <nl>Terwijl hij nadacht, wreef hij de lamp.
 <en>All of sudden a strange mist filled the room and from the mist emerged a strange looking man.
 <nl>Ineens vulde een vreemde mist de kamer en uit de mist kwam een vreemd uitziende man tevoorschijn.
 <en>He said,
 <nl>Hij zei,
-<en>"My master, I am the genie of the lamp, you have rescued me;
-<nl>"Mijn meester, ik ben de geest van de lamp, u heeft me gered;
-<en>what would your wish be?"
-<nl>wat zal uw wens zijn?"
+<en>`My master, I am the genie of the lamp, you have rescued me;
+<nl>`Mijn meester, ik ben de geest van de lamp, u heeft me gered;
+<en>what would your wish be?'
+<nl>wat zal uw wens zijn?'
 <en>Aladdin was scared but he said in quivering voice,
 <nl>Aladdin was bang, maar hij zei met trillende stem,
-<en>"Ta..
-<nl>"Ta ..
-<en>Take me back home."
-<nl>Breng me naar huis."
+<en>`Ta..
+<nl>`Ta ..
+<en>Take me back home.'
+<nl>Breng me naar huis.'
 <en>
 <nl>
 <en>And the next moment Aladdin was home hugging his mother.
@@ -124,8 +124,8 @@
 <nl>Deze keer toen de geest verscheen was hij niet bang.
 <en>He said,
 <nl>Hij zei,
-<en>"Genie, I want a palace, not an old hut."
-<nl>"Geest, ik wil een paleis, geen oude hut."
+<en>`Genie, I want a palace, not an old hut.'
+<nl>`Geest, ik wil een paleis, geen oude hut.'
 <en>Again to Aladdin and his mother's amazement in front of them was a magnificent palace.
 <nl>Opnieuw tot Aladdin en zijn moeders  verbazing stond voor hen een prachtig paleis.
 <en>
@@ -146,10 +146,10 @@
 <nl>Zodra de magiër de lamp zag, rukte hij deze uit de hand van de prinses en wreef het.
 <en>The genie appeared,
 <nl>De geest verscheen,
-<en>"you are my master and your wish is my command," he said to the magician.
-<nl>"u bent mijn meester en uw wens is mijn bevel," zei hij tegen de tovenaar.
-<en>"Take Aladdin's palace to the great desert faraway from here," ordered the magician.
-<nl>"Neem Aladdin's paleis mee naar de grote woestijn, ver hiervandaan," beval de tovenaar.
+<en>`you are my master and your wish is my command,' he said to the magician.
+<nl>`u bent mijn meester en uw wens is mijn bevel,' zei hij tegen de tovenaar.
+<en>`Take Aladdin's palace to the great desert faraway from here,' ordered the magician.
+<nl>`Neem Aladdin's paleis mee naar de grote woestijn, ver hiervandaan,' beval de tovenaar.
 <en>
 <nl>
 <en>When Aladdin came home, there was no palace and no princess.
@@ -164,8 +164,8 @@
 <nl>Een andere geest  verscheen.
 <en>Aladdin said,
 <nl>Aladdin zei,
-<en>"Take me to my princess."
-<nl>"Breng me naar mijn prinses."
+<en>`Take me to my princess.'
+<nl>`Breng me naar mijn prinses.'
 <en>
 <nl>
 <en>Soon, Aladdin was in Arabia with his princess.
@@ -180,12 +180,12 @@
 <nl>
 <en>The genie appeared again and said,
 <nl>De geest verscheen weer en zei:
-<en>"My master, Aladdin, it is indeed good to serve you again.
-<nl>"Mijn meester, Aladdin, het is inderdaad goed om u opnieuw te dienen.
-<en>What is it that you wish?"
-<nl>Wat wilt u?"
-<en>"I want you to send this magician to another world so that he never harms anybody," said Aladdin.
-<nl>"Ik wil dat je deze tovenaar naar een andere wereld stuurt, zodat hij niemand kwaad doet," zei Aladdin.
+<en>`My master, Aladdin, it is indeed good to serve you again.
+<nl>`Mijn meester, Aladdin, het is inderdaad goed om u opnieuw te dienen.
+<en>What is it that you wish?'
+<nl>Wat wilt u?'
+<en>`I want you to send this magician to another world so that he never harms anybody,' said Aladdin.
+<nl>`Ik wil dat je deze tovenaar naar een andere wereld stuurt, zodat hij niemand kwaad doet,' zei Aladdin.
 <en>Aladdin's wish was carried out;
 <nl>Aladdin's wens werd uitgevoerd;
 <en>the evil magician disappeared forever.

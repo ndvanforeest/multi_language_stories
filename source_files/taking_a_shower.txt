@@ -70,12 +70,12 @@
 <nl>Ik droog ook tussen mijn tenen af.
 <en>My father always said that.
 <nl>Dat zei mijn vader altijd.
-<en>"Dry off well between your toes.
-<nl>"Droog je goed af tussen je tenen.
+<en>`Dry off well between your toes.
+<nl>`Droog je goed af tussen je tenen.
 <en>Otherwise you'll get pain between your toes.
 <nl>Anders krijg je pijn tussen je tenen.
-<en>Then the skin goes wrong."
-<nl>Dan gaat de huid daar stuk."
+<en>Then the skin goes wrong.'
+<nl>Dan gaat de huid daar stuk.'
 <en>When I dry off, I think of my father.
 <nl>Als ik me afdroog, denk ik  aan mijn vader.
 <en>About what he told me.

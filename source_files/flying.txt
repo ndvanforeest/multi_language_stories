@@ -134,18 +134,18 @@
 <nl>Ze vervoeren lading en passagiers van het ene continent naar het andere.
 <tr>Bir kıtadan diğer kıtaya kargo ve yolcu taşırlar.
 <en>From Asia to Europe.
-<nl>Van Azi"e naar Europa
-<tr>Asya'dan Avrupa'ya
+<nl>Van Azi\"e naar Europa.
+<tr>Asya'dan Avrupa'ya.
 <en>From America to Africa.
-<nl>Van Amerika naar Afrika
-<tr>Amerika'dan Afrika'ya
+<nl>Van Amerika naar Afrika.
+<tr>Amerika'dan Afrika'ya.
 <en>From Australia to Antartica.
-<nl>Van Australi"e naar Antartica.
-<tr>Avustralya'dan Antartika'ya
+<nl>Van Australi\"e naar Antartica.
+<tr>Avustralya'dan Antartika'ya.
 <en>They carry cargo and passengers from one country to another.
 <nl>Ze vervoeren lading en passagiers van het ene land naar het andere.
 <tr>Bir ülkeden başka ülkeye kargo ve yolcu taşırlar.
-<en>From Turkey to China
+<en>From Turkey to China.
 <nl>Van Turkije naar China.
 <tr>Türkiye'den Çin'e.
 <en>From Japan to Germany.
@@ -155,8 +155,8 @@
 <nl>Van Frankrijk naar Rusland.
 <tr>Fransa'dan Rusya'ya.
 <en>From Saudi Arabia to Italy.
-<nl>Van Saoedi-Arabi"e naar Itali"e
-<tr>Saudi Arabistan'dan İtalya'ya
+<nl>Van Saoedi-Arabi\"e naar Itali\"e.
+<tr>Saudi Arabistan'dan İtalya'ya.
 <en>From Korea to Greece.
 <nl>Van Korea naar Griekenland.
 <tr>Kore'den Yunanistan'a.

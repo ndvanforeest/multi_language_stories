@@ -24,12 +24,12 @@
 <nl>Ik dacht dat zij het zou weten.
 <en>I called up.
 <nl>Ik belde op.
-<en>"Grandma, how to make cauliflower soup?"
-<nl>"Oma, hoe maak je bloemkoolsoep?"
+<en>`Grandma, how to make cauliflower soup?'
+<nl>`Oma, hoe maak je bloemkoolsoep?'
 <en>She said:
 <nl>Zij zei:
-<en>"Boy, what an odd question.
-<nl>"Jongen, wat een gekke vraag.
+<en>`Boy, what an odd question.
+<nl>`Jongen, wat een gekke vraag.
 <en>I have lived for a long time.
 <nl>Ik leef al heel lang.
 <en>For almost eighty years.
@@ -102,20 +102,20 @@
 <nl>Je kan ook een staafmixer nemen.
 <en>Then the soup becomes completely smooth.
 <nl>Dan wordt de soep helemaal glad.
-<en>Do you want to make a bonded soup?"
+<en>Do you want to make a bonded soup?'
 <en>
 <nl>
-<nl>Wil je een gebonden soep maken?"
+<nl>Wil je een gebonden soep maken?'
 <en>I said:
 <nl>Ik zei:
-<en>"I do not know what that is."
-<nl>"Ik weet niet wat dat is."
+<en>`I do not know what that is.'
+<nl>`Ik weet niet wat dat is.'
 <en>
 <nl>
 <en>She said:
 <nl>Ze zei:
-<en>"Then I will teach you that too.
-<nl>"Dan zal ik je dat ook leren.
+<en>`Then I will teach you that too.
+<nl>`Dan zal ik je dat ook leren.
 <en>And then you immediately know what bound soup is.
 <nl>En dan weet je meteen wat gebonden soep is.
 <en>You have to make a roux.
@@ -216,14 +216,14 @@
 <nl>En als het niet lukt,
 <en>then you just call again.
 <nl>dan bel je maar weer op.
-<en>Bye, my boy."
-<nl>Dag jongen."
+<en>Bye, my boy.'
+<nl>Dag jongen.'
 <en>
 <nl>
 <en>I said:
 <nl>Ik zei:
-<en>"Thank you, Grandma.
-<nl>"Dank je wel, oma.
+<en>`Thank you, Grandma.
+<nl>`Dank je wel, oma.
 <en>You really helped me.
 <nl>Je hebt me echt geholpen.
 <en>I will try.
@@ -234,5 +234,5 @@
 <nl>En als ik weer een gekke vraag heb,
 <en>I'll call you back again.
 <nl>bel ik je weer op.
-<en>Bye Grandma."
-<nl>Dag oma."
+<en>Bye Grandma.'
+<nl>Dag oma.'

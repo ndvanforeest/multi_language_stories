@@ -2,13 +2,14 @@
 
 import re
 
-target_language, fname = "nl", "aladdin.tex"
-target_language, fname = "es", "aladdin.tex"
-target_language, fname = "tr", "boys_will_be_boys.tex"
+target_language, fname = "nl", "merchant.txt"
+#target_language, fname = "es", "aladdin.txt"
+#target_language, fname = "tr", "boys_will_be_boys.txt"
 
 res = {}
 
-with open("{}_{}".format(target_language, fname), "r") as fp:
+fin = fname[:-3]+"tex"
+with open("{}_{}".format(target_language, fin), "r") as fp:
     res = []
     for line in fp:
         res.append(line.strip())
@@ -45,7 +46,7 @@ with open("source_files/"+fname, "r") as fp:
         else:
             res.append(line)
 
-with open("japie.tex", "w") as fp:        
+with open("merged_file.txt", "w") as fp:        
     for r in res:
         fp.write(r)
 

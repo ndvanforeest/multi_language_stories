@@ -1,10 +1,10 @@
 <en>Romeo en Juliet
 <nl>Romeo en Juliet
 <en>Many years ago in Verona, Italy, there were two families.
-<nl>Vele jaren geleden waren er in Verona, Itali"e, twee families.
-<en>‘We are the Capulets.’
+<nl>Vele jaren geleden waren er in Verona, Itali\"e, twee families.
+<en>`We are the Capulets.’
 <nl>`Wij zijn de Capulets.'
-<en>‘We are the Montagues.’
+<en>`We are the Montagues.'
 <nl>`Wij zijn de Montagues.'
 <en>These families are always fighting. 
 <nl>Deze families hadden altijd ruzie.

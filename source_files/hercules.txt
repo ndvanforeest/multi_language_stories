@@ -75,17 +75,17 @@
 <es>Le dijeron que le preguntara al viejo del mar.
 <nl>Ze vertelden hem de oude man van de zee te vragen.
 <en>But they also warned him, “Hold the old man of the sea tightly.
-<tr>Ama onu uyardılar, "Yaşlı denizciyi sıkıca tut.
-<es>Pero también le advirtieron: "Sostenga fuerte al anciano del mar".
-<nl>Maar ze waarschuwden hem ook: "Houd de oude man van de zee stevig vast.
+<tr>Ama onu uyardılar, `Yaşlı denizciyi sıkıca tut.
+<es>Pero también le advirtieron: `Sostenga fuerte al anciano del mar'.
+<nl>Maar ze waarschuwden hem ook: `Houd de oude man van de zee stevig vast.
 <en>Otherwise he will escape.
 <tr>Yoksa kaçacak.
 <es>De lo contrario, escapará.
 <nl>Anders zal hij ontsnappen.
-<en>No one else knows the way."
-<tr>Başka kimse yolu bilmiyor. "
-<es>Nadie más conoce el camino".
-<nl>Niemand anders weet de weg."
+<en>No one else knows the way.'
+<tr>Başka kimse yolu bilmiyor.'
+<es>Nadie más conoce el camino'.
+<nl>Niemand anders weet de weg.'
 <en>
 <tr>
 <es>
@@ -147,25 +147,25 @@
 <es>
 <nl>
 <en>Finally the old man said to Hercules, “Who are you?
-<tr>Sonunda yaşlı adam Herkül'e, "Sen kimsin?
-<es>Finalmente, el anciano le dijo a Hércules: "¿Quién eres?
-<nl>Eindelijk zei de oude man tegen Hercules: "Wie bent u?
-<en>What do you want from me?"
-<tr>Benden ne istiyorsun?" dedi.
-<es>¿Qué quieres de mi?"
-<nl>Wat wilt u van me?"
+<tr>Sonunda yaşlı adam Herkül'e, `Sen kimsin?
+<es>Finalmente, el anciano le dijo a Hércules: `¿Quién eres?
+<nl>Eindelijk zei de oude man tegen Hercules: `Wie bent u?
+<en>What do you want from me?'
+<tr>Benden ne istiyorsun?' dedi.
+<es>¿Qué quieres de mi?'
+<nl>Wat wilt u van me?'
 <en>Hercules replied, “I am Hercules.
-<tr>Herkül yanıtladı, "Ben Herkül'üm.
-<es>Hércules respondió: "Yo soy Hércules.
-<nl>Hercules antwoordde: "Ik ben Hercules.
-<en>Tell me the way to Hesperides."
-<tr>Bana Hesperides'in yolunu söyle. "
-<es>Dime el camino a Hespérides".
+<tr>Herkül yanıtladı, `Ben Herkül'üm.
+<es>Hércules respondió: `Yo soy Hércules.
+<nl>Hercules antwoordde: `Ik ben Hercules.
+<en>Tell me the way to Hesperides.'
+<tr>Bana Hesperides'in yolunu söyle.'
+<es>Dime el camino a Hespérides'.
 <nl>Vertel me de weg naar Hesperides.'
 <en>The old man said, “It is an island.
-<tr>Yaşlı adam "Bu bir ada" dedi.
-<es>El anciano dijo: "Es una isla.
-<nl>De oude man zei: "Het is een eiland.
+<tr>Yaşlı adam `Bu bir ada' dedi.
+<es>El anciano dijo: `Es una isla.
+<nl>De oude man zei: `Het is een eiland.
 <en>Go along the sea-shore.
 <tr>Deniz kıyısında gezin.
 <es>Ve a lo largo de la orilla del mar.
@@ -174,10 +174,10 @@
 <tr>Bir dev ile karşılaşacaksın.
 <es>Te encontrarás con un gigante.
 <nl>Je zult een reus ontmoeten.
-<en>He will show you the way to Hesperides."
-<tr>O sana Hesperides'in yolunu gösterecek. "
-<es>Él te mostrará el camino a Hespérides ".
-<nl>Hij zal je de weg wijzen naar Hesperiden."
+<en>He will show you the way to Hesperides.'
+<tr>O sana Hesperides'in yolunu gösterecek.'
+<es>Él te mostrará el camino a Hespérides'.
+<nl>Hij zal je de weg wijzen naar Hesperiden.'
 <en>
 <tr>
 <es>
@@ -274,18 +274,18 @@
 <tr>Sonunda Atlas ile karşılaştı.
 <es>Él, finalmente, se encontró con Atlas.
 <nl>Eindelijk ontmoette hij Atlas.
-<en>“Why do you want the golden apples?" asked Atlas.
-<tr>"Altın elmaları neden istiyorsun" diye sordu Atlas.
-<es>"¿Por qué quieres las manzanas doradas?", Preguntó Atlas.
-<nl>"Waarom wil je de gouden appels?" vroeg Atlas.
-<en>“My King has ordered me to get him these three golden apples," said Hercules.
-<tr>"Kralım ona bu üç altın elmayı getirmemi emretti" dedi Herkül.
-<es>"Mi Rey me ha ordenado que le consiga estas tres manzanas doradas", dijo Hércules.
-<nl>"Mijn koning heeft mij opgedragen om hem deze drie gouden appels te geven," zei Hercules.
+<en>“Why do you want the golden apples?' asked Atlas.
+<tr>`Altın elmaları neden istiyorsun' diye sordu Atlas.
+<es>`¿Por qué quieres las manzanas doradas?', Preguntó Atlas.
+<nl>`Waarom wil je de gouden appels?' vroeg Atlas.
+<en>“My King has ordered me to get him these three golden apples,' said Hercules.
+<tr>`Kralım ona bu üç altın elmayı getirmemi emretti' dedi Herkül.
+<es>`Mi Rey me ha ordenado que le consiga estas tres manzanas doradas', dijo Hércules.
+<nl>`Mijn koning heeft mij opgedragen om hem deze drie gouden appels te geven,' zei Hercules.
 <en>“It is a long way from here to that place.
-<tr>"Buradan oraya kadar yol çok uzun.
-<es>"Es un largo camino desde aquí hasta ese lugar.
-<nl>"Het is een lange weg van hier naar die plaats.
+<tr>`Buradan oraya kadar yol çok uzun.
+<es>`Es un largo camino desde aquí hasta ese lugar.
+<nl>`Het is een lange weg van hier naar die plaats.
 <en>Only I can go there.
 <tr>Oraya sadece ben gidebilirim.
 <es>Sólo yo puedo ir allí.
@@ -294,10 +294,10 @@
 <tr>Bu gökyüzünü benim için tut.
 <es>Sostén este cielo por mí.
 <nl>Houd deze lucht voor me vast.
-<en>I shall get them for you," said Atlas.
-<tr>Onları sanin için alacağım, " dedi Atlas.
-<es>Las conseguiré para ti", dijo Atlas.
-<nl>Ik zal ze halen voor je," zei Atlas.
+<en>I shall get them for you,' said Atlas.
+<tr>Onları sanin için alacağım,' dedi Atlas.
+<es>Las conseguiré para ti', dijo Atlas.
+<nl>Ik zal ze halen voor je,' zei Atlas.
 <en>Hercules agreed.
 <tr>Herkül kabul etti.
 <es>Hércules estuvo de acuerdo.
@@ -330,22 +330,22 @@
 <tr>Atlas'tan gökyüzünü ondan geri almasını istedi.
 <es>Le pidió a Atlas que le quitara el cielo.
 <nl>Hij verzocht Atlas om de lucht van hem terug te nemen.
-<en>“Take back the sky!"
-<tr>"Gökyüzünü geri al!"
-<es>"¡Toma el cielo de vuelta!"
-<nl>"Neem de lucht terug!"
+<en>“Take back the sky!'
+<tr>`Gökyüzünü geri al!'
+<es>`¡Toma el cielo de vuelta!'
+<nl>`Neem de lucht terug!'
 <en>said Atlas cunningly.
 <tr>dedi Atlas kurnazca.
 <es>dijo Atlas astutamente.
 <nl>zei Atlas listig.
 <en>“I have held it for a thousand years.
-<tr>"Ben onu bin yıl boyunca tuttum.
-<es>"Lo he sostenido por mil años.
-<nl>"Ik heb het duizend jaar lang omhooggehouden.
-<en>I shall come back after another thousand years!"
-<tr>Bin yıl sonra geri döneceğim! "
-<es>¡Regresaré después de otros mil años!"
-<nl>Ik kom terug na nog eens duizend jaar!"
+<tr>`Ben onu bin yıl boyunca tuttum.
+<es>`Lo he sostenido por mil años.
+<nl>`Ik heb het duizend jaar lang omhooggehouden.
+<en>I shall come back after another thousand years!'
+<tr>Bin yıl sonra geri döneceğim!'
+<es>¡Regresaré después de otros mil años!'
+<nl>Ik kom terug na nog eens duizend jaar!'
 <en>Hercules was astonished at what Atlas told him.
 <tr>Herkül Atlas'ın söylediğine şaşırmıştı.
 <es>Hércules estaba asombrado de lo que Atlas le dijo.
@@ -355,9 +355,9 @@
 <es>Pero él no expresó su asombro.
 <nl>Maar hij sprak zijn verbazing niet uit.
 <en>He recovered his senses and replied, “Oh!
-<tr>Kendisine geldi ve yanıtladı: "Ah!
-<es>Él recuperó sus sentidos y respondió: "¡Oh!
-<nl>Hij herstelde zijn zintuigen en antwoordde: "O!
+<tr>Kendisine geldi ve yanıtladı: `Ah!
+<es>Él recuperó sus sentidos y respondió: `¡Oh!
+<nl>Hij herstelde zijn zintuigen en antwoordde: `O!
 <en>In that case, will you please hold the sky for a little while?
 <tr>Öyleyse, lütfen gökyüzünü biraz tutar mısın?
 <es>En ese caso, ¿puedes sostener el cielo por un rato?
@@ -366,10 +366,10 @@
 <tr>Göğü desteklemek için omuzlarıma bir yastık yapacağım.
 <es>Haré una almohadilla para mis hombros para sostener el cielo.
 <nl>Ik zal een kussentje voor mijn schouders maken om de lucht te ondersteunen.
-<en>Then I shall take back the sky from you."
-<tr>Sonra gökyüzünü senden geri alacağım. "
-<es>Entonces yo tomaré el cielo de regreso".
-<nl>Dan zal ik de lucht van je terugnemen."
+<en>Then I shall take back the sky from you.'
+<tr>Sonra gökyüzünü senden geri alacağım.'
+<es>Entonces yo tomaré el cielo de regreso'.
+<nl>Dan zal ik de lucht van je terugnemen.'
 <en>Thus Hercules talked very quietly.
 <tr>Böylece Herkül çok sessizce konuştu.
 <es>Por lo tanto, Hércules habló en voz muy baja.

@@ -100,8 +100,8 @@
 <en>don’t crowd around him.
 <nl>ga dan niet om hem heen staan.
 <tr>etrafında kalabalık etmeyin.
-<en>Then he may not help your friend
-<nl>Dan kan hij misschien jouw vriend niet helpen
+<en>Then he may not help your friend.
+<nl>Dan kan hij misschien jouw vriend niet helpen.
 <tr>O zaman arkadaşınıza yardım edemeyebilir.
 <en>Vocabulary
 <nl>Vocabulair

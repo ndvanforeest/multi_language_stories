@@ -2,21 +2,21 @@
 <nl>Hodja en de geleerde
 <en>Nasruddin Hodja, ferrying a scholar across a river, said something ungrammatical to him.
 <nl>Nasruddin Hodja, een geleerde een rivier over zettend,  zei iets ongrammaticaals tegen hem.
-<en>"Have you never studied grammar?" asked the scholar.
-<nl>"Heb je nooit grammatica gestudeerd?" vroeg de geleerde.
-<en>"No," said Hodja.
-<nl>"Nee", zei Hodja.
-<en>"Then half your life has been wasted," said the scholar, looking pityingly at him.
-<nl>"Dan is de helft van je leven verspild," zei de geleerde, meewarig naar hem kijkend.
+<en>`Have you never studied grammar?' asked the scholar.
+<nl>`Heb je nooit grammatica gestudeerd?' vroeg de geleerde.
+<en>`No,' said Hodja.
+<nl>`Nee', zei Hodja.
+<en>`Then half your life has been wasted,' said the scholar, looking pityingly at him.
+<nl>`Dan is de helft van je leven verspild,' zei de geleerde, meewarig naar hem kijkend.
 <en>
 <nl>
 <en>Sometime later Hodja turned to his passenger.
 <nl>Enige tijd later wendde Hodja zich tot zijn passagier.
-<en>"Have you ever learnt to swim?" he asked.
-<nl>"Heb je ooit geleerd om te zwemmen?" vroeg hij.
-<en>"No," said the scholar.
-<nl>"Nee", zei de geleerde.
-<en>"Then your whole life has been wasted," said Hodja.
-<nl>"Dan is je hele leven verspild," zei Hodja.
-<en>"We're sinking."
-<nl>"We zinken."
+<en>`Have you ever learnt to swim?' he asked.
+<nl>`Heb je ooit geleerd om te zwemmen?' vroeg hij.
+<en>`No,' said the scholar.
+<nl>`Nee', zei de geleerde.
+<en>`Then your whole life has been wasted,' said Hodja.
+<nl>`Dan is je hele leven verspild,' zei Hodja.
+<en>`We're sinking.'
+<nl>`We zinken.'

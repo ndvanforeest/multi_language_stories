@@ -6,8 +6,8 @@
 <nl>Eens kwam een stier die in het bos wandelde bij een grot.
 <en>Near the cave was a big pond and lush green grass.
 <nl>Bij de grot was een grote vijver en weelderig groen gras.
-<en>"This is an ideal place for me to settle down," the bull thought.
-<nl>"Dit is een ideale plek voor mij om te vestigen," dacht de stier.
+<en>`This is an ideal place for me to settle down,' the bull thought.
+<nl>`Dit is een ideale plek voor mij om te vestigen,' dacht de stier.
 <en>So, he made the cave his home.
 <nl>Dus hij maakte de grot tot zijn thuis.
 <en>
@@ -28,21 +28,21 @@
 <nl>Een leeuw kwam toevallig langs.
 <en>The lion was happy to have spotted a bull after a long time.
 <nl>De leeuw was blij een stier te hebben gezien na lange tijd.
-<en>"Aha! A bull!
-<nl>"Aha! Een stier!
-<en>He is so healthy too," thought the majestic lion, licking his lips in anticipation of a good meal.
-<nl>Hij is nog  gezond ook, "dacht de majestueuze leeuw, en likte zijn lippen ter voorbereiding van een goede maaltijd.
+<en>`Aha! A bull!
+<nl>`Aha! Een stier!
+<en>He is so healthy too,' thought the majestic lion, licking his lips in anticipation of a good meal.
+<nl>Hij is nog  gezond ook,' dacht de majestueuze leeuw, en likte zijn lippen ter voorbereiding van een goede maaltijd.
 <en>The bull too noticed the lion.
 <nl>de stier zag de leeuw ook.
 <en>He could sense danger.
 <nl>Hij voelde gevaar.
-<en>"I must be on my guard now," the bull thought and decided to do something to hide himself from the lion.
-<nl>"Ik moet nu op mijn hoede zijn, "dacht de stier en besloot iets te doen om zich te verstoppen voor de leeuw.
-<en>When the lion came close to the bull, the clever bull looked into the cave and called out, "Darling, do not cook anything for dinner.
-<nl>Toen de leeuw dicht bij de stier kwam, keek de slimme stier de grot in en riep: "Schat, kook niets voor het avondeten.
+<en>`I must be on my guard now,' the bull thought and decided to do something to hide himself from the lion.
+<nl>`Ik moet nu op mijn hoede zijn,' dacht de stier en besloot iets te doen om zich te verstoppen voor de leeuw.
+<en>When the lion came close to the bull, the clever bull looked into the cave and called out, `Darling, do not cook anything for dinner.
+<nl>Toen de leeuw dicht bij de stier kwam, keek de slimme stier de grot in en riep: `Schat, kook niets voor het avondeten.
 <en>I have just spotted a lion.
 <nl>Ik heb net een leeuw gezien.
-<en>I am waiting for it to come near."
+<en>I am waiting for it to come near.'
 <nl>Ik wacht tot hij dichterbij komt.'
 <en>When the lion heard the bull, he returned around and ran for his life.
 <nl>Toen de leeuw de stier hoorde, keerde hij om en rende voor zijn leven.
@@ -50,24 +50,24 @@
 <nl>
 <en>A jackal saw the lion running breathlessly.
 <nl>Een jakhals zag de leeuw rennen buiten adem.
-<en>"Why are you running, Mr. Lion?" asked the jackal.
-<nl>"Waarom ren je, meneer Leeuw?" vroeg de jakhals.
+<en>`Why are you running, Mr. Lion?' asked the jackal.
+<nl>`Waarom ren je, meneer Leeuw?' vroeg de jakhals.
 <en>The lion told him all that had happened.
 <nl>De leeuw vertelde hem alles wat er was gebeurd.
-<en>"The bull has made a fool out of you," replied the jackal.
-<nl>"De stier heeft je voor gek gezet", antwoordde de jakhals.
-<en>And the jackal added, "Come with me.
-<nl>En de jakhals voegde eraan toe: "Kom met mij mee.
-<en>Together we can feast on the bull."
-<nl>Samen kunnen we ons tegoed doen aan de stier."
+<en>`The bull has made a fool out of you,' replied the jackal.
+<nl>`De stier heeft je voor gek gezet', antwoordde de jakhals.
+<en>And the jackal added, `Come with me.
+<nl>En de jakhals voegde eraan toe: `Kom met mij mee.
+<en>Together we can feast on the bull.'
+<nl>Samen kunnen we ons tegoed doen aan de stier.'
 <en>But the lion was too scared to believe the jackal.
 <nl>Maar de leeuw was te bang om de jakhals te geloven.
 <en>The jackal understood why the lion was hesitating to come with him.
 <nl>De jakhond begreep waarom de leeuw aarzelde met hem mee te gaan.
-<en>"Alright then! Tie your tail with mine and let me lead you to the cave of the bull.
-<nl>"Oke dan! Bind je staart aan de mijne en laat me je leiden naar de grot van de stier.
-<en>In case the bull attacks, then I will be the one who will get caught first," the jackal said.
-<nl>In het geval dat de stier aanvalt, zal ik degene zijn die als eerste wordt gepakt, 'zei de jakhals.
+<en>`Alright then! Tie your tail with mine and let me lead you to the cave of the bull.
+<nl>`Oke dan! Bind je staart aan de mijne en laat me je leiden naar de grot van de stier.
+<en>In case the bull attacks, then I will be the one who will get caught first,' the jackal said.
+<nl>In het geval dat de stier aanvalt, zal ik degene zijn die als eerste wordt gepakt,' zei de jakhals.
 <en>The lion agreed to this plan of action prepared by the jackal.
 <nl>De leeuw stemde in met dit plan van aanpak zoals door de jakhals voorgesteld.
 <en>And then the lion and the jackal tied their tails together.
@@ -78,12 +78,12 @@
 <nl>Ze gingen op weg naar de grot van de stier.
 <en>Both the lion and the jackal went near the cave where the bull was.
 <nl>Zowel de leeuw als de jakhals gingen naar de grot waar de stier was.
-<en>When the bull saw the lion coming with the jackal, he thought, "I am sure that cunning jackal knows I fooled the lion."
-<nl>Toen de stier de leeuw zag aankomen met de jakhals, dacht hij: "Ik weet zeker dat die sluwe jakhals weet dat ik de leeuw voor de gek hield."
-<en>Without panicking, the bull cried out to the jackal, "I had asked you to bring me two lions, rather than one.
-<nl>Zonder in paniek te raken riep de stier uit naar de jakhals: "Ik had je gevraagd om me twee leeuwen te brengen, in plaats van één.
-<en>Do you want me to keep my children hungry?"
-<nl>Wil je dat ik mijn kinderen honger laat hebben? "
+<en>When the bull saw the lion coming with the jackal, he thought, `I am sure that cunning jackal knows I fooled the lion.'
+<nl>Toen de stier de leeuw zag aankomen met de jakhals, dacht hij: `Ik weet zeker dat die sluwe jakhals weet dat ik de leeuw voor de gek hield.'
+<en>Without panicking, the bull cried out to the jackal, `I had asked you to bring me two lions, rather than one.
+<nl>Zonder in paniek te raken riep de stier uit naar de jakhals: `Ik had je gevraagd om me twee leeuwen te brengen, in plaats van één.
+<en>Do you want me to keep my children hungry?'
+<nl>Wil je dat ik mijn kinderen honger laat hebben?'
 <en>
 <nl>
 <en>Even this time the lion did not realize that the bull was again fooling him.

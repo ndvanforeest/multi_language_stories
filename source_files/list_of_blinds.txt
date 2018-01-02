@@ -8,8 +8,8 @@
 <nl>De volgende dag bleek Raja Birbal schoenen te repareren op de stadsmarkt.
 <en>People were astonished to see Birbal doing such work.
 <nl>Mensen waren verbaasd te zien dat Birbal zulk werk deed.
-<en>Many of them started to question "Birbal!! What are you doing?"
-<nl>Velen van hen begonnen zich  vragen "Birbal !! Wat ben je aan het doen?"
+<en>Many of them started to question `Birbal!! What are you doing?'
+<nl>Velen van hen begonnen zich  vragen `Birbal !! Wat ben je aan het doen?'
 <en>Once when he was asked this question by someone he started writing something.
 <nl>Als hem deze vraag werd gesteld door iemand begon hij iets op te schrijven.
 <en>
@@ -26,11 +26,11 @@
 <nl>Keizer Akbar was verbluft toen hij zijn eigen naam in de lijst vond.
 <en>Angered by this, Akbar asked Birbal the reason for writing his name in the list.
 <nl>vertoorn hierdoor, vroeg Akbar aan Birbal de reden zijn naam op de lijst te schrijven.
-<en>Birbal said "O! My majesty!
-<nl>Birbal zei "O!  Majesteit!
+<en>Birbal said, `O! My majesty!
+<nl>Birbal zei: `O!  Majesteit!
 <en>Like all other people you also saw me mending slippers but you still asked me what I was doing.
 <nl>Net als alle andere mensen zag u mij ook slippers repareren, maar u vroeg me toch wat ik aan het doen was.
-<en>Therefore I had to include your name too."
-<nl>Daarom moest ik uw naam ook opnemen."
+<en>Therefore I had to include your name too.'
+<nl>Daarom moest ik uw naam ook opnemen.'
 <en>Akbar started laughing at this and everyone enjoyed Birbal's sense of humor.
 <nl>Akbar begon hierom te lachen en iedereen had plezier in Birbal's gevoel voor humor.
