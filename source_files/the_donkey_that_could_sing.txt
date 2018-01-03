@@ -16,10 +16,10 @@
 <en>He went up to the donkey and said, `What is the matter? Why do you look so sad, my dear fellow?' 
 <nl>Hij ging naar de ezel toe en zei: `Wat is er aan de hand? Waarom kijk je zo verdrietig, mijn goede vriend?'
 <tr>Eşeğe gitmiş ve `Senin neyin var? Neden bu kadar üzgün görünüyorsun sevgili arkadaşım' demiş.
-<en>The donkey turned to the jackal and said, “I have no friends and am very lonely." 
+<en>The donkey turned to the jackal and said, `I have no friends and am very lonely.' 
 <nl>De ezel draaide zich naar de jakhals en zei: `Ik heb geen vrienden en ben erg eenzaam.'
 <tr> Eşek çakala dönmüş ve `Hiç arkadaşım yok, çok yanlızım' demiş.
-<en>“Well, don't worry. I will be your friend from today," the jackal comforted him. 
+<en>`Well, don't worry. I will be your friend from today,' the jackal comforted him. 
 <nl>`Wel, maak je geen zorgen. Ik zal jouw vriend zijn vanaf vandaag.', trooste de jakhals hem.
 <tr> `Peki. Üzülme. Bugünden itibaren ben senin arkadaşım olacağım' diyerek onu teselli etmiş çakal.
 <en>From that day, the donkey and jackal became very good friends. 
@@ -43,10 +43,10 @@
 <en>There in front of them was a grove of fruit trees. 
 <nl>Daar, voor hun bevond zich een bosje fruitbomen.
 <tr>Önlerine meyve ağaçlı bir bahçe çıkmış.
-<en>“Ah. Look! How wonderful and delicious the fruits look," said the donkey. “Let’s eat some of them." 
+<en>`Ah. Look! How wonderful and delicious the fruits look,' said the donkey. `Let’s eat some of them.' 
 <nl>Ah, kijk! Hoe mooi en heerlijk die vruchten eruit zien.', zei de ezel, `Laten we er een paar van eten'.
 <tr>`Ah. Bak! Meyveler ne kadar harika ve lezzetli görünüyor', demiş eşek `Haydi şunlardan biraz yiyelim'.
-<en>“Okay," said the jackal. “But let’s do it very quietly." 
+<en>`Okay,' said the jackal. `But let’s do it very quietly.'
 <nl>`Ok', zei de jakhals, `Maar laten we het heel stil doen.'
 <tr>`Tamam', demiş çakal. `Ama çok sessiz olalım'. 
 <en>They entered the grove and silently started to eat the fruits. 
@@ -58,31 +58,31 @@
 <en>
 <nl>
 <tr>
-<en>“That was delicious, but there is something missing tonight," said the donkey. 
+<en>`That was delicious, but there is something missing tonight,' said the donkey. 
 <nl>`Dat was heerlijk, maar er mist iets vanavond,' zei de ezel.
 <tr>`Bu enfesti, ama bu gece eksik olan birşey var', demiş eşek.
-<en>“What is that?" asked the jackal. 
+<en>`What is that?' asked the jackal. 
 <nl>`Wat dan?', vroeg de jakhals.
 <tr>`Nedir o?' diye sormuş çakal.
-<en>“Why, music of course," answered the donkey, looking a little surprised. 
+<en>`Why, music of course,' answered the donkey, looking a little surprised. 
 <nl>`Nou, muziek natuurlijk,' antwoordde de ezel, en keek een beetje verbaasd.
 <tr>`Ne mi? Tabii ki müzik' diye cevap vermiş eşek, biraz şaşkın şekilde.
-<en>The jackal asked, “Where are we going to get music from?" 
+<en>The jackal asked, `Where are we going to get music from?' 
 <nl>De jakhals vroeg: `Waar gaan we muziek vandaan halen?'.
 <tr>Çakal sormuş, `Müziği nereden bulacağız?' 
-<en>The donkey said. “Don’t you know that I am an accomplished singer?" 
+<en>The donkey said. `Don’t you know that I am an accomplished singer?' 
 <nl>De ezel zei: `Weet je niet dat ik een verdienstelijk (goede) zanger ben?'.
 <tr>Eşek demiş ki `Benim usta bir şarkıcı olduğumu bilmiyor musun?'
 <en>The jackal was alarmed. 
 <nl>De jakhals was opgeschrikt.
 <tr>Çakal paniğe kapılmış.
-<en>"Remember, we are in an orchard. If the farmer hears us, we will be in trouble. If you want to sing let us go away from here," he advised the donkey. 
+<en>`Remember, we are in an orchard. If the farmer hears us, we will be in trouble. If you want to sing let us go away from here,' he advised the donkey. 
 <nl>`Onthoud, we zijn in een boomgaard. Als de boer ons hoort, hebben  we een  probleem. Als je wil zingen, laten we  dan hier weg gaan.', adviseerde hij de ezel.
 <tr>`Bir meyve bahçesinde olduğumuzu unutma. Eğer çiftçi bizi duyarsa başımız derde girer. Eğer şarkı söylemek istiyorsan hadi buradan uzaklaşalım' diye uyarmış eşeği.
-<en>"You think I can't sing, don't you?" asked the donkey in a hurt voice. 
+<en>`You think I can't sing, don't you?' asked the donkey in a hurt voice. 
 <nl>`Jij denkt dat ik niet kan zingen, is het niet?', vroeg de ezel met een gekwetste stem.
 <tr>`Şarkı söyleyemeyeceğimi düşünüyorsun, öyle değil mi?' diye sormuş eşek üzgün bir sesle.
-<en>“Wait till you hear me." 
+<en>`Wait till you hear me.' 
 <nl>`Wacht tot je mij hoort.'
 <tr>`Beni duyana kadar bekle.'
 <en>
@@ -115,6 +115,6 @@
 <en>He said. `Is this the prize you won for your singing?'
 <nl>Hij zei: `Is dit de prijs die je won met je gezang?'
 <tr>Demiş ki `Şarkı söyleyerek kazandığın ödül bu mu?'
-<en>“They don’t appreciate good music," replied a hurt and ashamed donkey. 
+<en>`They don’t appreciate good music,' replied a hurt and ashamed donkey. 
 <nl>`Ze kunnen goede muziek niet waarderen,' antwoordde de gekwetste en beschaamde ezel.
 <tr>`İyi müzikten alamıyorlar', diye cevap vermiş yaralı eşek utanmış bir şekilde.

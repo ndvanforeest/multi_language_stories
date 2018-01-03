@@ -7,9 +7,9 @@
 <en>He says to his wife,
 <nl>Hij zegt tegen zijn vrouw,
 <tr>Eşine der ki
-<en>“I have a present for you because today is Valentine’s Day.”
+<en>`I have a present for you because today is Valentine’s Day.'
 <nl>`Ik heb een cadeau voor jou omdat het vandaag Valentijnsdag is.'
-<tr>"Sana bir hediyem var çünkü bugün sevgililer günü."
+<tr>`Sana bir hediyem var çünkü bugün sevgililer günü.'
 <en>The man puts his hand into his pocket
 <nl>De man steekt zijn hand in zijn zak
 <tr>Adam elini cebine sokar
@@ -43,45 +43,45 @@
 <en>Just then another man comes along and asks,
 <nl>Op dat moment komt een andere man langs en vraagt,
 <tr>O sırada bir başka adam gelir ve sorar.
-<en>“What are you looking for?”
+<en>`What are you looking for?'
 <nl>`Wat zoek je?'
-<tr>"Ne arıyorsun?"
+<tr>`Ne arıyorsun?'
 <en>The man answers,
 <nl>De man antwoordt: 
 <tr>Adam cevap verir:
-<en>“I am looking for my golden ring.”
+<en>`I am looking for my golden ring.'
 <nl>`Ik zoek naar mijn gouden ring.'
-<tr>"Altın yüzüğümü arıyorum."
+<tr>`Altın yüzüğümü arıyorum.'
 <en>The other man asks,
 <nl>De andere man vraagt,
 <tr>Diğer adam sorar,
-<en>“Where did you lose it?”
+<en>`Where did you lose it?'
 <nl>`Waar raakte je die kwijt?'
-<tr>"Onu nerede kaybettin?"
+<tr>`Onu nerede kaybettin?'
 <en>The man answers,
 <nl>De man antwoordt,
 <tr>Adam cevap verir,
-<en>“I lost it inside the house.”
+<en>`I lost it inside the house.'
 <nl>`Ik verloor hem in het huis.'
-<tr>"Onu evde kaybettim."
+<tr>`Onu evde kaybettim.'
 <en>The other man says,
 <nl>De andere man zegt, 
 <tr>Diğer adam der ki
-<en>“You are foolish.
+<en>`You are foolish.
 <nl>`Jij bent dom.
-<tr>"Sen aptalsın.
+<tr>`Sen aptalsın.
 <en>You lost it inside the house
 <nl>Je raakte het kwijt in het huis
 <tr>Onu evin içinde kaybettin
-<en>but you are looking for it under the street lamp.”
+<en>but you are looking for it under the street lamp.'
 <nl>maar je zoekt ernaar onder een straatlantaarn.'
-<tr>ama onu dışarıda sokak lambasının altında arıyorsun."
+<tr>ama onu dışarıda sokak lambasının altında arıyorsun.'
 <en>The man says,
 <nl>De man zegt, 
 <tr>Adam der ki,
 <en>`It is dark inside,
 <nl>`Het is donker binnen
-<tr>"İçerisi karanlık,
+<tr>`İçerisi karanlık,
 <en>so I can’t see it.
 <nl>dus kan ik het niet zien.
 <tr>onu göremiyorum.
@@ -90,7 +90,7 @@
 <tr>Ama sokak lambasının altı aydınlık.
 <en>Here I can see clearly.'
 <nl>Hier  kan ik goed zien.'
-<tr>Burada onu iyi görebilirim."
+<tr>Burada onu iyi görebilirim.'
 <en>Vocabulary
 <nl>Vocabulair
 <tr>Kelime hazinesi

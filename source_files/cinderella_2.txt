@@ -29,9 +29,9 @@
 <en>The cat said,
 <nl>De kat zei,
 <en>`Meow', which really meant, `Cheer up!'
-<nl>`Miauw', wat eigenlijk betekende: "Vrolijk op!"
-<en>You have something neither of your stepsisters have and that is beauty."
-<nl>Je hebt iets dat geen van twee je stiefzusters heeft en dat is schoonheid."
+<nl>`Miauw', wat eigenlijk betekende: `Vrolijk op!'
+<en>You have something neither of your stepsisters have and that is beauty.'
+<nl>Je hebt iets dat geen van twee je stiefzusters heeft en dat is schoonheid.'
 <en>It was quite true.
 <nl>Het was helemaal waar.
 <en>Cinderella, even dressed in rags with a dusty grey face from the cinders, was a lovely girl.
@@ -44,66 +44,66 @@
 <nl>Op een dag kwamen  prachtige nieuwe jurken aan bij het huis.
 <en>A ball was to be held at Court and the stepsisters were getting ready to go to it.
 <nl>Een bal moest aan het Hof worden gehouden en de stiefzusters maakten zich gereed om er naartoe te gaan.
-<en>Cinderella, didn’t even dare ask, "What about me?" for she knew very well what the answer to that would be.
-<nl>Assepoester, durfde niet eens te vragen: "Hoe zit het met mij?" want ze wist heel goed wat het antwoord daarop zou zijn.
-<en>"You?
-<nl>"Jij?
+<en>Cinderella, didn’t even dare ask, `What about me?' for she knew very well what the answer to that would be.
+<nl>Assepoester, durfde niet eens te vragen: `Hoe zit het met mij?' want ze wist heel goed wat het antwoord daarop zou zijn.
+<en>`You?
+<nl>`Jij?
 <en>My dear girl, you’re staying at home to wash the dishes, scrub the floors and turn down the beds for your stepsisters.
 <nl>Mijn lieve meid, je blijft thuis om de afwas te doen, de vloeren te schrobben en de bedden voor je stiefzusters om te draaien.
-<en>They will come home tired and very sleepy." 
-<nl>Ze zullen moe en erg slaperig thuiskomen."
+<en>They will come home tired and very sleepy.' 
+<nl>Ze zullen moe en erg slaperig thuiskomen.'
 <en>Cinderella sighed at the cat.
 <nl>Assepoester zuchtte bij de kat.
-<en>"Oh dear, I’m so unhappy!" and the cat murmured "Meow."
-<nl>"Oh jee, ik ben zo ongelukkig!" en de kat mompelde "Miauw."
+<en>`Oh dear, I’m so unhappy!' and the cat murmured `Meow.'
+<nl>`Oh jee, ik ben zo ongelukkig!' en de kat mompelde `Miauw.'
 <en>
 <nl>
 <en>Suddenly something amazing happened.
 <nl>Plots gebeurde er iets wonderbaarlijks.
 <en>In the kitchen, where Cinderella was sitting all by herself, there was a burst of light and a fairy appeared.
 <nl>In de keuken, waar Assepoester helemaal in haar eentje zat, kwam er een lichtflits en een fee verscheen.
-<en>"Don’t be alarmed, Cinderella," said the fairy.
-<nl>"Wees niet ongerust, Assepoester," zei de fee.
-<en>"The wind blew me your sighs.
-<nl>"De wind blies me je zuchten.
+<en>`Don’t be alarmed, Cinderella,' said the fairy.
+<nl>`Wees niet ongerust, Assepoester,' zei de fee.
+<en>`The wind blew me your sighs.
+<nl>`De wind blies me je zuchten.
 <en>I know you would love to go to the ball.
 <nl>Ik weet dat je graag naar de bal wilt gaan.
-<en>And so you shall!"
-<nl>En dat zal jij! "
-<en>"How can I, dressed in rags?" Cinderella replied.
-<nl>"Hoe kan ik, gekleed in lompen?" antwoordde Assepoester.
-<en>"The servants will turn me away!" 
-<nl>"De bedienden zullen me wegwijzen!"
+<en>And so you shall!'
+<nl>En dat zal jij! '
+<en>`How can I, dressed in rags?' Cinderella replied.
+<nl>`Hoe kan ik, gekleed in lompen?' antwoordde Assepoester.
+<en>`The servants will turn me away!' 
+<nl>`De bedienden zullen me wegwijzen!'
 <en>
 <nl>
 <en>The fairy smiled.
 <nl> De fee glimlachte.
 <en>With a flick of her magic wand, Cinderella found herself wearing the most beautiful dress, the loveliest ever seen in the realm.
 <nl>Met een zwiep van haar toverstaf, bemerkte Assepoester dat ze de mooiste jurk droeg, de mooiste  ooit in het rijk gezien.
-<en>"Now that we have settled the matter of the dress," said the fairy, "we’ll need to get you a coach.
-<nl>"Nu we de kwestie van de jurk hebben opgelost," zei de fee, "moeten we een koets voor je regelen.
+<en>`Now that we have settled the matter of the dress,' said the fairy, `we’ll need to get you a coach.
+<nl>`Nu we de kwestie van de jurk hebben opgelost,' zei de fee, `moeten we een koets voor je regelen.
 <en>A real lady would never go to a ball on foot!
-<nl>Een echte dame zou nooit te voet naar een bal gaan!"
-<en>Quick! Get me a pumpkin!" she ordered.
-<nl>Snel! Geef me een pompoen!" beval ze.
-<en>"Oh of course," said Cinderella, rushing away.
-<nl>"Oh natuurlijk," zei Assepoester, wegrennend.
+<nl>Een echte dame zou nooit te voet naar een bal gaan!'
+<en>Quick! Get me a pumpkin!' she ordered.
+<nl>Snel! Geef me een pompoen!' beval ze.
+<en>`Oh of course,' said Cinderella, rushing away.
+<nl>`Oh natuurlijk,' zei Assepoester, wegrennend.
 <en>Then the fairy turned to the cat.
 <nl>Toen draaide de fee zich om naar de kat.
-<en>"You, bring me seven mice!"
-<nl>"Jij, breng me zeven muizen!"
-<en>"Seven mice!" said the cat.
-<nl>"Zeven muizen!" zei de kat.
-<en>"I didn’t know fairies ate mice too!"
-<nl>"Ik wist niet dat fee"en ook muizen aten!"
-<en>"They’re not for eating, silly!
-<nl>"Ze zijn niet om  op te eten, domoor!
-<en>Do as you are told, and remember, they must be alive!"
-<nl>Doe zoals je is verteld en onthoud, ze moeten leven!"
+<en>`You, bring me seven mice!'
+<nl>`Jij, breng me zeven muizen!'
+<en>`Seven mice!' said the cat.
+<nl>`Zeven muizen!' zei de kat.
+<en>`I didn’t know fairies ate mice too!'
+<nl>`Ik wist niet dat fee\"en ook muizen aten!'
+<en>`They’re not for eating, silly!
+<nl>`Ze zijn niet om  op te eten, domoor!
+<en>Do as you are told, and remember, they must be alive!'
+<nl>Doe zoals je is verteld en onthoud, ze moeten leven!'
 <en>Cinderella soon returned with a fine pumpkin and the cat with seven mice he had caught in the cellar.
 <nl>Assepoester keerde al snel terug met een mooie pompoen en de kat met zeven muizen die hij had gevangen  in de kelder.
-<en>"Good!" exclaimed the fairy.
-<nl>"Goed!" riep de fee uit.
+<en>`Good!' exclaimed the fairy.
+<nl>`Goed!' riep de fee uit.
 <en>With a flick of her magic wand--- wonder of wonders!
 <nl>Met een zwaai van haar toverstaf---wonder boven wonder!
 <en>The pumpkin turned into a sparkling coach and the mice became six white horses, while the seventh mouse turned into a coachman, in a smart uniform and carrying a whip.
@@ -112,8 +112,8 @@
 <nl>
 <en>Cinderella could hardly believe her eyes.
 <nl>Assepoester kon haar ogen nauwelijks geloven.
-<en>"I shall present you at Court.
-<nl>"Ik zal je aan het Hof voorstellen.
+<en>`I shall present you at Court.
+<nl>`Ik zal je aan het Hof voorstellen.
 <en>You will soon see that the Prince, in whose honour the ball is being held, will be enchanted by your loveliness.
 <nl>Je zult snel zien dat de Prins, tot wiens eer het bal wordt vastgehouden, bekoord zal worden door je lieflijkheid.
 <en>But remember!
@@ -124,18 +124,18 @@
 <nl>Want dat is wanneer de betovering eindigt.
 <en>Your coach will turn back into a pumpkin, the horses will become mice again and the coachman will turn back into a mouse, and you will be dressed again in rags and wearing clogs instead of these dainty little slippers!
 <nl>Je koets zal terug veranderen in een pompoen, de paarden worden weer muizen en de koetsier verandert in een muis, en je zult weer gekleed gaan in vodden en klompen dragen in plaats van deze schattige kleine muiltjes!
-<en>Do you understand?"
-<nl>Begrijp je dat?"
-<en>Cinderella smiled and said, "Yes, I understand!"
-<nl>Assepoester glimlachte en zei: "Ja, ik begrijp het!"
+<en>Do you understand?'
+<nl>Begrijp je dat?'
+<en>Cinderella smiled and said, `Yes, I understand!'
+<nl>Assepoester glimlachte en zei: `Ja, ik begrijp het!'
 <en>
 <nl>
 <en>When Cinderella entered the ballroom at the palace, a hush fell.
 <nl>Toen Assepoester de balzaal in het paleis betrad, viel er een stilte.
 <en>Everyone stopped in mid-sentence to admire her elegance, her beauty and grace.
 <nl>Iedereen stopte midden in de zin om haar elegantie, haar schoonheid en gratie te bewonderen.
-<en>"Who can that be?" people asked each other.
-<nl>"Wie kan dat zijn?" vroegen de mensen elkaar.
+<en>`Who can that be?' people asked each other.
+<nl>`Wie kan dat zijn?' vroegen de mensen elkaar.
 <en>The two stepsisters also wondered who the newcomer was, for never in a month of Sundays, would they ever have guessed that the beautiful girl was really poor Cinderella who talked to the cat!
 <nl>De twee stiefzusters vroegen zich ook af wie de nieuwkomer was, want nooit van hun leven, zouden ze ooit geraden hebben dat het mooie meisje in het echt de arme Assepoester was die tegen de kat sprak!
 <en>
@@ -146,14 +146,14 @@
 <nl>Naar haar toe lopend, boog hij diep en vroeg haar ten dans.
 <en>And to the great disappointment of all the young ladies, he danced with Cinderella all evening.
 <nl>En tot grote teleurstelling van alle jonge dames danste hij de hele avond met Assepoester.
-<en>"Who are you, fair maiden?" the Prince kept asking her.
-<nl>"Wie ben jij, schoon meisje?", vroeg de prins aan haar.
-<en>But Cinderella only replied: "What does it matter who I am!
-<nl>Maar Assepoester antwoordde alleen: "Wat maakt het uit wie ik ben!
-<en>You will never see me again anyway."
-<nl>Je zult me toch nooit meer zien."
-<en>"Oh, but I shall, I’m quite certain!" he replied.
-<nl>"Oh, maar dat  zal ik toch, ik ben er zeker van!" antwoordde hij.
+<en>`Who are you, fair maiden?' the Prince kept asking her.
+<nl>`Wie ben jij, schoon meisje?', vroeg de prins aan haar.
+<en>But Cinderella only replied: `What does it matter who I am!
+<nl>Maar Assepoester antwoordde alleen: `Wat maakt het uit wie ik ben!
+<en>You will never see me again anyway.'
+<nl>Je zult me toch nooit meer zien.'
+<en>`Oh, but I shall, I’m quite certain!' he replied.
+<nl>`Oh, maar dat  zal ik toch, ik ben er zeker van!' antwoordde hij.
 <en>
 <nl>
 <en>Cinderella had a wonderful time at the ball, but, all of a sudden, she heard the sound of a clock: the first stroke of midnight!
@@ -168,35 +168,33 @@
 <nl>Ze vluchtte naar buiten en verdween in de nacht.
 <en>
 <nl>
-<en>The Prince, who was now madly in love with her, picked up her slipper and said to his ministers, "Go and search everywhere for the girl whose foot this slipper fits.
-<nl>De prins, die nu dolverliefd op haar was, pakte haar muiltje op en zei tegen zijn ministers: "Ga en zoek overal naar het meisje wier voet dit muiltje past.
-<en>I will never be content until I find her!" 
-<nl>Ik zal nooit tevreden zijn totdat ik haar vind!"
+<en>The Prince, who was now madly in love with her, picked up her slipper and said to his ministers, `Go and search everywhere for the girl whose foot this slipper fits.
+<nl>De prins, die nu dolverliefd op haar was, pakte haar muiltje op en zei tegen zijn ministers: `Ga en zoek overal naar het meisje wier voet dit muiltje past.
+<en>I will never be content until I find her!' 
+<nl>Ik zal nooit tevreden zijn totdat ik haar vind!'
 <en>So the ministers tried the slipper on the foot of all the girls\ldots and on Cinderella’s foot as well\ldots Surprise!
 <nl>Dus probeerden de ministers het muiltje  aan de voeten van alle meisjes\ldots en ook op Assepoester's voet\ldots Verrassing!
 <en>The slipper fit her perfectly.
 <nl>Het muiltje paste haar perfect.
-<en>"That awful untidy girl simply cannot have been at the ball," snapped the stepmother.
-<nl>"Dat vreselijke, slordige meisje kan gewoon niet op het bal zijn geweest," snauwde de stiefmoeder.
-<en>"Tell the Prince he ought to marry one of my two daughters!
-<nl>"Vertel de prins dat hij met \'e\'en van mijn twee dochters behoort te trouwen!
-<en>Can’t you see how ugly Cinderella is! Can’t you see?"
-<nl>Zie je niet hoe lelijk Assepoester is! Zie je het niet?"
+<en>`That awful untidy girl simply cannot have been at the ball,' snapped the stepmother.
+<nl>`Dat vreselijke, slordige meisje kan gewoon niet op het bal zijn geweest,' snauwde de stiefmoeder.
+<en>`Tell the Prince he ought to marry one of my two daughters!
+<nl>`Vertel de prins dat hij met \'e\'en van mijn twee dochters behoort te trouwen!
+<en>Can’t you see how ugly Cinderella is! Can’t you see?'
+<nl>Zie je niet hoe lelijk Assepoester is! Zie je het niet?'
 <en>
 <nl>
 <en>Suddenly she broke off, for the fairy had appeared.
 <nl>Plotseling brak ze af, want de fee was verschenen.
-<en>"That’s enough!" she exclaimed, raising her magic wand.
-<nl>"Dat is genoeg!" riep ze uit, haar toverstok omhoog brengend.
+<en>`That’s enough!' she exclaimed, raising her magic wand.
+<nl>`Dat is genoeg!' riep ze uit, haar toverstok omhoog brengend.
 <en>In a flash, Cinderella appeared in a splendid dress, shining with youth and beauty.
 <nl>In een flits verscheen Assepoester in een prachtige jurk die schitterde van jeugd en schoonheid.
-<en>Her stepmother and stepsisters gaped at her in amazement, and the ministers said, "Come with us, fair maiden!
-<nl>Haar stiefmoeder en stiefzusters gaapten  haar aan in verbazing en de ministers zeiden, "Kom met ons mee, schoon meisje!
-<en>The Prince awaits to present you with his engagement ring!" 
-<nl>De prins wacht om je zijn verlovingsring te presenteren!"
+<en>Her stepmother and stepsisters gaped at her in amazement, and the ministers said, `Come with us, fair maiden!
+<nl>Haar stiefmoeder en stiefzusters gaapten  haar aan in verbazing en de ministers zeiden, `Kom met ons mee, schoon meisje!
+<en>The Prince awaits to present you with his engagement ring!' 
+<nl>De prins wacht om je zijn verlovingsring te presenteren!'
 <en>So Cinderella joyfully went with them, and lived happily ever after with her Prince.
 <nl>Dus ging Assepoester verheug met hen mee en leefde nog lang en gelukkig met haar prins.
-<en>And as for the cat, he just said "Meow"!
-<en>
-<nl>
-<nl>En wat de kat betreft, hij zei gewoon "Miauw"!
+<en>And as for the cat, he just said `Meow'!
+<nl>En wat de kat betreft, hij zei gewoon `Miauw'!

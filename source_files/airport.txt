@@ -90,16 +90,16 @@
 <es>Las personas en la torre de control controlan los aviones.
 <nl>De mensen in de verkeerstoren regelen de vliegtuigen.
 <tr>Kontrol kulesindeki insanlar uçakları kontrol eder.
-<en>They sometimes say, “It is not your turn. Circle in the air.”
-<es>A veces dicen: "No es tu turno. Circula en el aire."
+<en>They sometimes say, `It is not your turn. Circle in the air.'
+<es>A veces dicen: `No es tu turno. Circula en el aire.'
 <nl>Ze zeggen soms, `Het is niet jouw beurt. Maak een rondje in de lucht.'
 <tr>Bazen ‘Bu senin sıran değil, havada dön’ derler.
-<en>They sometimes say, “It is your turn. You can land.”
-<es>A veces dicen: "Es tu turno. Puedes aterrizar."
+<en>They sometimes say, `It is your turn. You can land.'
+<es>A veces dicen: `Es tu turno. Puedes aterrizar.'
 <nl>Ze zeggen soms, `het is jouw beurt. Je kan landen.'
-<tr>Bazen "Bu senin sıran, inebilirsin." derler.
-<en>They sometimes say, “It is your turn. You can take off.”
-<es>A veces dicen: "Es tu turno. Puedes despegar."
+<tr>Bazen `Bu senin sıran, inebilirsin.' derler.
+<en>They sometimes say, `It is your turn. You can take off.'
+<es>A veces dicen: `Es tu turno. Puedes despegar.'
 <nl>Ze zeggen soms, `Het is jouw beurt, jij kan opstijgen.'
 <tr>Bazen ‘Bu senin sıran. Kalkabilirsin’ derler.
 <en>When they make mistakes,

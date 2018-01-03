@@ -304,9 +304,9 @@
 <en>The head of the thieves asked, 
 <nl>De leider van de dieven vroeg:
 <tr>Hırsızların lideri
-<en>“I am a Merchant. 
+<en>`I am a Merchant. 
 <nl>`Ik ben een koopman 
-<tr>Ben bir tüccarım
+<tr>`Ben bir tüccarım
 <en>I have been travelling for a long time 
 <nl>Ik heb heel lang gereisd. 
 <tr>Uzun zamandır seyahat ediyorum
@@ -315,10 +315,10 @@
 <tr>Yorgunum.
 <en>Can I stay in your house this evening?' 
 <nl>Kan ik in jouw huis verblijven deze avond?'
-<tr>Bu gece sizin evinizde kalabilir miyim diye sormuş
+<tr>Bu gece sizin evinizde kalabilir miyim,' diye sormuş
 <en>Ali Baba said, `Yes, of course!' 
 <nl>Ali Baba zei: `Ja, natuurlijk.' 
-<tr>Ali Baba ‘tabi ki’ demiş.
+<tr>Ali Baba `tabi ki' demiş.
 <en>
 <nl>
 <tr>

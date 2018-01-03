@@ -2,23 +2,23 @@
 <nl>Birbals zoete antwoord
 <en>One day the Emperor Akbar startled his courtiers with a strange question. 
 <nl>Op een dag verraste keizer Akbar zijn hovelingen met een vreemde vraag.
-<en>"If somebody pulled my whiskers what sort of punishment should be given to him?" he asked. 
+<en>`If somebody pulled my whiskers what sort of punishment should be given to him?' he asked. 
 <nl>`Als iemand aan mijn snorharen trekt, wat voor soort straf zou hij moeten krijgen?', vroeg hij.
-<en>"He should be flogged!" said one courtier. 
+<en>`He should be flogged!' said one courtier. 
 <nl>`Hij zou gegeseld moeten worden!' zei een hoveling.
-<en>"He should be hanged!" said another. 
+<en>`He should be hanged!' said another. 
 <nl>`Hij zou opgehangen moeten worden!' zei een ander.
-<en>"He should be beheaded!" said a third. 
+<en>`He should be beheaded!' said a third. 
 <nl>`Hij zou onthoofd moeten worden!' zei een derde.
 <en>
 <nl>
-<en>"And what about you, Birbal?" asked the emperor. "What do you think would be the right thing to do if somebody pulled my whiskers?" 
+<en>`And what about you, Birbal?' asked the emperor. `What do you think would be the right thing to do if somebody pulled my whiskers?' 
 <nl>`En wat vind jij, Birbal?' vroeg de keizer. `Wat denk jij dat gedaan zou moeten worden als iemand aan mijn snorharen trekt?'
-<en>"He should be given sweets," said Birbal. 
+<en>`He should be given sweets,' said Birbal. 
 <nl>`Hij zou snoep moeten krijgen', zei Birbal.
-<en>"Sweets?", gasped the other couriers. 
+<en>`Sweets?', gasped the other couriers. 
 <nl>`Snoep?'; de andere hovelingen hapten naar adem.
-<en>"Yes", said Birbal. “Sweets, because the only one who would dare pull His Majesty's whiskers is his grandson." 
+<en>`Yes', said Birbal. `Sweets, because the only one who would dare pull His Majesty's whiskers is his grandson.'
 <nl>`Ja,' zei Birbal, `snoep, omdat de enige die aan 's majesteits snorharen durft te trekken zijn kleinzoon is.'
 <en>
 <nl>

@@ -24,11 +24,11 @@
 <nl>Hij zei dat hij een schatkist met gouden munten en dure juwelen voor ze had, en dat hij de schat gelijk onder hun vieren wou verdelen.
 <en>The young men were very happy and asked where his father had placed the treasure.
 <nl>De jonge mannen werden erg blij en vroegen waar hun vader de schat had neergelegd.
-<en>The old man replied, “I cannot exactly remember the place where I have hidden the treasure.
+<en>The old man replied, `I cannot exactly remember the place where I have hidden the treasure.
 <nl>De oude man antwoordde: `Ik kan me niet precies de plaats herinneren waar ik de schat heb verborgen. 
 <en>However, the treasure box is buried in our land.
 <nl>Echter, de schatkist is begraven op ons land.
-<en>I’m really not sure about the place where I have hidden the treasure box.”
+<en>I’m really not sure about the place where I have hidden the treasure box.'
 <nl>Ik ben echter niet zeker van de plaats waar ik de schatkist heb verborgen.'
 <en>Even though the lazy young sons were happy, they were sad that the old man had forgotten the place where the treasure was hidden.
 <nl>Ondanks dat de luie jonge zonen blij waren, waren ze verdrietig dat de oude man de plaats vergeten had waar de schat verborgen was. 

@@ -28,13 +28,13 @@
 <en>They looked for the nightingale.
 <nl>Ze zochten de nachtegaal.
 <tr>bülbülü aradılar.
-<en>At last they found him and said to him, “Come to the palace with us”.
+<en>At last they found him and said to him, `Come to the palace with us'.
 <nl>Eindelijk vonden ze hem en zeiden tegen hem: `Kom mee naar het paleis met ons.'
-<tr>Sonunda onu buldular ve ona "Bizimle saraya gel" dediler.
+<tr>Sonunda onu buldular ve ona `Bizimle saraya gel' dediler.
 <en>He said, `I don’t want to come with you  because  I am free and happy in the forest.'
 <nl>Hij zei: `Ik wil niet met jullie mee komen omdat ik vrij en gelukkig ben in het bos.'
 <tr>O da `Sizinle gelmek istemiyorum çünkü ben ormanda özgürüm ve mutluyum' dedi.
-<en>“They begged him, `Please,come with us because the king wants you.'
+<en>`They begged him, `Please,come with us because the king wants you.'
 <nl>Ze smeekten hem, `Alsjeblieft, kom met ons mee omdat de koning jou wil hebben.'
 <tr>Ona `Lütfen bizimle gel kral seni istiyor' diye yalvardılar.
 <en>The nightingale said, `Yes.'
@@ -136,7 +136,7 @@
 <en>There was a rumour among the people.
 <nl>Er ging een gerucht rond bij de mensen.
 <tr>İnsanların arasında bir söylenti başladı.
-<en>Everybody whispered with each other, “The king is dead.”
+<en>Everybody whispered with each other, `The king is dead.'
 <nl>Iedereen fluisterde met elkaar, `De koning is dood.'
 <tr>Herkes birbirine `Kral öldü' diye fısıldadı.
 <en>

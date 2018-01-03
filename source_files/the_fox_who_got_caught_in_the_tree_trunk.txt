@@ -42,5 +42,5 @@
 <nl>
 <en>The fox was very sad and upset.
 <nl>De vos was erg verdrietig en bang.
-<en>He told himself, “I wish I had thought a little before jumping into the hole.
+<en>He told himself, `I wish I had thought a little before jumping into the hole.'
 <nl>Hij zei tegen zichzelf: `Had ik maar even nagedacht voordat ik het gat in sprong.'

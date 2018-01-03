@@ -16,9 +16,9 @@
 <en>He is very surprised because he thinks the moon fell into the well.
 <nl>Hij is verbaasd omdat hij denkt dat de maan in de put is gevallen.
 <tr>Çok şaşırır, çünkü ayın kuyuya düştüğünü düşünür.
-<en>He says to himself, `I must pull it out”
+<en>He says to himself, `I must pull it out.'
 <nl>Hij zegt bij zichzelf, `Ik moet hem eruit trekken.'
-<tr>Kendi kendine, "Onu çekip çıkarmalıyım" der.
+<tr>Kendi kendine, `Onu çekip çıkarmalıyım' der.
 <en>He runs home and takes a hook.
 <nl>Hij rent naar huis een haalt een haak.
 <tr>Eve koşar ve bir kanca alır.
@@ -67,7 +67,7 @@
 <en>He sees the moon in the sky.
 <nl>Hij ziet de maan in de hemel.
 <tr>Ayı gökyüzünde görür.
-<en>He says, “I am clever. I have put the moon back into the sky.”
+<en>He says, `I am clever. I have put the moon back into the sky.'
 <nl>Hij zegt: `Ik ben slim. Ik heb de maan terug aan de hemel gezet.' 
 <tr>`Çok akıllıyım. Ayı gökyüzüne geri çıkardım', der.
 <en>Vocabulary

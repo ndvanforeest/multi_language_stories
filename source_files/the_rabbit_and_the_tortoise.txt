@@ -7,21 +7,21 @@
 <en>The rabbit teases the tortoise,
 <nl>Het konijn pest de schilpad.
 <tr>Tavşan kaplumbağayla alay eder.
-<en>”You are slow but I am fast.
+<en>`You are slow but I am fast.
 <nl>`Jij bent traag maar ik ben snel.
-<tr>"Sen yavaşsın ben hızlıyım.
-<en>I can run very fast but you can’t.”
+<tr>`Sen yavaşsın ben hızlıyım.
+<en>I can run very fast but you can’t.'
 <nl>Ik kan hard rennen maar jij niet'
-<tr>Ben çok hızlı koşabilirim ama sen koşamazsın."
+<tr>Ben çok hızlı koşabilirim ama sen koşamazsın.'
 <en>The tortoise is angry with the rabbit.
 <nl>De schilpad is boos op het konijn.
 <tr>Kaplumbağa tavşana kızar.
 <en>He challenges him,
 <nl>Hij daagt hem uit,
 <tr>Ona meydan okur,
-<en>”Let’s have a race!”
+<en>'Let’s have a race!'
 <nl>`Laten we een wedstrijd houden.'
-<tr>"Haydi yarışalım der."
+<tr>`Haydi yarışalım der.'
 <en>
 <nl>
 <tr>
@@ -31,9 +31,9 @@
 <en>A fox comes along and starts the race.
 <nl>Een vos komt langs en start de wedstrijd.
 <tr>Bir tilki onlara katılır ve yarışı başlatır.
-<en>“Ready, steady, go!”
+<en>`Ready, steady, go!'
 <nl>`Klaar, af.'
-<tr>"Hazır ol, Başla!"
+<tr>`Hazır ol, Başla!'
 <en>says the fox.
 <nl>zegt de vos.
 <tr>der tilki.
@@ -51,13 +51,13 @@
 <tr>Tavşan düşünür,
 <en>`The tortoise is slow.
 <nl>`De schildpas is traag.
-<tr>"Kaplumbağa yavaş.
+<tr>`Kaplumbağa yavaş.
 <en>I am fast.
 <nl>Ik ben snel.
 <tr>Ben hızlıyım.
-<en>I will go under a tree and rest.”
+<en>I will go under a tree and rest.'
 <nl>Ik ga onder een boom uitrusten.'
-<tr>Bir ağacın altına gidip dinleneceğim."
+<tr>Bir ağacın altına gidip dinleneceğim.'
 <en>The rabbit goes under a tree, crosses his legs.
 <nl>Het konijn gaat naar een boom, en legt zijn benen over elkaar.
 <tr>Tavşan bir ağacın altına gider, bacak bacak üstüne atar.

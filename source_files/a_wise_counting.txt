@@ -34,24 +34,24 @@
 <en>Birbal who knew the nature of the emperor quickly grasped the situation and asked, 
 <nl>Birbal, die het karakter van de keizer kende, doorzag de situatie snel en vroeg,
 <tr>İmparatorun huyunu bilen Birbal durumu hemen anladı ve sordu,
-<en>"May I know the question so that I can try for an answer". 
+<en>`May I know the question so that I can try for an answer.' 
 <nl>`Mag ik de vraag weten, zodat ik een antwoord kan proberen te vinden?'
-<tr>"Soruyu öğrenebilir miyim, böylece ben de cevabı bulmayı deneyebilirim".
-<en>Akbar said, "How many crows are there in this city?" 
+<tr>`Soruyu öğrenebilir miyim, böylece ben de cevabı bulmayı deneyebilirim.'
+<en>Akbar said, `How many crows are there in this city?'
 <nl>Akbar zei: `Hoeveel kraaien zijn er in deze stad?'
-<tr>Akbar dedi ki, "Bu şehirde kaç tane karga var?"
-<en>Without even a moment's thought, Birbal replied "There are fifty thousand five hundred and eighty nine crows, my lord".
+<tr>Akbar dedi ki, `Bu şehirde kaç tane karga var?'
+<en>Without even a moment's thought, Birbal replied `There are fifty thousand five hundred and eighty nine crows, my lord.'
 <nl>Zonder zelfs maar een moment na te denken, antwoordde Birbal: `Er zijn vijftigduizend vijfhonderd en negen-en-tachtig kraaien, mijn heer.'
-<tr>Birbal bir an bile düşünmeden cevap verdi "Elli bin beş yüz seksen dokuz" lordum.
+<tr>Birbal bir an bile düşünmeden cevap verdi `Elli bin beş yüz seksen dokuz' lordum.
 <en>
 <nl>
 <tr>
-<en>"How can you be so sure?" asked Akbar. 
+<en>`How can you be so sure?' asked Akbar. 
 <nl>`Hoe weet je dat zo zeker?', vroeg Akbar. 
-<tr>"Nasıl bu kadar emin olabilirsin?" diye sordu Akbar.
-<en>Birbal said, "Make your men count, My lord. If you find more crows it means some have come to visit their relatives here. If you find less number of crows it means some have gone to visit their relatives elsewhere". 
+<tr>`Nasıl bu kadar emin olabilirsin?' diye sordu Akbar.
+<en>Birbal said, `Make your men count, My lord. If you find more crows it means some have come to visit their relatives here. If you find less number of crows it means some have gone to visit their relatives elsewhere.'
 <nl>Birbal zei: `Laat uw mannen tellen, mijn heer. Als u meer kraaien vindt, betekent het dat sommige gekomen zijn om hier  hun familie te bezoeken. Als u minder kraaien vindt, betekent het dat sommige bij hun familie elders op bezoek zijn.'
-<tr>Birbal "Adamlarınız saysın lordum. Eğer daha fazla karga bulursanız, bu bazıları buraya akrabalarını ziyaret etmek için gelmiş demektir. Eğer daha az sayıda karga bulursanız, bu bazıları akrabalarını ziyaret etmeye başka yere gitmiş demektir" dedi.
+<tr>Birbal `Adamlarınız saysın lordum. Eğer daha fazla karga bulursanız, bu bazıları buraya akrabalarını ziyaret etmek için gelmiş demektir. Eğer daha az sayıda karga bulursanız, bu bazıları akrabalarını ziyaret etmeye başka yere gitmiş demektir' dedi.
 <en>
 <nl>
 <tr>

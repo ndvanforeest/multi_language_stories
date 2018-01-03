@@ -13,18 +13,18 @@
 <en>Lydia and Anna decide to shop in the city. 
 <nl>Lydia en Anna besluiten  te gaan shoppen in de stad.
 <tr>Lydia ve Anna şehirde alışveriş yapmaya karar vermişler
-<en>“See you boys when we get back!” the girls shout.
+<en>`See you boys when we get back!' the girls shout.
 <nl>`We zien elkaar als we terug zijn', roepen de meiden.
-<tr>“Geri döndüğümüzde görüşürüz” diye bağırmış kızlar.
+<tr>`Geri döndüğümüzde görüşürüz' diye bağırmış kızlar.
 <en>
 <nl>
 <tr>
 <en>In the village Jack and Mike see a beautiful old church, but when they enter the church, a service is already in progress.
 <nl>Jack en Mike zien een mooie, oude kerk in het dorp, maar als  ze de kerk  binnengaan, is  kerkdienst al bezig.
 <tr>Jack ve Mike köyde güzel, eski bir kilise görmüşler, fakat kiliseye girdiklerinde, ayin çoktan başlamış. 
-<en>“Shh! Just sit quietly, so that we don’t stand out. And act like the others!” Mike whispers.
+<en>`Shh! Just sit quietly, so that we don’t stand out. And act like the others!' Mike whispers.
 <nl>`Sst, zit alleen rustig, zodat je geen aandacht trekt. En doe zoals de anderen!', zegt  Mike zachtjes.  
-<tr>“Şşşş! Sessizce otur, bu sayede göze çarpmayız.  Ve diğerleri gibi hareket et!” demiş Mike fısıltıyla. 
+<tr>`Şşşş! Sessizce otur, bu sayede göze çarpmayız.  Ve diğerleri gibi hareket et!' demiş Mike fısıltıyla. 
 <en>Since they don’t really speak French, Jack and Mike quietly sit down. 
 <nl>Omdat Jack en Mike niet goed Frans spreken, gaan ze stilletjes zitten.
 <tr>Jack ve Mike Fransızcayı pek bilmediklerinden sessizce oturmuşlar. 
@@ -34,18 +34,18 @@
 <en>During the service, they do what the rest of the crowd does,  they stand up, kneel and sit .
 <nl>Tijdens  de dienst doen ze (dat) wat de rest van de gemeente doet, opstaan, knielen, en zitten. 
 <tr>Ayin boyunca kalabalığın geri kalanı ne yapıyorsa (onu) yapmak için kalkmışlar, diz çökmüşler ve oturmuşlar. 
-<en>“I hope we blend in and don’t look like tourists!” Mike tells Jack.
+<en>`I hope we blend in and don’t look like tourists!' Mike tells Jack.
 <nl>`Ik hoop dat we erbij horen en er niet uitzien als een toerist.', zegt Mike aan Jack.
-<tr>“Umarım araya karışırız ve turist gibi gözükmeyiz!” demiş Mike. 
+<tr>`Umarım araya karışırız ve turist gibi gözükmeyiz!' demiş Mike. 
 <en>
 <nl>
 <tr>
 <en>After a while, the priest makes an announcement and the man who sits next to Jack and Mike stands up.
 <nl>Na een tijdje doet de priester een aankondiging en staat de man die naast Jack en Mike zit op. 
 <tr>Bir süre sonra, rahip bir anons yapmış, Jack ve Mike'ın yanındaki adam ayağa kalkmış. 
-<en>“We should stand up, too!” Jack whispers to Mike.
+<en>`We should stand up, too!' Jack whispers to Mike.
 <nl>`Wij moeten ook opstaan', fluistert Jack zachtjes.
-<tr>“Biz de ayağa kalkmalıyız” demiş Jack fısıltıyla.
+<tr>`Biz de ayağa kalkmalıyız' demiş Jack fısıltıyla.
 <en>So, Jack and Mike stand up with the man. 
 <nl>Dus staan Jack en Mike samen op met de man. 
 <tr>Böylece, Jack ve Mike da adamla beraber ayağa kalkmış. 
@@ -58,9 +58,9 @@
 <en>After the service, Jack and Mike approach the priest, who speaks English.
 <nl>Na de dienst benaderen Jack en Mike de priester die Engels spreekt.
 <tr>Ayinden sonra Jack ve Mike İngilizce bilen  rahipe yaklaşmışlar.
-<en>“What’s so funny?” Jack asks.
+<en>`What’s so funny?' Jack asks.
 <nl>`Wat was zo grappig?', vraagt Jack.
-<tr>“Bu kadar komik olan nedir?” demiş Jack.
+<tr>`Bu kadar komik olan nedir?' demiş Jack.
 <en>With a smile on his face the priest says, 
 <nl>Met een glimlach op zijn gezicht zegt de priester: 
 <tr>Rahip suratındaki gülümsemeyle,
@@ -72,7 +72,7 @@
 <tr>Jack ve Mike birbirlerine bakmışlar ve Mike kafasını sallamış. 
 <en>He smiles and says, `I guess we should first understand what people do before we act like the others!'
 <nl>Hij glimlacht, en zegt: `Ik denk dat we eerst moeten begrijpen wat mensen doen voordat we de anderen nadoen.'
-<tr>Gülmüş ve demiş ki “Sanırım diğerleri gibi hareket etmeden önce insanların ne yaptığını anlamalıyız.”
+<tr>Gülmüş ve demiş ki `Sanırım diğerleri gibi hareket etmeden önce insanların ne yaptığını anlamalıyız.'
 <en>Vocabulary
 <nl>Vocabulair
 <tr>Kelime hazinesi

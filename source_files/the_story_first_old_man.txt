@@ -131,7 +131,7 @@
 <en>I answered,
 <nl>antwoordde ik,
 <en>`I will not sacrifice this calf,'
-<nl>"Ik zal dit kalf niet opofferen,"
+<nl>`Ik zal dit kalf niet opofferen,'
 <en>and in spite of all her remonstrances, I remained firm.
 <nl>en ondanks al haar tegenwerpingen bleef ik standvastig.
 <en>
@@ -145,7 +145,7 @@
 <en>
 <nl>
 <en>`I have come,'
-<nl>"Ik ben gekomen,"
+<nl>`Ik ben gekomen,
 <en>he said,
 <nl>hij zei,
 <en>`to tell you some news which I think you will like to hear.

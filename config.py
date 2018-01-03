@@ -97,9 +97,11 @@ files = [
     "the_merchant_and_the_genie.txt",
     "the_story_first_old_man.txt",
     "the_old_man_with_the_two_black_dogs.txt",
+    "the_story_of_the_fisherman.txt",
     "the_enchanting_horse_2.txt",
     "prince_omar.txt",
     "the_story_of_the_punished_vizier.txt",
     "the_story_of_the_baked_head.txt",
 ]
 
+#print(len(files))

@@ -48,16 +48,16 @@
 <tr>Çünkü fıstık çuvalı yanındaymış. 
 <en> How did this happen?, he asked the mouse.
 <nl>`Hoe is dit gebeurd?'', vroeg hij aan de muis.
-<tr>"Nasıl oldu bu iş?" diye sormuş fareye.
+<tr>`Nasıl oldu bu iş?' diye sormuş fareye.
 <en> It was impossible to move it.
 <nl>`Het wat onmogelijk om hem te verplaatsen.'
-<tr>"Bunu kıpırdatmak bile imkansızdı".
+<tr>`Bunu kıpırdatmak bile imkansızdı.'
 <en>To this, the mouse said: 
 <nl>De muis zei hierop: 
 <tr>Fare de demiş ki, 
 <en>You are right. I couldn't carry the bag, but I could carry one peanut. And so I did: one peanut per time.
 <nl>`Je hebt gelijk. Ik kon de zak niet dragen, maar ik kon 'e'en pinda dragen. En zo heb ik het gedaan. 1 pinda per keer.' 
-<tr> "Haklısın, çuvalı taşıyamazdım ama ben sadece 1 fıstık taşıyabiliyordum. Öyle de yaptım. Her defasında 1 fıstık." 
+<tr>`Haklısın, çuvalı taşıyamazdım ama ben sadece 1 fıstık taşıyabiliyordum. Öyle de yaptım. Her defasında 1 fıstık.'
 <en>
 <nl>
 <tr>
@@ -66,7 +66,7 @@
 <tr>Kıssadan hisse.
 <en> If you chop up a goal, that seems to lie beyond your capabilities, into small pieces that you can handle, nothing is impossible.
 <nl>Als je een doel, dat je vermogens te boven lijkt te gaan, verdeelt in kleine stukjes die wel binnen je vermogens liggen, is niets onmogelijk. 
-<tr>kapasitenizin üstünde gibi görünen bir hedefi kapasiteniz dahilinde küçük küçük parçalara bölerseniz "imkansız" diye bir şey olmaz. 
+<tr>kapasitenizin üstünde gibi görünen bir hedefi kapasiteniz dahilinde küçük küçük parçalara bölerseniz `imkansız' diye bir şey olmaz. 
 <en>Vocabulary
 <nl>Vocabulair
 <tr>Kelime hazinesi

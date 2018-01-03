@@ -25,9 +25,9 @@
 <en>Just then a frog jumps in front of the princess.
 <nl>Precies op dat moment springt een kikker voor de prinses.
 <tr>Aniden prensesin önüne bir kurbağa çıkar.
-<en>The frog says, “Don’t cry, princess.
+<en>The frog says, `Don’t cry, princess.
 <nl>De kikker zegt: `Huil maar niet, prinses.
-<tr>"Ağlama" der kurbağa.
+<tr>`Ağlama' der kurbağa.
 <en>I will help you
 <nl>Ik zal je helpen.
 <tr>Sana yardım edeceğim
@@ -37,7 +37,7 @@
 <en>and we will sleep together.
 <nl>en we zullen samen slapen.
 <tr>ve birlikte uyuyacağız.
-<en>Promise me.”
+<en>Promise me.'
 <nl>Beloof me dat.'
 <tr>Bana söz ver.
 <en>The princess looks at the ugly, slimy frog.
@@ -46,7 +46,7 @@
 <en>She doesn’t like him
 <nl>Ze houdt niet van hem,
 <tr>Ondan hoşlanmaz
-<en>but she has to say, “yes”.
+<en>but she has to say, `yes'.
 <nl>maar ze moet ja zeggen.
 <tr>ama evet demek zorunda kalır.
 <en>The frog jumps into the well.
@@ -82,12 +82,12 @@
 <en>The king opens the door.
 <nl>De koning opent de deur.
 <tr>Kral kapıyı açar.
-<en>“What would you like”, asks the king.
+<en>`What would you like', asks the king.
 <nl>`Wat wil je?', vraagt de koning
-<tr>"Ne istiyorsun?" diye sorar kral.
-<en>“I would like to speak to the princess”, says the frog.
+<tr>`Ne istiyorsun?' diye sorar kral.
+<en>`I would like to speak to the princess', says the frog.
 <nl>`Ik wil graag met de prinses praten', zegt de kikker
-<tr> "Prensesle konuşmak istiyorum" der kurbağa
+<tr>`Prensesle konuşmak istiyorum' der kurbağa
 <en>The king goes to the princess
 <nl>De koning gaat naar de prinses.
 <tr>Kral prensese gider
@@ -102,13 +102,13 @@
 <tr>Kral der ki
 <en>`A promise is a promise.
 <nl>`Beloofd is beloofd.
-<tr>"Söz sözdür.
+<tr>`Söz sözdür.
 <en>Keep your promise.
 <nl>Houd je aan je belofte.
 <tr>Sözünü tut.
 <en>Don’t break your promise.'
 <nl>En breek je belofte niet.'
-<tr>Sözünden dönme."
+<tr>Sözünden dönme.'
 <en>The princess goes to the door.
 <nl>De prinses gaat naar de deur.
 <tr>Prenses kapıya gider.
@@ -121,24 +121,24 @@
 <en>
 <nl>
 <tr>
-<en>“Kiss me”, says the frog.
+<en>`Kiss me', says the frog.
 <nl>`Kus me,' zegt de kikker.
-<tr>"Öp beni" der kurbağa.
+<tr>`Öp beni' der kurbağa.
 <en>The princess doesn’t want to kiss the slimy frog
 <nl>De prinses wil de slijmerige kikker niet kussen,
 <tr>Prenses sümüklü kurbağayı öpmek istemez, 
 <en>but the king says,
 <nl>maar de koning zegt,
 <tr>ama kral der ki,
-<en>“A promise is a promise.
+<en>`A promise is a promise.
 <nl>`Beloofd is beloofd.
-<tr>"Söz sözdür.
+<tr>`Söz sözdür.
 <en>Keep your promise.
 <nl>Houd je aan je belofte.
 <tr>Sözünü tut.
-<en>Don’t break your promise.”
+<en>Don’t break your promise.'
 <nl>Breek je belofte niet.'
-<tr>Sözünden dönme."
+<tr>Sözünden dönme.'
 <en>The princess kisses the ugly frog.
 <nl>De prinses kust de lelijke kikker.
 <tr>Prenses çirkin kurbağayı öper.
