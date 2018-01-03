@@ -22,7 +22,7 @@ spanish = [
     "traffic",
 ]
 
-target_language, fname = "nl", "the_story_second_old_man"
+target_language, fname = "nl", "the_story_of_the_fisherman"
 #target_language, fname = "es", "flying"
 #target_language, fname = "tr", "shaving"
 
