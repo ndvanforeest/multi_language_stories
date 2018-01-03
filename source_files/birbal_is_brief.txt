@@ -5,7 +5,7 @@
 <en>The courtiers looked at one another in bewilderment.
 <nl>De hovelingen keken elkaar verbijsterd aan.
 <en>`What about you, Birbal?'
-<nl>`Hoe denk jij ervan, Birbal?'
+<nl>`Wat denk jij ervan, Birbal?'
 <en>asked the emperor.
 <nl>vroeg de keizer.
 <en>`I'm surprised that you too are silent.'

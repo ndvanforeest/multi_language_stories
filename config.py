@@ -95,6 +95,7 @@ files = [
     "the_monkey_advisor.txt",
     "arabian_nights_intro.txt",
     "the_merchant_and_the_genie.txt",
+    "the_story_first_old_man.txt",
     "the_old_man_with_the_two_black_dogs.txt",
     "the_enchanting_horse_2.txt",
     "prince_omar.txt",

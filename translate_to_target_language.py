@@ -22,7 +22,7 @@ spanish = [
     "traffic",
 ]
 
-target_language, fname = "nl", "merchant"
+target_language, fname = "nl", "the_story_first_old_man"
 #target_language, fname = "es", "flying"
 #target_language, fname = "tr", "shaving"
 
@@ -38,8 +38,8 @@ def translate_single_file(fin):
         # target translation. The line below removes such weird
         # characters.
         target = re.sub(r' ​​', " ", target)
-        target = re.sub(r"(\. ')", '."', target)
-        target = re.sub(r'(\. ")', '."', target)
+        target = re.sub(r"([\.\?\!,]) '", r"\1'", target)
+        target = re.sub(r"'(\w)", r"`\1", target)
         res.append([source, target])
     return res
 
@@ -72,7 +72,8 @@ def latex_alternating(story, fout):
 
 
 def translate_file():
-    fin_name = r"source_files/" + fname + ".txt"
+    #fin_name = r"source_files/" + fname + ".txt"
+    fin_name = fname + ".txt"
     fout_name = target_language + "_" + fname + ".tex"
     with open(fin_name, "r") as fin:
         story = translate_single_file(fin)

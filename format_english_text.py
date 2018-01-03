@@ -15,7 +15,7 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "merchant"
+fname = "./raw_material/the_story_first_old_man.txt"
 #"aladdin_2"
 #"jack_beanstalk"
 #"the_pink_fairy_book",
@@ -23,28 +23,34 @@ fname = "merchant"
 
 def format_single_file_raw(fname):
     story = []
-    with open("./raw_material/" + fname + r".txt", 'r') as fin:
+    with open(fname, 'r') as fin:
         for line in fin:
             story.append(line.strip())
     story = "\n".join(story)
     story = re.sub(r'(\n\n)', r'<par>', story)
     story = re.sub(r'(\n)', r' ', story)
     story = re.sub(r'<par>', r'\n\n', story)
-    story = re.sub(r'(; )', r';\n', story)
-    story = re.sub(r'(\. )', r'.\n', story)
-    story = re.sub(r'(\.")', r'."\n', story)
-    story = re.sub(r'(\?")', r'?"\n', story)
-    story = re.sub(r'(\? )', r'?\n', story)
-    story = re.sub(r'(\!")', r'!"\n', story)
-    story = re.sub(r'(\! )', r'!\n', story)
-    story = re.sub(r'(, ")', r',\n"', story)
-    story = re.sub(r'(: ")', r':\n"', story)
+    story = re.sub(r'([\?\!\.,])"', r"\1'", story)
+    story = re.sub(r'"(\w)', r"`\1", story)
+    story = re.sub(r'([\.;]) ', r"\1\n", story)
+    story = re.sub(r' `', r"\n`", story)
+    story = re.sub(r"' ", r"'\n", story)
+    #story = re.sub(r'(; )', r';\n', story)
+    #story = re.sub(r'(\. )', r'.\n', story)
+    #story = re.sub(r'(\.")', r".'\n", story)
+    #story = re.sub(r'(\?")', r"?'\n", story)
+    #story = re.sub(r'(\? )', r'?\n', story)
+    #story = re.sub(r'(\!")', r"!'\n", story)
+    #story = re.sub(r'(\! )', r'!\n', story)
+    #story = re.sub(r'(," )', r",'\n", story)
+    #story = re.sub(r'(, ")', r',\n`', story)
+    #story = re.sub(r'(: ")', r':\n`', story)
     story = re.sub(r'(\n )', r'\n', story)
     story = re.sub(r'(\n\n\n)', r'\n\n', story)
 
 
     res = story.split("\n")
-    with open(fname + r".txt", "w") as fout:
+    with open(fname[15:], "w") as fout:
         for line in res:
             fout.write("<en>{}\n".format(line))
     #for token in tokenizer.tokenize(fin.read()):
