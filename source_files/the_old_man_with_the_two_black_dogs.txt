@@ -1,5 +1,7 @@
-<en>The Old Man with The Two Black Dogs
-<nl>De oude man met de twee zwarte honden
+<en>The Story of the Second Old Man and the Two Black Dogs
+<nl>Het verhaal van de tweede oude man en de twee zwarte honden
+<en>Great prince of the genii, you must know that we are three brothers--these two black dogs and myself.
+<nl>Grote prins van de geesten, u moet weten dat wij drie broers zijn--deze twee zwarte handen en mijzelf.
 <en>Long time back, ours was a happy and prosperous family.
 <nl>Lange tijd geleden was  onze familie gelukkig en welvarend.
 <en>We were three brothers who loved each other very much.
@@ -210,27 +212,39 @@
 <nl>Je kunt mij bereiken na die tijd.'
 <en>My fairy wife told me where her home was and vanished into thin air.
 <nl>Mijn sprookjesvrouw vertelde me waar haar huis was en verdween in het niets.
-<en>% Now ten years have passed.
-<nl>% Nu zijn tien jaar verstreken.
-<en>% I am leading the black dogs in search of my fairy wife.
-<nl>% Ik leid de zwarte honden op zoek naar mijn sprookjesvrouw.
-<en>% "Now, Oh!
-<nl>% "Nu, oh!
-<en>% Genie, you must not have ever heard of such a wonderous, unbelievable tale.
-<nl>% Genie, je hebt nog nooit van zo'n wonderbaarlijk, ongelofelijk verhaal gehoord.
-<en>% I ask you to grant a third of the merchant's life in return of this tale."
-<nl>% Ik vraag je om een derde van het leven van de handelaar in ruil voor dit verhaal te geven. '
-<en>% The genie agreed again.
-<nl>% De geest stemde opnieuw toe.
-<en>% Then the third old man said, "I'll tell you a stranger and fantastic story of all."
-<nl>% Toen zei de derde oude man: "Ik zal je een vreemder en fantastisch verhaal over alles vertellen."
-<en>% He then told such a tale full of unbelievable events and wonderous magic that the genie declared to spare a third of the merchant's punishment.
-<nl>% Hij vertelde toen een verhaal vol ongelooflijke gebeurtenissen en wonderlijke magie dat de geest beweerde een derde van de straf van de handelaar te sparen.
-<en>% Thus, the genie departed.
-<nl>% Dus de geest vertrok.
-<en>% The merchant and the three men then went on their journeys.
-<nl>% De koopman en de drie mannen gingen toen op reis.
-<en>% The merchant reached home and was received happily by his family.
-<nl>% De koopman bereikte zijn huis en werd gelukkig ontvangen door zijn familie.
-<en>% Then he told the strange tale of how he was freed.
-<nl>% Toen vertelde hij het vreemde verhaal over hoe hij was bevrijd.
+<en>The ten years are nearly passed, and I am on the road to find her. 
+<nl>De tien jaar zijn bijna voorbij en ik ben op weg om haar te vinden.
+<en>As in passing I met this merchant and the old man with the hind, I stayed with them. 
+<nl>In het voorbijgaan ontmoette ik deze koopman en de oude man met de hinde, en ik bleef bij hen.
+<en>This is my history, O prince of genii!  Do you not think it is a most marvellous one? 
+<nl>Dit is mijn geschiedenis, o prins van geesten! Denkt u niet dat het een zeer buitengewoon verhaal is?
+<en>`Yes, indeed,' 
+<nl>`Ja, inderdaad,'
+<en>replied the genius, 
+<nl>antwoordde de geest,
+<en>`and I will give up to you the third of the merchant's punishment.' 
+<nl>`en ik zal u een derde van de straf van de handelaar geven.'
+<en>Then the third old man made the genius the same request as the other two had done, and the genius promised him the last third of the merchant's punishment if his story surpassed both the others. 
+<nl>Toen deed de derde oude man het genie hetzelfde verzoek als de andere twee hadden gedaan, en de geest beloofde hem het laatste derde deel van de straf van de koopman als zijn verhaal de beide andere zou overtreffen.
+<en>So he told his story to the genius, but I cannot tell you what it was, as I do not know. 
+<nl>Dus hij vertelde zijn verhaal aan de geest, maar ik kan je niet vertellen wat het was, want ik weet het niet.
+<en>But I do know that it was even more marvellous than either of the others, so that the genius was astonished, and said to the third old man, 
+<nl>Maar ik weet wel dat het nog wonderbaarlijker was dan elk van de andere, zodat de geest verbaasd was, en tegen de derde oude man zei:
+<en>`I will give up to you the third part of the merchant's punishment. 
+<nl>`Ik zal voor jou het derde deel van de straf van de handelaar opgeven.
+<en>He ought to thank all three of you for having interested yourselves in his favour. 
+<nl>Hij behoort jullie alle drie te bedanken om jullie moeite te hebben laten doen in zijn belang.
+<en>But for you, he would be here no longer.' 
+<nl>Was het niet door jullie, hij zou hier niet langer zijn.'
+<en>So saying, he disappeared, to the great joy of the company. 
+<nl>Dat zeggend, verdween hij, tot grote vreugde van het gezelschap.
+<en>The merchant did not fail to thank his friends, and then each went on his way. 
+<nl>De koopman verzuimde niet zijn vrienden te bedanken, en daarna vervolgde ieder  zijn eigen weg.
+<en>The merchant returned to his wife and children, and passed the rest of his days happily with them. 
+<nl>De koopman keerde terug naar zijn vrouw en kinderen, en bracht de rest van zijn dagen gelukkig met hen door.
+<en>`But, sire,'
+<nl>`Maar, vader,'
+<en>added Scheherazade, 
+<nl>voegde  Scheherazade toe,
+<en>`however beautiful are the stories I have just told you, they cannot compare with the story of the Fisherman.'
+<nl>`Hoe mooi de verhalen ook zijn die ik je net heb verteld, ze kunnen niet tippen aan het verhaal van de visser.'

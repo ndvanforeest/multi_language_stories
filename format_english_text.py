@@ -15,7 +15,7 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "./raw_material/the_story_first_old_man.txt"
+fname = "./raw_material/the_story_second_old_man.txt"
 #"aladdin_2"
 #"jack_beanstalk"
 #"the_pink_fairy_book",
