@@ -100,9 +100,11 @@ files = [
     "the_story_of_the_fisherman.txt",
     "the_story_of_greek_king.txt",
     "the_story_of_the_husband_and_the_parrot.txt",
+    "the_story_of_the_punished_vizier.txt",
+    "the_story_of_the_speaking_head.txt",
+    "the_story_of_the_four_fish.txt",
     "the_enchanting_horse_2.txt",
     "prince_omar.txt",
-    "the_story_of_the_punished_vizier.txt",
     "the_story_of_the_baked_head.txt",
 ]
 

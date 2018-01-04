@@ -16,13 +16,7 @@ import re
 from googletrans import Translator
 translator = Translator()
 
-spanish = [
-    "flying",
-    "swimming",
-    "traffic",
-]
-
-target_language, fname = "nl", "the_story_of_the_husband_and_the_parrot.txt"
+target_language, fname = "nl", "speaking_head.txt"
 #target_language, fname = "es", "flying"
 #target_language, fname = "tr", "./source_files/the_donkey_of_hodja.txt"
 #target_language, fname = "tr", "./source_files/taking_a_shower.txt"
@@ -42,6 +36,7 @@ def translate_single_file(fin):
         target = re.sub(r' ​​', " ", target)
         target = re.sub(r'([\.\?\!,]) "', r"\1'", target)
         target = re.sub(r'"(\w)', r"`\1", target)
+        target = re.sub(r"'(\w)", r"`\1", target)
         target = re.sub(r'([\.\?\!,])"', r"\1'", target)
         target = re.sub(r"([\.\?\!,]) '", r"\1'", target)
         #target = re.sub(r"'(\w)", r"`\1", target)
