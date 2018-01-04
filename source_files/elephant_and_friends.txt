@@ -28,7 +28,7 @@
 <es>Él le pregunto si serían amigos.
 <en>But the rabbit said: `You are too big to play in my burrow.'  
 <nl>Maar het konijn zei: `Jij bent te groot om in mijn nest te spelen.'  
-<tr>Fakat tavşan `Sen benim  yuvamda oynamak için çok büyüksün' demiş.'
+<tr>Fakat tavşan `Sen benim  yuvamda oynamak için çok büyüksün' demiş.
 <es>Pero el conejo dijo: `Eres muy grande para jugar en mi madriguera.'
 <en>Then the elephant met a frog. 
 <nl>Daarna ontmoette de olifant een kikker.  

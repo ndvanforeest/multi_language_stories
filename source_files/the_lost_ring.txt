@@ -1,4 +1,4 @@
-<en>The lost ring
+<en>The Lost Ring
 <nl>De verloren ring
 <tr>Kayip yüzük
 <en>One day a man goes home.
@@ -24,10 +24,10 @@
 <tr>yere düşürür.
 <en>He looks for it on the floor
 <nl>Hij zoekt er naar op de vloer
-<tr>Onu yerde arar.
+<tr>Onu yerde arar
 <en>but he can’t find it
 <nl>maar hij kan het niet vinden
-<tr>ama bulamaz.
+<tr>ama bulamaz
 <en>because it is dark inside.
 <nl>omdat het donker is binnen.
 <tr>Çünkü içerisi karanlıktır.

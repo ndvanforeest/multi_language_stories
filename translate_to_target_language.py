@@ -22,9 +22,11 @@ spanish = [
     "traffic",
 ]
 
-target_language, fname = "nl", "the_story_of_greek_king"
+target_language, fname = "nl", "the_story_of_the_husband_and_the_parrot.txt"
 #target_language, fname = "es", "flying"
-#target_language, fname = "tr", "shaving"
+#target_language, fname = "tr", "./source_files/the_donkey_of_hodja.txt"
+#target_language, fname = "tr", "./source_files/taking_a_shower.txt"
+#target_language, fname = "tr", "./source_files/a_walk_in_the_park.txt"
 
 
 def translate_single_file(fin):
@@ -38,8 +40,11 @@ def translate_single_file(fin):
         # target translation. The line below removes such weird
         # characters.
         target = re.sub(r' ​​', " ", target)
+        target = re.sub(r'([\.\?\!,]) "', r"\1'", target)
+        target = re.sub(r'"(\w)', r"`\1", target)
+        target = re.sub(r'([\.\?\!,])"', r"\1'", target)
         target = re.sub(r"([\.\?\!,]) '", r"\1'", target)
-        target = re.sub(r"'(\w)", r"`\1", target)
+        #target = re.sub(r"'(\w)", r"`\1", target)
         res.append([source, target])
     return res
 
@@ -73,8 +78,9 @@ def latex_alternating(story, fout):
 
 def translate_file():
     #fin_name = r"source_files/" + fname + ".txt"
-    fin_name = fname + ".txt"
-    fout_name = target_language + "_" + fname + ".tex"
+    #fout_name = target_language + "_" + fname[15:-4] + ".tex"
+    fin_name = fname
+    fout_name = target_language + "_" + fname[:-4] + ".tex"
     with open(fin_name, "r") as fin:
         story = translate_single_file(fin)
     with open(fout_name, "w") as fout:

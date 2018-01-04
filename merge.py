@@ -2,7 +2,7 @@
 
 import re
 
-target_language, fname = "nl", "the_story_of_greek_king.txt"
+target_language, fname = "nl", "the_story_of_the_husband_and_the_parrot.txt"
 #target_language, fname = "es", "aladdin.txt"
 #target_language, fname = "tr", "boys_will_be_boys.txt"
 
