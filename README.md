@@ -13,15 +13,15 @@ The source_files directory contains the source files. Each source file contains 
 
 The process works like this.
 
-#. start with some .txt (plain ascii) file.
+1. start with some .txt (plain ascii) file.
 
-#. format_english_text.py: formates a raw txt file and split it into lines each of which starts with <en>
+2. format_english_text.py: formates a raw txt file and split it into lines each of which starts with <en>
 
-3: translate_to_target_language.py: have google translate the formated file to a draft translation. 
+2: translate_to_target_language.py: have google translate the formated file to a draft translation. 
 
-4: Edit the file translated by google by hand to improve the translation by hand (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.)
+3. Edit the file translated by google by hand to improve the translation by hand (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.)
 
-5: merge.py: merge the hand-edited file with the original source file. Copy the merged file to the source_files directory.
+4. merge.py: merge the hand-edited file with the original source file. Copy the merged file to the source_files directory.
 
 In case you like to add a language, or otherwise contribute to this project let me know. The idea is to take the English stories as leading, and translate those stories to a target language, in my case Dutch. The sentences in the target language 1) should be, foremost, natural to a native speaker, 2) try to stay as close as possible to the English source, both in word sequence as in meaning. It is evident that,  in general, it is impossible to translate the English in a one-to-one way to a target language. Hence, (once more), the most important criterion to meet is that the sentences in the target language are natural so that a learner of the target language gets a feeling for the language as used by natives.
 
