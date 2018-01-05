@@ -17,7 +17,7 @@ The process works like this.
 
 2. format_english_text.py: formates a raw txt file and split it into lines each of which starts with <en>
 
-2: translate_to_target_language.py: have google translate the formated file to a draft translation. 
+2. translate_to_target_language.py: have google translate the formated file to a draft translation. 
 
 3. Edit the file translated by google by hand to improve the translation by hand (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.)
 
