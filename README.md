@@ -13,9 +13,9 @@ The source_files directory contains the source files. Each source file contains 
 
 The process works like this.
 
-# start with some .txt (plain ascii) file.
+#. start with some .txt (plain ascii) file.
 
-# format_english_text.py: formates a raw txt file and split it into lines each of which starts with <en>
+#. format_english_text.py: formates a raw txt file and split it into lines each of which starts with <en>
 
 3: translate_to_target_language.py: have google translate the formated file to a draft translation. 
 
