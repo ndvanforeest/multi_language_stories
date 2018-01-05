@@ -2,7 +2,7 @@
 
 import re
 
-target_language, fname = "nl", "speaking_head.txt"
+target_language, fname = "nl", "the_story_of_the_young_King_of_the_black_isles.txt"
 #target_language, fname = "es", "aladdin.txt"
 #target_language, fname = "tr", "boys_will_be_boys.txt"
 

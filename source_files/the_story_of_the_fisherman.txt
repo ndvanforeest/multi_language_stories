@@ -86,40 +86,28 @@
 <nl>schreeuwde het monster,
 <en>`I will never again disobey you!'
 <nl>`Ik zal nooit meer ongehoorzaam zijn!'
-<en>
-<nl>
 <en>At these words the fisherman took courage.
 <nl>Bij deze woorden nam de visser moed.
-<en>
-<nl>
 <en>`What is this you are saying, great genius?  Tell me your history and how you came to be shut up in that vase.'
 <nl>`Wat zeg je nu, grote geest? Vertel me je geschiedenis en hoe je in die vaas bent opgesloten.'
 <en>
 <nl>
 <en>At this, the genius looked at the fisherman haughtily.
 <nl>Hierop keek de geest hooghartig naar de visser.
-<en>
-<nl>
 <en>`Speak to me more civilly,'
 <nl>`Praat beleefder tegen mij,'
 <en>he said,
 <nl>zei hij,
 <en>`before I kill you.'
 <nl>`voordat ik je vermoord.'
-<en>
-<nl>
 <en>`Alas! why should you kill me?'
 <nl>`Helaas! waarom zou u mij vermoorden?'
 <en>cried the fisherman.
 <nl>riep de visser.
-<en>
-<nl>
 <en>`I have just freed you;
 <nl>`Ik heb u net bevrijd;
 <en>have you already forgotten that?'
 <nl>heeft u dat al vergeten?'
-<en>
-<nl>
 <en>`No,'
 <nl>`Nee,'
 <en>answered the genius;
@@ -128,14 +116,10 @@
 <nl>maar dat belet mij niet je te doden;
 <en>and I am only going to grant you one favour, and that is to choose the manner of your death.'
 <nl>en ik ga je slechts één gunst verlenen, en dat is de wijze van je dood kiezen.'
-<en>
-<nl>
 <en>`But what have I done to you?'
 <nl>`Maar wat heb ik  u gedaan?'
 <en>asked the fisherman.
 <nl>vroeg de visser.
-<en>
-<nl>
 <en>`I cannot treat you in any other way,'
 <nl>`Ik kan je niet op een andere manier behandelen,'
 <en>said the genius,
@@ -172,12 +156,8 @@
 <nl>
 <en>The fisherman was very unhappy.
 <nl>De visser was erg ongelukkig.
-<en>
-<nl>
 <en>`What an unlucky man I am to have freed you!  I implore you to spare my life.'
 <nl>`Wat een ongelukkige man ben  ik u te hebben bevrijd! Ik smeek u mijn leven te sparen.'
-<en>
-<nl>
 <en>`I have told you,'
 <nl>`Ik heb je gezegd,'
 <en>said the genius,
@@ -192,28 +172,20 @@
 <nl>
 <en>The fisherman began to devise a plot.
 <nl>De visser begon een plan te bedenken.
-<en>
-<nl>
 <en>`Since I must die,'
 <nl>`Omdat ik moet sterven,'
 <en>he said,
 <nl>zei hij,
 <en>`before I choose the manner of my death, I conjure you on your honour to tell me if you really were in that vase?'
 <nl>`voor ik de manier van mijn dood kies, verzoek ik u, op uw eer, mij te vertellen of u echt in die vaas zat?'
-<en>
-<nl>
 <en>`Yes, I was,'
 <nl>`Ja, dat was ik,'
 <en>answered the genius.
 <nl>antwoordde de geest.
-<en>
-<nl>
 <en>`I really cannot believe it,'
 <nl>`Ik kan het niet echt geloven',
 <en>said the fisherman.
 <nl>zei de visser.
-<en>
-<nl>
 <en>`That vase could not contain one of your feet even, and how could your whole body go in?  I cannot believe it unless I see you do the thing.'
 <nl>`Die vaas kan zelfs niet één van uw voeten bevatten, en hoe kan uw hele lichaam er in gaan? Ik kan het niet geloven tenzij ik zie dat u het doet.'
 <en>
@@ -230,8 +202,6 @@
 <nl>
 <en>The fisherman instead of answering took the lid of lead and shut it down quickly on the vase.
 <nl>De visser, in plaats van te antwoorden, nam het loden deksel en sloot er snel de vaas mee af.
-<en>
-<nl>
 <en>`Now, O genius,'
 <nl>`Nu, o geest,'
 <en>he cried,
@@ -242,12 +212,8 @@
 <nl>
 <en>At these words the genius did all he could to get out, but he could not, because of the enchantment of the lid.
 <nl>Bij deze woorden deed de geest er alles aan om eruit te komen, maar dat kon hij niet vanwege de betovering van het deksel.
-<en>
-<nl>
 <en>Then he tried to get out by cunning.
 <nl>Toen trachtte hij er met een list uit te komen.
-<en>
-<nl>
 <en>`If you will take off the cover,'
 <nl>`Als je het deksel eraf wil halen,'
 <en>he said,

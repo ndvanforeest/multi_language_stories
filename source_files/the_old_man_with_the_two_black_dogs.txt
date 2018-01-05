@@ -27,7 +27,7 @@
 <en>
 <nl>
 <en>One afternoon, as I sat fanning myself at the shop, a beggar approached me.
-<nl>Op een middag, terwijl ik in de winkel zat en mezelf (koelte) toewuifde, kwam een bedelaar naar me toe.
+<nl>Op een middag, terwijl ik in de winkel zat en mezelf koelte toewuifde, kwam een bedelaar naar me toe.
 <en>He was looking very weak.
 <nl>Hij zag er erg zwak uit.
 <en>He was barely covered in tattered clothes.
@@ -212,6 +212,8 @@
 <nl>Je kunt mij bereiken na die tijd.'
 <en>My fairy wife told me where her home was and vanished into thin air.
 <nl>Mijn sprookjesvrouw vertelde me waar haar huis was en verdween in het niets.
+<en>
+<nl>
 <en>The ten years are nearly passed, and I am on the road to find her. 
 <nl>De tien jaar zijn bijna voorbij en ik ben op weg om haar te vinden.
 <en>As in passing I met this merchant and the old man with the hind, I stayed with them. 
@@ -224,6 +226,8 @@
 <nl>antwoordde de geest,
 <en>`and I will give up to you the third of the merchant's punishment.' 
 <nl>`en ik zal u een derde van de straf van de handelaar geven.'
+<en>
+<nl>
 <en>Then the third old man made the genius the same request as the other two had done, and the genius promised him the last third of the merchant's punishment if his story surpassed both the others. 
 <nl>Toen deed de derde oude man het genie hetzelfde verzoek als de andere twee hadden gedaan, en de geest beloofde hem het laatste derde deel van de straf van de koopman als zijn verhaal de beide andere zou overtreffen.
 <en>So he told his story to the genius, but I cannot tell you what it was, as I do not know. 
@@ -236,14 +240,18 @@
 <nl>Hij behoort jullie alle drie te bedanken om jullie moeite te hebben laten doen in zijn belang.
 <en>But for you, he would be here no longer.' 
 <nl>Was het niet door jullie, hij zou hier niet langer zijn.'
+<en>
+<nl>
 <en>So saying, he disappeared, to the great joy of the company. 
 <nl>Dat zeggend, verdween hij, tot grote vreugde van het gezelschap.
 <en>The merchant did not fail to thank his friends, and then each went on his way. 
 <nl>De koopman verzuimde niet zijn vrienden te bedanken, en daarna vervolgde ieder  zijn eigen weg.
 <en>The merchant returned to his wife and children, and passed the rest of his days happily with them. 
 <nl>De koopman keerde terug naar zijn vrouw en kinderen, en bracht de rest van zijn dagen gelukkig met hen door.
+<en>
+<nl>
 <en>`But, sire,'
-<nl>`Maar, vader,'
+<nl>`Maar, sire,'
 <en>added Scheherazade, 
 <nl>voegde  Scheherazade toe,
 <en>`however beautiful are the stories I have just told you, they cannot compare with the story of the Fisherman.'

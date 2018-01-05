@@ -14,8 +14,6 @@
 <nl>
 <en>The Greek king was naturally very weak, and did not perceive the wicked intention of his vizir, nor was he firm enough to keep to his first resolution.
 <nl>De Griekse koning was van nature erg zwak en doorzag de slechte bedoelingen van zijn vizier niet, noch was hij standvastig genoeg om zich bij zijn eerste besluit te houden.
-<en>
-<nl>
 <en>`Well, vizir,'
 <nl>`Nou, vizier,'
 <en>he said,
@@ -28,14 +26,10 @@
 <nl>Hij zou het kunnen doen met louter de geur van \'e\'en van zijn medicijnen.
 <en>I must see what can be done.'
 <nl>Ik moet zien wat gedaan kan worden.'
-<en>
-<nl>
 <en>`The best means, sire, to put your life in security, is to send for him at once, and to cut off his head directly he comes,'
 <nl>`Het beste middel, sire, om uw leven in veiligheid te stellen, is om hem meteen te laten halen, en  zijn hoofd af te hakken direct als hij komt,'
 <en>said the vizir.
 <nl>zei de vizir.
-<en>
-<nl>
 <en>`I really think,'
 <nl>`Ik denk echt,'
 <en>replied the king,
@@ -46,24 +40,16 @@
 <nl>
 <en>He then ordered one of his ministers to fetch the physician, who came at once.
 <nl>Vervolgens beval hij een van zijn ministers om de arts te halen, die onmiddellijk kwam.
-<en>
-<nl>
 <en>`I have had you sent for,'
 <nl>`Ik heb je laten halen,'
 <en>said the king,
 <nl>zei de koning,
 <en>`in order to free myself from you by taking your life.'
 <nl>`om mezelf van je te ontdoen door je leven te nemen.'
-<en>
-<nl>
 <en>The physician was beyond measure astonished when he heard he was to die.
 <nl>De arts was buitengewoon verbaasd toen hij hoorde dat hij moest sterven.
-<en>
-<nl>
 <en>`What crimes have I committed, your majesty?'
 <nl>`Welke misdaden heb ik begaan, majesteit?'
-<en>
-<nl>
 <en>`I have learnt,'
 <nl>`Ik heb geleerd,'
 <en>replied the king,
@@ -78,12 +64,8 @@
 <nl>voegde hij toe aan een beul die erbij was,
 <en>`and rid me of this assassin.'
 <nl>en verlos mij van deze moordenaar.
-<en>
-<nl>
 <en>At this cruel order the physician threw himself on his knees.
 <nl>Bij dit wrede bevel wierp de arts zich op zijn knieën.
-<en>
-<nl>
 <en>`Spare my life,'
 <nl>`Spaar mijn leven,'
 <en>he cried,
@@ -94,20 +76,18 @@
 <nl>
 <en>The fisherman stopped here to say to the genius:
 <nl>De visser stopte hier om tegen de geest te zeggen:
-<en>`You see what passed between the Greek king and the physician has just passed between us two.
-<nl>`Je ziet wat er tussen de Griekse koning en de arts is gebeurd, is net tussen ons tweeën gebeurd.
+<en>`You see what passed between the Greek king and the physician has just passed between us two.'
+<nl>`Je ziet wat er tussen de Griekse koning en de arts is gebeurd, is net tussen ons tweeën gebeurd.'
+<en>
+<nl>
 <en>`The Greek king,'
 <nl>`De Griekse koning,'
 <en>the fisher went on,
 <nl>ging visser verder,
-<en>`had no mercy on him, and the executioner bound his eyes.'
-<nl>`had geen genade met hem en de beul bond zijn ogen.'
-<en>
-<nl>
+<en>`had no mercy on him, and the executioner bound his eyes.
+<nl>`had geen genade met hem en de beul bond zijn ogen.
 <en>All those present begged for his life, but in vain.
 <nl>Alle aanwezigen smeekten om zijn leven, maar tevergeefs.
-<en>
-<nl>
 <en>The physician on his knees, and bound, said to the king:
 <nl>De arts, op zijn knieën en gebonden, zei tegen de koning:
 <en>`At least let me put my affairs in order, and leave my books to persons who will make good use of them.
@@ -140,8 +120,6 @@
 <nl>
 <en>`Your prayers are useless, and if it were only to hear your head speak when you are dead, you should die.'
 <nl>`Je smeekbeden zijn nutteloos, en al was het alleen maar om je hoofd te horen spreken als je dood bent, moet je sterven.'
-<en>
-<nl>
 <en>So saying, he took the book from the physician's hands, and ordered the executioner to do his duty.
 <nl>Aldus sprekend, nam hij  het boek uit de handen van de arts en beval de beul zijn plicht te doen.
 <en>
@@ -156,14 +134,14 @@
 <nl>De koning deed dat, en toen hij merkte dat het eerste blad tegen het tweede blad plakte, stak hij zijn vinger in zijn mond, om het gemakkelijker te kunnen omslaan.
 <en>He did the same thing till he reached the sixth page, and not seeing any writing on it,
 <nl>Hij deed hetzelfde totdat hij de zesde pagina bereikte, en omdat hij er geen tekst op zag staan,
+<en>
+<nl>
 <en>`Physician,'
 <nl>`Arts,'
 <en>he said,
 <nl>zei hij,
 <en>`there is no writing.'
 <nl>`er is niets geschreven.'
-<en>
-<nl>
 <en>`Turn over a few more pages,'
 <nl>`Draai nog een paar pagina's om,'
 <en>answered the head.
@@ -176,22 +154,16 @@
 <nl>
 <en>When the physician's head saw that the poison had taken effect, and that the king had only a few more minutes to live,
 <nl>Toen het hoofd van de arts zag dat het vergif in werking trad en dat de koning nog maar een paar minuten te leven had,
-<en>`Tyrant,'
-<nl>`Tyran,'
 <en>it cried,
 <nl>riep het,
-<en>`see how cruelty and injustice are punished.'
-<nl>`zie hoe wreedheid en onrecht worden gestraft.'
-<en>
-<nl>
+<en>`Tyrant, see how cruelty and injustice are punished.'
+<nl>`Tyran, zie hoe wreedheid en onrecht worden gestraft.'
 <en>Scarcely had it uttered these words than the king died, and the head lost also the little life that had remained in it.
 <nl>Nauwelijks had het deze woorden uitgesproken, of de koning stierf, en het hoofd verloor ook het beetje leven dat erin was gebleven.
 <en>
 <nl>
 <en>That is the end of the story of the Greek king, and now let us return to the fisherman and the genius.
 <nl>Dat is het einde van het verhaal van de Griekse koning, en laten we nu terugkeren naar de visser en de geest.
-<en>
-<nl>
 <en>`If the Greek king,'
 <nl>`Als de Griekse koning,'
 <en>said the fisherman,
@@ -212,10 +184,14 @@
 <nl>`doe niet zoiets wreeds.
 <en>Do not treat me as Imma treated Ateca.'
 <nl>Behandel me niet zoals Imma met Ateca omging.'
-<en>
-<nl>
 <en>`What did Imma do to Ateca?'
 <nl>`Wat deed Imma met Ateca?'
 <en>asked the fisherman.
 <nl>vroeg de visser.
+<en>`Do you think I can tell you while I am shut up in here?'
+<nl>`Denk je dat ik je het kan vertellen terwijl ik hierin ben opgesloten?'
+<en>replied the genius.
+<nl>antwoordde de geest.
+<en>`Let me out, and I will make you rich.'
+<nl>`Laat me eruit, en ik zal je rijk maken.'
 

@@ -15,11 +15,7 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "./raw_material/speaking_head.txt"
-#"aladdin_2"
-#"jack_beanstalk"
-#"the_pink_fairy_book",
-#"arabian_nights"
+fname = "./raw_material/the_story_of_the_three_calendars.txt"
 
 def format_single_file_raw(fname):
     story = []
