@@ -1,7 +1,7 @@
 <en>The Story of the Baked head\footnote{J.J. Morier, The Adventures of Hajji Baba, 1824}
 <nl>Het verhaal van het gebakken hoofd
 <en>The present Khon-khor\footnote{\emph{Khon-Khor}--literally `Blood drinker'; so the Sultan of \emph{Roum} or Turkey is styled in Persia.} of Roum is a staunch Mussulman and a rigid upholder of the true faith.
-<nl>De huidige Khon-khor\footnote{\emph{Khon-Khor}--letterlijk `bloed drinker'; aldus wordt de sultan van \emph{Roum} of Turkij\"e getypeerd in Perzi\"e.} van Roum is een fervent Musselman en een rigide handhaver van het ware geloof.
+<nl>De huidige Khon-khor\footnote{\emph{Khon-Khor}--letterlijk `bloed drinker'; aldus wordt de sultan van \emph{Roum} of Turkije getypeerd in Perzi\"e.} van Roum is een fervent Musselman en een rigide handhaver van het ware geloof.
 <en>Upon his coming to the throne, he announced his intention of doing away with many customs common to the infidels, which had crept into the administration of the state during the reign of his predecessor; and he thought it his duty to endeavour to restore things to their primitive simplicity and to adopt a mode of government purely Turkish.
 <nl>Toen hij op de troon kwam, kondigde hij zijn voornemen aan veel gebruiken  weg te doen, gebruiken gemeenschappelijk aan de ongelovigen, die in het bestuur van de staat waren binnengedrongen tijdens de heerschappij van zijn voorganger; en hij vond het zijn plicht te streven de dingen weer in hun oorspronkelijke eenvoud te herstellen en een  puur Turkse regeringsvorm te adopteren.
 <en>Accordingly he resumed a custom which had almost got into disuse,--that of going about the city in tebdil, or disguise; and he was so careful about the disguises which he adopted, and the people whom he admitted into his secrets on these occasions, that he took all sorts of precautions, and invented all sorts of schemes of secrecy, in whatever related to his dresses, and the characters in which he chose to appear.
@@ -45,7 +45,7 @@
 <en>`Yes,' said the other, `I am a tailor as well as the muezzin at the little mosque in the fish-market.
 <nl>`Ja,' zei de ander, `ik ben een kleermaker en ook de muezzin van de kleine moskee op de vismarkt.
 <en>What more can I do?'
-<nl>Wat kan ik nog meer doen? `
+<nl>Wat kan ik nog meer doen?'
 <en>`Well, Babadul,' said Mansouri, `have you a mind for a job,—a good job?'
 <nl>`Wel, Babadul,' zei Mansouri, `heb je belangstelling voor een opdracht, een goede opdracht?'
 <en>`Am I a fool,' answered the old man, `that I should dislike it?
@@ -55,7 +55,7 @@
 <en>`Softly, my friend,' remarked the eunuch; `we must go on slow and sure.
 <nl>`Zachtjes aan, mijn vriend,' merkte de eunuch op; `we moeten rustig en gestaag verder gaan.
 <en>Will you suffer yourself to be led blindfolded at midnight wherever I choose to take you, for a job?'
-<nl>Ben je bereid om geblinddoekt te middernacht geleid te worden,  waar ook maar ik verkies je naar toe te brengen, voor een opdracht? `
+<nl>Ben je bereid om geblinddoekt te middernacht geleid te worden,  waar ook maar ik verkies je naar toe te brengen, voor een opdracht?'
 <en>`That's another question,' said Babadul; `times are critical, heads fly in abundance, and a poor tailor's may go as well as a vizier's or a capitan pacha's.
 <nl>`Dat is nogal wat,' zei Babadul; `tijden zijn hachelijk, hoofden vliegen in overvloed, en dat van een arme kleermaker kan net zo goed gaan als dat van een vizier of van een  pasha.
 <en>But pay me well, and I believe I would make a suit of clothes for Eblis, the foul fiend, himself.'
@@ -145,7 +145,7 @@
 <en>Was it necessary to go so far, and to take such precautions, to bring this misfortune on our heads?
 <nl>Was het nodig om zo ver te gaan, en om dergelijke voorzorgsmaatregelen te nemen, om dit ongeluk over ons hoofd te brengen?
 <en>Did you bring home this dead man's head to make a suit of clothes of?'
-<nl>Heb je het hoofd van die dode man mee naar huis gebracht om er een pak van te maken? '
+<nl>Heb je het hoofd van die dode man mee naar huis gebracht om er een pak van te maken?'
 <en>
 <nl>
 <en>`Anna senna!
@@ -155,11 +155,11 @@
 <en>Curses be on his mother!
 <nl>Vervloekt zij zijn moeder!
 <en>Perdition seize his father!'
-<nl>Verdoemenis grijpt zijn vader! `
+<nl>Verdoemenis grijpt zijn vader!'
 <en>exclaimed the poor tailor, `for bringing me into this dilemma.
-<nl>riep de arme kleermaker uit, `omdat hij me in dit dilemma heeft gebracht.
+<nl>riep de arme kleermaker uit, `om mij in zo'n dilemma te brengen.
 <en>My heart misgave me as that dog of a eunuch talked of blindfolding and silence to me: I thought, as true as I am a Turk, that the job could not consist only in making a suit of clothes; and sure enough this dog's son has tacked a head to it.
-<nl>Mijn hart twijfelde al toen die hond van een eunuch mij sprak over blindoeken en stilzwijgen: ik dacht, zowaar als ik een Turk ben, dat de taak niet alleen kon bestaan in het maken van een pak kleren; en inderdaad deze hondezoon heeft er een hoofd op gezet.
+<nl>Mijn hart twijfelde al toen die hond van een eunuch tot mij sprak over blindoeken en stilzwijgen: ik dacht, zowaar als ik een Turk ben, dat de taak niet alleen kon bestaan uit het maken van een pak kleren; en inderdaad deze hondezoon heeft er een hoofd op gezet.
 <en>Allah!
 <nl>Allah!
 <en>Allah!
@@ -169,9 +169,9 @@
 <en>I know not the way to his home, or else I would take it back to him immediately, and throw it in his face.
 <nl>Ik weet  de weg naar zijn huis niet, anders zou ik het onmiddellijk terug naar hem brengen en het in zijn gezicht werpen.
 <en>We shall have the bostangi bashi and a hundred other bashis here in a minute, and we shall be made to pay the price of blood; or, who knows, be hanged, or drowned, or impaled!
-<nl>We zullen de bostangi bashi en honderd andere bash's hier binnen een minuut hebben, en we zullen gedwongen worden de bloedprijs te betalen; of, wie weet, worden opgehangen, verdronken of gespietst!
+<nl>We zullen de bostangi bashi en een honderdtal andere bashis hier binnen een minuut hebben, en we zullen gedwongen worden de bloedprijs te betalen; of, wie weet, worden opgehangen, verdronken of gespietst!
 <en>What shall we do, eh, Dilferîb, my soul, say?'
-<nl>Wat zullen we doen, eh, Dilferîb, mijn lief, zeg? `
+<nl>Wat zullen we doen, eh, Dilferîb, mijn lief, zeg?'
 <en>
 <nl>
 <en>`Do?'
@@ -183,27 +183,27 @@
 <en>Let us be doing something at once.'
 <nl>Laat ons iets doen op dit moment.'
 <en>`A thought has struck me,' said the old woman.
-<nl>`Een gedachte is bij me opgekomen,' zei de oude vrouw.
+<nl>`Ik heb een idee gekregen,' zei de oude vrouw.
 <en>`Our neighbour, the baker, Hassan, heats his oven at this hour, and begins soon after to bake his bread for his morning's customers.
 <nl>`Onze buurman, de bakker, Hassan, verwarmt zijn oven op dit uur en zal kort daarna  zijn brood beginnen te bakken voor zijn ochtendklanten.
 <en>He frequently has different sorts of things to bake from the neighbouring houses, which are placed near the oven's mouth over-night: suppose I put this head into one of our earthen pots and send it to be baked; no body will find it out until it is done, and then we need not send for it, so it will remain on the baker's hands.'
-<nl>Hij heeft vaak verschillende dingen om te bakken van de naburige huizen, die 's nachts in de buurt van de opening van de oven worden geplaatst: stel dat ik dit hoofd in een van onze aarden potten stop en het wegbreng  om gebakken te worden; niemand zal het vinden totdat het gaar is, en dan halen  we het niet op, dus zal het in de handen van de bakker blijven. `
+<nl>Hij heeft vaak verschillende dingen om te bakken van de naburige huizen, die 's nachts in de buurt van de opening van de oven worden geplaatst: stel dat ik dit hoofd in \'e\'en van onze aarden potten stop en het wegbreng  om gebakken te worden; niemand zal het vinden totdat het gaar is, en dan halen  we het niet op, dus zal het in de handen van de bakker blijven.'
 <en>
 <nl>
 <en>Babadul admired his wife's sagacity, and forthwith she put her plan into execution.
-<nl>Babadul bewonderde de scherpzinnigheid van zijn vrouw, en onmiddellijk bracht ze haar plan ten uitvoer.
+<nl>Babadul bewonderde de scherpzinnigheid van zijn vrouw, en dadelijk bracht ze haar plan ten uitvoer.
 <en>When the head had been placed in a baking-pan, she watched a moment when nobody was at hand, and set it on the ground, in the same row with the other articles that were to be inserted in Hassan's oven.
 <nl>Toen het hoofd in een bakpan was geplaatst, wachtte ze een moment af waarop niemand in de buurt was en zette het op de grond, in dezelfde rij als de andere voorwerpen die in de oven van Hassan zouden worden geplaatst.
 <en>The old couple then double-barred the door of their house, and retired to rest, comforting themselves with the acquisition of the fine shawl and napkin in which the head had been wrapped.
-<nl>Het oude stel vergrendelde toen de deur van hun huis en trok zich terug om te rusten, zich troostend met de aanwinst van de mooie omslagdoek en het servet waarin het hoofd gewikkeld was.
+<nl>Het oude stel vergrendelde toen de deur van hun huis en trok zich terug om te rusten, zich troostend met de aanwinst van de mooie sjaal en omslagdoek waarin het hoofd verpakt was.
 <en>
 <nl>
 <en>The baker Hassan and his son Mahmûd were heating their oven, inserting therein thorns, chips, and old rubbish at a great rate, when their attention was arrested by the extraordinary whinings and barking of a dog, that was a constant customer at the oven for stray bits of bread, and much befriended by Hassan and his son, who were noted for being conscientious Mussulmans.
-<nl>De bakker Hassan en zijn zoon Mahmûd verwarmden hun oven, en deden er,  met grote snelheid, doornen in, spaanders en oud afval, toen hun aandacht werd getrokken door het vreemde gejank en geblaf van een hond, die een constante klant was bij de oven voor verdwaalde stukjes brood, en goede vrienden was met Hassan en zijn zoon, die bekend stonden als gewetensvolle Musselmannen.
+<nl>De bakker Hassan en zijn zoon Mahmûd verwarmden hun oven, en stopten er doornen, spaanders en oud afval in met grote snelheid, toen hun aandacht werd getrokken door het vreemde gejank en geblaf van een hond, die een constante klant was bij de oven voor verdwaalde stukjes brood, en goede vrienden was met Hassan en zijn zoon, die bekend stonden als gewetensvolle Musselmannen.
 <en>
 <nl>
 <en>`Look, Mahmûd,' said the father to the son, `see what is the matter with the dog: something extraordinary is in the wind.'
-<nl>`Kijk, Mahmud,' zei de vader tegen de zoon, `kijk even wat er aan de hand is met de hond: er zit een vreemds luchtje aan.'
+<nl>`Kijk, Mahmud,' zei de vader tegen de zoon, `kijk even wat er aan de hand is met de hond: er zit een vreemd luchtje aan.'
 <en>
 <nl>
 <en>The son did what his father bade him, and seeing no reason for the dog's noises, said, `Bir chey yok, there is nothing,' and drove him away.
@@ -213,15 +213,13 @@
 <en>But the howlings not ceasing, Hassan went himself, and found the dog most extremely intent upon smelling and pointing at the tailor's pipkin.
 <nl>Maar omdat het gejank niet stopte, ging Hassan zelf kijken, en merkte dat de hond met grote belangstelling rook en wees naar de pot van de kleermaker.
 <en>He jumped upon Hassan, then at the pot, then upon Hassan again, until the baker no longer doubted that the beast took great interest in its contents.
-<nl>Hij sprong tegen Hassan op, vervolgens op de pot, dan weer op Hassan, totdat de bakker  niet langer twijfelde dat het beest grote belangstelling had voor de inhoud.
+<nl>Hij sprong tegen Hassan op, vervolgens naar de pot, dan weer op Hassan, totdat de bakker  niet langer twijfelde dat het beest grote belangstelling had voor de inhoud.
 <en>He therefore gently drew off the lid, when need I mention his horror and surprise at seeing a human head staring him in the face?
 <nl>Hij trok daarom voorzichtig het deksel ervan af, wanneer moet ik zijn afschuw en verrassing noemen toen hij zag dat een menselijk hoofd hem in het gezicht staarde?
 <en>
 <nl>
-<en>`Allah!
-<nl>`Allah!
-<en>Allah!'
-<nl>Allah!'
+<en>`Allah! Allah!'
+<nl>`Allah! Allah!'
 <en>cried the baker; but being a man of strong nerves, instead of letting it fall, as most people would have done, he quietly put on the lid again, and called his son to him.
 <nl>riep de bakker; maar een man met sterke zenuwen, in plaats van het te laten vallen, zoals de meeste mensen zouden hebben gedaan, deed hij stilletjes het deksel er weer op, en riep zijn zoon bij zich.
 <en>
@@ -239,7 +237,7 @@
 <en>
 <nl>
 <en>Mahmûd, a youth of about twenty, who partook of his father's insensibility and coolness, and who, moreover, had a great deal of dry humour and ready wit, looked upon the incident in the light of a good joke, and broke out into a hearty laugh when he saw the ugly picture which the grinning head made, set in its earthen frame.
-<nl>Mahmûd, een jongeman van een jaar of twintig, die  de ongevoeligheid en kalmte van zijn vader  had gekregen, en die bovendien veel droge humor en gevatheid bezat, zag het voorval in het licht van een goede grap, en brak uit in een hartelijk lach toen hij het lelijke beeld zag dat de grijnzende kop maakte, geplaatst in zijn aarden kader.
+<nl>Mahmûd, een jongeman van een jaar of twintig, die  de ongevoeligheid en kalmte van zijn vader  had gekregen, en die bovendien veel droge humor en gevatheid bezat, zag het voorval in het licht van een goede grap, en brak uit in  een harde lach toen hij het lelijke beeld zag dat de grijnzende kop maakte, geplaatst in zijn aarden kader.
 <en>
 <nl>
 <en>`Let us pop it into the shop of K\"or Ali, the barber, opposite,' said the youth; `he is just beginning to open it, and as he has but one eye, we shall be better able to do so without being seen.
@@ -249,17 +247,15 @@
 <en>
 <nl>
 <en>The father consented; and Mahmûd catching the moment when the barber had walked to the corner of the street to perform certain ablutions, stepped into his shop, and placed the head on a sort of takcheh, or bracket on the wall, arranged some shaving towels about it, as if it had been a customer ready seated to be shaved, and, with a boy's mischief in his heart, stepped back to his oven again, to watch the effects which this new sort of customer would have upon the blind barber.
-<nl>De vader stemde toe; en Mahmud, het moment afwachtend waarop de kapper naar de hoek van de straat was gelopen om bepaalde reinigingen uit te voeren, stapte  zijn winkel in, en plaatste het hoofd op een soort takcheh, of beugel op de muur, schikte wat scheerhanddoeken er omheen, alsof het een klant was die klaar zat om geschoren te worden, en met 's jongens gemene streken in zijn hart, liep terug naar zijn oven, om de gevolgen te zien die dit nieuw soort klant zou hebben op de blinde kapper.
+<nl>De vader stemde toe; en Mahmud, het moment afwachtend waarop de kapper naar de hoek van de straat was gelopen om bepaalde reinigingen uit te voeren, stapte  zijn winkel in, en plaatste het hoofd op een soort takcheh, of beugel op de muur, schikte wat scheerhanddoeken er omheen, alsof het een klant was die klaar zat om geschoren te worden, en met de ondeugendheid aan jongens eigen in zijn hart, liep terug naar zijn oven, om de gevolgen te zien die dit nieuw soort klant zou hebben op de blinde kapper.
 <en>
 <nl>
 <en>K\"or Ali hobbled into his shop, which was but ill lighted by a glimmering of daylight that hardly pierced through the oil-papered windows, and looking about him, saw this figure, as he supposed, seated against the wall ready to be operated upon.
 <nl>K\"or Ali strompelde  zijn winkel in, die slecht verlicht was door slechts een glimp van daglicht dat nauwelijks binnendrong door de ramen met olie-papier, en om zich heen kijkend, zag hij deze figuur, zoals hij veronderstelde, tegen de muur zitten, klaar om geholpen te worden.
 <en>
 <nl>
-<en>`Ha!
-<nl>`Ha!
-<en>peace be unto you!'
-<nl>vrede zij met u!'
+<en>`Ha! peace be unto you!'
+<nl>`Ha! vrede zij met u!'
 <en>said he to it: `you are rather early this morning; I did not see you at first.
 <nl>zei hij tegen hem: `je bent vrij vroeg deze morgen, ik zag je niet meteen.
 <en>My water is not yet hot.
@@ -269,7 +265,7 @@
 <en>but why do you take off your fese (skull-cap) so soon?
 <nl>maar waarom neem je jouw fese (schedel-cap) zo snel af?
 <en>you will catch cold.'
-<nl>je zult het koud krijgen.'
+<nl>je zult een kou oplopen.'
 <en>Then he paused.
 <nl>Toen pauzeerde hij.
 <en>`No answer,' said the barber to himself.
@@ -281,19 +277,19 @@
 <en>
 <nl>
 <en>He went methodically about his preparations; he took down his tin basin from a peg, prepared his soap, then stropped his razor on the long bit of leather that was fastened to his girdle.
-<nl>Hij ging methodisch te werk in met zijn voorbereidingen; hij pakte zijn blikken beker van een haak, bereidde zijn zeep en wette toen zijn scheermes over het lange stuk leer dat aan zijn gordel was vastgemaakt.
+<nl>Hij ging methodisch te werk in met zijn voorbereidingen; hij pakte zijn blikken beker van een haak, bereidde zijn zeep en wette toen zijn scheermes over het lange stuk leer dat  was vastgemaakt aan zijn gordel.
 <en>Having made his lather, he walked up to the supposed customer, holding the basin in his left hand, whilst his right was extended to sprinkle the first preparation of water on the sconce.
-<nl>Nadat hij zijn schuim gemaakt had, liep hij naar de vermeende klant toe, hield de beker in zijn linkerhand, terwijl zijn rechterhand was uitgestrekt om het  water ter eerste voorbereiding op de kop te sprenkelen.
+<nl>Na zijn schuim te hebben gemaakt, liep hij naar de vermeende klant toe, hield de beker in zijn linkerhand, terwijl zijn rechterhand was uitgestrekt om het  water ter eerste voorbereiding op de kop te sprenkelen.
 <en>No sooner had he placed his hand on the cold head, than he withdrew it, as if he had been burnt.
 <nl>Nauwelijks had hij zijn hand op het koude hoofd gelegd, of hij trok het terug, alsof hij was verbrand.
 <en>`Eh! why, what's the matter with you, friend?' said the barber; `you are as cold as a piece of ice.'
 <nl>`Eh! hoe, wat is er met jou aan de hand, vriend?' zei de kapper; `je bent zo koud als een stuk ijs.'
 <en>But when he attempted a second time to lather it, down it came with a terrible bounce from the shelf to the floor, and made the poor shaver jump quite across his shop with the fright.
-<nl>Maar toen hij een tweede keer probeerde het in te schuimen, kwam het met een verschrikkelijke stuiter van de plank op de vloer en deed de arme scheerder van schrik door zijn winkel springen.
+<nl>Maar toen hij een tweede keer probeerde het in te schuimen, kwam het met een afschrikwekkende stuiter van de plank op de vloer en deed de arme scheerder van schrik door zijn winkel springen.
 <en>
 <nl>
 <en>`Aman! aman! O mercy, mercy!' cried K\"or Ali, as he thrust himself into the furthermost corner without daring to move: `take my shop, my razors, my towels,---take all I have; but don't touch my life!
-<nl>`Aman! aman! O genade, genade! ` riep K\"or Ali, terwijl hij zichzelf  in de allerverste hoek wierp zonder zich te durven bewegen: `neem mijn winkel, mijn scheermessen, mijn handdoeken,---neem alles wat ik heb; maar raak niet aan mijn leven!
+<nl>`Aman! aman! O genade, genade!' riep K\"or Ali, terwijl hij zichzelf  in de allerverste hoek wierp zonder zich te durven bewegen: `neem mijn winkel, mijn scheermessen, mijn handdoeken,---neem alles wat ik heb; maar raak niet aan mijn leven!
 <en>If you are the Shaitan, speak; but excuse my shaving you!'
 <nl>Als je de Shaitaan bent, spreek dan; maar veronderschuldig me jou te hebben geschoren!'
 <en>
@@ -303,7 +299,7 @@
 <en>`A head, by all the Imâms!' said he, accosting it: `and how did you get here?
 <nl>`Een hoofd, bij alle Imâms!' zei hij, terwijl hij het aansprak: `en hoe ben jij hier terechtgekomen?
 <en>Do you want to disgrace me, you filthy piece of flesh? but you shall not!
-<nl>Wil je me te schande maken, jij smerige stuk vlees? maar dat zal je niet!
+<nl>Wil je me te schande maken, jij smerig stuk vlees? maar dat zal je niet!
 <en>Although K\"or Ali has lost one eye, yet his other is a sharp one, and knows what it is about.
 <nl>Hoewel K\"or Ali één oog heeft verloren, is zijn andere nog steeds scherp, en weet waar  het om gaat.
 <en>I would give you to the baker Hassan there, if his rogue of a son, who is now looking this way, was not even sharper than this self-same eye; but now I think of it, I will take you where you can do no harm.
@@ -317,29 +313,29 @@
 <en>He frequented it in preference to that of a Mussulman, because he could here drink wine with impunity.
 <nl>Hij bezocht het liever dan dat van een Mussulman, omdat hij hier ongestraft wijn kon drinken.
 <en>From long practice he knew precisely where the provision of fresh meat was kept, and as he entered the shop, casting his eye furtively round, he threw the head in a dark corner, behind one of the large sides of a sheep that was to be used for the kabobs of the day.
-<nl>Door langdurige ervaring wist hij precies waar het vers vlees werd bewaard en toen hij de winkel binnenkwam, steels rondkijkend, gooide hij het hoofd in een donkere hoek, achter een van de grote zijden van een schaap dat moest worden gebruikt voor de kabab van de dag.
+<nl>Door langdurig gebruik wist hij precies waar het vers vlees werd bewaard en toen hij de winkel binnenkwam, steels rondkijkend, gooide hij het hoofd in een donkere hoek, achter een van de grote zijden van een schaap dat moest worden gebruikt voor de kabab van de dag.
 <en>No one saw him perform this feat; for the morning was still sufficiently obscure to screen him.
 <nl>Niemand zag hem dit wapenfeit uitvoeren; want de ochtend was nog steeds voldoende duister om hem af te schermen.
 <en>He lighted his pipe at Yanaki's charcoal fire, and as a pretext for his visit, ordered a dish of meat to be sent to him for breakfast; a treat to which he thought himself fully entitled after his morning's adventure.
-<nl>Hij stak zijn pijp aan bij Yanaki's houtskoolvuur, en als een voorwendsel voor zijn bezoek, bestelde hij een gerecht met vlees om naar hem als ontbijt te brengen; een traktatie waarop hij dacht   volledig recht te hebben  na zijn ochtendlijk avontuur.
+<nl>Hij stak zijn pijp aan bij Yanaki's houtskoolvuur, en als een voorwendsel voor zijn bezoek, bestelde hij een gerecht met vlees om naar hem te laten brengen als ontbijt; een traktatie waarop hij dacht   volledig recht te hebben  na zijn ochtendlijk avontuur.
 <en>
 <nl>
 <en>Yanaki, meanwhile, having cleaned his platters, put his skewers in order, lit his fires, made his sherbets, and swept out his shop, went to the larder for some meat for the shaver's breakfast.
-<nl>Ondertussen, na zijn schotels te hebben schoongemaakt, zijn spiesen op orde gemaakt, zijn vuren aangestoken, zijn sorbets gemaakt en zijn winkel uitgeveegd, ging Yanaki naar de voorraadkast voor wat vlees voor het ontbijt van het kapper.
-<en>Yanaki was a true Greek:—cunning, cautious, deceitful; cringing to his superiors, tyrannical towards his inferiors; detesting with a mortal hatred his proud masters, the Osmanlies, yet fawning, flattering, and abject whenever any of them, however low in life, deigned to take notice of him.
-<nl>Yanaki was een echte Griek:-sluw, behoedzaam, bedrieglijk; ineenkrimpend voor zijn meerderen, tiranniek jegens zijn minderen;  met een dodelijke haat zijn trotse meesters, de Osmanlies, verachtend, maar kruiperig, vleiend en verwerpelijk wanneer een van hen, hoe laag in het leven ook, zich verwaardigde hem op te merken.
+<nl>Yanaki, ondertussen, na zijn schotels te hebben schoongemaakt, zijn spiesen op orde gemaakt, zijn vuren aangestoken, zijn sorbets gemaakt en zijn winkel uitgeveegd, ging naar de voorraadkast voor wat vlees voor het ontbijt van het kapper.
+<en>Yanaki was a true Greek:---cunning, cautious, deceitful; cringing to his superiors, tyrannical towards his inferiors; detesting with a mortal hatred his proud masters, the Osmanlies, yet fawning, flattering, and abject whenever any of them, however low in life, deigned to take notice of him.
+<nl>Yanaki was een echte Griek:---sluw, behoedzaam, misleidend; ineenkrimpend voor zijn meerderen, tiranniek jegens zijn minderen;   zijn trotse meesters, de Osmanlies, verachtend met een dodelijke haat, maar kruiperig, vleiend en verwerpelijk wanneer een van hen, hoe laag in het leven ook, zich verwaardigde hem op te merken.
 <en>Turning over his stock, he looked about for some old bits that might serve the present purpose, muttering to himself that any carrion was good enough for a Turk's stomach.
-<nl>Zijn voorraad om kerend, zocht hij naar wat oude stukjes die het huidige doel zouden kunnen dienen,  mompeldend tegen zichzelf dat elk aas goed genoeg was voor de maag van een Turk.
+<nl>Zijn voorraad om kerend, zocht hij rond naar wat oude stukjes die het huidige doel zouden kunnen dienen,  mompeldend tegen zichzelf dat elk aas goed genoeg was voor de maag van een Turk.
 <en>He surveyed his half sheep from top to bottom; felt it, and said, `No, this will keep'; but as he turned up its fat tail, the eye of the dead man's head caught his eye, and made him start, and step back some paces.
-<nl>Hij inspecteerde zijn halve schaap van top tot teen; voelde het en zei: `Nee, dit blijft nog even goed'; maar toen hij zijn dikke staart omdraaide, viel het oog van het hoofd van dode man  op zijn oog, deed hem schrikken en  een paar stappen achteruit zetten.
+<nl>Hij inspecteerde zijn halve schaap van boven  tot onder; voelde het en zei: `Nee, dit blijft nog goed'; maar toen hij zijn dikke staart omhoog draaide, viel het oog van het hoofd van dode man  op zijn oog, deed hem schrikken en  een paar stappen achteruit zetten.
 <en>`As ye love your eyes,' exclaimed he, `who is there?'
 <nl>`Zoals u uw ogen liefhebt,' riep hij uit, `wie is daar?'
-<en>Receiving no answer, he looked again, and again; then nearer, then, thrusting his hand among sheep's heads and trotters, old remnants of meat, and the like, he pulled out the head—the horrid head—which he held extended at arm's length, as if he were afraid it would do him mischief.
-<nl>Omdat hij geen antwoord kreeg, keek hij opnieuw en opnieuw; dan dichterbij, dan, zijn hand uitstotend tussen schapenhoofden en poten, oude overblijfselen van vlees, en dergelijke, trok hij het hoofd eruit - het afschuwelijke hoofd - hetwelk hij op armlengte uitstrekte, alsof hij bang was dat het hem kwaad zou doen.
+<en>Receiving no answer, he looked again, and again; then nearer, then, thrusting his hand among sheep's heads and trotters, old remnants of meat, and the like, he pulled out the head--the horrid head--which he held extended at arm's length, as if he were afraid it would do him mischief.
+<nl>Omdat hij geen antwoord kreeg, keek hij opnieuw, en opnieuw; dan dichterbij, dan, zijn hand uitstotend tussen schapenhoofden en poten, oude overblijfselen van vlees, en dergelijke, trok hij het hoofd eruit--het afschuwelijke hoofd--hetwelk hij op armlengte uitstrekte, alsof hij bang was dat het hem kwaad zou doen.
 <en>`Anathemas attend your beard!' exclaimed Yanaki, as soon as he discovered, by the tuft of hair on the top, that it had belonged to a Mussulman, 
-<nl>`Anathema's pas op je baard!' riep Yanaki uit, zodra hij ontdekte, door het plukje haar op de bovenkant, dat het aan een Musselman toebehoord had, 
+<nl>`Anathema's let op je baard!' riep Yanaki uit, zodra hij ontdekte, door het plukje haar op de bovenkant, dat het aan een Musselman toebehoord had, 
 <en>`Och! if I had but every one of your heads in this manner, ye cursed race of Omar!
-<nl>`Och!, als ik toch ieder van uw hoofden op deze manier had, uw vervloekt ras van Omar!
+<nl>`Och! als ik toch ieder van uw hoofden op deze manier had, uw vervloekt ras van Omar!
 <en>I would make kabobs of them, and every cur in Constantinople should get fat for nothing.
 <nl>Ik zou er kabab van maken en elke ploert in Constantinopel zou  vet worden voor niets.
 <en>May ye all come to this end!
@@ -347,17 +343,17 @@
 <en>May the vultures feed on your carcasses!
 <nl>Moge de gieren zich voeden met jullie karkassen!
 <en>and may every Greek have the good fortune which has befallen me this day, of having one of your worthless skulls for his football!'
-<nl>en moge elke Griek het geluk hebben dat mij heeft getroffen deze dag, van het hebben van 'e'en van jullie waardeloze schedels als zijn voetbal! `
+<nl>en moge elke Griek het geluk hebben dat mij heeft getroffen deze dag, van het hebben van \'e\'en van jullie waardeloze schedels als zijn voetbal!'
 <en>Upon which, in his rage, he threw it down and kicked it from him; but recollecting himself he said, `But, after all, what shall I do with it?
-<nl>Waarop hij, in zijn woede, het neergooide en het van hem vandaan schopte; maar zich herpakkend, zei hij: `Maar, uiteindelijk,  wat  zal ik er mee doen?
+<nl>Waarop hij, in zijn woede, het neergooide en het van hem vandaan schopte; maar zich herpakkend, zei hij: `Maar, na dit alles,  wat  zal ik er mee doen?
 <en>If it is seen here, I am lost for ever: nobody will believe but that I have killed a Turk.'
-<nl>Als het hier wordt gezien, ben ik voor altijd verloren: men  zal niets geloven behalve dat ik een Turk heb gedood.'
+<nl>Als het hier wordt gezien, ben ik voor altijd verloren: iedereen  zal geloven dat ik een Turk heb gedood.'
 <en>
 <nl>
 <en>All of a sudden he cried out, in a sort of malicious ecstasy, `'Tis well I remembered,---the Jew!
-<nl>Plots schreeuwde hij het uit, in een soort van kwaadaardige extase, `Goed dat ik het me herinner,--- de Jood!
-<en>the Jew!—a properer place for such a head was never thought or heard of; and there you shall go, thou vile remnant of a Mahomedan!'
-<nl>de Jood! - een betere plaats voor zulk een hoofd was nooit bedacht of van gehoord; en daar zult u gaan, gij verachtelijk overblijfsel van een Mohamedaan!'
+<nl>Plots schreeuwde hij het uit, in een soort van kwaadaardige extase, `Goed dat ik het me herinner,---de Jood!
+<en>the Jew!---a properer place for such a head was never thought or heard of; and there you shall go, thou vile remnant of a Mahomedan!'
+<nl>de Jood!---een betere plaats voor zulk een hoofd was nooit bedacht of van gehoord; en daar zult u gaan, gij verachtelijk overblijfsel van een Mohamedaan!'
 <en>
 <nl>
 <en>Upon which he seized it, and hiding it under his coat, ran with it down the street to where the dead body of a Jew lay extended, with its head placed immediately between its legs.
@@ -369,9 +365,9 @@
 <en>
 <nl>
 <en>It was in that situation then that Yanaki placed the Turk's head, putting it as near, cheek by jowl, with the Jew's, as the hurry of the case would allow.
-<nl>Het was in die situatie dan, dat Yanaki het hoofd van de Turk plaatste,    het zo dichtbij zettend, wang naast kaak, als dat van de Jood, als de haast van de zaak toeliet.
+<nl>Het was in die situatie dan, dat Yanaki het hoofd van de Turk plaatste,    het zo dichtbij zettend, wang naast kaak, bij dat van de Jood, als de haast van de zaak toeliet.
 <en>He had been able to effect this without being seen, because the day was still but little advanced, and no one stirring; and he returned to his shop, full of exultation at having been able to discharge his feelings of hatred against his oppressors, by placing one of their heads on the spot in nature, which, according to his estimation, was the most teeming with opprobrium.
-<nl>Hij was in staat dit uit te voeren zonder gezien te worden, omdat de dag nog maar weinig gevorderd was  en niemand op was; en hij keerde terug naar zijn winkel, zeer opgetogen dat hij in staat was  zijn gevoelens van haat tegen zijn onderdrukkers te uiten, door 'e'en van hun hoofden te plaatsen op een plek in de natuur, die, volgens zijn inschatting, de meest vernedering zou voortbrengen.
+<nl>Hij was in staat dit uit te voeren zonder gezien te worden, omdat de dag nog maar weinig gevorderd was  en niemand op was; en hij keerde terug naar zijn winkel, zeer opgetogen dat hij in staat was  zijn gevoelens van haat tegen zijn onderdrukkers te uiten, door \'e\'en van hun hoofden te plaatsen op een plek in de natuur, die, volgens zijn inschatting, het vruchtbaarst voor vernedering was.
 <en>
 <nl>
 <en>The unfortunate sufferer on this occasion had been accused of stealing and putting to death a Mahomedan child (a ceremony in their religion, which they have been known to practice both in Turkey and Persia), and which created such an extraordinary tumult among the mob of Constantinople, that, in order to appease it, he had been decapitated.
@@ -379,7 +375,7 @@
 <en>His execution had taken place purposely before the door of a wealthy Greek, and the body was ordered to remain there three days before it was permitted to be carried away for interment.
 <nl>Zijn executie had doelbewust plaatsgevonden voor de deur van een rijke Griek, en het lichaam werd gelast daar drie dagen te verblijven voordat het was toegestaan te worden weggevoerd om ter aarde te worden besteld.
 <en>The expectation that the Greek would be induced to pay down a handsome sum, in order that this nuisance might be removed from his door, and save him from the ill luck which such an object is generally supposed to bring, made the officer entrusted with the execution prefer this spot to every other.
-<nl>De verwachting dat de Griek zou worden aangezet om een mooi bedrag te betalen, opdat deze overlast voor zijn deur zou worden verwijderd, en hem te behoeden voor het ongeluk dat een dergelijk voorwerp doorgaans verondersteld wordt met zich mee te brengen, deed de officier die belast was met de executie deze plek te prefereren boven iedere andere.
+<nl>De verwachting dat de Griek zou worden aangezet om een mooi bedrag te betalen, opdat deze overlast voor zijn deur zou worden verwijderd, en hem te behoeden voor het ongeluk dat een dergelijk voorwerp doorgaans verondersteld wordt met zich mee te brengen, deed de officier die belast was met de executie deze plek verkiezen boven iedere andere.
 <en>But, careless of the consequences, the Greek shut up the windows of his house, determined to deprive his oppressors of their expected perquisite; and so the dead Jew remained exposed his full time.
 <nl>Maar, onverschilling voor de gevolgen, sloot de Griek de vensters van zijn huis, vastbesloten zijn onderdrukkers  hun verwachtte bijverdienste te ontnemen; en zo bleef de dode Jood zijn volledige tijd uitgestald.
 <en>Few excepting those of the true faith ventured to approach the spot, fearful that the Mohamedan authorities would, in their wanton propensities to heap insults upon the Giaours, oblige some one of them to carry the carcass to the place of burial; and thus the horrid and disgusting object was left abandoned to itself, and this had given an opportunity to the kabobchi, Yanaki, to dispose of the head in the manner above related, unseen and unmolested.
@@ -427,7 +423,7 @@
 <en>Is it that dog of a Vizier's work, or has the Reis Effendi and those traitors of Frank ambassadors been at work?
 <nl>Is het het werk van die hond van een vizier, of is de Reis Effendi en die verraders van Franse ambassadeurs aan het werk geweest?
 <en>Wallah, Billah, Tallah! by the holy Caaba, by the beard of Osman, and by the sword of Omar, we will be revenged!'
-<nl>Wallah, Billah, Tallah! bij  de heilige Ka\"aba, bij de baard van Osman en bij het zwaard van Omar, wij zullen gewroken worden! `
+<nl>Wallah, Billah, Tallah! bij  de heilige Ka\"aba, bij de baard van Osman en bij het zwaard van Omar, wij zullen gewroken worden!'
 <en>
 <nl>
 <en>We must leave the tumult to rage for a short time; we must request the reader to imagine a scene, in which the Jews are flying in all directions, hiding themselves with great precaution against enraged Turks, who with expressions like those just mentioned in their mouths, are to be seen walking about in groups, armed to their teeth with pistols and scimitars, and vowing vengeance upon everything which came in their way.
@@ -489,11 +485,11 @@
 <en>`Are you a man,' said he, `to treat a poor Emir like me in the manner you have done, as if my house was a charnel-house?
 <nl>`Ben je een man,' zei hij, `om een arme emir zoals ik te behandelen op die manier die je gedaan hebt, alsof mijn huis een knekelhuis was?
 <en>I suppose you will ask me the price of blood next!'
-<nl>Ik veronderstel dat je me hierna de prijs van bloed zal vragen! `
+<nl>Ik veronderstel dat je me hierna de prijs van bloed zal vragen!'
 <en>
 <nl>
 <en>`Friend,' said Mansouri, `what are you talking about? do not you see that it has been a mistake?'
-<nl>`Vriend,' zei Mansouri, `waar heb je het over? zie je niet dat het een vergissing was? `
+<nl>`Vriend,' zei Mansouri, `waar heb je het over? zie je niet dat het een vergissing was?'
 <en>
 <nl>
 <en>`A mistake, indeed!' cried the tailor, `a mistake done on purpose to bring a poor man into trouble.
@@ -555,9 +551,9 @@
 <en>`Where is it, indeed?' said he.
 <nl>`Waar is het inderdaad?' zei hij.
 <en>`Oh! what has come upon us! Oh! what cursed kismet (fate) is this?'
-<nl>`Oh! wat is er over ons gekomen! Oh! welk vervloekt kismet (lot) is dit? `
+<nl>`Oh! wat is er over ons gekomen! Oh! welk vervloekt kismet (lot) is dit?'
 <en>`Where is it?' exclaimed the slave, again and again, `where is it? speak quick!'
-<nl>`Waar is het?' riep de slaaf, keer op keer, `waar is het? zet het  snel! `
+<nl>`Waar is het?' riep de slaaf, keer op keer, `waar is het? zet het  snel!'
 <en>The poor tailor was completely puzzled what to say, and kept floundering from one answer to another until he was quite entangled as in a net.
 <nl>De arme kleermaker had geen idee  wat te zeggen, en bleef vervallen van het ene antwoord in het andere tot hij helemaal verstrikt was als in een net.
 <en>`Have you burnt it?'
@@ -597,7 +593,7 @@
 <en>`Baking! did you say?' exclaimed the slave, in the greatest amazement; `what did you bake it for?
 <nl>`Bakken! zei je?' riep de slaaf uit, met de grootste verbazing; `waarom heb je het gebakken?
 <en>Are you going to eat it?'
-<nl>Ga je het opeten? `
+<nl>Ga je het opeten?'
 <en>
 <nl>
 <en>`True, I said: what would you have more?' answered Babadul, `it is now baking.'
@@ -609,7 +605,7 @@
 <en>`Show me the way to the baker's,' said Mansouri; `at least, we will get it in its singed state, if we can get it in no other.
 <nl>`Toon mij de weg naar de bakker,' zei Mansouri; `we zullen het tenminste in een verbrande toestand krijgen, als we het niet in een andere kunnen krijgen.
 <en>Whoever thought of baking the head of the Aga of the Janissaries? Allah il allah!'
-<nl>Wie bedenkt het hoofd van de Aga van de Janitsaren te bakken? Allah il allah! `
+<nl>Wie bedenkt het hoofd van de Aga van de Janitsaren te bakken? Allah il allah!'
 <en>
 <nl>
 <en>They then proceeded to the baker Hassan's, who was now about taking his bread from his oven.

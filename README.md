@@ -7,7 +7,7 @@ The source_files directory contains the source files. Each source file contains 
 
 - make_facing.py: makes a pdf file with two languages on facing pages.
 
-- make_two_columsn.py: makes a pdf file with the two languages in columns one page.
+- make_two_columns.py: makes a pdf file with the two languages in columns one page.
 
 - make_one_language.py: makes pdf file with just one languate, i.e., no translations.
 
