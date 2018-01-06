@@ -104,6 +104,7 @@ files = [
     "the_story_of_the_speaking_head.txt",
     "the_story_of_the_four_fish.txt",
     "the_story_of_the_young_King_of_the_black_isles.txt",
+    "the_story_of_the_three_calendars.txt",
     "the_enchanting_horse_2.txt",
     "prince_omar.txt",
     "the_story_of_the_baked_head.txt",

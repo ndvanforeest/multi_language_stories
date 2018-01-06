@@ -26,7 +26,7 @@ def format_single_file_raw(fname):
     story = re.sub(r'(\n\n)', r'<par>', story)
     story = re.sub(r'(\n)', r' ', story)
     story = re.sub(r'<par>', r'\n\n', story)
-    story = re.sub(r'([\?\!\.,])"', r"\1'", story)
+    story = re.sub(r'([\?\!\.,;])"', r"\1'", story)
     story = re.sub(r'"(\w)', r"`\1", story)
     story = re.sub(r'([\.;]) ', r"\1\n", story)
     story = re.sub(r' `', r"\n`", story)

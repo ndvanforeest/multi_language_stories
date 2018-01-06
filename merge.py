@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
+import os
 import re
 
-target_language, fname = "nl", "the_story_of_the_young_King_of_the_black_isles.txt"
+target_language, fname = "nl", "the_story_of_the_three_calendars.txt"
 #target_language, fname = "es", "aladdin.txt"
 #target_language, fname = "tr", "boys_will_be_boys.txt"
 
@@ -34,20 +35,27 @@ if len(target) != len(english):
     quit()
 
 # we need to remove the trailing white space in the english sentences. 
-translation = {en.strip(): ta for en, ta in zip(english, target)}
+translation = {e.strip(): t for e, t in zip(english, target)}
 
 res = []
 with open("source_files/"+fname, "r") as fp:
     for line in fp:
         if line[:4] == "<en>":
+            #sentence = line[4:].strip()
+            #trans = translation[sentence]
+            #res.append("<en>{}\n<{}>{}\n".format(sentence, target_language, trans))
             sentence = line[4:].strip()
+            res.append("<en>{}".format(sentence))
             trans = translation[sentence]
-            res.append("<en>{}\n<{}>{}\n".format(sentence, target_language, trans))
+            res.append("<{}>{}".format(target_language, trans))
         else:
             res.append(line)
 
-with open("merged_file.txt", "w") as fp:        
-    for r in res:
-        fp.write(r)
+os.system("mv source_files/{} source_files/{}_old".format(fname, fname))
+
+with open("source_files/"+fname, "w") as fp:
+    fp.write("\n".join(res))
+    #for r in res:
+    #    fp.write(r)
 
 

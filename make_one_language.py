@@ -16,9 +16,8 @@ def select_story_and_vocab(lang, fname):
     return story
 
 def section_title(t1):
-    if "footnote" in t1:
-        t1 = re.sub(r'\\footnote{.*}', "", t1)
     res = "\section*{{{}}}".format(t1)
+    t1 = re.sub(r'\\footnote{.*}', "", t1)
     res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
     return res
         
