@@ -93,6 +93,8 @@ files = [
     "the_ruined_man.txt",
     "the_enchanting_horse.txt",
     "the_monkey_advisor.txt",
+    "the_enchanting_horse_2.txt",
+    "prince_omar.txt",
     "arabian_nights_intro.txt",
     "the_merchant_and_the_genie.txt",
     "the_story_first_old_man.txt",
@@ -105,8 +107,7 @@ files = [
     "the_story_of_the_four_fish.txt",
     "the_story_of_the_young_King_of_the_black_isles.txt",
     "the_story_of_the_three_calendars.txt",
-    "the_enchanting_horse_2.txt",
-    "prince_omar.txt",
+    "first_calendar.txt",
     "the_story_of_the_baked_head.txt",
 ]
 

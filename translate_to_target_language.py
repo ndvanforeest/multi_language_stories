@@ -16,7 +16,7 @@ import re
 from googletrans import Translator
 translator = Translator()
 
-target_language, fname = "nl", "the_story_of_the_three_calendars.txt"
+target_language, fname = "nl", "first_calendar.txt"
 #target_language, fname = "es", "flying"
 #target_language, fname = "tr", "./source_files/the_donkey_of_hodja.txt"
 #target_language, fname = "tr", "./source_files/taking_a_shower.txt"

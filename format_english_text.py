@@ -15,7 +15,7 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "./raw_material/the_story_of_the_three_calendars.txt"
+fname = "./raw_material/first_calendar.txt"
 
 def format_single_file_raw(fname):
     story = []
@@ -26,9 +26,9 @@ def format_single_file_raw(fname):
     story = re.sub(r'(\n\n)', r'<par>', story)
     story = re.sub(r'(\n)', r' ', story)
     story = re.sub(r'<par>', r'\n\n', story)
-    story = re.sub(r'([\?\!\.,;])"', r"\1'", story)
+    story = re.sub(r'([\?\!\.,])"', r"\1'", story)
     story = re.sub(r'"(\w)', r"`\1", story)
-    story = re.sub(r'([\.;]) ', r"\1\n", story)
+    story = re.sub(r'([\.;\!\?]) ', r"\1\n", story)
     story = re.sub(r' `', r"\n`", story)
     story = re.sub(r"' ", r"'\n", story)
     #story = re.sub(r'(; )', r';\n', story)

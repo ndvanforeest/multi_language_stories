@@ -330,10 +330,10 @@
 <tr>Atlas'tan gökyüzünü ondan geri almasını istedi.
 <es>Le pidió a Atlas que le quitara el cielo.
 <nl>Hij verzocht Atlas om de lucht van hem terug te nemen.
-<en>`Take back the sky!'
-<tr>`Gökyüzünü geri al!'
-<es>`¡Toma el cielo de vuelta!'
-<nl>`Neem de lucht terug!'
+<en>`Take back the sky?'
+<tr>`Gökyüzünü geri al?'
+<es>`?Toma el cielo de vuelta?'
+<nl>`Neem de lucht terug?'
 <en>said Atlas cunningly.
 <tr>dedi Atlas kurnazca.
 <es>dijo Atlas astutamente.
