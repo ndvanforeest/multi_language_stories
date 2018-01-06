@@ -142,6 +142,7 @@ def make_all_doc(lang_left, lang_right, latex_file):
     except:
         quit()
     os.system("pdflatex {}.tex".format(latex_file))
+    os.system("mv {}.pdf pdf_files/{}.pdf".format(latex_file, latex_file))
     #os.system("pdflatex {}.tex".format(latex_file))
     os.system("rm {}.aux".format(latex_file))
     os.system("rm {}.log".format(latex_file))
@@ -149,7 +150,7 @@ def make_all_doc(lang_left, lang_right, latex_file):
     os.system("rm {}.toc".format(latex_file))
 
 if __name__ == "__main__":
-    #make_all_doc("tr", "en", "turkish_english")
+    make_all_doc("tr", "en", "turkish_english")
     make_all_doc("nl", "en", "dutch_english")
     #make_all_doc("en", "nl", "english_dutch")
     #make_all_doc("es","en", "spanish_english")

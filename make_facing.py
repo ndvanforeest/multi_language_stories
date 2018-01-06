@@ -128,9 +128,9 @@ def make_all_doc(lang_left, lang_right, out_file):
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
     #os.system("pdflatex dummy.tex")
-    os.system("mv dummy.pdf {}.pdf".format(out_file))
+    os.system("mv dummy.pdf pdf_files/{}.pdf".format(out_file))
     os.system("rm dummy.*")
 
 if __name__ == "__main__":
-    make_all_doc("nl", "en", "dutch_english_facing")
-    #make_all_doc("tr", "en", "turkish_english_facing")
+    #make_all_doc("nl", "en", "dutch_english_facing")
+    make_all_doc("tr", "en", "turkish_english_facing")

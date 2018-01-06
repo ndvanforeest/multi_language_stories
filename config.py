@@ -71,6 +71,7 @@ files = [
     "a_handfull_of_answers.txt",
     "the_lazy_dreamer.txt",
     "siege_of_vienna.txt",
+    "dogs.txt",
     "the_donkey_and_the_dog.txt",
     "the_donkey_and_the_cotton.txt",
     "the_cunning_bats.txt",

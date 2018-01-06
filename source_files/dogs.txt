@@ -1,0 +1,114 @@
+<en>Dogs\footnote{https://simple.wikipedia.org/wiki/Dog}
+<nl>Honden
+<en>Dogs are domesticated mammals, not natural wild animals.
+<nl>Honden zijn gedomesticeerde zoogdieren, geen natuurlijke wilde dieren.
+<en>They were originally bred from wolves.
+<nl>Ze zijn oorspronkelijk gefokt uit wolven.
+<en>They have been bred by humans for a long time, and were the first animals ever to be domesticated.
+<nl>Ze zijn al heel lang door mensen gefokt, en waren de eerste dieren die ooit gedomesticeerd werden.
+<en>
+<nl>
+<en>Today, some dogs are used as pets, others are used to help humans do their work.
+<nl>Tegenwoordig worden sommige honden als huisdier gehouden, andere worden gebruikt om mensen te helpen hun werk te doen.
+<en>They are a popular pet because they are usually playful, friendly, loyal and listen to humans.
+<nl>Ze zijn een populair huisdier, omdat ze meestal speels zijn, vriendelijk, loyaal  en naar mensen luisteren.
+<en>Thirty million dogs in the United States are registered as pets.
+<nl>Dertig miljoen honden in de Verenigde Staten zijn geregistreerd als huisdier.
+<en>Dogs eat both meat and vegetables, often mixed together and sold in stores as dog food.
+<nl>Honden eten zowel vlees als groenten, vaak met elkaar vermengd en in de winkel verkocht als hondenvoer.
+<en>Dogs often have jobs, including as police dogs, army dogs, assistance dogs, fire dogs, messenger dogs, hunting dogs, herding dogs, or rescue dogs.
+<nl>Honden hebben vaak werk, zoals politiehonden, legerhonden, hulphonden, vuurhonden, koeriers, jachthonden, schaaphonden of reddingshonden.
+<en>
+<nl>
+<en>They are sometimes called `canines' from the Latin word for dog -- canis.
+<nl>Ze worden soms `canines genoemd van het Latijnse woord voor dog -- canis.
+<en>Sometimes people also use `dog' to describe other canids, such as wolves.
+<nl>Soms gebruiken mensen ook `hond `om andere type honden te beschrijven, zoals wolven.
+<en>A baby dog is called a pup or puppy.
+<nl>Een babyhond wordt een pup of puppy genoemd.
+<en>A dog is called a puppy until it is about one year old.
+<nl>Een hond heet een puppy tot hij ongeveer een jaar oud is.
+<en>
+<nl>
+<en>Dogs are sometimes referred to as `man's best friend' because they are kept as domestic pets and are usually loyal and like being around humans.
+<nl>Honden worden soms `de beste vriend van de mens' genoemd omdat ze als huisdieren worden gehouden en meestal loyaal zijn en graag in de buurt van mensen verkeren.
+<en>
+<nl>
+<en>Dogs have four legs and make a `bark,' `woof,' or `arf' sound.
+<nl>Honden hebben vier poten en maken een `blaf', `woef' of 'arf' geluid.
+<en>Dogs often chase cats, and most dogs will fetch a ball or stick.
+<nl>Honden achtervolgen vaak katten en de meeste honden halen een bal of een stok.
+<en>
+<nl>
+<en>Dogs can smell and hear better than humans, but cannot see well in color because they are color blind.
+<nl>Honden kunnen beter ruiken en horen dan mensen, maar zien kleur niet goed omdat ze kleurenblind zijn.
+<en>Due to the anatomy of the eye, dogs can see better in dim light than humans.
+<nl>Door de anatomie van het oog kunnen honden beter zien bij weinig licht dan mensen.
+<en>They also have a wider field of vision.
+<nl>Ze hebben ook een breder gezichtsveld.
+<en>
+<nl>
+<en>Like wolves, wild dogs travel in groups called packs.
+<nl>Net als wolven reizen wilde honden in groepen die roedels worden genoemd.
+<en>Packs of dogs are ordered by rank, and dogs with low rank will submit to other dogs with higher rank.
+<nl>Roedels met honden zijn geordend op rang, en honden met een lage rang zullen zich onderwerpen aan andere honden met een hogere rang.
+<en>The highest ranked dog is called the alpha male.
+<nl>De hond met de hoogste rang wordt de alfa man genoemd.
+<en>A dog in a group helps and cares for others.
+<nl>Een hond in een groep helpt en zorgt voor anderen.
+<en>Domesticated dogs often view their owner as the alpha male.
+<nl>Gedomesticeerde honden beschouwen hun eigenaar vaak als het alfamannetje.
+<en>
+<nl>
+<en>Different dog breeds have different lifespans.
+<nl>Verschillende hondenrassen hebben verschillende levensduren.
+<en>In general, smaller dogs live longer than bigger ones.
+<nl>Over het algemeen leven kleinere honden langer dan grotere.
+<en>The size and the breed of the dog change how long the dog lives, on average.
+<nl>De grootte en het ras van de hond be\"\i nvloeden hoe lang de hond gemiddeld leeft.
+<en>Breeds such as the Dachshund usually live for fifteen years, Chihuahuas can reach age twenty.
+<nl>Rassen zoals de teckel leven meestal vijftien jaar, Chihuahuas kunnen een leeftijd van twintig jaar bereiken.
+<en>The Great Dane, on the other hand has an average lifespan of six to eight years;
+<nl>De grote Deense dog, van de andere kant, heeft een gemiddelde levensduur van zes tot acht jaar;
+<en>some Great Danes have lived for ten years.
+<nl>sommige grote Deense Doggen zijn  tien  jaar oud geworden.
+<en>
+<nl>
+<en>All dogs are descended from wolves, by domestication and artificial selection.
+<nl>Alle honden zijn afstammelingen van wolven, door domesticatie en kunstmatige selectie.
+<en>This is known because DNA genome analysis has been done to discover this. They have been bred by humans.
+<nl>Dit is bekend omdat DNA-genoomanalyse is gedaan om dit te ontdekken. Ze zijn door mensen gefokt.
+<en>The earliest known fossil of a domestic dog is from 31,700 years ago in Belgium.
+<nl>Het vroegst bekende fossiel van een huishond is van 31.700 jaar geleden in België.
+<en>Dogs have lived with people for at least 30,000 years.
+<nl>Honden leven al minstens 30.000 jaar met mensen.
+<en>In 2013, a study was published that showed that the skull and teeth of a canid, dated to 33,000 years ago, had characteristics closer to a dog than to a wolf, and the authors conclude that `this specimen may represent a dog in the very early stages of domestication, i.e., an "incipient" dog.'
+<nl>In 2013 werd een studie gepubliceerd die aantoonde dat de schedel en tanden van een canid, gedateerd 33.000 jaar geleden, kenmerken hadden die dichter bij een hond dan bij een wolf lagen, en de auteurs concluderen dat `dit exemplaar een hond kan zijn in de zeer vroege stadia van domesticatie, dwz een "beginnende" hond.'
+<en>The researchers go on to suggest that it was, however, a line that did not lead to modern dogs.
+<nl>De onderzoekers suggereren dat het echter een lijn was die niet leidde tot moderne honden.
+<en>Genetically, this material is closer to that of a modern dog than to that of a wolf.
+<nl>Genetisch gezien is dit materiaal dichter bij dat van een moderne hond dan bij dat van een wolf.
+<en>Other signs of domestication are that sometimes, dogs were buried together with humans.
+<nl>Andere tekenen van domesticatie zijn dat honden soms samen met mensen werden begraven.
+<en>Evidence of this is a tomb in Bonn, where a man of about 50 years of age, a woman of about 25 years of age, the remains of a dog, plus other artifacts were found.
+<nl>Bewijs hiervan is een tombe in Bonn, waar een man van ongeveer 50 jaar oud, een vrouw van ongeveer 25 jaar oud, de overblijfselen van een hond, plus andere artefacten werden gevonden.
+<en>Radiocarbon dating showed that the human bones were between 13.300 and 14.000 years old.
+<nl>Radiokoolstofdatering liet zien dat de menselijke botten tussen 13.300 en 14.000 jaar oud waren.
+<en>
+<nl>
+<en>Dogs are often called `man's best friend' because they fit in with human life.
+<nl>Honden worden vaak de `beste vriend van de mens' genoemd omdat ze passen in het menselijk leven.
+<en>Dogs can serve people in many ways.
+<nl>Honden kunnen op verschillende manieren mensen van dienst zijn.
+<en>For example, there are guard dogs, hunting dogs, herding dogs, guide dogs for blind people, and police dogs.
+<nl>Er zijn bijvoorbeeld waakhonden, jachthonden, schaaphonden, geleidehonden voor blinden en politiehonden.
+<en>There are also dogs that are trained to smell for diseases in the human body or to find bombs or illegal drugs.
+<nl>Er zijn ook honden die zijn opgeleid om te ruiken naar ziekten in het menselijk lichaam of om bommen of illegale drugs te vinden.
+<en>These dogs sometimes help police in airports or other areas.
+<nl>Deze honden helpen soms politie op luchthavens of andere ruimtes.
+<en>Sniffer dogs (usually beagles) are sometimes trained for this job.
+<nl>Sniffer honden (meestal beagles) worden soms getraind voor dit werk.
+<en>Dogs have even been sent by Russians into outer space, a few years before any human being.
+<nl>Honden zijn zelfs door Rusland  de ruimte in gestuurd, een paar jaar eerder dan een mens.
+<en>The first dog sent up was named Laika, but she died within a few hours.
+<nl>De eerste hond die omhoog gestuurd werd, heette Laika, maar ze stierf binnen een paar uur.

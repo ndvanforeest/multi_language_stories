@@ -55,7 +55,7 @@
 <en>To this, the mouse said: 
 <nl>De muis zei hierop: 
 <tr>Fare de demiş ki, 
-<en>You are right. I couldn't carry the bag, but I could carry one peanut. And so I did: one peanut per time.
+<en>`You are right. I couldn't carry the bag, but I could carry one peanut. And so I did: one peanut per time.'
 <nl>`Je hebt gelijk. Ik kon de zak niet dragen, maar ik kon 'e'en pinda dragen. En zo heb ik het gedaan. 1 pinda per keer.' 
 <tr>`Haklısın, çuvalı taşıyamazdım ama ben sadece 1 fıstık taşıyabiliyordum. Öyle de yaptım. Her defasında 1 fıstık.'
 <en>

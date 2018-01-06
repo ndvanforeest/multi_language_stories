@@ -15,7 +15,7 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "./raw_material/first_calendar.txt"
+fname = "./raw_material/dogs.txt"
 
 def format_single_file_raw(fname):
     story = []

@@ -3,34 +3,34 @@
 <tr>Aslan ile fare 
 <en>A little mouse lives in a big forest.
 <nl>Een muis woont in een groot bos.
-<tr>Ormanın birinde bir fare yaşar
+<tr>Ormanın birinde bir fare yaşar.
 <en>One day he is hungry.
 <nl>Op een dag heeft hij honger. 
-<tr>Bir gün karnı acıkır 
+<tr>Bir gün karnı acıkır.
 <en>So he walks in the forest
 <nl>Dus loopt hij het bos in
 <tr>Buyüzden ormanda yürür
 <en>and looks for some food.
 <nl>en zoekt naar eten.
-<tr>ve yiyecek arar
+<tr>ve yiyecek arar.
 <en>
 <nl>
 <tr>
 <en>Suddenly he meets a lion.
 <nl>Ineens ontmoet hij een leeuw.
-<tr>Anidenbir aslana rastlar.
+<tr>Aniden bir aslana rastlar.
 <en>The lion roars.
 <nl>De leeuw brult.
-<tr>Aslan  kükrer.
+<tr>Aslan kükrer.
 <en>The mouse is frightened.
 <nl>De muis is bang.
 <tr>Fare korkar.
-<en>And the lion catches the mouse .
+<en>And the lion catches the mouse.
 <nl>En de leeuw vangt de muis. 
 <tr>Ve aslan fareyi yakalar.
 <en>The mouse screams, `Please, Mr Lion, let me go.
 <nl>De muis gilt: `Alstublieft, meneer Leeuw, laat me gaan.
-<tr>Fare çığlık atar: `Lütfen bay aslan, beni bırak gideyim', der. 
+<tr>Fare çığlık atar: `Lütfen bay aslan, beni bırak gideyim,' der. 
 <en>If you let me go, one day I will help you.'
 <nl>Als je mij laat gaan, dan zal ik jou op een dag helpen.'
 <tr>`Eğer beni bırakırsan bir gün sana yardım ederim.'
@@ -45,10 +45,10 @@
 <tr>`Sen küçüksün.
 <en>I am big.
 <nl>Ik ben groot.
-<tr>Ben büyüğüm
+<tr>Ben büyüğüm.
 <en>How can you help me?'
 <nl>Hoe kan jij mij helpen?'
-<tr>Sen bana nasıl yardım edebilirsin', diye güler.
+<tr>Sen bana nasıl yardım edebilirsin,' diye güler.
 <en>The mouse begs, `Please, give me permission to go.'
 <nl>De muis smeekt: `Alstublieft, geef me toestemming te gaan.
 <tr>Fare yalvarır, `Lütfen gitmeme izin ver.  
@@ -75,10 +75,10 @@
 <tr>Ancak  bundan sonra dikkatli yürü.'
 <en>The mouse says, `Thank you very much.'
 <nl>De muis zegt: `Dank u wel.'
-<tr>`Çok teşekkürler', der fare.
+<tr>`Çok teşekkürler,' der fare.
 <en>The lion says: `You’re welcome.'
 <nl>De leeuw zegt, `Alsjeblieft.'
-<tr>Aslan,  `bir şey değil', der.
+<tr>Aslan,  `bir şey değil,' der.
 <en>
 <nl>
 <tr>
@@ -105,7 +105,7 @@
 <tr>`Beni bekle.
 <en>I will help you.’
 <nl>Ik zal jou helpen.' 
-<tr>Sana yardım edeceğim', der.
+<tr>Sana yardım edeceğim,' der.
 <en>He climbs the net.
 <nl>Hij klimt in het net.
 <tr>Ağa tırmanır.
@@ -117,10 +117,10 @@
 <tr>Sonunda aslan özgürdür.
 <en>He says, `Thank you.'
 <nl>Hij zegt: `Dank je.'
-<tr>`Teşekkür ederim',  der.
+<tr>`Teşekkür ederim,'  der.
 <en>The mouse says, `You’re welcome.'
 <nl>De muis zegt: `Alsjeblieft.'
-<tr>Fare, `bir şey değil', der.
+<tr>Fare, `bir şey değil,' der.
 <en>Vocabulary
 <nl>Vocabulair
 <tr>Kelime hazinesi
