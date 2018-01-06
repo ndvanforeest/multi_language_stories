@@ -87,6 +87,9 @@ def make_header_and_trailer(lang_left, lang_right):
     \usepackage{url}
     \usepackage[series={A},noend,nocritical,noeledsec]{reledmac}
     \usepackage[]{reledpar}
+    \maxhnotesX{0.2\textheight}
+    \beforenotesX{5pt}
+    \setgoalfraction{0.95}
     \numberlinefalse
     \author{en-nl: Nicky van Foreest\\
     en-tr: Onur Kilic\\
@@ -108,6 +111,8 @@ def make_all_doc(lang_left, lang_right, out_file):
     for fname in config.files:
         if not os.path.isfile("./source_files/"+fname):
             continue
+        #if "baked" not in fname:
+        #    continue
         story_left, story_right = select_story_and_vocab(lang_left, lang_right, fname)
         if story_left is None:
             continue
@@ -119,6 +124,7 @@ def make_all_doc(lang_left, lang_right, out_file):
     res = "\n".join(res)
     with open("dummy.tex", "w") as fp:
         fp.write(res)
+    os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
     #os.system("pdflatex dummy.tex")
