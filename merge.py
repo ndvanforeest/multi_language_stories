@@ -3,7 +3,7 @@
 import os
 import re
 
-target_language, fname = "nl", "dogs.txt"
+target_language, fname = "nl", "second_calendar.txt"
 #target_language, fname = "es", "aladdin.txt"
 #target_language, fname = "tr", "boys_will_be_boys.txt"
 

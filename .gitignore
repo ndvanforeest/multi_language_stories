@@ -9,3 +9,4 @@ __pycache__/
 old_source_files
 source_files/*.txt_old
 parallel.*
+pdf_files/mth*

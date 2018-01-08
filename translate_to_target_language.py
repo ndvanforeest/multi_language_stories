@@ -14,9 +14,12 @@ translate.
 
 import re
 from googletrans import Translator
+import click
+
+
 translator = Translator()
 
-target_language, fname = "nl", "dogs.txt"
+target_language, fname = "nl", "second_calendar.txt"
 #target_language, fname = "es", "flying"
 #target_language, fname = "tr", "./source_files/the_donkey_of_hodja.txt"
 #target_language, fname = "tr", "./source_files/taking_a_shower.txt"
@@ -71,11 +74,13 @@ def latex_alternating(story, fout):
     fout.write(latex_trailer)
 
 
-def translate_file():
+@click.command()
+@click.argument('filename')
+def translate_file(filename):
     #fin_name = r"source_files/" + fname + ".txt"
     #fout_name = target_language + "_" + fname[15:-4] + ".tex"
-    fin_name = fname
-    fout_name = target_language + "_" + fname[:-4] + ".tex"
+    fin_name = filename
+    fout_name = target_language + "_" + filename[:-4] + ".tex"
     with open(fin_name, "r") as fin:
         story = translate_single_file(fin)
     with open(fout_name, "w") as fout:

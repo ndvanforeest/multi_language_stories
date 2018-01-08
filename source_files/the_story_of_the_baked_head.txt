@@ -46,7 +46,7 @@
 <nl>`Ja,' zei de ander, `ik ben een kleermaker en ook de muezzin van de kleine moskee op de vismarkt.
 <en>What more can I do?'
 <nl>Wat kan ik nog meer doen?'
-<en>`Well, Babadul,' said Mansouri, `have you a mind for a job,—a good job?'
+<en>`Well, Babadul,' said Mansouri, `have you a mind for a job,---a good job?'
 <nl>`Wel, Babadul,' zei Mansouri, `heb je belangstelling voor een opdracht, een goede opdracht?'
 <en>`Am I a fool,' answered the old man, `that I should dislike it?
 <nl>`Ben ik een dwaas,' antwoordde de oude man, `dat ik dat niet zou willen?
@@ -433,11 +433,11 @@
 <en>
 <nl>
 <en>On the very same night of the tailor's attendance, the sultan had given a secret order for taking off the head of the Aga of the Janissaries (the fomenter of all the disturbances which had lately taken place among his corps, and consequently their idol); and so anxious was he about its execution, that he had ordered it to be brought to him the moment it was off.
-<nl>Op dezelfde avond van het bezoek van de kleermaker, had de sultan een geheim bevel afgegeven het hoofd van de Aga van de Janitsaren  af te nemen (de aanstoker van alle ongeregeldheden die de laatste tijd hadden plaatsgevonden onder zijn korps, en bijgevolg hun idool); en hij verlangde zo naar de uitvoering, dat hij had bevolen  het hem te brengen zodra het er af was.
+<nl>Op precies die avond van het bezoek van de kleermaker, had de sultan een geheim bevel afgegeven het hoofd af te hakken van de Aga van de Janitsaren (de aanstoker van alle ongeregeldheden die de laatste tijd hadden plaatsgevonden onder zijn korps, en bijgevolg hun idool); en hij verlangde zo naar devoltrekking, dat hij had bevolen  het hem te brengen zodra het er af was.
 <en>The man entrusted with the execution, upon entering the room where he had been directed to bring the head, seeing some one seated, naturally took him for the sultan, and, without daring to look up, immediately placed the burden at his feet, with the prostrations which we have ready described as having been performed before the tailor.
 <nl>De man aan wie de executie was toevertrouwd,  de kamer binnengaand  waar hij was gevraagd  het hoofd te brengen, en een zittend persoon  ziend, nam hem vanzelfsprekend voor de sultan aan, en zonder te durven  op kijken, plaatste onmiddellijk de last aan zijn voeten, met de kniebuigingen die, zoals we al  beschreven hadden, waren  uitgevoerd voor de kleermaker.
 <en>The sultan, who not a minute before had taken away the bundle containing the dervish's dress, had done so in the intention of deceiving his slave Mansouri himself; so anxious was he of being unknown in his new disguise even to him; and intended to have substituted another in its stead; but not calculating either upon the reception of the head, or upon Mansouri's immediate return to the tailor, he was himself completely puzzled how to act when he found the tailor was gone, led off by his slave.
-<nl>De sultan, die nog geen minuut daarvoor de bundel met de kleren van de derwisj had weggenomen, had dit gedaan met de bedoeling zijn dienaar Mansouri zelf te misleiden; zo graag wou hij zelfs voor hem onherkend blijven in zijn nieuwe vermomming; en bedoeld om een andere te hebben vervangen in zijn plaats; maar niet rekenend op de ontvangst van het hoofd, of op Mansouri's onmiddellijke terugkeer  naar de kleermaker, was hij zelf volkomen verward wat te doen toen hij bemerkte dat de kleermaker vertrokken was, weg geleid door zijn slaaf.
+<nl>De sultan, die nog geen minuut daarvoor de bundel met de kleren van de derwisj had weggenomen, had dit gedaan met de bedoeling zijn dienaar Mansouri zelf te misleiden; zo graag wou hij zelfs voor hem onherkend blijven in zijn nieuwe vermomming; en probeerd had  een andere te hebben vervangen in zijn plaats; maar niet rekenend op de ontvangst van het hoofd, of op Mansouri's onmiddellijke terugkeer  naar de kleermaker, was hij zelf volkomen verward wat te doen toen hij bemerkte dat de kleermaker vertrokken was, weg geleid door zijn slaaf.
 <en>To have sent after them would have disconcerted his schemes, and therefore he felt himself obliged to wait Mansouri's return, before he could get an explanation of what had happened; for he knew that they would not have gone away without the dress, and that dress he had then in his possession.
 <nl>Hen laten halen zou zijn plannen hebben ontwricht, en daarom voelde hij zich gedwongen Mansouri's terugkeer af te wachten, voordat hij uitleg kon krijgen over wat er was gebeurd; want hij wist dat ze niet weg zouden zijn gegaan zonder de kleren, en die kleren  had hij toen in zijn bezit.
 <en>In the meanwhile, anxious and impatient to know what had become of the expected head, he sent for the officer who was entrusted with the execution; and the astonishment of both may be imagined when an explanation took place.
@@ -445,9 +445,9 @@
 <en>
 <nl>
 <en>`By my beard!' exclaimed the sultan, having thought awhile within himself; `by my beard, the tailor must have got the head!'
-<nl>`Bij mijn baard!' riep de sultan uit, na een tijdje in zichzelf te hebben gedacht; `bij mijn baard, de kleermaker moet het hoofd hebben!'
+<nl>`Bij mijn baard!' riep de sultan uit, na een tijdje bij zichzelf te hebben nagedacht; `bij mijn baard, de kleermaker moet het hoofd hebben!'
 <en>His impatience for Mansouri's return then became extreme.
-<nl>Hij wachtte  de terugkeer van Mansouri af met  buitensporig ongeduld.
+<nl>Zijn ongeduld naar de terugkeer van Mansouri werd  buitensporig.
 <en>In vain he fretted, fumed, and cried `Allah! Allah!'
 <nl>Tevergeefs piekerde hij, kookte van woede, en riep: `Allah! Allah!'
 <en>It did not make the slave return a minute the sooner, who, good man, would have gone quietly to rest had he not been called upon to appear before the sultan.
@@ -456,7 +456,7 @@
 <nl>
 <en>As soon as he was within hearing, he called out, `Ahi!
 <nl>Zodra hij binnen hoorde, riep hij: `Ahi!
-<en>Mansouri, run immediately to the tailor—he has got the head of the Aga of the Janissaries instead of the dervish's dress---run, fetch it without loss of time, or something unfortunate will happen!'
+<en>Mansouri, run immediately to the tailor---he has got the head of the Aga of the Janissaries instead of the dervish's dress---run, fetch it without loss of time, or something unfortunate will happen!'
 <nl>Mansouri, ren onmiddellijk naar de kleermaker--hij heeft het hoofd van de Aga van de Janitsaren in plaats van de kleren van de derwisj---ren, haal het op zonder een moment te verliezen, of er zal iets vreselijks gebeuren!'
 <en>He then explained how this untoward event had occurred.
 <nl>Hij legde toen uit hoe deze ongewenste gebeurtenis had plaatsgevonden.
@@ -494,8 +494,8 @@
 <nl>
 <en>`A mistake, indeed!' cried the tailor, `a mistake done on purpose to bring a poor man into trouble.
 <nl>`Een fout inderdaad!' riep de kleermaker, `een fout gemaakt met het doel  een arme man in moeilijkheden te brengen.
-<en>One man laughs at my stupid beard, and makes me believe that I am to make a suit of clothes for him—another takes away the pattern—and a third substitutes a dead man's head for it.
-<nl>E\'en man lacht om mijn domme baard, en laat me geloven dat ik hem een pak kleren moet maken - een ander neemt het patroon weg - en een derde vervangt het door  het hoofd van een dode man.
+<en>One man laughs at my stupid beard, and makes me believe that I am to make a suit of clothes for him---another takes away the pattern---and a third substitutes a dead man's head for it.
+<nl>E\'en man lacht om mijn domme baard, en laat me geloven dat ik hem een pak kleren moet maken---een ander neemt het patroon weg---en een derde vervangt het door  het hoofd van een dode man.
 <en>Allah! Allah! I have got into the hands of a pretty nest of rogues, a set of ill-begotten knaves!'
 <nl>Allah! Allah! Ik ben in de handen gevallen van een mooi nest schurken, een stel bastaard schelmen!'
 <en>
@@ -519,7 +519,7 @@
 <en>What dirt are you eating, what ashes are you heaping on your head?
 <nl>Wat voor vuil eet je, welke as stapel jij op je hoofd?
 <en>Come, no more words; tell me where the dead man's head is, or I will take yours of in his stead.'
-<nl>Kom, geen woorden meer; vertel me waar het hoofd van de dode man is, anders neem ik het jouwe af in zijn plaats. '
+<nl>Kom, geen woorden meer; vertel me waar het hoofd van de dode man is, anders neem ik het jouwe af in zijn plaats.'
 <en>
 <nl>
 <en>Upon hearing this, the tailor stood with his mouth wide open, as if the doors of his understanding had just been unlocked.
@@ -533,9 +533,9 @@
 <en>Who would have thought it?
 <nl>Wie had dat gedacht?
 <en>Ass, fool, dolt, that I am, not to have known better.'
-<nl>Ezel, gek, domoor, dat ik ben, niet beter  te hebben geweten.'
+<nl>Ezel, gek, domoor, die ik ben, niet beter  te hebben geweten.'
 <en>Bismillah! in the name or the Prophet, pray come to my house; your steps will be fortunate, and your slave's head will touch the stars.'
-<nl>Bismillah! in de naam of de profeet, ik bid  u te komen naar mijn huis; uw stappen zullen gelukkig zijn, en het hoofd van uw slaaf zal de sterren raken. `
+<nl>Bismillah! in de naam of de profeet, ik bid  u te komen naar mijn huis; uw stappen zullen gelukkig zijn, en het hoofd van uw slaaf zal de sterren raken.'
 <en>
 <nl>
 <en>`I am in a hurry, a great hurry,' said Mansouri.
@@ -545,7 +545,7 @@
 <en>
 <nl>
 <en>When the tailor heard whose head it had been, and recollected what he and his wife had done with it, his knees knocked under him with fear, and he began to exude from every pore.
-<nl>Toen de kleermaker hoorde wiens hoofd het was geweest en herinnerde zich wat hij en zijn vrouw ermee hadden gedaan, knikten zijn knieën onder hem van angstk en begon hij te zweten uit elke porie.
+<nl>Toen de kleermaker hoorde wiens hoofd het was geweest en herinnerde zich wat hij en zijn vrouw ermee hadden gedaan, knikten zijn knieën onder hem van angst en begon hij te zweten uit elke porie.
 <en>
 <nl>
 <en>`Where is it, indeed?' said he.
@@ -553,7 +553,7 @@
 <en>`Oh! what has come upon us! Oh! what cursed kismet (fate) is this?'
 <nl>`Oh! wat is er over ons gekomen! Oh! welk vervloekt kismet (lot) is dit?'
 <en>`Where is it?' exclaimed the slave, again and again, `where is it? speak quick!'
-<nl>`Waar is het?' riep de slaaf, keer op keer, `waar is het? zet het  snel!'
+<nl>`Waar is het?' riep de slaaf, keer op keer, `waar is het? zeg snel!'
 <en>The poor tailor was completely puzzled what to say, and kept floundering from one answer to another until he was quite entangled as in a net.
 <nl>De arme kleermaker had geen idee  wat te zeggen, en bleef vervallen van het ene antwoord in het andere tot hij helemaal verstrikt was als in een net.
 <en>`Have you burnt it?'
@@ -567,7 +567,7 @@
 <en>`Then in the name of the Prophet what have you done with it?
 <nl>`Dan in de naam van de Profeet, wat heb je ermee gedaan?
 <en>Have you ate it.'
-<nl>Heb je het opgegeten. '
+<nl>Heb je het opgegeten.'
 <en>`No.'
 <nl>`Nee.'
 <en>`Is it lying in your house?'
@@ -599,7 +599,7 @@
 <en>`True, I said: what would you have more?' answered Babadul, `it is now baking.'
 <nl>`Inderdaad, ik zei: wat zou u nog meer willen hebben?' antwoordde Babadul, `het is nu aan het bakken.'
 <en>And then he gave a full account of what he and his wife had done in the sad dilemma in which they had been placed.
-<nl>En toen gaf hij een volledig verslag van wat hij en zijn vrouw hadden gedaan in het trieste dilemma waarin ze waren geplaatst.
+<nl>En toen gaf hij een volledig verslag van wat hij en zijn vrouw hadden gedaan in het moeilijke dilemma waarin ze waren geplaatst.
 <en>
 <nl>
 <en>`Show me the way to the baker's,' said Mansouri; `at least, we will get it in its singed state, if we can get it in no other.
@@ -617,15 +617,15 @@
 <en>The three (Mansouri, the tailor, and the baker) then proceeded to the barber's, and inquired from him what he had done with the head of his earliest customer.
 <nl>De drie (Mansouri, de kleermaker en de bakker) begaven zich vervolgens naar de kapper en vroegen hem wat hij had gedaan met het hoofd van zijn vroegste klant.
 <en>K"or Ali, after some hesitation, made great assurances that he looked upon this horrid object as a donation from Eblis himself, and consequently that he had thought himself justified in transferring it over to the Giaour Yanaki, who, he made no doubt, had already made his brother-infidels partake of it in the shape of kabobs.
-<nl>K\"or Ali, na enige aarzeling, verzekerde met klem dat hij dit gruwelijke object als een gift van Eblis zelf beschouwde, en dat hij gevoeglijk gedacht had gerechtvaardigd te zijn  het over te dragen aan de Giaour Yanaki, die, zonder dat hij eraan twijfelde,  zijn broeder-ongelovigen het al laten nuttigen in de vorm van kabobs.
+<nl>K\"or Ali, na enige aarzeling, verzekerde met klem dat hij dit gruwelijke object als een gift van Eblis zelf beschouwde, en dat hij gevoeglijk gedacht had gerechtvaardigd te zijn  het over te dragen aan de Giaour Yanaki, die, zonder dat hij eraan twijfelde,  zijn broeder-ongelovigen het al had laten nuttigen in de vorm van kabobs.
 <en>Full of wonder and amazement, invoking the Prophet at each step, and uncertain as to the result of such unheard-of adventures, they then added the barber to their party, and proceeded to Yanaki's cook-shop.
-<nl>Vol verbazing en verwondering, de Profeet bij elke stap aanroepend, en twijfelend  aan de gevolgen van zulke ongehoorde avonturen, voegden ze de kapper toen toe aan hun  groep en gingen ze verder naar Yanaki's kookwinkel.
+<nl>Vol verbazing en verwondering, de Profeet bij elke stap aanroepend, en twijfelend  aan de gevolgen van zulke ongehoorde avonturen, voegden ze toen de kapper toe aan hun gezelschap en gingen ze verder naar Yanaki's eetwinkel.
 <en>
 <nl>
 <en>The Greek, confounded at seeing so many of the true believers enter his house, had a sort of feeling that their business was not of roast meat, but that they were in search of meat of a less savoury nature.
 <nl>De Griek, verbijsterd zo veel  ware gelovigen zijn huis binnen te zien gaan, had een soort gevoel dat hun doel niet gebraden vlees betrof, maar dat ze op zoek waren naar vlees van minder smakelijke aard.
 <en>As soon as the question had been put to him concerning the head, he stoutly denied having seen it, or knowing anything at all concerning it.
-<nl>Zodra hem de vraag  over het hoofd was voor gelegd, ontkende hij stoutmoedig het  gezien te hebben,  of er `uberhaupt iets van te weten.
+<nl>Zodra hem de vraag  over het hoofd was voor gelegd, ontkende hij stoutmoedig het  gezien te hebben,  of er \"uberhaupt iets van te weten.
 <en>
 <nl>
 <en>The barber showed the spot where he had placed it, and swore it upon the Koran.
@@ -636,12 +636,12 @@
 <nl>Mansouri was over gegaan tot het onderzoek van het punt in kwestie, toen ze de tekenen ontdekten van de buitengewone opwinding die heerste in de stad als gevolg van de ontdekking die was gedaan van de tweekoppige Jood, en van de daaropvolgende ontdekking die zo'n grote opschudding had teweeggebracht onder het gehele korps van Janitsaren.
 <en>
 <nl>
-<en>Mansouri, followed by the tailor, the baker, and the barber, then proceeded to the spot where the dead Israelite was prostrate; and there, to their astonishment, they each recognized their morning visitor—the head so long sought after.
-<nl>Mansouri, gevolgd door de kleermaker, de bakker en de kapper, begaf zich vervolgens naar de plek waar de dode Israëliet uitgestald was; en daar, tot hun verbazing, herkenden ze elk hun ochtendbezoeker - het lang gezochte hoofd.
+<en>Mansouri, followed by the tailor, the baker, and the barber, then proceeded to the spot where the dead Israelite was prostrate; and there, to their astonishment, they each recognized their morning visitor---the head so long sought after.
+<nl>Mansouri, gevolgd door de kleermaker, de bakker en de kapper, begaf zich vervolgens naar de plek waar de dode Israëliet uitgestald was; en daar, tot hun verbazing, herkenden ze elk hun ochtendbezoeker---het lang gezochte hoofd.
 <en>
 <nl>
 <en>Yanaki, the Greek, in the meanwhile, conscious of what was likely to befall him, without loss of time gathered what money he had ready at hand, and fled the city.
-<nl>Yanaki, de Griek,  ondertussen, zich bewust van wat hem waarschijnlijk zou overkomen, verzamelde zonder tijd de verliezen al het geld dat hij binnen handbereik had, en ontvluchtte de stad.
+<nl>Yanaki, de Griek,  ondertussen, zich bewust van wat hem waarschijnlijk stond te gebeuren, verzamelde zonder tijd de verliezen al het geld dat hij binnen handbereik had, en ontvluchtte de stad.
 <en>
 <nl>
 <en>`Where is the Greek?'
@@ -651,7 +651,7 @@
 <en>
 <nl>
 <en>`I dare say he is run off,' said the barber.
-<nl>`Ik vermag te zeggen dat hij is weggerend,' zei de kapper.
+<nl>`Ik durf te zeggen dat hij is weggerend,' zei de kapper.
 <en>`I am not so blind but I can see that he it is who gifted the Jew with his additional head.'
 <nl>`Ik ben  zo blind niet dat ik kan zien dat hij degene is die de Jood met zijn extra hoofd heeft begiftigd.'
 <en>
@@ -671,11 +671,11 @@
 <en>He remained in a state of indecision for some time, twisting up the ends of his mustachios, and muttering Allah! Allah!
 <nl>Hij bleef een enige tijd in een staat van besluiteloosheid, terwijl hij de uiteinden van zijn snor opdraaide, al mompeldend,  Allah! Allah!
 <en>in low ejaculations, until at length he ordered the prime vizier and the mûfti to his presence.
-<nl>in lage uitroepen, totdat hij uiteindelijk  de belangrijkste vizier en de mûfti bij zich beviel.
+<nl>in lage uitroepen, totdat hij uiteindelijk  de belangrijkste vizier en de mûfti in zijn aanwezigheid beviel.
 <en>
 <nl>
 <en>Alarmed by the abruptness of the summons, these two great dignitaries arrived at the imperial gate in no enviable state of mind; but when the sultan had informed them of the tumult then raging in the capital, they resumed their usual tranquillity.
-<nl>Geschrokken door de abruptheid waarmee ze ontboden werden, arriveerden deze twee grote hoogwaardigheidsbekleders in een niet te benijden gemoedstoestand aan de keizerlijke poort; maar toen de sultan hen had ingelicht over het tumult dat toen in de hoofdstad woedde, herkregen ze hun gebruikelijke kalmte.
+<nl>Geschrokken door de abruptheid waarmee ze ontboden werden, arriveerden deze twee grote hoogwaardigheidsbekleders in een niet te benijden gemoedstoestand bij de keizerlijke poort; maar toen de sultan hen had ingelicht over het tumult dat toen in de hoofdstad woedde, herkregen ze hun gebruikelijke kalmte.
 <en>
 <nl>
 <en>After some deliberation it was resolved, that the tailor, the baker, the barber, and the kabobchi should appear before the tribunal of the mûfti, accused of having entered into a conspiracy against the Aga of the Janissaries, and stealing his head, for the purposes of baking, shaving, and roasting it, and that they should be condemned to pay the price of his blood; but as the kabobchi had been the immediate cause of the tumult by treating the head with such gross and unheard-of insult, and as he was a Greek and an infidel, it was further resolved that the Mûfti should issue a fetwah, authorizing his head to be cut off: and placed on the same odious spot where he had exposed that of the Aga of the Janissaries.
@@ -683,11 +683,11 @@
 <en>
 <nl>
 <en>It was then agreed between the sultan and his grand vizier, that in order to appease the Janissaries a new Aga should be appointed who was agreeable to them, and that the deceased should be buried with becoming distinction.
-<nl>Vervolgens werd tussen de sultan en zijn grootvizier overeengekomen dat om de Janitsaren tevreden te stellen een nieuwe Aga moest worden aangesteld die  acceptabel was voor hun  was en dat de overledene begraven moest worden met gepaste eer.
+<nl>Vervolgens werd tussen de sultan en zijn grootvizier overeengekomen dat om de Janitsaren tevreden te stellen een nieuwe Aga moest worden aangesteld die  acceptabel was voor hun en dat de overledene begraven moest worden met gepaste eer.
 <en>All this (except killing the Greek, who had fled) was done, and tranquillity again restored to the city.
 <nl>Dit alles (behalve het doden van de Griek, die gevlucht was) werd uitgevoerd, en de rust keerde weer  in de stad.
 <en>But it must further be added to the honour of the sultan, that he not only paid every expense which the tailor, the baker, and the barber were condemned to incur, but also gave them each a handsome reward for the difficulties into which they had so unfortunately been thrown.
-<nl>Maar er moet ook aan de eer van de sultan worden toegevoegd, dat hij niet alleen alle kosten betaalde waartoe de kleermaker, de bakker en de kapper veroordeeld waren te maken, maar ze ook elk een behoorlijke beloning gaf voor de moeilijkheden waarin ze zo ongelukkig terecht waren gekomen.
+<nl>Maar er moet ook aan de eer van de sultan worden toegevoegd, dat hij niet alleen alle kosten betaalde waartoe de kleermaker, de bakker en de kapper veroordeeld werden te maken, maar ze ook elk een behoorlijke beloning gaf voor de moeilijkheden waarin ze zo ongelukkigerwijs terecht waren gekomen.
 <en>
 <nl>
 <en>I have much curtailed the story, particularly where Mansouri proceeds to relate to the sultan the fate of the head, because, had I given it with all the details the dervish did, it would have been over long.

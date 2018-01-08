@@ -8,6 +8,8 @@ Include the txt file, without its ".txt" extension. Then move the translated tex
 
 import os
 import re
+import click
+
 
 # The regular expressions below work better for my purposes than the nltk algorithms.
 #import nltk.data
@@ -15,11 +17,14 @@ import re
 #nltk.download()
 #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-fname = "./raw_material/dogs.txt"
+#fname = "./raw_material/second_calendar.txt"
 
-def format_single_file_raw(fname):
+@click.command()
+#@click.argument('--filename', help='File to format.')
+@click.argument('filename')
+def format_single_file_raw(filename):
     story = []
-    with open(fname, 'r') as fin:
+    with open(filename, 'r') as fin:
         for line in fin:
             story.append(line.strip())
     story = "\n".join(story)
@@ -46,7 +51,8 @@ def format_single_file_raw(fname):
 
 
     res = story.split("\n")
-    with open(fname[15:], "w") as fout:
+    dir_, file_ = filename.split("/")
+    with open(file_, "w") as fout:
         for line in res:
             fout.write("<en>{}\n".format(line))
     #for token in tokenizer.tokenize(fin.read()):
@@ -93,6 +99,6 @@ def format_single_file_sourcefile(fname):
     os.system("rm {}.tex".format(fname))
 
 
-
-format_single_file_raw(fname)
-#format_single_file_sourcefile(fname)
+if __name__ == "__main__":
+    format_single_file_raw()
+    #format_single_file_sourcefile(fname)
