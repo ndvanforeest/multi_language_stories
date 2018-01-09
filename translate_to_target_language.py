@@ -19,14 +19,8 @@ import click
 
 translator = Translator()
 
-target_language, fname = "nl", "second_calendar.txt"
-#target_language, fname = "es", "flying"
-#target_language, fname = "tr", "./source_files/the_donkey_of_hodja.txt"
-#target_language, fname = "tr", "./source_files/taking_a_shower.txt"
-#target_language, fname = "tr", "./source_files/a_walk_in_the_park.txt"
 
-
-def translate_single_file(fin):
+def translate_single_file(fin, target_language):
     res = []
     for line in fin:
         if line[:4] != "<en>":
@@ -58,6 +52,7 @@ latex_header = r"""
 \clearpage
 """
 
+
 latex_trailer = r"""
 \end{document}
 """
@@ -76,13 +71,23 @@ def latex_alternating(story, fout):
 
 @click.command()
 @click.argument('filename')
-def translate_file(filename):
-    #fin_name = r"source_files/" + fname + ".txt"
-    #fout_name = target_language + "_" + fname[15:-4] + ".tex"
+@click.argument('target_language')
+def translate_file(filename, target_language):
+    """Translate filename in source_files to a target language.
+
+    Example:
+
+    ./translate_to_target_language.py source_files/second_calendar.txt nl 
+
+    This generates second_calendar.tex in the directory in which
+    ./translate_to_target_language.py is run.
+
+    """
+
     fin_name = filename
-    fout_name = target_language + "_" + filename[:-4] + ".tex"
+    fout_name = target_language + "_" + filename[13:-4] + ".tex"
     with open(fin_name, "r") as fin:
-        story = translate_single_file(fin)
+        story = translate_single_file(fin, target_language)
     with open(fout_name, "w") as fout:
         latex_alternating(story, fout)
 

@@ -1,238 +1,475 @@
 <en>Grandmother's Soup
+<tr>Büyükanne çorbası
 <nl>Grootmoeders Soep
+
 <en>A long time ago I was eighteen years old.
+<tr>Uzun zaman önce on sekiz yaşındaydım.
 <nl>Lang geleden was ik achttien.
+
 <en>I wanted to eat cauliflower.
+<tr>Karnabahar yemek istedim.
 <nl>Ik wou bloemkool eten.
+
 <en>I did not know why.
+<tr>Nedenini bilmiyordum.
 <nl>Ik wist niet waarom.
+
 <en>But I wanted it anyway.
+<tr>Ama yine de istedim.
 <nl>Maar ik wou het toch.
+
 <en>But I didn't want raw cauliflower.
+<tr>Ama çiğ karnabahar istemedim.
 <nl>Maar ik had geen zin in rauwe bloemkool.
+
 <en>Suddenly I knew.
+<tr>Aniden biliyordum.
 <nl>Opeens wist ik het.
+
 <en>I could make soup.
+<tr>Çorba yapabilirim.
 <nl>Ik kon soep maken.
+
 <en>Cauliflower soup.
+<tr>Karnıbahar çorbası.
 <nl>Bloemkoolsoep.
+
 <en>
+<tr>
 <nl>
+
 <en>I called my grandmother.
+<tr>Büyükannemi aradım.
 <nl>Ik belde mijn grootmoeder.
+
 <en>I thought she would know.
+<tr>Bileceğini düşünmüştüm.
 <nl>Ik dacht dat zij het zou weten.
+
 <en>I called up.
+<tr>Aradım.
 <nl>Ik belde op.
+
 <en>`Grandma, how to make cauliflower soup?'
+<tr>`Büyükanne, karnabahar çorbası nasıl yapılır?'
 <nl>`Oma, hoe maak je bloemkoolsoep?'
+
 <en>She said:
+<tr>Dedi ki:
 <nl>Zij zei:
+
 <en>`Boy, what an odd question.
+<tr>`Çocuk, ne garip bir soru.
 <nl>`Jongen, wat een gekke vraag.
+
 <en>I have lived for a long time.
+<tr>Uzun zamandır yaşıyorum.
 <nl>Ik leef al heel lang.
+
 <en>For almost eighty years.
+<tr>Neredeyse seksen yıldır.
 <nl>Al bijna tachtig jaar.
+
 <en>But nobody ever asked me that.
+<tr>Ama hiç kimse bana bunu sormadı.
 <nl>Maar niemand heeft me dat ooit gevraagd.
+
 <en>Never before.
+<tr>Daha önce hiç.
 <nl>Nog nooit eerder.
+
 <en>But I can tell you how to do it.
+<tr>Ama nasıl yapılacağını anlatabilirim.
 <nl>Maar ik kan je vertellen hoe het moet.
+
 <en>
+<tr>
 <nl>
+
 <en>Take a pan.
+<tr>Bir tencereye al.
 <nl>Neem een pan.
+
 <en>Put it on the stove.
+<tr>Ocağın üzerine koy.
 <nl>Zet die op het fornuis.
+
 <en>Grab a water jug.
+<tr>Bir su sürahisi al.
 <nl>Pak een waterkan.
+
 <en>Or a measuring cup.
+<tr>Ya da bir fincan.
 <nl>Of een maatbeker.
+
 <en>Put water in the pan.
+<tr>Tencereye su koy.
 <nl>Doe water in de pan.
+
 <en>About a liter.
+<tr>Yaklaşık bir litre.
 <nl>Ongeveer een liter.
+
 <en>Cut the cauliflower into pieces.
+<tr>Karnabahar parçalara kes.
 <nl>Snij de bloemkool in stukjes.
+
 <en>Especially the stalk must be small.
+<tr>Özellikle sap küçük olmalı.
 <nl>Vooral de stronk moet klein.
+
 <en>Otherwise not everything is done.
+<tr>Aksi halde her şey pişmez.
 <nl>Anders wordt niet alles gaar.
+
 <en>Or you have hard pieces in your soup.
+<tr>Ya da çorbanızda sert parçalarınız olur.
 <nl>Of je hebt harde stukjes in je soep.
+
 <en>Together with very soft parts.
+<tr>Çok yumuşak parçalarla birlikte.
 <nl>Samen met hele zachte stukjes.
+
 <en>I do not like that myself.
+<tr>Ben kendim Bundan hoşlanmam.
 <nl>Dat vind ik zelf niet zo fijn.
+
 <en>But maybe you want it differently.
+<tr>Ama belki de sen onu farklı bir şekilde istiyorsundur.
 <nl>Maar misschien wil jij het anders.
+
 <en>Put the cauliflower in the water.
+<tr>Karnabaharı suya koy.
 <nl>Doe de bloemkool in het water.
+
 <en>Put one stock cube in the water.
+<tr>Bir bulyonu suya koyun.
 <nl>Doe \'e\'en bouillonblokje in het water.
+
 <en>Not more.
+<tr>Daha fazla değil.
 <nl>Niet meer.
+
 <en>Otherwise it will be too salty.
+<tr>Yoksa çok tuzlu olur.
 <nl>Anders wordt het te zout.
+
 <en>A lot of salt is not good for you.
+<tr>Çok tuz senin için iyi değil.
 <nl>Veel zout is niet goed voor je.
+
 <en>Turn on the fire.
+<tr>Ateşi açın.
 <nl>Zet het vuur aan.
+
 <en>Put a lid on the pan.
+<tr>Tencereye bir kapak koyun.
 <nl>Doe een deksel op de pan.
+
 <en>When the water is boiling, turn down the fire.
+<tr>Su kaynadığında altını söndürün.
 <nl>Als het water kookt, zet het vuur zacht.
+
 <en>So that the water just boils.
+<tr>Böylece su sadece kaynar.
 <nl>Zodat het water nog net kookt.
+
 <en>Wait about ten minutes.
+<tr>Yaklaşık on dakika bekleyin.
 <nl>Wacht ongeveer tien minuten.
+
 <en>Then the cauliflower is cooked.
+<tr>Sonra karnabahar pişmiş olur.
 <nl>Dan is de bloemkool wel gaar.
+
 <en>Take something to make the cauliflower even smaller.
+<tr>Karnabahar daha da küçültmek için bir şeyler kullanın.
 <nl>Pak iets om de bloemkool nog kleiner te maken.
+
 <en>For example, a potato masher.
+<tr>Örneğin, bir patates ezicisi.
 <nl>Bijvoorbeeld een aardappelstamper.
+
 <en>Mash the cauliflower into pieces.
+<tr>Karnabaharı parçalar halinde ezin.
 <nl>Stamp de bloemkool in stukjes.
+
 <en>If you like that, at least.
+<tr>Eğer bu hoşuna giderse, en azından.
 <nl>Als je dat lekker vindt tenminste.
+
 <en>You can also take a hand blender.
+<tr>Ayrıca bir el blenderi de kullanabilirisin.
 <nl>Je kan ook een staafmixer nemen.
+
 <en>Then the soup becomes completely smooth.
+<tr>Sonra çorba tamamen pürüzsüz hale gelir.
 <nl>Dan wordt de soep helemaal glad.
+
 <en>Do you want to make a bonded soup?'
+<tr>Birleştirilmiş çorba yapmak ister misin?'
 <en>
+<tr>
 <nl>
+
 <nl>Wil je een gebonden soep maken?'
+
 <en>I said:
+<tr>Dedim ki:
 <nl>Ik zei:
+
 <en>`I do not know what that is.'
+<tr>`Bunun ne olduğunu bilmiyorum.'
 <nl>`Ik weet niet wat dat is.'
+
 <en>
+<tr>
 <nl>
+
 <en>She said:
+<tr>Dedi ki:
 <nl>Ze zei:
+
 <en>`Then I will teach you that too.
+<tr>`O zaman sana onu da öğreteceğim.
 <nl>`Dan zal ik je dat ook leren.
+
 <en>And then you immediately know what bound soup is.
+<tr>Ve sonra hemen birleştirilmiş çorbanın ne olduğunu anlayacaksın.
 <nl>En dan weet je meteen wat gebonden soep is.
+
 <en>You have to make a roux.
+<tr>Unlu bir sos yapmalısın.
 <nl>Je moet een roux maken.
+
 <en>You have to take a pan.
+<tr>Bir tencere al.
 <nl>Je  moet een  pannetje pakken.
+
 <en>Not too small, not too big.
+<tr>Çok küçük değil, çok büyük değil.
 <nl>Niet te klein, niet te groot.
+
 <en>Put butter in it.
+<tr>İçine tereyağı koy.
 <nl>Doe er boter in.
+
 <en>About a tablespoon.
+<tr>Bir çorba kaşığı kadar.
 <nl>Ongeveer een eetlepel.
+
 <en>50 grams or so.
+<tr>50 gram kadar.
 <nl>50 gram of zo.
+
 <en>Let the butter melt.
+<tr>Bırak tereyağı erisin.
 <nl>Laat de boter smelten.
-<en>When the butter has melted, 
+
+<en>When the butter has melted,
+<tr>Tereyağı erdiğinde,
 <nl>Als de boter gesmolten is, 
+
 <en>add some flour.
+<tr>biraz un ekle.
 <nl>doe er wat bloem bij.
+
 <en>A tablespoon or so.
+<tr>Bir çorba kaşığı kadar.
 <nl>Een eetlepel of zo.
+
 <en>That you stir well.
+<tr>Onu iyice karıştır.
 <nl>Dat roer je goed.
+
 <en>You have to get a kind of sauce.
+<tr>Bir çeşit sos elde etmelisin.
 <nl>Je moet een soort sausje krijgen.
+
 <en>If you end up with a big ball,
+<tr>Eğer büyük bir yumru bulursan,
 <nl>Als je een grote bal overhoudt,
+
 <en>you have taken too much flour.
+<tr>çok fazla un kullanmışsın.
 <nl>heb je teveel bloem genomen.
+
 <en>Then you have to add some butter.
+<tr>O zaman biraz tereyağı eklemelisin.
 <nl>Dan moet je wat boter erbij doen.
-<en>If it is still very watery, 
+
+<en>If it is still very watery,
+<tr>Eğer hâlâ çok suluysa,
 <nl>Als het nog heel waterig is, 
+
 <en>you need to add more flour.
+<tr>daha fazla un eklemelisin.
 <nl>moet je er wat meer bloem bij doen.
+
 <en>Just check.
+<tr>Kontrol et yeter.
 <nl>Kijk maar even.
+
 <en>It's self explanatory.
+<tr>Bu kendiliğinden anlaşılır.
 <nl>Dat wijst zichzelf.
+
 <en>And otherwise you practice with it.
+<tr>Ve aksi halde alıştırma yaparsın.
 <nl>En anders oefen je ermee.
-<en>You have to  boil that roux for a small while.
+
+<en>You have to boil that roux for a small while.
+<tr>Unlu sosu az bir süre kaynatmalısın.
 <nl>Die roux laat je heel even opkoken.
+
 <en>One minute or so, slightly longer.
+<tr>Bir dakika kadar, biraz daha uzun.
 <nl>Een minuut of zo, iets meer.
+
 <en>That small bubbles come.
+<tr>Şu küçük kabarcıklar meydana çıkar.
 <nl>Dat er kleine belletjes komen.
+
 <en>Then the flour is cooked.
+<tr>Sonra un pişmiş olur.
 <nl>Dan wordt de bloem gaar.
+
 <en>Now you add small scoops of soup to the roux.
+<tr>Şimdi unlu sosa birkaç küçük kaşık çorba ekle.
 <nl>Nu doe je kleine schepjes soep bij de roux.
+
 <en>If you add all the soup,
+<tr>Eğer tüm çorbayı eklersen,
 <nl>Als je alle soep erbij doet,
+
 <en>in one go,
+<tr>tek seferde,
 <nl>in 'e'en keer,
+
 <en>you'll get lumps.
+<tr>yumrular oluşur.
 <nl>krijg je klonten.
+
 <en>That is not what you'll like.
+<tr>Bu seveceğin birşey değil.
 <nl>Dat is niet de bedoeling.
+
 <en>And also not tasty.
+<tr>Ve lezzetli de değil.
 <nl>En ook niet lekker.
+
 <en>And it looks a bit yucky.
+<tr>Ve biraz iğrenç görünür.
 <nl>En het ziet er een beetje vies uit.
+
 <en>Soup with thick flour clumps.
+<tr>Kalın un yığınlı çorba.
 <nl>Soep met dikke meelklonten.
+
 <en>So you  have to add a little soup at a time.
+<tr>Bu yüzden bir seferinde biraz çorba eklemelisin.
 <nl>Dus je moet steeds een beetje soep erbij doen.
+
 <en>And then stir well.
+<tr>Ve sonra iyice karıştır.
 <nl>En dan goed roeren.
+
 <en>With a whisk.
+<tr>Bir çırpma teli ile.
 <nl>Met een garde.
+
 <en>Until everything is mixed well.
+<tr>Herşey iyice karışıncaya kadar.
 <nl>Totdat alles goed gemengd is.
+
 <en>And again completely smooth.
+<tr>Ve yine tamamen pürüzsüz.
 <nl>En weer helemaal glad.
+
 <en>And then you put some soup again.
+<tr>Ve sonra tekrar çorba koy.
 <nl>En dan doe je er weer wat soep bij.
+
 <en>And then you stir again.
+<tr>Ve sonra tekrar karıştır.
 <nl>En dan roer je weer.
+
 <en>And if your pan is half full,
+<tr>Ve tenceren yarım doluysa,
 <nl>En als je pannetje half vol is,
+
 <en>then pour the roux into the other pan.
+<tr>unlu sosu diğer tencerenin içine dökün.
 <nl>dan giet je de roux in de andere pan.
+
 <en>The one with the cauliflower.
+<tr>İçinde karnabahar olana.
 <nl>Die met de bloemkool.
+
 <en>Now you stir everything again.
+<tr>Şimdi her şeyi tekrar karıştır.
 <nl>Nu roer je alles weer goed door.
+
 <en>And then you're done.
+<tr>Böylece işin bitti.
 <nl>En dan ben je klaar.
+
 <en>You can put some pepper on the soup.
+<tr>Çorbaya biraz biber koyabilirsin.
 <nl>Je kan nog wat peper op de soep doen.
+
 <en>
+<tr>
 <nl>
+
 <en>You can do this for sure.
+<tr>Bunu mutlaka yapabilirsin.
 <nl>Dit kan je vast.
+
 <en>And if doesn't work,
+<tr>Eğer yapamazsan,
 <nl>En als het niet lukt,
+
 <en>then you just call again.
+<tr>o zaman sen de tekrar ararsın.
 <nl>dan bel je maar weer op.
+
 <en>Bye, my boy.'
+<tr>Görüşürüz, oğlum.'
 <nl>Dag jongen.'
+
 <en>
+<tr>
 <nl>
+
 <en>I said:
+<tr>Dedim ki:
 <nl>Ik zei:
+
 <en>`Thank you, Grandma.
+<tr>`Teşekkürler büyükanne.
 <nl>`Dank je wel, oma.
+
 <en>You really helped me.
+<tr>Bana gerçekten yardımcı oldun.
 <nl>Je hebt me echt geholpen.
+
 <en>I will try.
+<tr>Yapmaya çalışacağım.
 <nl>Ik ga het proberen.
+
 <en>I remember what you have told.
+<tr>Ne anlattığını hatırlıyorum.
 <nl>Ik heb onthouden wat je hebt verteld.
+
 <en>And, if I have another crazy question,
+<tr>Ve başka bir çılgınca sorum olursa,
 <nl>En als ik weer een gekke vraag heb,
+
 <en>I'll call you back again.
+<tr>seni tekrar arayacağım.
 <nl>bel ik je weer op.
+
 <en>Bye Grandma.'
+<tr>Hoşçakal büyükanne.'
 <nl>Dag oma.'

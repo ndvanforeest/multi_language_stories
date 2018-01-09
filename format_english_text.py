@@ -23,6 +23,16 @@ import click
 #@click.argument('--filename', help='File to format.')
 @click.argument('filename')
 def format_single_file_raw(filename):
+    """Format a file in raw text to a source file that can be used as a
+    source for the translations.
+
+    Example:
+    ./format_english_text.py raw_material/second_calendar.txt 
+
+    This produces the file second_calendar.txt in the directory in
+    which format_english_text.py is run.
+
+    """
     story = []
     with open(filename, 'r') as fin:
         for line in fin:

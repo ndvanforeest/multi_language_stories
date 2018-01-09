@@ -1,42 +1,83 @@
 <en>Donkey of Hodja
+<tr>Hocanın eşek
 <nl>Ezel van Hodja
+
 <en>Nasruddin Hodja took his donkey to the market place and sold it for 30 dinars.
+<tr>Nasruddin Hoca, eşeğini pazar alanına götürdü ve onu 30 dinara sattı.
 <nl>Nasruddin Hodja nam zijn ezel mee naar de markt en verkocht hem voor 30 dinar.
+
 <en>
+<tr>
 <nl>
+
 <en>The man who bought it immediately put it up for auction.
+<tr>Onu satın alan adam onu hemen açık arttırmaya çıkardı.
 <nl>De man die het kocht, probeerde  hem meteen te veilen.
+
 <en>`Look at this fine animal!'
+<tr>`Şu güzel hayvana bak!'
 <nl>`Kijk eens naar dit mooie dier!'
+
 <en>he shouted to passersby.
+<tr>diye geçenlere bağırdı.
 <nl>riep hij naar voorbijgangers.
+
 <en>`Have you ever seen a better specimen of a donkey?
+<tr>`Daha önce daha iyi bir eşek gördünüz mü?
 <nl>`Heb je ooit een beter exemplaar van een ezel gezien?
+
 <en>See how clean and strong it is!'
+<tr>Ne kadar temiz ve güçlü olduğunu bakın!'
 <nl>Zie hoe schoon en sterk het is!'
+
 <en>And he went on to list the many qualities of the animal.
+<tr>Ve hayvanın birçok özelliğini listelemeye devam etti.
 <nl>En hij ging verder met het opsommen van de vele kwaliteiten van het dier.
+
 <en>At the end of his sales talk a man said he would give 40 dinars for it.
+<tr>Satış konuşmasının ardından bir adam onun için 40 dinar vereceğini söyledi.
 <nl>Aan het einde van zijn verkooppraatje zei een man dat hij er 40 dinar voor wou geven.
+
 <en>Another man offered 50.
+<tr>Başka bir adam 50 teklif etti.
 <nl>Een andere man bood 50 aan.
+
 <en>A third offered 55.
+<tr>Üçüncüsü 55 teklif etti.
 <nl>Een derde bood 55.
+
 <en>
+<tr>
 <nl>
+
 <en>Hodja who was watching was amazed at the interest everyone was showing in the donkey.
+<tr>İzleyen Hoca, herkesin eşeğe gösterdiği ilgiye hayret etti.
 <nl>Hodja die aan het kijken was, was verbaasd over de interesse die iedereen in de ezel toonde.
+
 <en>`What a fool I was to think it an ordinary animal,' thought Hodja.
+<tr>`Onu sıradan bir hayvan olduğunu düşünmek ne kadar aptalcaydı,' diye düşündü Hoca.
 <nl>`Wat een idioot was ik het een gewoon dier te vinden,' dacht Hodja.
-<en>`It is an incomparable beast, one in a million\ldots' 
+
+<en>`It is an incomparable beast, one in a million\ldots'
+<tr>`Bu, milyonda bir bulunan, eşsiz bir canavar '
 <nl>`Het is een onvergelijkbaar beest, een op een miljoen\ldots' 
+
 <en>
+<tr>
 <nl>
+
 <en>He suddenly realized that the owner had received a good offer and was about to close the bidding.
+<tr>Aniden sahibinin iyi bir teklif aldığını ve açık arttırmayı kapatmak üzere olduğunu fark etti.
 <nl>Hij realiseerde zich plotseling dat de eigenaar een goed aanbod had gekregen en op het punt stond de bieding te sluiten.
+
 <en>`75 dinars once\ldots' said the man.
+<tr>'75 dinar, bir\ldots' dedi adam.
 <nl>`75 dinar eenmaal\ldots' zei de man.
-<en>`75 dinars twice\ldots' 
+
+<en>`75 dinars twice\ldots'
+<tr>`75 dinar, iki\ ldots'
 <nl>`75 dinar andermaal\ldots'
-<en>`80 dinars!' said Hodja. 
+
+<en>`80 dinars!' said Hodja.
+<tr>`80 dinar!' dedi Hoca.
 <nl>`80 dinars!' zei Hodja.

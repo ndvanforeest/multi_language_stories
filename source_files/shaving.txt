@@ -1,206 +1,407 @@
 <en>Shave
+<tr>Tıraş
 <nl>Scheren
+
 <en>My cheeks are prickly.
+<tr>Yanaklarım dikenlidir.
 <nl>Mijn wangen prikken.
+
 <en>That's what my children say.
+<tr>Çocuklarımın söylediği de buydu.
 <nl>Dat zeggen mijn kinderen.
+
 <en>Then they do not want a hug.
+<tr>Sonra sarılmak istemiyorlar.
 <nl>Dan willen ze geen omhelzing.
+
 <en>So I have to shave myself.
+<tr>Bu yüzden tıraş olmalıyım.
 <nl>Dus moet ik mij scheren.
+
 <en>I'm going to the bathroom.
+<tr>Banyoya gidiyorum.
 <nl>Ik ga naar de badkamer.
+
 <en>I open the tap.
+<tr>Musluğu açıyorum.
 <nl>Ik doe de kraan open.
+
 <en>I wait for the hot water.
+<tr>Sıcak suyu bekliyorum.
 <nl>Ik wacht op het warme water.
+
 <en>Hot water is required for shaving.
+<tr>Tıraş olmak için sıcak su gerekir.
 <nl>Warm water is nodig voor scheren.
+
 <en>I do not know why.
+<tr>Neden olduğunu bilmiyorum.
 <nl>Ik weet niet waarom.
+
 <en>People say it.
+<tr>İnsanlar öyle der.
 <nl>De mensen zeggen het.
+
 <en>Maybe it's nonsense.
+<tr>Belki saçmalıktır.
 <nl>Misschien is het onzin.
+
 <en>But I do it anyway.
+<tr>Ama yine de yaparım.
 <nl>Maar ik doe het toch.
+
 <en>Out of habit.
+<tr>Alışılagelmişin dışında.
 <nl>Uit gewoonte.
+
 <en>
+<tr>
 <nl>
+
 <en>I take the plug.
+<tr>Tıpayı alırım.
 <nl>Ik pak de stop.
+
 <en>I put the plug in the drain.
+<tr>Tıpayı gidere yerleştiririm.
 <nl>Ik doe de stop in de afvoer.
+
 <en>Then the water can not go away.
+<tr>Böylece sıcak su gidemez.
 <nl>Dan kan het water niet weg.
+
 <en>It stays in the sink.
+<tr>Lavaboda kalır.
 <nl>Het blijft in de wasbak staan.
+
 <en>I wait until there is enough water in the sink.
+<tr>Lavaboda yeterli su kalana kadar beklerim.
 <nl>Ik wacht tot er genoeg water in de wasbak zit.
+
 <en>I close the tap.
+<tr>Musluğu kapatırım.
 <nl>Ik doe de kraan dicht.
+
 <en>I grab the shaving soap.
+<tr>Tıraş sabununu alırım.
 <nl>Ik pak de scheerzeep.
+
 <en>Some people call it shaving cream.
+<tr>Bazı insanlar ona tıraş kremi derler.
 <nl>Sommige mensen noemen het  scheerschuim.
+
 <en>I put shaving soap on my hand.
+<tr>Tıraş sabununu elime alırım.
 <nl>Ik doe scheerzeep op mijn hand.
+
 <en>Then I put it on my cheeks.
+<tr>Sonra onu yanaklarıma sürerim.
 <nl>Daarna doe ik het op mijn wangen.
+
 <en>And under my nose.
+<tr>Ve burnumun altına.
 <nl>En onder mijn neus.
+
 <en>And on my neck.
+<tr>Ve boynuma.
 <nl>En op mijn hals.
+
 <en>I take my razor blade.
+<tr>Tıraş bıçağımı alırım.
 <nl>Ik pak mijn scheermesje.
+
 <en>Some people call it a scraper.
+<tr>Bazı insanlar ona kazıyıcı derler.
 <nl>Sommige mensen noemen dat een krabbertje.
+
 <en>I'm going to shave myself.
+<tr>Tıraş olacağım.
 <nl>Ik ga me scheren.
+
 <en>I scratch the hairs of my cheeks.
+<tr>Yanaklarımın tüylerini kazırım.
 <nl>Ik krab de haren van mijn wangen.
+
 <en>You always have to be careful.
+<tr>Her zaman dikkatli olmalısın.
 <nl>Je moet altijd oppassen.
+
 <en>Especially at your nose.
+<tr>Özellikle burnunda.
 <nl>Vooral bij je neus.
+
 <en>Otherwise, you cut yourself.
+<tr>Aksi halde, kendini kesersin.
 <nl>Anders snijd je je.
+
 <en>Razor blades are very sharp.
+<tr>Tıraş bıçakları çok keskin.
 <nl>Scheermesjes zijn namelijk heel scherp.
+
 <en>
+<tr>
 <nl>
+
 <en>Now it is ready.
+<tr>Şimdi hazır.
 <nl>Nu is het klaar.
+
 <en>I wash my cheeks.
+<tr>Yanaklarımı yıkarım.
 <nl>Ik was mijn wangen af.
+
 <en>I take the towel.
+<tr>Havluyu alırım.
 <nl>Ik pak de handdoek.
+
 <en>I dry my face.
+<tr>Yüzümü kuruturum.
 <nl>Ik droog mijn gezicht.
+
 <en>I put  the razor blade away.
+<tr>Tıraş bıçağını kenara koyarım.
 <nl>Ik ruim het scheermesje op.
+
 <en>I put the shaving soap away.
+<tr>Tıraş sabununu kenara koyarım.
 <nl>Ik ruim de scheerzeep op.
+
 <en>I put them both on top of the cupboard.
+<tr>Onları dolabın üstüne koyarım.
 <nl>Ik leg het allebei boven op de kast.
+
 <en>Then my son can not take it.
+<tr>Boylece oğlum onu alamaz.
 <nl>Dan kan mijn zoontje het niet pakken.
+
 <en>That way he can't reach it.
+<tr>Bu şekilde ona ulaşamıyor.
 <nl>Zo kan hij er niet bij.
+
 <en>If he will play with it,
+<tr>Onunla oynarsa,
 <nl>Als hij er mee gaat spelen,
+
 <en>he'll cut himself with it.
+<tr>kendisini onunla keser.
 <nl>snijdt hij zich er mee.
+
 <en>I do not want that.
+<tr>Bunu istemiyorum.
 <nl>Dat wil ik niet.
-<en>He also shouldn't play
-<nl>Hij mag ook niet spelen
-<en>with the shaving soap.
-<nl>met de scheerzeep.
+
+<en>He also shouldn't play with the shaving soap.
+<tr>O tıraş sabunu ile de oynamamalı.
+<nl>Hij mag ook niet spelen met de scheerzeep.
+
 <en>Then he will empty the entire container.
+<tr>Yoksa tüm kabı boşaltır.
 <nl>Dan spuit hij de hele bus leeg.
+
 <en>
+<tr>
 <nl>
+
 <en>Now I rinse the sink.
+<tr>Şimdi lavaboyu yıkarım.
 <nl>Nu spoel ik de wasbak af.
+
 <en>All little hairs must go away.
+<tr>Bütün küçük tüyler gitmeli.
 <nl>Alle kleine haartjes moeten weg.
+
 <en>All soap must also go away.
+<tr>Tüm sabun da gitmeli.
 <nl>Alle zeep moet ook weg.
+
 <en>In earlier times I sometimes forgot.
+<tr>Daha önceki zamanlarda bazen unuturdum.
 <nl>Vroeger vergat ik dat wel eens.
+
 <en>Then the sink remained dirty.
+<tr>Sonra lavabo kirli kalırdı.
 <nl>Dan bleef de wasbak vies.
+
 <en>My girlfriend then called me.
+<tr>Ardından kız arkadaşım beni çağırdı.
 <nl>Mijn vriendinnetje riep me dan.
+
 <en>She said: `You have to clean up.
+<tr>Dedi ki: `Temizlemelisin.
 <nl>Ze zei: `Je moet opruimen.
+
 <en>You have to clean the sink.
+<tr>Lavaboyu temizlemelisin.
 <nl>Je moet de wasbak schoonmaken.
+
 <en>I do not accept it like this.
+<tr>Bunu bu şekilde kabul etmem.
 <nl>Ik vind het niet goed zo.
+
 <en>And I also do not like it.
+<tr>Ve sevmem de.
 <nl>En ik vind het ook niet mooi.
+
 <en>I want to use a clean sink.
+<tr>Temiz bir lavabo kullanmak istiyorum.
 <nl>Ik wil een schone wasbak gebruiken.
+
 <en>Not one with hair.
+<tr>Tüylü bir lavabo değil.
 <nl>Niet \'e\'en met haren.
+
 <en>Or with soap.'
+<tr>Ya da sabunlu.'
 <nl>Of met zeep.'
+
 <en>
+<tr>
 <nl>
+
 <en>I said: `Sorry.
+<tr>Üzgünüm dedim.
 <nl>Ik zei: `Sorry.
+
 <en>I will not forget.
+<tr>Unutmayacağım.
 <nl>Ik zal het niet vergeten.
+
 <en>Next time I will do it myself.
+<tr>Bir dahaki sefere bunu kendim yapacağım.
 <nl>De volgende keer doe ik  het zelf.
+
 <en>And you do not have to call me.
+<tr>Ve beni çağırmak zorunda kalmazsın.
 <nl>En hoef je mij niet te roepen.
+
 <en>And if I forget,
+<tr>Ve unutursam,
 <nl>En als ik het toch vergeet,
+
 <en>just call me.
+<tr>bena haber ver yeter.
 <nl>roep me maar.
+
 <en>Then I just do it.
+<tr>O zaman hemen yaparım.
 <nl>Dan doe ik het gewoon.
+
 <en>And then I'll really remember.'
+<tr>Ve sonra gerçekten hatırlarım.'
 <nl>En dan onthoud ik het echt.'
+
 <en>
+<tr>
 <nl>
+
 <en>I forgot again a week later.
+<tr>Bir hafta sonra tekrar unuttum.
 <nl>Ik vergat het een week later weer.
+
 <en>Then she called me back.
+<tr>Sonra beni çağırdı.
 <nl>Toen riep ze me terug.
+
 <en>I cleaned the sink.
+<tr>Lavaboyu temizledim.
 <nl>Ik maakte de wasbak schoon.
+
 <en>Then I never forgot again.
+<tr>Sonra bir daha asla unutmadım.
 <nl>Daarna vergat ik het nooit meer.
+
 <en>Now I still think about it.
+<tr>Şimdi hala düşünüyorum.
 <nl>Nu denk ik er nog altijd aan.
+
 <en>Every time I've shaved.
+<tr>Her tıraş olduğumda.
 <nl>Iedere keer als ik me geschoren heb.
+
 <en>And if I clean the sink.
+<tr>Ve lavaboyu temizlersem.
 <nl>En als ik de wasbak schoonmaak.
+
 <en>That is more than thirty years ago.
+<tr>Bu otuz yıldan daha fazla bir süre önceydi.
 <nl>Dat is meer dan dertig jaar geleden.
+
 <en>And yet I still know.
+<tr>Ve yine de hala biliyorum.
 <nl>En toch weet ik het nog.
+
 <en>
+<tr>
 <nl>
+
 <en>Now my cheeks are shaved.
+<tr>Şimdi yanaklarım traşlı.
 <nl>Nu zijn mijn wangen geschoren.
+
 <en>And completely smooth.
+<tr>Ve tamamen pürüzsüz.
 <nl>En helemaal glad.
+
 <en>I go quickly downstairs.
+<tr>Hızlıca alt kata gidiyorum.
 <nl>Ik ga gauw naar beneden.
+
 <en>What will my children say?
+<tr>Çocuklarım ne söyleyecek?
 <nl>Wat zullen mijn kinderen zeggen?
+
 <en>My son is drawing.
+<tr>Oğlum resim yapıyor.
 <nl>Mijn zoon tekent.
+
 <en>`I shaved,' I say.
+<tr>`Tıraş oldum' diyorum.
 <nl>`Ik heb me geschoren,' zeg ik.
+
 <en>`Oh,' he says.
+<tr>`Ah,' diyor.
 <nl>`Oh,' zegt hij.
+
 <en>He continues drawing.
+<tr>Resim çizmeye devam ediyor.
 <nl>Hij tekent verder.
+
 <en>He does not look up.
+<tr>Bakmıyor.
 <nl>Hij kijkt niet op.
+
 <en>My daughter reads a book.
+<tr>Kızım bir kitap okuyor.
 <nl>Mijn dochter leest een boek.
+
 <en>She does look up.
+<tr>Bakıyor.
 <nl>Zij kijkt wel op.
+
 <en>`Daddy, you look beautiful.'
+<tr>`Baba, çok güzel görünüyorsun.'
 <nl>`Papa, wat zie je er mooi uit.'
+
 <en>She says.
+<tr>Diyor.
 <nl>Zegt ze.
+
 <en>`How soft your cheeks are.
+<tr>`Yanakların ne kadar yumuşak.
 <nl>`Wat zijn je wangen zacht.
+
 <en>Come here fast.
+<tr>Çabuk buraya gel.
 <nl>Kom gauw hier.
+
 <en>For a hug.
+<tr>Sarılmak için.
 <nl>Voor een knuffel.
+
 <en>Thank you for shaving.
+<tr>Tıraş olduğun için teşekkürler.
 <nl>Bedankt dat je je geschoren hebt.
+
 <en>It makes me very  happy.'
+<tr>Bu beni çok mutlu ediyor.'
 <nl>Ik ben er heel blij mee.'
