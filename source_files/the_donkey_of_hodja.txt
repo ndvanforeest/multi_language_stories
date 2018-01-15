@@ -59,8 +59,8 @@
 <nl>`Wat een idioot was ik het een gewoon dier te vinden,' dacht Hodja.
 
 <en>`It is an incomparable beast, one in a million\ldots'
-<tr>`Bu, milyonda bir bulunan, eşsiz bir canavar '
-<nl>`Het is een onvergelijkbaar beest, een op een miljoen\ldots' 
+<tr>`Bu, milyonda bir bulunan, eşsiz bir canavar\ldots'
+<nl>`Het is een onvergelijkbaar beest, \'e\'en op een miljoen\ldots' 
 
 <en>
 <tr>
@@ -71,11 +71,11 @@
 <nl>Hij realiseerde zich plotseling dat de eigenaar een goed aanbod had gekregen en op het punt stond de bieding te sluiten.
 
 <en>`75 dinars once\ldots' said the man.
-<tr>'75 dinar, bir\ldots' dedi adam.
+<tr>`75 dinar, bir\ldots' dedi adam.
 <nl>`75 dinar eenmaal\ldots' zei de man.
 
 <en>`75 dinars twice\ldots'
-<tr>`75 dinar, iki\ ldots'
+<tr>`75 dinar, iki\ldots'
 <nl>`75 dinar andermaal\ldots'
 
 <en>`80 dinars!' said Hodja.
