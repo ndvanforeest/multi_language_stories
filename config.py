@@ -110,6 +110,7 @@ files = [
     "the_story_of_the_three_calendars.txt",
     "first_calendar.txt",
     "second_calendar.txt",
+    "the_story_of_the_envious_man.txt",
     "the_story_of_the_baked_head.txt",
 ]
 
