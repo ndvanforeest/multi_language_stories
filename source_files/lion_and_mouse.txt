@@ -124,14 +124,13 @@
 <en>Vocabulary
 <nl>Vocabulair
 <tr>Kelime hazinesi
-<es>Vocabulario
-<en> belly 
+<en>belly 
 <nl>buik 
-<tr> karın 
-<en> to be hungry 
+<tr>karın 
+<en>to be hungry 
 <nl>honger hebben 
-<tr> karnı acıkmak 
-<en> to let go, release 
+<tr>karnı acıkmak 
+<en>to let go, release 
 <nl>laten gaan, los laten 
 <tr> bırakmak
 <en>scream
@@ -139,8 +138,8 @@
 <tr>çığlık atmak
 <en> he screams 
 <nl>hij gilt 
-<tr> çığlık atar
-<en> to give permission 
+<tr>çığlık atar
+<en>to give permission 
 <nl>toestemming geven 
 <tr> izin vermek 
 <en> give me permission 

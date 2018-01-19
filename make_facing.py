@@ -76,7 +76,7 @@ def make_header_and_trailer(lang_left, lang_right):
     right = config.language[lang_right]
     res = []
     res.append(r"""
-    \documentclass[a5paper,twosided]{article}
+    \documentclass[a5paper]{article}
     \usepackage[margin=5mm]{geometry}
     """)
     res.append(r"\usepackage[{},{}]{{babel}}".format(left, right))
@@ -132,6 +132,7 @@ def make_all_doc(lang_left, lang_right, out_file):
     os.system("rm dummy.*")
 
 if __name__ == "__main__":
-    make_all_doc("nl", "en", "dutch_english_facing")
+    make_all_doc("en", "nl", "english_dutch_facing")
+    #make_all_doc("nl", "en", "dutch_english_facing")
     #make_all_doc("tr", "en", "turkish_english_facing")
     #make_all_doc("es", "en", "spanish_english_facing")

@@ -1,4 +1,4 @@
-<en>Dogs\footnote{https://simple.wikipedia.org/wiki/Dog}
+<en>Dogs
 <nl>Honden
 <en>Dogs are domesticated mammals, not natural wild animals.
 <nl>Honden zijn gedomesticeerde zoogdieren, geen natuurlijke wilde dieren.
