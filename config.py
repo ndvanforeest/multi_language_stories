@@ -111,6 +111,7 @@ files = [
     "first_calendar.txt",
     "second_calendar.txt",
     "the_story_of_the_envious_man.txt",
+    "the_story_of_the_third_calendar.txt",
     "the_story_of_the_baked_head.txt",
 ]
 

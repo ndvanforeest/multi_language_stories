@@ -1,277 +1,550 @@
-<en>
-<en>
 <en>The Story of the Third Calendar, Son of a King
+<nl>Het verhaal van de derde derwisj, zoon van een koning
 <en>
+<nl>
 <en>My story, said the Third Calender, is quite different from those of my two friends.
+<nl>Mijn verhaal, zei de derde derwisj, is heel anders dan dat van mijn twee vrienden.
 <en>It was fate that deprived them of the sight of their right eyes, but mine was lost by my own folly.
+<nl>Het was het lot dat hen het zicht uit hun rechteroog ontnam, maar het mijne ging verloren door mijn eigen dwaasheid.
 <en>
+<nl>
 <en>My name is Agib, and I am the son of a king called Cassib, who reigned over a large kingdom, which had for its capital one of the finest seaport towns in the world.
+<nl>Mijn naam is Agib en ik ben de zoon van een koning genaamd Cassib, die regeerde over een groot koninkrijk, dat als zijn hoofdstad een van de mooiste havensteden ter wereld had.
 <en>
+<nl>
 <en>When I succeeded to my father's throne my first care was to visit the provinces on the mainland, and then to sail to the numerous islands which lay off the shore, in order to gain the hearts of my subjects.
+<nl>Toen ik mijn vader opvolgde, was mijn eerste zorg om de provincies op het vasteland te bezoeken en vervolgens naar de vele eilanden te varen die van de kust lagen, om de harten van mijn onderdanen te winnen.
 <en>These voyages gave me such a taste for sailing that I soon determined to explore more distant seas, and commanded a fleet of large ships to be got ready without delay.
+<nl>Deze reizen gaven me zo`n voorliefde voor varen dat ik al snel besloot verdere zeeën te verkennen en opdracht gaf een vloot van grote schepen om onverwijld gereed te maken.
 <en>When they were properly fitted out I embarked on my expedition.
+<nl>Toen ze goed waren uitgerust, begon ik aan mijn expeditie.
 <en>
+<nl>
 <en>For forty days wind and weather were all in our favour, but the next night a terrific storm arose, which blew us hither and thither for ten days, till the pilot confessed that he had quite lost his bearings.
+<nl>Gedurende veertig dagen waren wind en weer geheel in ons voordeel, maar de volgende nacht stak een verschrikkelijke storm op, die ons tien dagen lang heen en weer blies, totdat de stuurman bekende dat hij volledig zijn koers had verloren.
 <en>Accordingly a sailor was sent up to the masthead to try to catch a sight of land, and reported that nothing was to be seen but the sea and sky, except a huge mass of blackness that lay astern.
+<nl>Bijgevolg werd een matroos naar de top van de mast gestuurd om te zien of er land in zicht was, maar meldde dat er niets dan zee en lucht te zien was, behalve een enorme zwarte massa die achter het schip lag.
 <en>
+<nl>
 <en>On hearing this the pilot grew white, and, beating his breast, he cried,
+<nl>Toen hij dit hoorde, werd de stuurman wit, en, terwijl hij op zijn borst sloeg, riep hij,
 <en>`Oh, sir, we are lost, lost!'
+<nl>`O, heer, wij zijn verloren, verloren!'
 <en>till the ship's crew trembled at they knew not what.
+<nl>totdat de bemanning van het schip trilde voor iets waar ze geen weet hadden.
 <en>When he had recovered himself a little, and was able to explain the cause of his terror, he replied, in answer to my question, that we had drifted far out of our course, and that the following day about noon we should come near that mass of darkness, which, said he, is nothing but the famous Black Mountain.
+<nl>Toen hij zich enigszins had hersteld, en in staat was de oorzaak van zijn angst te verklaren, antwoordde hij, in antwoord op mijn vraag, dat we ver van de koers waren afgedwaald, en dat we de volgende dag rond het middaguur zouden aankomen bij duistere massa, die, zei hij, niets anders was dan de beroemde Zwarte Berg.
 <en>This mountain is composed of adamant, which attracts to itself all the iron and nails in your ship;
+<nl>Deze berg is samengesteld uit iets overmurwbaars, dat alle ijzer en spijkers in uw schip aantrekt;
 <en>and as we are helplessly drawn nearer, the force of attraction will become so great that the iron and nails will fall out of the ships and cling to the mountain, and the ships will sink to the bottom with all that are in them.
+<nl>en terwijl we hulpeloos dichterbij worden getrokken, zal de aantrekkingskracht zo groot worden dat het ijzer en de spijkers uit de schepen zullen vallen en zich vastklampen aan de berg, en de schepen zullen zinken naar de bodem met al wat erin is.
 <en>This it is that causes the side of the mountain towards the sea to appear of such a dense blackness.
+<nl>Dit veroorzaakt dat de zeewaartse kant van de berg  verschijnt als zo`n dichte duisternis.
 <en>
+<nl>
 <en>As may be supposed--continued the pilot--the mountain sides are very rugged, but on the summit stands a brass dome supported on pillars, and bearing on top the figure of a brass horse, with a rider on his back.
+<nl>Zoals mag worden verondersteld--vervolgde de stuurmand--zijn de berghellingen erg ruig, maar op de top staat een koperen koepel ondersteund door pilaren, en draagt bovenop het beeld van een koperen paard, met een rijder op zijn rug.
 <en>This rider wears a breastplate of lead, on which strange signs and figures are engraved, and it is said that as long as this statue remains on the dome, vessels will never cease to perish at the foot of the mountain.
+<nl>Deze ruiter draagt een borstplaat van lood, waarop vreemde tekens en figuren zijn gegraveerd, en er wordt gezegd dat zolang dit beeld op de koepel blijft staan, schepen nooit zullen stoppen te  vergaan aan de voet van de berg.
 <en>
+<nl>
 <en>So saying, the pilot began to weep afresh, and the crew, fearing their last hour had come, made their wills, each one in favour of his fellow.
+<nl>Aldus sprekend, begon de stuurman opnieuw te huilen, en de bemanning vreesde dat hun laatste uur had geslagen en maakte hun testamenten op, elk ten gunste van zijn vrien.
 <en>
+<nl>
 <en>At noon next day, as the pilot had foretold, we were so near to the Black Mountain that we saw all the nails and iron fly out of the ships and dash themselves against the mountain with a horrible noise.
+<nl>Om twaalf uur `s middags, zoals de stuurman voorspeld had, waren we zo dicht bij de Zwarte Berg dat we alle spijkers en ijzeren uit de schepen zagen vliegen en met een vreselijk geluid tegen de berg aan sloegen.
 <en>A moment after the vessels fell asunder and sank, the crews with them.
+<nl>Een moment later vielen de schepen uiteen en zonken, de bemanningen met hen.
 <en>I alone managed to grasp a floating plank, and was driven ashore by the wind, without even a scratch.
+<nl>Ik alleen wist een drijvende plank te grijpen, en werd aan de wal aangedreven door de wind, zonder  zelfs maar een krasje.
 <en>What was my joy on finding myself at the bottom of some steps which led straight up the mountain, for there was not another inch to the right or the left where a man could set his foot.
+<nl>Hoe groot was mijn vreugde toen ik mezelf onderaan een trap vond die recht de berg opliep, want er was geen centimeter rechts of links waar iemand een voet kon zetten.
 <en>And, indeed, even the steps themselves were so narrow and so steep that, if the lightest breeze had arisen, I should certainly have been blown into the sea.
+<nl>En inderdaad, zelfs de treden zelf waren zo smal en zo steil dat, als de lichtste bries was ontstaan, ik zeker in de zee zou zijn gewaaid.
 <en>
+<nl>
 <en>When I reached the top I found the brass dome and the statue exactly as the pilot had described, but was too wearied with all I had gone through to do more than glance at them, and, flinging myself under the dome, was asleep in an instant.
+<nl>Toen ik de top bereikte, vond ik de koperen koepel en het beeld precies zoals de stuurman had beschreven, maar was te moe van alles dat ik had meegemaakt dan dat ik  meer kon doen dan ernaar te kijken, en nadat ik mezelf onder de koepel had gelegd, sliep ik onmiddellijk in.
 <en>In my dreams an old man appeared to me and said,
+<nl>In mijn dromen verscheen een oude man aan mij en zei:
 <en>`Hearken, Agib!
+<nl>`Hoor eens, Agib!
 <en>As soon as thou art awake dig up the ground underfoot, and thou shalt find a bow of brass and three arrows of lead.
+<nl>Zodra u wakker wordt, graaf de grond onder uw voeten op, en u zult een boog van koper en drie pijlen van lood vinden.
 <en>Shoot the arrows at the statue, and the rider shall tumble into the sea, but the horse will fall down by thy side, and thou shalt bury him in the place from which thou tookest the bow and arrows.
+<nl>Schiet met de pijlen op het beeld, en de ruiter zal in de zee vallen, maar het paard zal aan uw zijde vallen en u moet hem begraven op de plaats van waaruit u de pijl en boog oppakte.
 <en>This being done the sea will rise and cover the mountain, and on it thou wilt perceive the figure of a metal man seated in a boat, having an oar in each hand.
+<nl>Nadat dit gebeurd is, zal de zee opstijgen en de berg bedekken, en daarop zult u de gestalte van een metalen man gezeten in een boot ontwaren, met een roeispaan in elke hand.
 <en>Step on board and let him conduct thee;
+<nl>Stap aan boord en laat hem u geleiden;
 <en>but if thou wouldest behold thy kingdom again, see that thou takest not the name of Allah into thy mouth.'
+<nl>maar als u uw koninkrijk opnieuw wilt aanschouwen, zorg dan dat u de naam van Allah niet in uw mond neemt.'
 <en>
+<nl>
 <en>Having uttered these words the vision left me, and I woke, much comforted.
+<nl>Na deze woorden te hebben uitgesproken, verliet het visioen me, en ik werd wakker, danig getroost.
 <en>I sprang up and drew the bow and arrows out of the ground, and with the third shot the horseman fell with a great crash into the sea, which instantly began to rise, so rapidly, that I had hardly time to bury the horse before the boat approached me.
+<nl>Ik sprong op en trok de pijl en boog uit de grond, en met het derde schot viel de ruiter met veelgeraas in de zee, die onmiddellijk  begon te stijgen, zo snel,dat ik nauwelijks tijd had  het paard te begraven. voordat de boot mij naderde.
 <en>I stepped silently in and sat down, and the metal man pushed off, and rowed without stopping for nine days, after which land appeared on the horizon.
+<nl>Ik stapte zwijgend in en ging zitten, en de metalen man zette af, en roeide zonder te stoppen gedurende negen dagen, waarna land aan de horizon verscheen.
 <en>I was so overcome with joy at this sight that I forgot all the old man had told me, and cried out,
+<nl>Ik was zo overweldigd van vreugde door deze aanblik dat ik vergat wat de oude man me had verteld, en riep,
 <en>`Allah be praised!
+<nl>`Allah zij geprezen!
 <en>Allah be praised!'
+<nl>Allah zij geprezen!'
 <en>
+<nl>
 <en>The words were scarcely out of my mouth when the boat and man sank from beneath me, and left me floating on the surface.
+<nl>De woorden hadden nauwelijks mijn mond verlaten of de boot en de man zonken onder mij weg, en lieten mij   dobberdend  achter aan het oppervlak.
 <en>All that day and the next night I swam and floated alternately, making as well as I could for the land which was nearest to me.
+<nl>Die hele dag en de volgende nacht zwom  en dreef ik afwisselend, zo goed als ik kon gaand naar het land dat het dichtst bij mij was.
 <en>At last my strength began to fail, and I gave myself up for lost, when the wind suddenly rose, and a huge wave cast me on a flat shore.
+<nl>Uiteindelijk begonnen mijn krachten het te begeven, en ik gaf mezelf op als verloren, toen de wind plotseling opstak, en een enorme golf me op een vlakke kust wierp.
 <en>Then, placing myself in safety, I hastily spread my clothes out to dry in the sun, and flung myself on the warm ground to rest.
+<nl>Daarna, terwijl ik mezelf in veiligheid stelde, spreidde ik haastig mijn kleren uit om te drogen in de zon en legde ik mezelf op de warme grond te rusten.
 <en>
+<nl>
 <en>Next morning I dressed myself and began to look about me.
+<nl>De volgende ochtend kleedde ik me aan en begon om me heen te kijken.
 <en>There seemed to be no one but myself on the island, which was covered with fruit trees and watered with streams, but seemed a long distance from the mainland which I hoped to reach.
+<nl>Behalve ikzelf was er niemand op het eiland, dat was bedekt met fruitbomen en waterstroompjes, en ver weg leek te liggen van het vasteland, dat ik hoopte te bereiken.
 <en>Before, however, I had time to feel cast down, I saw a ship making directly for the island, and not knowing whether it would contain friends or foes, I hid myself in the thick branches of a tree.
+<nl>Voordat ik echter de tijd had om me teneergeslagen te voelen, zag ik een schip rechtstreeks naar het eiland komen, en niet wetend of het vrienden of vijanden zou bevatten, verborg ik mezelf op de dikke takken van een boom.
 <en>
+<nl>
 <en>The sailors ran the ship into a creek, where ten slaves landed, carrying spades and pickaxes.
+<nl>De matrozen stuurden het schip  een kreek in, waar tien slaven aan land kwamen met schoppen en pikhouwelen.
 <en>In the middle of the island they stopped, and after digging some time, lifted up what seemed to be a trapdoor.
+<nl>In het midden van het eiland stopten ze, en na enige tijd te hebben gegraven, tilden ze iets op dat leek op een luik.
 <en>They then returned to the vessel two or three times for furniture and provisions, and finally were accompanied by an old man, leading a handsome boy of fourteen or fifteen years of age.
+<nl>Daarna liepen ze twee of drie keer terug naar het schip voor meubels en proviand, en tenslotte werden ze vergezeld door een oude man, die een knappe jongen van veertien of vijftien jaar leidde.
 <en>They all disappeared down the trapdoor, and after remaining below for a few minutes came up again, but without the boy, and let down the trapdoor, covering it with earth as before.
+<nl>Ze verdwenen allemaal onder het valluik, en na een paar minuten beneden te zijn gebleven, kwamen ze naar boven, maar zonder de jongen, en lieten het valluik neer, bedekten het met de aarde zoals daarvoor.
 <en>This done, they entered the ship and set sail.
+<nl>Dit gedaan, gingen ze aan boord van het schip en zetten koers.
 <en>
+<nl>
 <en>As soon as they were out of sight, I came down from my tree, and went to the place where the boy had been buried.
+<nl>Zodra ze uit zicht waren, kwam ik uit mijn boom en ging naar de plaats waar de jongen was begraven.
 <en>I dug up the earth till I reached a large stone with a ring in the centre.
+<nl>Ik groef de aarde op tot ik aankwam bij een grote steen met een ring in het midden.
 <en>This, when removed, disclosed a flight of stone steps which led to a large room richly furnished and lighted by tapers.
+<nl>Dit onthulde, na te zijn verwijderd,  een trap met stenen treden die leidde naar een grote kamer die rijkelijk was ingericht en verlicht door kaarsen.
 <en>On a pile of cushions, covered with tapestry, sat the boy.
-<en>He looked up, startled and frightened at the sight of a stranger in such a place, and to soothe his fears, I at once spoke: 
+<nl>Op een stapel kussens, bedekt met tapijten, zat de jongen.
+<en>He looked up, startled and frightened at the sight of a stranger in such a place, and to soothe his fears, I at once spoke:
+<nl>Hij keek op, geschrokken en bang door de aanblik van een vreemdeling op zo`n plek, en om zijn angst weg te nemen, sprak ik meteen:
 <en>`Be not alarmed, sir, whoever you may be.
+<nl>`Wees niet bang, mijnheer, wie u ook bent.
 <en>I am a king, and the son of a king, and will do you no hurt.
+<nl>Ik ben een koning, en de zoon van een koning, en zal u geen kwaad doen.
 <en>On the contrary, perhaps I have been sent here to deliver you out of this tomb, where you have been buried alive.'
+<nl>Integendeel, misschien ben ik hierheen gestuurd om u uit dit graf te verlossen, waar u levend begraven bent.'
 <en>
+<nl>
 <en>Hearing my words, the young man recovered himself, and when I had ended, he said,
+<nl>Mijn woorden hoordend, herpakte de jongeman zichzelf, en toen ik uitgesproken was, zei hij,
 <en>`The reasons, Prince, that have caused me to be buried in this place are so strange that they cannot but surprise you.
+<nl>`De reden, Prins, die ervoor gezorgd heeft dat ik hier op deze plek werd begraven, is zo merkwaardig dat ze u alleen maar kunnen verrassen.
 <en>My father is a rich merchant, owning much land and many ships, and has great dealings in precious stones, but he never ceased mourning that he had no child to inherit his wealth.
+<nl>Mijn vader is een rijke koopman, eigenaar van veel land en veel schepen, en doet grote zaken in edelstenen, maar hij hield nooit op te rouwen dat hij geen kind had om zijn rijkdom aan na te laten.
 <en>
+<nl>
 <en>`At length one day he dreamed that the following year a son would be born to him, and when this actually happened, he consulted all the wise men in the kingdom as to the future of the infant.
+<nl>Tenslotte droomde hij op een dag dat het jaar daarop aan hem een zoon geboren zou worden, en toen dit daadwerkelijk gebeurde, raadpleegde hij alle wijze mannen in het koninkrijk over de toekomst van het kind.
 <en>One and all they said the same thing.
+<nl>Ze zeiden allen hetzelfde.
 <en>I was to live happily till I was fifteen, when a terrible danger awaited me, which I should hardly escape.
+<nl>Ik zou een gelukkig leven leiden tot ik vijftien was, waarna mij een vreselijk gevaar wachtte, waaraan  ik nauwelijks zou kunnen ontsnappen.
 <en>If, however, I should succeed in doing so, I should live to a great old age.
+<nl>Als ik, echter, daarin wel zou slagen, zou ik een hoge leeftijd bereiken.
 <en>And, they added, when the statue of the brass horse on the top of the mountain of adamant is thrown into the sea by Agib, the son of Cassib, then beware, for fifty days later your son shall fall by his hand!
+<nl>En zij voegden eraan toe, wanneer het standbeeld van het koperen paard op de top van de onvermurwbare berg door Agib, de zoon van Cassib in de zee wordt gegooid, pas dan op, want vijftig dagen later zal uw zoon door zijn hand vallen!
 <en>
+<nl>
 <en>`This prophecy struck the heart of my father with such woe, that he never got over it, but that did not prevent him from attending carefully to my education till I attained, a short time ago, my fifteenth birthday.
+<nl>Deze profetie trof het hart van mijn vader met zo'n pijn dat hij er niet overheen kwam, maar dat weerhield hem er niet van zorgvuldig mijn opleiding te verzorgen totdat ik, kort geleden, mijn vijftiende verjaardag bereikte.
 <en>It was only yesterday that the news reached him that ten days previously the statue of brass had been thrown into the sea, and he at once set about hiding me in this underground chamber, which was built for the purpose, promising to fetch me out when the forty days have passed.
+<nl>Het was pas gisteren dat hem het nieuws bereikte dat het beeld van koper tien dagen eerder in de zee was gegooid, en  hij verstopte me meteen in deze ondergrondse kamer, die gebouwd was voor dat doel,  en beloofde me eruit te halen als de veertig dagen verstreken zouden zijn
 <en>For myself, I have no fears, as Prince Agib is not likely to come here to look for me.'
+<nl>Wat mijzelf betreft, ik ben niet bang, omdat het niet waarschijnlijk is dat Prins Agib hier zal komen om mij te zoeken.'
 <en>
+<nl>
 <en>I listened to his story with an inward laugh as to the absurdity of my ever wishing to cause the death of this harmless boy, whom I hastened to assure of my friendship and even of my protection;
+<nl>Ik luisterde naar zijn verhaal en lachte van binnen om de absurditeit dat ik ooit zou wensen  de dood van deze onschuldige jongen te veroorzaken, die ik haastte te verzekeren van mijn vriendschap en zelfs van mijn bescherming;
 <en>begging him, in return, to convey me in his father's ship to my own country.
+<nl>en verzocht hem, in ruil daarvoor, mij op het schip van zijn vader naar mijn eigen land te brengen.
 <en>I need hardly say that I took special care not to inform him that I was the Agib whom he dreaded.
+<nl>Ik hoef niet te zeggen dat ik er speciaal voor zorgde hem niet te laten weten dat ik de Agib was die hij vreesde.
 <en>
+<nl>
 <en>The day passed in conversation on various subjects, and I found him a youth of ready wit and of some learning.
+<nl>De dag verstreek terwijl we spraken over verscheidende onderwerpen, en ik vond hem een jongeman met een scherp verstand was en behoorlijk onderwezen.
 <en>I took on myself the duties of a servant, held the basin and water for him when he washed, prepared the dinner and set it on the table.
+<nl>Ik nam de plichten van een dienaar op me, hield het bassin en water voor hem vast terwijl hij zich waste, bereidde het avondeten en zette het op tafel.
 <en>He soon grew to love me, and for thirty-nine days we spent as pleasant an existence as could be expected underground.
+<nl>Hij raakte al snel gesteld op me, en gedurende negenendertig dagen brachten we een even aangenaam bestaan door als ondergronds te verwachten was.
 <en>
+<nl>
 <en>The morning of the fortieth dawned, and the young man when he woke gave thanks in an outburst of joy that the danger was passed.
+<nl>De ochtend van de veertigste begon te dagen, en de jongeman, toen hij wakker werd, dankte in een opwelling van vreugde dat het gevaar was verstreken.
 <en>
+<nl>
 <en>`My father may be here at any moment,'
+<nl>`Mijn vader kan hier elk moment zijn,'
 <en>said he,
+<nl>zei hij,
 <en>`so make me, I pray you, a bath of hot water, that I may bathe, and change my clothes, and be ready to receive him.'
+<nl>`dus maak, vraag ik u, een bad met heet water voor mij, dat ik kan baden en mijn kleren wisselen, en klaar ben hem te ontvangen.'
 <en>
+<nl>
 <en>So I fetched the water as he asked, and washed and rubbed him, after which he lay down again and slept a little.
+<nl>Dus ik haalde water zoals hij vroeg, waste en poetste hem, waarna hij weer ging liggen en wat sliep.
 <en>When he opened his eyes for the second time, he begged me to bring him a melon and some sugar, that he might eat and refresh himself.
+<nl>Toen hij zijn ogen voor de tweede keer opende, vroeg hij me om hem een meloen en wat suiker te brengen, zodat hij wat kon eten en zichzelf versterken.
 <en>
+<nl>
 <en>I soon chose a fine melon out of those which remained, but could find no knife to cut it with.
+<nl>Ik koos gauw een mooie meloen uit degene die overgebleven waren, maar ik kon geen mes vinden om het mee te snijden.
 <en>
+<nl>
 <en>`Look in the cornice over my head,'
+<nl>`Kijk op de lijst boven mijn hoofd,'
 <en>said he,
+<nl>zei hij,
 <en>`and I think you will see one.'
+<nl>en ik denk dat je er een zult zien.'
 <en>It was so high above me, that I had some difficulty in reaching it, and catching my foot in the covering of the bed, I slipped, and fell right upon the young man, the knife going straight into his heart.
+<nl>Het was zo hoog boven me, dat ik er behoorlijke moeite mee had om het te bereiken; mijn voet raakte vast in het beddegoed, ik gleed uit, en viel recht op de jongeman, het mes  recht in zijn hart drijvend.
 <en>
+<nl>
 <en>At this awful sight I shrieked aloud in my grief and pain.
+<nl>Bij deze vreselijke aanblik gilde ik hardop van verdriet en pijn.
 <en>I threw myself on the ground and rent my clothes and tore my hair with sorrow.
+<nl>Ik gooide mezelf op de grond en verscheurde mijn kleren en rukte mijn haar uit van verdriet.
 <en>Then, fearing to be punished as his murderer by the unhappy father, I raised the great stone which blocked the staircase, and quitting the underground chamber, made everything fast as before.
+<nl>Toen, uit vrees gestraft te worden door zijn vader als zijn moordenaar, hief ik de grote steen op die de trap blokkeerde, en verliet de ondergrondse kamer, alles vast makend zoals voorheen.
 <en>
+<nl>
 <en>Scarcely had I finished when, looking out to sea, I saw the vessel heading for the island, and, feeling that it would be useless for me to protest my innocence, I again concealed myself among the branches of a tree that grew near by.
+<nl>Nauwelijks had ik dit afgemaakt, toen ik, kijkend naar de zee, het vaartuig op weg zag naar het eiland, en vermoedend dat het nutteloos voor me zou zijn mijn onschuld te betuigen, verborg ik me opnieuw tussen de takken van een boom die dichtbij groeide.
 <en>
+<nl>
 <en>The old man and his slaves pushed off in a boat directly the ship touched land, and walked quickly towards the entrance to the underground chamber;
+<nl>De oude man en zijn slaven stapten  in een bootje direcht toen het schip het land raakte, en liepen snel naar de ingang van de ondergrondse kamer;
 <en>but when they were near enough to see that the earth had been disturbed, they paused and changed colour.
+<nl>maar toen ze dichtbij genoeg waren om te zien dat de aarde was verplaatst, pauzeerden ze en veranderden van kleur.
 <en>In silence they all went down and called to the youth by name;
+<nl>Zwijgend gingen ze allen naar beneden en riepen de jongeling bij naam;
 <en>then for a moment I heard no more.
+<nl>toen, even, hoorde ik niets meer.
 <en>Suddenly a fearful scream rent the air, and the next instant the slaves came up the steps, carrying with them the body of the old man, who had fainted from sorrow!
+<nl>Plotseling verscheurde een angstige kreet de lucht, en het volgende ogenblik kwamen de slaven de treden op en droegen het lichaam van de oude man bij zich, die was bezwijmd van verdriet!
 <en>Laying him down at the foot of the tree in which I had taken shelter, they did their best to recover him, but it took a long while.
+<nl>Hem  neer leggend aan de voet van de boom waarin ik mij verscholen had, deden ze hun best hem bij te brengen, maar dat duurde lang.
 <en>When at last he revived, they left him to dig a grave, and then laying the young man's body in it, they threw in the earth.
+<nl>Toen hij eindelijk weer tot leven was gekomen, lieten ze hem achter om een graf te graven, en toen legden ze het lichaam van de jongeman erin en gooiden er aarde in.
 <en>
+<nl>
 <en>This ended, the slaves brought up all the furniture that remained below, and put it on the vessel, and breaking some boughs to weave a litter, they laid the old man on it, and carried him to the ship, which spread its sails and stood out to sea.
+<nl>Dit beeindigd, brachten de slaven alle meubels naar boven die beneden waren, en legden het in het schip, en braken een paar takken om een draagbaar te maken waarop ze de oude man legden, en droegen hem naar het schip, dat zijn zeilen spreidde en de zee op ging.
 <en>
+<nl>
 <en>So once more I was quite alone, and for a whole month I walked daily over the island, seeking for some chance of escape.
+<nl>Dus wederom was ik helemaal alleen, en een hele maand liep ik dagelijks over het eiland, op zoek naar een gelegenheid te ontsnappen.
 <en>At length one day it struck me that my prison had grown much larger, and that the mainland seemed to be nearer.
+<nl>Eindelijk merkte ik op een dag dat mijn gevangenis veel groter was geworden, en dat het vasteland dichterbij leek te zijn.
 <en>My heart beat at this thought, which was almost too good to be true.
+<nl>Mijn hart klopte bij deze gedachte, die bijna te mooi was om waar te zijn.
 <en>I watched a little longer: there was no doubt about it, and soon there was only a tiny stream for me to cross.
+<nl>Ik keek een tijdje langer: er was geen twijfel mogelijk, en al snel was er maar een klein stroompje om over te steken.
 <en>
+<nl>
 <en>Even when I was safe on the other side I had a long distance to go on the mud and sand before I reached dry ground, and very tired I was, when far in front of me I caught sight of a castle of red copper, which, at first sight, I took to be a fire.
+<nl>Zelfs toen ik veilig aan de andere kant was gekomen, had ik een lange afstand af te leggen door modder en zand voordat ik het droge land bereikte, en zo  moe als ik was, zag  ik toen ver voor mij een kasteel van rood koper, dat ik op het eerste gezicht  voor vuur aanzag.
 <en>I made all the haste I could, and after some miles of hard walking stood before it, and gazed at it in astonishment, for it seemed to me the most wonderful building I had ever beheld.
+<nl>Ik maakte alle haast die ik kon, en na een paar kilometer hard doorlopen stond ik ervoor en staarde er verwonderd naar, want het leek mij het mooiste gebouw dat ik ooit had gezien.
 <en>While I was still staring at it, there came towards me a tall old man, accompanied by ten young men, all handsome, and all blind of the right eye.
+<nl>Terwijl ik er nog naar staarde, kwam een lange oude man op me af, vergezeld door tien jonge mannen, allen knap en allemaal blind aan het rechteroog.
 <en>
+<nl>
 <en>Now in its way, the spectacle of ten men walking together, all blind of the right eye, is as uncommon as that of a copper castle, and I was turning over in my mind what could be the meaning of this strange fact, when they greeted me warmly, and inquired what had brought me there.
+<nl>Op zichzelf is het schouwspel van tien mannen die samen lopen, allemaal blind aan het rechteroog,  net zo ongewoon als dat van een koperen kasteel, en ik vroeg  me af wat de betekenis zou kunnen zijn van dit vreemde feit, toen ze me hartelijk begroetten en vroegen wat me daar had gebracht.
 <en>I replied that my story was somewhat long, but that if they would take the trouble to sit down, I should be happy to tell it them.
+<nl>Ik antwoordde dat mijn verhaal enigszins lang was, maar dat als ze de moeite zouden nemen te gaan zitten, ik het graag zou vertellen.
 <en>When I had finished, the young men begged that I would go with them to the castle, and I joyfully accepted their offer.
+<nl>Toen ik klaar was, vroegen de jonge mannen of ik met hen mee wou gaan naar het kasteel en ik nam hun aanbod met vreugde aan.
 <en>We passed through what seemed to me an endless number of rooms, and came at length into a large hall, furnished with ten small blue sofas for the ten young men, which served as beds as well as chairs, and with another sofa in the middle for the old man.
+<nl>We passeerden wat me een eindeloos aantal kamers leek, en kwamen uiteindelijk in een grote hal, ingericht met tien kleine blauwe sofa's voor de tien jongemannen, die dienden als bedden en stoelen, en met nog een bank in het midden voor de oude man.
 <en>As none of the sofas could hold more than one person, they bade me place myself on the carpet, and to ask no questions about anything I should see.
+<nl>Omdat geen van de banken meer dan één persoon kon bevatten, verzochten zij me op het tapijt te gaan zitten en geen vragen te stellen over alles wat ik zou zien.
 <en>
+<nl>
 <en>After a little while the old man rose and brought in supper, which I ate heartily, for I was very hungry.
-<en>Then one of the young men begged me to repeat my story, which had struck them all with astonishment, and when I had ended, the old man was bidden to
-<en>`do his duty,'
+<nl>Na een poosje stond de oude man op en bracht het avondmaal binnen, wat ik met graagte at, want ik had erg veel honger.
+<en>Then one of the young men begged me to repeat my story, which had struck them all with astonishment, and when I had ended, the old man was bidden to `do his duty,'
+<nl>Toen vroeg een van de jongemannen mij om mijn verhaal te herhalen, dat hen allen zeer verbaasd had, en toen ik klaar was, werd de oude man bevolen om `zijn plicht doen,'
 <en>as it was late, and they wished to go to bed.
+<nl>omdat het laat was, en ze naar bed wilden gaan.
 <en>At these words he rose, and went to a closet, from which he brought out ten basins, all covered with blue stuff.
+<nl>Bij deze woorden stond hij op en ging naar een kast, van waaruit hij tien bekkens tevoorschijn haalde, alles bedekt met blauwe spul.
 <en>He set one before each of the young men, together with a lighted taper.
+<nl>Hij plaatste \'e\'en voor elk van de jonge mannen, samen met een brandende kaars.
 <en>
+<nl>
 <en>When the covers were taken off the basins, I saw they were filled with ashes, coal-dust, and lamp-black.
+<nl>Toen de deksels van de bekkens werden gehaald, zag ik dat ze gevuld waren met as, kolenstof en lampenzwart.
 <en>The young men mixed these all together, and smeared the whole over their heads and faces.
+<nl>De jonge mannen mengden alles door elkaar, en smeerden het geheel over hun hoofden en gezichten.
 <en>They then wept and beat their breasts, crying,
+<nl>Ze huilden toen en sloegen hun borsten, roepend,
 <en>`This is the fruit of idleness, and of our wicked lives.'
+<nl>`Dit is de vrucht van luiheid en van onze slechte levens.'
 <en>
+<nl>
 <en>This ceremony lasted nearly the whole night, and when it stopped they washed themselves carefully, and put on fresh clothes, and lay down to sleep.
+<nl>Deze ceremonie duurde bijna de hele nacht, en toen het stopte, wasten ze zich zorgvuldig en trokken nieuwe kleren aan en legden zich te slapen.
 <en>
+<nl>
 <en>All this while I had refrained from questions, though my curiosity almost seemed to burn a hole in me, but the following day, when we went out to walk, I said to them,
+<nl>Al die tijd had ik afgezien van vragen, hoewel mijn nieuwsgierigheid bijna een gat in mij leek te branden, maar de volgende dag, toen we een wandeling gingen maken, zei ik tegen hen:
 <en>`Gentlemen, I must disobey your wishes, for I can keep silence no more.
+<nl>`Heren, ik moet uw wensen overtreden, want ik kan niet langer zwijgen.
 <en>You do not appear to lack wit, yet you do such actions as none but madmen could be capable of.
+<nl>Jullie lijken verstand niet te ontberen, en toch doen jullie zulke dingen waartoe niemand anders dan gekken in staat zouden zijn.
 <en>Whatever befalls me I cannot forbear asking,
-<en>`Why you daub your faces with black, and how it is you are all blind of one eye?'" But they only answered that such questions were none of my business, and that I should do well to hold my peace.
+<nl>Wat me ook overkomt, ik kan het niet nalaten om te vragen,
+<en>`Why you daub your faces with black, and how it is you are all blind of one eye?'
+<nl>`Waarom bekladden jullie je gezichten met zwart, en hoe het komt dat jullie allemaal blind zijn aan één oog?'
+<en>But they only answered that such questions were none of my business, and that I should do well to hold my peace.
+<nl>Maar ze antwoordden alleen dat zulke vragen mijn zaak niet waren, en dat ik er goed aan zou doen om me rustig te houden.
 <en>
+<nl>
 <en>During that day we spoke of other things, but when night came, and the same ceremony was repeated, I implored them most earnestly to let me know the meaning of it all.
+<nl>Gedurende die dag spraken we over andere dingen, maar toen de nacht aanbrak, en dezelfde ceremonie zich herhaalde, smeekte ik ze zeer ernstig om mij de betekenis van dit alles te laten weten.
 <en>
+<nl>
 <en>`It is for your own sake,'
+<nl>`Het is voor je eigen bestwil,'
 <en>replied one of the young men,
+<nl>antwoordde een van de jonge mannen,
 <en>`that we have not granted your request, and to preserve you from our unfortunate fate.
+<nl>`dat we je verzoek niet hebben ingewilligd en je hebben behoed voor ons ongelukkige lot.
 <en>If, however, you wish to share our destiny we will delay no longer.'
+<nl>Als je echter ons lot wilt delen, zullen we niet langer wachten.'
 <en>
+<nl>
 <en>I answered that whatever might be the consequence I wished to have my curiosity satisfied, and that I would take the result on my own head.
+<nl>Ik antwoordde dat, wat ook maar het gevolg zou zijn, ik mijn nieuwsgierigheid tevreden wilde stellen, en dat ik de gevolgen zelf zou dragen.
 <en>He then assured me that, even when I had lost my eye, I should be unable to remain with them, as their number was complete, and could not be added to.
+<nl>Toen verzekerde hij me dat ik, zelfs als ik mijn oog verloren had, niet bij hen kon blijven, omdat hun aantal compleet was en niet kon worden toegevoegd.
 <en>But to this I replied that, though I should be grieved to part company with such honest gentlemen, I would not be turned from my resolution on that account.
+<nl>Maar hierop antwoordde ik dat, hoewel ik bedroefd zou zijn om van zulke eerlijke heren te scheiden, ik niet om die reden van mijn besluit zou terugkeren.
 <en>
+<nl>
 <en>On hearing my determination my ten hosts then took a sheep and killed it, and handed me a knife, which they said I should by-and-by find useful.
+<nl>Toen zij mijn vastberadenheid hoorden, namen mijn tien gastheren toen een schaap en doodden het, en gaven me een mes, waarvan ze zeiden dat ik het zeer nuttig zou vinden.
 <en>
+<nl>
 <en>`We must sew you into this sheep-skin,'
+<nl>`We moeten je in deze schaapshuid naaien,'
 <en>said they,
+<nl>zeiden ze,
 <en>`and then leave you.
+<nl>`en je dan verlaten.
 <en>A fowl of monstrous size, called a roc, will appear in the air, taking you to be a sheep.
+<nl>Een vogel van monsterlijke grootte, een roc genaamd, zal in de lucht verschijnen, je voor een schaap aanziend.
 <en>He will snatch you up and carry you into the sky, but be not alarmed, for he will bring you safely down and lay you on the top of a mountain.
+<nl>Hij zal je oppakken en je de lucht in dragen, maar wees niet bevreesd, want hij zal je veilig naar beneden brengen en je op de top van een berg leggen.
 <en>When you are on the ground cut the skin with the knife and throw it off.
+<nl>Als je op de grond bent, snijd je de huid met het mes door en gooi je het weg.
 <en>As soon as the roc sees you he will fly away from fear, but you must walk on till you come to a castle covered with plates of gold, studded with jewels.
+<nl>Zodra de roc je ziet, zal hij wegvliegen van angst, maar je moet doorlopen tot je bij een kasteel komt dat bedekt is met gouden platen, en met juwelen bezaaid.
 <en>Enter boldly at the gate, which always stands open, but do not ask us to tell you what we saw or what befel us there, for that you will learn for yourself.
+<nl>Ga moedig naar de poort, die altijd open staat, maar vraag ons niet om te vertellen wat we hebben gezien of wat ons daar overkwam, want dat zul je zelf leren.
 <en>This only we may say, that it cost us each our right eye, and has imposed upon us our nightly penance.'
+<nl>Dit is alles dat we mogen zeggen, dat het ons elk ons rechteroog heeft gekost en ons onze nachtelijke boete heeft opgelegd.'
 <en>
+<nl>
 <en>After the young gentlemen had been at the trouble of sewing the sheep-skin on me they left me, and retired to the hall.
+<nl>Nadat de jonge heren de moeite hadden genomen om de schapenhuid om me te naaien, lieten ze me achter en trokken zich terug in de hal.
 <en>In a few minutes the roc appeared, and bore me off to the top of the mountain in his huge claws as lightly as if I had been a feather, for this great white bird is so strong that he has been known to carry even an elephant to his nest in the hills.
+<nl>Binnen een paar minuten verscheen de roc en bracht me naar de top van de berg met zijn enorme klauwen alsof ik zo licht was als een veer, want deze grote witte vogel is zo sterk dat hij bekend staat zelfs een olifant  naar zijn nest in de heuvels te dragen.
 <en>
+<nl>
 <en>The moment my feet touched the ground I took out my knife and cut the threads that bound me, and the sight of me in my proper clothes so alarmed the roc that he spread his wings and flew away.
+<nl>Op het moment dat mijn voeten de grond raakten, haalde ik mijn mes tevoorschijn en sneed de draden door die me vastbonden, en de aanblik van mij in mijn gewone kleren deed de roc zo schrikken dat hij zijn vleugels spreidde en wegvloog.
 <en>Then I set out to seek the castle.
+<nl>Toen ging ik op zoek naar het kasteel.
 <en>
+<nl>
 <en>I found it after wandering about for half a day, and never could I have imagined anything so glorious.
+<nl>Ik vond het na een halve dag rondzwerven, en ik had me  nooit zoiets schitterends kunnen voorstellen.
 <en>The gate led into a square court, into which opened a hundred doors, ninety-nine of them being of rare woods and one of gold.
+<nl>De poort leidde naar een vierkant hof, waarop honderd deuren openden, negenennegentig ervan waren van zeldzaam hout en één van goud.
 <en>Through each of these doors I caught glimpses of splendid gardens or of rich storehouses.
+<nl>Door elk van deze deuren ving ik een glimp op van prachtige tuinen of van rijke pakhuizen.
 <en>
+<nl>
 <en>Entering one of the doors which was standing open I found myself in a vast hall where forty young ladies, magnificently dressed, and of perfect beauty, were reclining.
+<nl>Toen ik een van de deuren binnenging die openstonden, bevond ik me in een enorme hal waar veertig jonge dames, prachtig gekleed en van volmaakte schoonheid, rustten.
 <en>As soon as they saw me they rose and uttered words of welcome, and even forced me to take possession of a seat that was higher than their own, though my proper place was at their feet.
+<nl>Zodra ze me zagen, stonden ze op en uitten woorden van welkom, en dwongen ze me zelfs om een stoel te gaan zitten die hoger was dan die van henzelf, hoewel mijn juiste plaats aan hun voeten was.
 <en>Not content with this, one brought me splendid garments, while another filled a basin with scented water and poured it over my hands, and the rest busied themselves with preparing refreshments.
+<nl>Not niet tevreden hiermee, bracht \'e\'en mij prachtige kledingstukken, terwijl een ander een bassin met geurende water vulde en het over mijn handen goot, en de rest hield zich bezig met het bereiden van versnaperingen.
 <en>After I had eaten and drunk of the most delicate food and rarest wines, the ladies crowded round me and begged me to tell them all my adventures.
+<nl>Nadat ik had gegeten en gedronken van het meest delicate voedsel en de zeldzaamste wijnen, verdrongen de dames zich om me heen en vroegen me hen al mijn avonturen te vertellen.
 <en>
+<nl>
 <en>By the time I had finished night had fallen, and the ladies lighted up the castle with such a prodigious quantity of tapers that even day could hardly have been brighter.
+<nl>Tegen de tijd dat ik klaar was, was de nacht gevallen en de dames verlichtten het kasteel met zo`n verbazingwekkende hoeveelheid kaarsen dat zelfs de dag nauwelijks lichter kon zijn geweest.
 <en>We then sat down to a supper of dried fruits and sweetmeats, after which some sang and others danced.
+<nl>We gingen toen zitten aan een avondmaal met gedroogd fruit en zoetigheid, waarna sommigen zongen en anderen dansten.
 <en>I was so well amused that I did not notice how the time was passing, but at length one of the ladies approached and informed me it was midnight, and that, as I must be tired, she would conduct me to the room that had been prepared for me.
+<nl>Ik had het zo goed naar mijn zin dat ik niet opmerkte hoe de tijd verstreek, maar uiteindelijk kwam een van de dames naar me toe en vertelde me dat het middernacht was, en dat, omdat ik vast moe zou zijn, zij me naar de kamer zou leiden die voor mij was klaargemaakt.
 <en>Then, bidding me good-night, I was left to sleep.
+<nl>Toen, mij goede nacht wensend, ik werd alleen gelaten om te slapen.
 <en>
+<nl>
 <en>I spent the next thirty-nine days in much the same way as the first, but at the close of that time the ladies appeared (as was their custom) in my room one morning to inquire how I had slept, and instead of looking cheerful and smiling they were in floods of tears.
+<nl>Ik bracht de volgende negenendertig dagen door op ongeveer dezelfde wijze als de eerste, maar aan het einde van die tijd verschenen de dames (naar hun gewoonte) op een ochtend in mijn kamer om te vragen hoe ik geslapen had, en in plaats van er vrolijk en lachend uit te zien, waren ze in  tranen.
 <en>
+<nl>
 <en>`Prince,'
+<nl>`Prins'
 <en>said they,
+<nl>zeiden ze,
 <en>`we must leave you, and never was it so hard to part from any of our friends.
+<nl>`we moeten je verlaten, en nog nooit was het zo moeilijk om afscheid te nemen van een van onze vrienden.
 <en>Most likely we shall never see you again, but if you have sufficient self-command perhaps we may yet look forward to a meeting.'
+<nl>Hoogstwaarschijnlijk zullen we je nooit meer terugzien, maar als je voldoende zelfbeheersing hebt, kunnen we misschien nog uitkijken naar een ontmoeting.'
 <en>
+<nl>
 <en>`Ladies,'
+<nl>`Dames,'
 <en>I replied,
+<nl>antwoordde ik,
 <en>`what is the meaning of these strange words--I pray you to tell me?'
+<nl>`wat is de bedoeling van deze vreemde woorden--ik bid u mij het te vertellen?'
 <en>
+<nl>
 <en>`Know then,'
+<nl>`Weet dan,'
 <en>answered one of them,
+<nl>antwoordde een van hen,
 <en>`that we are all princesses--each a king's daughter.
+<nl>`dat we allemaal prinsessen zijn--ieder een koningsdochter.
 <en>We live in this castle together, in the way that you have seen, but at the end of every year secret duties call us away for the space of forty days.
+<nl>We leven samen in dit kasteel, zoals je hebt gezien, maar aan het einde van elk jaar roepen geheime plichten ons weg voor de duur van veertig dagen.
 <en>The time has now come;
+<nl>De tijd is nu aangebroken;
 <en>but before we depart, we will leave you our keys, so that you may not lack entertainment during our absence.
+<nl>maar voordat we vertrekken, laten we voor jou onze sleutels achter, zodat je tijdens onze afwezigheid geen vermaak zult ontberen.
 <en>But one thing we would ask of you.
+<nl>Maar één ding willen we van je vragen.
 <en>The Golden Door, alone, forbear to open, as you value your own peace, and the happiness of your life.
+<nl>Wacht je de Gouden Deur, alleen, te openen, als je prijs stelt op je eigen rust, en het geluk van je leven.
 <en>That door once unlocked, we must bid you farewell for ever.'
+<nl>Eens die deur ontgrendeld is, moeten we je voor altijd vaarwel zeggen.'
 <en>
+<nl>
 <en>Weeping, I assured them of my prudence, and after embracing me tenderly, they went their ways.
+<nl>Huilend verzekerde ik hen van mijn bedachtzaamheid, en na mij teder omarmd te hebben, gingen ze huns weegs.
 <en>
+<nl>
 <en>Every day I opened two or three fresh doors, each of which contained behind it so many curious things that I had no chance of feeling dull, much as I regretted the absence of the ladies.
+<nl>Elke dag opende ik twee of drie nieuwe deuren, die allemaal zoveel vreemde dingen bevatten dat ik geen enkele mogelijkheid had me te vervelen, hoezeer ik ook de afwezigheid van de dames betreurde.
 <en>Sometimes it was an orchard, whose fruit far exceeded in bigness any that grew in my father's garden.
+<nl>Soms was het een boomgaard, waarvan de vruchten in grootte alles overtroffen van  wat er in de tuin van mijn vader groeide.
 <en>Sometimes it was a court planted with roses, jessamine, dafeodils, hyacinths and anemones, and a thousand other flowers of which I did not know the names.
+<nl>Soms was het een tuin beplant met rozen, jasmijn, narcissen, hyacinten en anemonen, en duizend andere bloemen waarvan ik de namen niet kende.
 <en>Or again, it would be an aviary, fitted with all kinds of singing birds, or a treasury heaped up with precious stones;
+<nl>Of anders, kon het een volière zijn, bevolkt met allerlei zangvogels, of een schatkamer beladen met kostbare stenen;
 <en>but whatever I might see, all was perfect of its own sort.
+<nl>maar wat ik ook zag, alles was perfect in zijn soort.
 <en>
+<nl>
 <en>Thirty-nine days passed away more rapidly than I could have conceived possible, and the following morning the princesses were to return to the castle.
+<nl>De negenendertig dagen gingen sneller voorbij dan ik voor mogelijk had gehouden, en de volgende morgen zouden de prinsessen terugkeren naar het kasteel.
 <en>But alas!
+<nl>Maar helaas!
 <en>I had explored every corner, save only the room that was shut in by the Golden Door, and I had no longer anything to amuse myself with.
+<nl>Ik had elke hoek verkend, behalve de kamer die was afgesloten door de Gouden Deur, en ik had niets meer om me mee te vermaken.
 <en>I stood before the forbidden place for some time, gazing at its beauty;
+<nl>Ik stond enige tijd voor de verboden plaats, staardend naar zijn schoonheid;
 <en>then a happy inspiration struck me, that because I unlocked the door it was not necessary that I should enter the chamber.
+<nl>toen viel mij een gelukkige ingeving binnen, dat omdat ik de deur ontgrendelde, het nog niet nodig was dat ik de kamer zou binnengaan.
 <en>It would be enough for me to stand outside and view whatever hidden wonders might be therein.
+<nl>Het zou voldoende voor me zijn om buiten te staan en te kijken naar wat voor verborgen wonderen zich daarin zouden kunnen bevinden.
 <en>
+<nl>
 <en>Thus arguing against my own conscience, I turned the key, when a smell rushed out that, pleasant though it was, overcame me completely, and I fell fainting across the threshold.
+<nl>Aldus twistend met mijn eigen geweten, draaide ik de sleutel om, en toen kwam er een geur naar buiten die, lekker als die was, me helemaal overwon, en ik viel flauw over de drempel.
 <en>Instead of being warned by this accident, directly I came to myself I went for a few moments into the air to shake of the effects of the perfume, and then entered boldly.
+<nl>In plaats van gewaarschuwd te worden door dit voorval, ging ik, direct nadat ik bij kwam, een paar ogenblikken de lucht in om de effecten van het parfum af te schudden, en ging toen stoutmoedig naar binnen.
 <en>I found myself in a large, vaulted room, lighted by tapers, scented with aloes and ambergris, standing in golden candle-sticks, whilst gold and silver lamps hung from the ceiling.
+<nl>Ik bevond me in een grote, gewelfde ruimte, verlicht door kaarsen, geparfumeerd met aloë en amber, staande in gouden kandelaars, terwijl gouden en zilveren lampen aan het plafond hingen.
 <en>
+<nl>
 <en>Though objects of rare workmanship lay heaped around me, I paid them scant attention, so much was I struck by a great black horse which stood in one corner, the handsomest and best-shaped animal I had ever seen.
+<nl>Hoewel zeldzame voorwerpen om me heen lagen, besteedde ik er nauwelijks aandacht aan, zoveel werd ik getroffen door een groot zwart paard dat in een hoek stond, het mooiste en best gevormde dier dat ik ooit had gezien.
 <en>His saddle and bridle were of massive gold, curiously wrought;
+<nl>Zijn zadel en hoofdstel waren van massief goud, zeldzaam vervaardigd;
 <en>one side of his trough was filled with clean barley and sesame, and the other with rose water.
+<nl>een kant van zijn trog was gevuld met schone gerst en sesam en de andere met rozenwater.
 <en>I led the animal into the open air, and then jumped on his back, shaking the reins as I did so, but as he never stirred, I touched him lightly with a switch I had picked up in his stable.
+<nl>Ik leidde het dier naar de open lucht en sprong toen op zijn rug, terwijl ik de teugels schudde, maar omdat hij niet bewoog, raakte ik hem licht aan met een zweep die ik in zijn stal had opgenomen.
 <en>No sooner did he feel the stroke, than he spread his wings (which I had not perceived before), and flew up with me straight into the sky.
+<nl>Nauwelijks had hij de slag gevoeld, of hij spreidde zijn vleugels (die ik niet eerder had opgemerkt) en vloog met mij recht de lucht in.
 <en>When he had reached a prodigious height, he next darted back to earth, and alighted on the terrace belonging to a castle, shaking me violently out of the saddle as he did so, and giving me such a blow with his tail, that he knocked out my right eye.
+<nl>Toen hij een ontzagwekkende hoogte had bereikt, schoot hij vervolgens terug naar de aarde en streek neer op het terras behorende bij een kasteel, en schudde me daarbij met geweld uit het zadel, en gaf me zo`n tik met zijn staart, dat hij mijn rechteroog uit sloeg.
 <en>
+<nl>
 <en>Half-stunned as I was with all that had happened to me, I rose to my feet, thinking as I did so of what had befallen the ten young men, and watching the horse which was soaring into the clouds.
+<nl>Half verdoofd als ik was door alles wat  mij was overkomen, stond ik op en dacht daarbij aan wat de tien jongemannen was overkomen, en keek het paard achterna dat in de wolken opsteeg.
 <en>I left the terrace and wandered on till I came to a hall, which I knew to have been the one from which the roc had taken me, by the ten blue sofas against the wall.
+<nl>Ik verliet het terras en dwaalde verder tot ik bij een hal kwam, waarvan ik wist dat dit degene was waarvandaan de roc mij had meegenomen, vanwege de tien blauwe banken tegen de muur.
 <en>
+<nl>
 <en>The ten young men were not present when I first entered, but came in soon after, accompanied by the old man.
+<nl>De tien jongemannen waren niet aanwezig toen ik eerst binnenkwam, maar kwamen kort daarna binnen, vergezeld door de oude man.
 <en>They greeted me kindly, and bewailed my misfortune, though, indeed, they had expected nothing less.
+<nl>Ze begroetten me vriendelijk en bejammerden mijn ongeluk, hoewel ze inderdaad niets anders hadden verwacht.
 <en>`All that has happened to you,'
+<nl>`Alles wat met je is gebeurd,'
 <en>they said,
+<nl>zeiden ze,
 <en>`we also have undergone, and we should be enjoying the same happiness still, had we not opened the Golden Door while the princesses were absent.
+<nl>`hebben wij ook ondergaan, en we zouden nog steeds hetzelfde geluk genieten, hadden we de Gouden Deur niet geopend terwijl de prinsessen afwezig waren.
 <en>You have been no wiser than we, and have suffered the same punishment.
+<nl>Jij bent niet wijzer dan wij, en hebt dezelfde straf ondergaan.
 <en>We would gladly receive you among us, to perform such penance as we do, but we have already told you that this is impossible.
+<nl>We zouden je graag bij ons opnemen, om net zo'n boetedoening te doen als wij, maar we hebben je al gezegd dat dit onmogelijk is.
 <en>Depart, therefore, from hence and go to the Court of Bagdad, where you shall meet with him that can decide your destiny.'
+<nl>Vertrek, daarom, en ga naar het Hof van Bagdad, waar je degene zult ontmoeten die je lot kan bepalen.'
 <en>They told me the way I was to travel, and I left them.
+<nl>Ze vertelden me welke weg ik moest bereizen, en ik verliet ze.
 <en>
+<nl>
 <en>On the road I caused my beard and eyebrows to be shaved, and put on a Calender's habit.
+<nl>Onderweg liet ik mijn baard en wenkbrauwen scheren, en de kleren van een kalander aangetrokken.
 <en>I have had a long journey, but arrived this evening in the city, where I met my brother Calenders at the gate, being strangers like myself.
+<nl>Ik heb een lange reis gemaakt, maar ben vanavond in de stad aangekomen, waar ik mijn broeder derwisjen bij de poort heb ontmoet, vreemdelingen zoals ikzelf.
 <en>We wondered much at one another, to see we were all blind of the same eye, but we had no leisure to discourse at length of our common calamities.
+<nl>We verbaasden ons over elkaar,  te zien dat we allemaal blind waren aan hetzelfde oog, maar we hadden geen tijd tijd onze gemeenschappelijke rampen uitgebreid te bespreken.
 <en>We had only so much time as to come hither to implore those favours which you have been generously pleased to grant us.
+<nl>We hebben precies genoeg tijd gehad hierheen te komen om die gunsten te smeken waaraan het jullie genereus behaagt heeft ons te schenken.
 <en>
-<en>He finished, and it was Zobeida's turn to speak: 
+<nl>
+<en>He finished, and it was Zobeida's turn to speak:
+<nl>Hij was klaar, en het was Zobeida's beurt te spreken:
 <en>`Go wherever you please,'
+<nl>`Ga waarheen je wilt,'
 <en>she said, addressing all three.
+<nl>zei ze,  alle drie aansprekend.
 <en>
+<nl>
 <en>`I pardon you all, but you must depart immediately out of this house.'
+<nl>`Ik vergeef jullie allen, maar jullie moeten onmiddellijk dit huis verlaten.'
