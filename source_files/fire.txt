@@ -1,150 +1,250 @@
-<en>Fire 
+<en>Fire
+<es>Fuego
 <nl>Vuur 
 <tr>Ateş 
+
 <en>In ancient times our ancesters didn’t know how to make fire.
+<es>En la antigüedad, nuestros antepasados no sabían cómo hacer fuego.
 <nl>In vroeger tijden wisten onze voorouders niet hoe ze vuur moesten maken.
 <tr>Geçmiş zamanlarda atalarımız ateş yakmayı bilmiyorlardı.
+
 <en>Then they learnt how to make fire.
+<es>Luego aprendieron a hacer fuego.
 <nl>Toen leerden ze hoe vuur te maken.
 <tr>Daha sonra nasıl yakıldığını öğrendiler.
+
 <en>They used fire to keep their homes warm.
+<es>Usaban fuego para mantener caliente sus hogares.
 <nl>Ze gebruikten vuur om hun huizen warm te houden.
 <tr>Evlerini sıcak tutmak için ateşi kullandılar.
+
 <en>They used fire to communicate with each other.
+<es>Usaban fuego para comunicarse entre ellos.
 <nl>Ze gebruikten vuur om te communiceren met elkaar.
 <tr>Birbirleriyle iletişim kurmak için ateşi kullandılar.
+
 <en>They used fire to cook their food.
+<es>Usaban fuego para cocinar su comida.
 <nl>Ze gebruikten vuur om hun eten te koken.
 <tr>Yemeklerini pişirmek için ateşi kullandılar.
+
 <en>
+<es>
 <tr>
+
 <nl>
+
 <en>But sometimes our house  catches fire.
+<es>Pero a veces nuestra casa se incendia.
 <nl>Maar soms vatten onze huizen vlam.
 <tr>Ama bazen evlerimiz ateş alır.
+
 <en>Sometimes people lose their homes.
+<es>A veces las personas pierden sus hogares.
 <nl>Soms verliezen mensen hun huizen.
 <tr>Bazen insanlar evlerini kaybederler.
+
 <en>Sometimes people even lose their lives.
+<es>A veces las personas incluso pierden sus vidas.
 <nl>Soms verliezen mensen zelfs hun leven.
 <tr>Bazen insanlar hayatlarını bile kaybederler.
+
 <en>When a fire begins,
+<es>Cuando comienza un incendio,
 <nl>Wanneer een vuur begint
 <tr>Yangın başladığında,
+
 <en>we dial the emergency number.
+<es>marcamos el número de emergencia.
 <nl>draaien we het alarm nummer
 <tr>acil numarayı ararız.
+
 <en>We speak very clearly.
+<es>Hablamos muy claro
 <nl>We spreken heel duidelijk.
 <tr>Çok açık bir şekilde konuşuruz.
+
 <en>We give the address.
+<es>Le damos la dirección.
 <nl>We geven ons adres.
 <tr>Adresi veririz.
+
 <en>Firemen  arrive quickly.
+<es>Los bomberos llegan rápidamente.
 <nl>De brandweer komt snel. 
 <tr>Itfaiyeciler hemen gelir.
+
 <en>The firemen know what to do.
+<es>Los bomberos saben qué hacer.
 <nl>De brandweermannen weten wat te doen.
 <tr>Itfaiyeciler ne yapacaklarını bilir.
+
 <en>They rescue the  people in the building.
+<es>Ellos rescatan a las personas en el edificio.
 <nl>Ze redden de mensen in het gebouw.
 <tr>Binadaki insanları kurtarırlar.
+
 <en>
-<tr>
+<es>
 <nl>
+<tr>
+
 <en>If there are some injured people,
+<es>Si hay algunas personas heridas,
 <nl>Als er gewonde mensen zijn,
 <tr>Eğer yaralı varsa,
+
 <en>they take them to the hospital in an ambulance.
+<es>los llevan al hospital en una ambulancia.
 <nl>brengen ze hun naar het ziekenhuis in een ambulance.
 <tr>onları ambulansla hastaneye götürürler.
+
 <en>Doctors examine them.
+<es>Los doctores los examinan.
 <nl>Dokters gaan ze onderzoeken.
 <tr>Doktorlar onları muayene eder.
+
 <en>They take their temperature.
+<es>Toman su temperatura.
 <nl>Ze nemen hun temperatuur op.
 <tr>Onların ateşlerine bakar.
+
 <en>The nurses give them injections.
+<es>Las enfermeras les dan inyecciones.
 <nl>De zusters geven ze een injectie.
 <tr>Hemşireler iğne yapar.
+
 <en>Some people have operations.
+<es>Algunas personas tienen operaciones.
 <nl>Sommige mensen krijgen een operatie.
 <tr>Bazı insanlar ameliyat olur.
+
 <en>
-<tr>
+<es>
 <nl>
+<tr>
+
 <en>The rest of the firemen put out the fire.
+<es>El resto de los bomberos apagan el fuego.
 <nl>De rest van de brandweermannen blussen het vuur.
 <tr>Diğer itfaiyeciler yangını söndürürler.
+
 <en>Vocabulary
+<es>Vocabulario
 <nl>Vocabulair
 <tr>Kelime hazinesi
+
 <en>ancient times
+<es>tiempos antiguos
 <nl>vroeger tijden
 <tr>geçmiş zamanlar
+
 <en>ancesters
+<es>(los) antepasados
 <nl>voorouders
 <tr>atalar
+
 <en>life
+<es>(la) vida
 <nl>leven
 <tr>hayat
+
 <en>emergency
+<es>(la) emergencia
 <nl>noodgeval
 <tr>acil durum
+
 <en>clearly
+<es>claramente
 <nl>helder
 <tr>açıkça
+
 <en>quickly
+<es>con rapidez
 <nl>snel
 <tr>hızlı bir şekilde (hızlıca)
+
 <en>building
+<es>(el) edificio
 <nl>gebouw
 <tr>bina
+
 <en>hospital
+<es>(el) hospital
 <nl>ziekenhuis
 <tr>hastane
+
 <en>injection
+<es>(la) inyección
 <nl>injectie
 <tr>iğne
+
 <en>operation
+<es>(la) operación
 <nl>operatie
 <tr>ameliyat
+
 <en>firemen
+<es>(los) bomberos
 <nl>brandweer(mannen)
 <tr>itfaiyeciler
+
 <en>keep
+<es>mantener
 <nl>houden
 <tr>tutmak
+
 <en>communicate
+<es>comunicar
 <nl>communiceren
 <tr>iletişim kurmak
+
 <en>catch
+<es>capturar
 <nl>vangen
 <tr>yakalamak
+
 <en>to loose
+<es>suelto
 <nl>verliezen
 <tr>kaybetmek
+
 <en>to leave
+<es>dejar
 <nl>verlaten
 <tr>bırakmak
+
 <en>dial
+<es>marcar
 <nl>draaien
 <tr>çevirmek (tuşlamak)
+
 <en>arrive
+<es>llegar
 <nl>aankomen
 <tr>varmak
+
 <en>examine
+<es>examinar
 <nl>examineren, onderzoeken
 <tr>incelemek, muayene etmek
+
 <en>give injection
+<es>dar (una) inyección
 <nl>een injectie (spuit) geven
 <tr>iğne yapmak
+
 <en>take  temperature
+<es>tomar (la) temperatura
 <nl>de temperatuur nemen
 <tr>ateşini ölçmek
+
 <en>have operation
+<es>tener (una) operación
 <nl>een operatie ondergaan
 <tr>ameliyat olmak
+
 <en>put out the fire
+<es>apagar el incendio
 <nl>het vuur doven
 <tr>yangını söndürmek

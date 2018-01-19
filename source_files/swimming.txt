@@ -1,168 +1,224 @@
 <en>Swimming
+<es>Nadando
 <nl>Zwemmen
 <tr>Yüzmek
 <en>If you want to learn how to swim
+<es>Si quieres aprender a nadar
 <nl>Als je wil leren zwemmen
 <tr>Eğer yüzme öğrenmek istiyorsan
 <en>go to a swimming pool.
+<es>ve a una piscina.
 <nl>ga naar een zwembad.
 <tr>bir havuza git.
 <en>Because it  is safe to learn swimming  in a swimming pool.
+<es>Porque es seguro aprender a nadar en una piscina.
 <nl>Omdat het veilig is om te leren zwemmen in een zwembad.
 <tr>Çünkü havuzda yüzme öğrenmek güvenlidir.
 <en>If you don’t know how to swim
+<es>Si no sabes cómo nadar
 <nl>Als je niet kan zwemmen
 <tr>Eğer nasıl yüzeceğini bilmiyorsan
 <en>don’t swim in the sea.
+<es>no nades en el mar
 <nl>zwem niet in zee.
 <tr>denizde yüzme.
 <en>Because big waves may drown you.
+<es>Porque las olas grandes te pueden ahogar.
 <nl>Omdat je kan verdrinken in grote golven.
 <tr>Çünkü büyük dalgalar seni boğabilir.
 <en>If you are not frightened and excited,
+<es>Si no estás asustado y emocionado,
 <nl>Als je niet bang en wild bent,
 <tr>Eğer korkmuyorsan ve heyecanlanmıyorsan
 <en>you can float on the water.
+<es>puedes flotar en el agua.
 <nl>kan je drijven op het water.
 <tr>suda süzülebilirsin.
 <en>You don’t sink into the water.
+<es>No te hundes en el agua.
 <nl>Je zinkt niet in het water.
 <tr>Suya batmazsın.
 <en>Don’t swim in deep water.
+<es>No nades en aguas profundas.
 <nl>Zwem niet in diep water.
 <tr>Derin suda yüzmeyin.
 <en>Swim in shallow water.
+<es>Nada en aguas poco profundas.
 <nl>Zwem in ondiep water.
 <tr>Sığ suda yüzün.
 <en>You won’t  drown.
+<es>No te ahogarás
 <nl>Je zult niet verdrinken.
 <tr>Boğulmazsın.
 <en>
+<es>
 <nl>
 <tr>
 <en>Don’t go swimming alone.
+<es>No vayas a nadar solo.
 <nl>Ga niet alleen zwemmen.
 <tr>Yüzmeye yalnız gitme.
 <en>Go with a friend.
+<es>Ve con un amigo
 <nl>Ga met een vriend.
 <tr>Bir arkadaşınla git.
 <en>If you  drown,
+<es>Si te ahogas,
 <nl>Als je aan het verdrinken bent,
 <tr>Boğulursan,
 <en>your friend can help you.
+<es>tu amigo puede ayudarte
 <nl>kan je vriend je helpen.
 <tr>arkadaşın sasa yardım edebilir.
 <en>If you are tired,
+<es>Si estas cansado,
 <nl>Als je moe bent
 <tr>Yorgunsan,
 <en>don’t go swimmig.
+<es>no vayas a nadar
 <nl>ga niet zwemmen.
 <tr>yüzmeye gitme.
 <en>Because swimming is tiring.
+<es>Porque nadar es agotador.
 <nl>Want zwemmen is vermoeiend.
 <tr>Çünkü yüzmek yorucudur.
 <en>You may drown.
+<es>Usted puede ahogarse.
 <nl>Je kan verdrinken.
 <tr>Boğulabilirsiniz.
 <en>
+<es>
 <nl>
 <tr>
 <en>If a red flag is flying on a beach,
+<es>Si una bandera roja está volando en una playa,
 <nl>Als een rode vlag wappert op het strand,
 <tr>Eğer sahilde kırmızı bayrak sallanıyorsa,
 <en>don’t go swimming.
+<es>no vayas a nadar
 <nl>ga dan niet zwemmen.
 <tr>yüzmeye gitmeyin.
 <en>Because there may be big waves in the sea
+<es>Porque puede haber grandes olas en el mar
 <nl>Want er kunnen grote golven zijn in de zee
 <tr>Çünkü denizde büyük dalgalar olabilir
 <en>and swimming may be dangerous.
+<es>y nadar puede ser peligroso.
 <nl>en dan kan zwemmen gevaarlijk zijn.
 <tr>ve yüzmek tehlikeli olabilir.
 <en>You may drown.
+<es>Usted puede ahogarse.
 <nl>Je kan verdrinken.
 <tr>Boğulabilirsiniz.
 <en>
+<es>
 <nl>
 <tr>
 <en>If one of your friends drowns,
+<es>Si uno de tus amigos se ahoga,
 <nl>Als een van je vrienden verdrinkt,
 <tr>Eğer arkadaşlarınızdan birisi boğulursa
 <en>fetch a lifeguard.
+<es>busca un salvavidas.
 <nl>haal een badmeester.
 <tr>cankurtaranı getirin.
 <en>He knows how to help your friend.
+<es>Él sabe cómo ayudar a tu amigo.
 <nl>Hij weet hoe hij je vriend kan helpen.
 <tr>O arkadaşınıza nasıl yardım edeceğini bilir.
 <en>When he helps your friend,
+<es>Cuando él ayuda a tu amigo,
 <nl>Wanneer hij jouw vriend helpt,
 <tr>O arkadaşınıza yardım ederken,
 <en>don’t crowd around him.
+<es>no le hagas multitud.
 <nl>ga dan niet om hem heen staan.
 <tr>etrafında kalabalık etmeyin.
 <en>Then he may not help your friend.
+<es>Pues él puede no ayudar a tu amigo.
 <nl>Dan kan hij misschien jouw vriend niet helpen.
 <tr>O zaman arkadaşınıza yardım edemeyebilir.
 <en>Vocabulary
+<es>Vocabulario
 <nl>Vocabulair
 <tr>Kelime hazinesi
 <en>swimming pool
+<es>piscina
 <nl>zwembad
 <tr>havuz
 <en>safety
+<es>(la) seguridad
 <nl>veiligheid
 <tr>güvenli
 <en>wave
+<es>(la) ola
 <nl>golf
 <tr>dalga
 <en>deep
+<es>profundo
 <nl>diep
 <tr>derin
 <en>shallow
+<es>superficial
 <nl>ondiep
 <tr>sığ
 <en>alone
+<es>solo
 <nl>alleen
 <tr>yalnız
 <en>flag
+<es>(la) bandera
 <nl>vlag
 <tr>bayrak
 <en>beach
+<es>(la) playa
 <nl>strand
 <tr>plaj, sahil
 <en>dangerous
+<es>peligroso
 <nl>gevaarlijk
 <tr>tehlikeli
 <en>lifeguard
+<es>(el) salvavidas
 <nl>badmeester
 <tr>cankurtaran
 <en>around
+<es>alrededor
 <nl>rondom
 <tr>etrafında
 <en>crowd
+<es>(la) multitud
 <nl>menigte
 <tr>kalabalık
 <en>drown
+<es>ahogar
 <nl>verdrinken
 <tr>boğulmak
 <en>frighten
+<es>asustar
 <nl>bang zijn
 <tr>korkmak, korkutmak
 <en>excited
+<es>emocionado
 <nl>wild, opgewonden
 <tr>heyecanlı
 <en>float
+<es>flotar
 <nl>drijven
 <tr>süzülmek
 <en>sink
+<es>hundir(se)
 <nl>zinken
 <tr>batmak
 <en>tiring
+<es>cansado
 <nl>vermoeiend
 <tr>yorucu
 <en>fetch
+<es>ir a buscar
 <nl>halen
 <tr>gidip getirmek
 <en>to crowd
+<es>hacer multitud
 <nl>erom heen hangen
 <tr>kalabalık etmek

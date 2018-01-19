@@ -1,169 +1,225 @@
 <en>Flying
+<es>Volador
 <nl>Vliegen
 <tr>Uçmak
 <en>In ancient times people didn’t know how to fly.
+<es>En la antigüedad, las personas no sabían cómo volar.
 <nl>In vroeger tijden wisten de mensen niet hoe ze konden vliegen.
 <tr>Geçmiş zamanlarda insanlar nasıl uçacaklarını bilmiyorlarmış
 <en>They made wings.
+<es>Hicieron alas.
 <nl>Ze maakten vleugels.
 <tr>Kanat yapmışlar.
 <en>They attached the wings to their shoulders.
-<nl>Ze bevestigden vleugels aan hun schouders. 
+<es>Ataron las alas a sus hombros.
+<nl>Ze bevestigden vleugels aan hun schouders.
 <tr>Kanatları omuzlarına tutturmuşlar.
 <en>They climbed mountains.
+<es>Escalaron montañas.
 <nl>Ze beklommen bergen.
 <tr>Dağlara tırmanmışlar.
 <en>They tried to fly
+<es>Ellos trataron de volar
 <nl>Ze probeerden te vliegen
 <tr>Uçmaya çalışmışlar.
 <en>but they didn’t succeed.
+<es>pero no tuvieron éxito.
 <nl>maar ze slaagden niet.
 <tr>ama başaramamışlar.
 <en>They failed.
+<es>Ellos fallaron.
 <nl>Ze faalden.
 <tr>Başarısız olmuşlar.
 <en>So they gave up flying with wings.
+<es>Entonces dejaron de volar con alas.
 <nl>Dus gaven ze het vliegen met vleugels op.
 <tr>Bu yüzden kanatlarla uçmaktan vazgeçmişler.
 <en>
+<es>
 <nl>
 <tr>
 <en>They tried something else.
+<es>Intentaron algo más.
 <nl>Ze probeerden iets anders.
 <tr>Başka bir şeyi denemişler.
 <en>They made a balloon.
+<es>Hicieron un globo.
 <nl>Ze maakten een ballon.
 <tr>Balon yapmışlar.
 <en>They made fire under the balloon.
+<es>Hicieron fuego debajo del globo.
 <nl>Ze maakten vuur onder de ballon.
 <tr>Balonun altında ateş yakmışlar.
 <en>They heated the air in the baloon.
+<es>Calentaron el aire en el globo.
 <nl>Ze verwarmden de lucht in de ballon.
 <tr>Balonun içindeki havayı ısıtmışlar.
 <en>They attached a basket under the balloon.
+<es>Ataron una canasta debajo del globo.
 <nl>Ze bevestigden een mand onder de ballon.
 <tr>Balonun altına bir sepet tutturmuşlar.
 <en>They put three animals in the basket.
+<es>Pusieron tres animales en la canasta.
 <nl>Ze plaatsten drie dieren in de mand.
 <tr>Sepete 3 hayvan koymuşlar.
 <en>They tied the basket to the ground with a rope.
+<es>Ataron la canasta al suelo con una cuerda.
 <nl>Ze bonden de mand aan de grond met een touw.
 <tr>Sepeti iple yere bağlamışlar.
 <en>The first balloon flew up.
+<es>El primer globo voló.
 <nl>De eerste ballon vloog omhoog.
 <tr>İlk balon uçmuş.
 <en>They made another balloon.
+<es>Hicieron otro globo.
 <nl>Ze maakten een andere ballon.
 <tr>Başka bir balon yapmışlar.
 <en>They made  fire under the balloon.
+<es>Hicieron fuego debajo del globo.
 <nl>Ze maakten vuur onder de ballon.
 <tr>Balonun altında ateş yakmışlar.
 <en>They heated the air in the baloon.
+<es>Calentaron el aire en el globo.
 <nl>Ze verwarmden de lucht in de ballon.
 <tr>Balonun içindeki havayı ısıtmışlar.
 <en>They attached a basket under the balloon.
+<es>Ataron una canasta debajo del globo.
 <nl>Ze bevestigden een mand onder de ballon.
 <tr>Balonun altına sepet tutturmuşlar.
 <en>They put two men in the basket.
+<es>Pusieron a dos hombres en la canasta.
 <nl>Ze deden twee mannen in de mand.
 <tr>Sepete iki adam koymuşlar.
 <en>They tied the basket to the ground with a rope.
+<es>Ataron la canasta al suelo con una cuerda.
 <nl>Ze bonden de mand aan de grond met een touw.
 <tr>Sepeti yere bağlamışlar.
 <en>The second balloon flew up.
+<es>El segundo globo voló.
 <nl>De tweede ballon vloog omhoog.
 <tr>İkinci balon uçmuş.
 <en>They made yet another balloon.
+<es>Hicieron otro globo.
 <nl>Ze maakten nog een ballon.
 <tr>Bir başka balon yapmışlar.
 <en>They put two men in the basket.
+<es>Pusieron a dos hombres en la canasta.
 <nl>Ze deden twee mannen in de mand.
 <tr>Sepetin içine iki adam koymuşlar.
 <en>But this time they didn’t tie the basket to the ground with a rope.
+<es>Pero esta vez no ataron la canasta al suelo con una cuerda.
 <nl>Maar dit keer bonden ze de mand niet aan de grond met een touw.
 <tr>Ama bu kez sepeti yere bağlamamamışlar.
 <en>The third balloon flew up.
+<es>El tercer globo voló.
 <nl>De derde ballon vloog omhoog.
 <tr>Üçüncü balon uçmuş.
 <en>They made different balloons.
+<es>Hicieron diferentes globos.
 <nl>Ze maakten verschillende ballonnen.
 <tr>Farklı balonlar yapmışlar.
 <en>They put hydrogen in the balloons.
+<es>Pusieron hidrógeno en los globos.
 <nl>Ze deden waterstof in de ballonnen.
 <tr>Balonların içine hidrojen koymuşlar.
 <en>Hydrogen is a dangerous gas.
+<es>El hidrógeno es un gas peligroso.
 <nl>Waterstof is een gevaarlijk gas.
 <tr>Hidrojen tehlikeli bir gazdır.
 <en>Some balloons exploded.
+<es>Algunos globos explotaron.
 <nl>Sommige ballonnen explodeerden.
 <tr>Bazı balonlar patlamış.
 <en>Some people were killed.
-<nl>Een paar mensen werden gedood. 
+<es>Algunas personas fueron asesinadas.
+<nl>Een paar mensen werden gedood.
 <tr>Bazı insanlar ölmüş.
 <en>Some people were injured.
+<es>Algunas personas resultaron heridas.
 <nl>Een paar mensen raakten gewond.
 <tr>Bazı insanlar yaralanmış.
 <en>So they gave up flying in a balloon.
+<es>Entonces se rindieron de volar en un globo.
 <nl>Dus gaven ze het vliegen met een ballon op
 <tr>Bu yüzden balonla uçmayı bırakmışlar.
 <en>
+<es>
 <nl>
 <tr>
 <en>In 1903 the Wright brothers made a glider in America.
-<nl>In 1908 maakten de gebroeders Wright in Amerika een zweefvliegtuig. 
+<es>En 1903, los hermanos Wright hicieron un planeador en América.
+<nl>In 1908 maakten de gebroeders Wright in Amerika een zweefvliegtuig.
 <tr>1903’te Wright kardeşler Amerika’da bir planör yaptılar.
 <en>They made a small engine.
+<es>Hicieron un pequeño motor.
 <nl>Ze maakten een kleine motor.
 <tr>Küçük bir motor yaptılar.
 <en>They put the small engine in the glider.
+<es>Pusieron el pequeño motor en el planeador.
 <nl>Ze deden de kleine motor in het zweefvliegtuig.
 <tr>Bu küçük motoru planörün içine koydular.
 <en>The first plane flew up.
+<es>El primer avión voló.
 <nl>Het eerste vliegtuig vloog omhoog.
 <tr>İlk uçak uçtu.
 <en>The Wright brothers became famous.
+<es>Los hermanos Wright se hicieron famosos.
 <nl>De gebroeders Wright werden beroemd.
 <tr>Wright kardeşler ünlü oldular.
 <en>
+<es>
 <nl>
 <tr>
 <en>Nowadays there are modern aeroplanes.
+<es>Hoy en día hay aviones modernos.
 <nl>Tegenwoordig zijn er moderne vliegtuigen.
 <tr>Bu günlerde modern uçaklar var.
 <en>They carry cargo and passengers from one continent to another.
+<es>Transportan carga y pasajeros de un continente a otro.
 <nl>Ze vervoeren lading en passagiers van het ene continent naar het andere.
 <tr>Bir kıtadan diğer kıtaya kargo ve yolcu taşırlar.
 <en>From Asia to Europe.
+<es>De Asia a Europa.
 <nl>Van Azi\"e naar Europa.
 <tr>Asya'dan Avrupa'ya.
 <en>From America to Africa.
+<es>De América a África.
 <nl>Van Amerika naar Afrika.
 <tr>Amerika'dan Afrika'ya.
 <en>From Australia to Antartica.
+<es>De Australia a la Antártida.
 <nl>Van Australi\"e naar Antartica.
 <tr>Avustralya'dan Antartika'ya.
 <en>They carry cargo and passengers from one country to another.
+<es>Transportan carga y pasajeros de un país a otro.
 <nl>Ze vervoeren lading en passagiers van het ene land naar het andere.
 <tr>Bir ülkeden başka ülkeye kargo ve yolcu taşırlar.
 <en>From Turkey to China.
+<es>De Turquía a China.
 <nl>Van Turkije naar China.
 <tr>Türkiye'den Çin'e.
 <en>From Japan to Germany.
+<es>De Japón a Alemania.
 <nl>Van Japan naar Duitsland.
 <tr>Japonyad'an Almanya'ya.
 <en>From France to Russia.
+<es>De Francia a Rusia.
 <nl>Van Frankrijk naar Rusland.
 <tr>Fransa'dan Rusya'ya.
 <en>From Saudi Arabia to Italy.
+<es>De Arabia Saudita a Italia.
 <nl>Van Saoedi-Arabi\"e naar Itali\"e.
 <tr>Saudi Arabistan'dan İtalya'ya.
 <en>From Korea to Greece.
+<es>De Corea a Grecia.
 <nl>Van Korea naar Griekenland.
 <tr>Kore'den Yunanistan'a.
 <en>From Iran to Irak.
+<es>De Irán a Iraq.
 <nl>Van Iran naar Irak.
 <tr>İran'dan Irak’a.
 <en>From Spain to England.
+<es>De España a Inglaterra.
 <nl>Van Spanje naar Engeland.
 <tr>İspanya'dan İngiltere'ye.
 <en>Vocabulary
@@ -171,71 +227,94 @@
 <tr>Kelime hazinesi
 <nl>Vocabulair
 <en>wing
+<es>(el) ala
 <nl>vleugel
 <tr>kanat
 <en>another
+<es>otro
 <nl>een ander
 <tr>bir başka
 <en>way
+<es>(el) camino
 <nl>weg
 <tr>yol
 <en>first
+<es>(el) primero
 <nl>eerste
 <tr>ilk
 <en>second
+<es>(el) segundo
 <nl>tweede
 <tr>ikinci
 <en>third
+<es>(el) tercero
 <nl>derde
 <tr>üçüncü
 <en>different
+<es>diferente
 <nl>verschillende
 <tr>farklı
 <en>dangerous
+<es>peligroso
 <nl>gevaarlijk
 <tr>tehlikeli
 <en>glider
+<es>(el) planeador
 <nl>zweefvliegtuig
 <tr>planör
 <en>famous
+<es>famoso
 <nl>beroemd
 <tr>ünlü
 <en>nowadays
+<es>hoy en día
 <nl>tegenwoordig
 <tr>bu günlerde
 <en>passenger
+<es>(el) pasajero
 <nl>passagiers
 <tr>yolcu
 <en>continent
+<es>(el) continente
 <nl>continent
 <tr>kıta
 <en>to attach
+<es>adjuntar
 <nl>bevestigen, vast maken
 <tr>tutturmak
 <en>try
+<es>tratar
 <nl>proberen
 <tr>denemek
 <en>succeed
+<es>tener éxito
 <nl>slagen
 <tr>başarmak
 <en>fail
+<es>fallar
 <nl>falen
 <tr>başarısız olmak
 <en>to heat up
+<es>calentar
 <nl>opwarmen
 <tr>ısıtmak
 <en>to tie
+<es>atar
 <nl>vastbinden
 <tr>bağlamak
 <en>to fly
+<es>volar
 <nl>vliegen
 <tr>uçmak
 <en>explode
+<es>explotar
 <nl>exploderen, ontploffen
 <tr>patlamak
 <en>become
+<es>volverse
 <nl>worden
 <tr>olmak
 <en>carry
+<es>llevar
 <nl>dragen
 <tr>taşımak

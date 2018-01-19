@@ -1,318 +1,424 @@
 <en>Traffic
+<es>Tráfico
 <nl>Verkeer
 <tr>Trafik
 <en>Cars and buses are traffic
+<es>Los automóviles y los autobuses son tráfico
 <nl>Auto's en busses zijn verkeer.
 <tr>Arabalar ve otobüsler trafiktir.
 <en>Lorries and trams are traffic.
+<es>Los camiones y tranvías son tráfico.
 <nl>Vrachtwagens en trams zijn verkeer.
 <tr>Kamyonlar ve tramvaylar trafiktir.
 <en>Bicycles and motorcycles are  traffic.
+<es>Las bicicletas y las motocicletas son tráfico.
 <nl>Fietsen en brommers zijn verkeer.
 <tr>Bisikletler ve motorsikletler trafiktir.
 <en>Pedestrian walking on the pavements are traffic.
+<es>Los peatones caminando en las aceras son tráfico.
 <nl>Voetgangers op de stoep zijn verkeer.
 <tr>Kaldırımda yürüyen yayalar trafiktir.
 <en>If there are a lot of cars in the streets, there maybe a  traffic jam.
+<es>Si hay muchos autos en las calles, tal vez haya un embotellamiento.
 <nl>Als er veel auto's zijn in de straten, dan kan er een file zijn.
 <tr>Eğer sokakta pek çok araba olursa, trafik sıkışıklığı olabilir.
 <en>If the streets and roads are narrow, we must make them wide.
+<es>Si las calles y los caminos son angostos, debemos hacerlos anchos.
 <nl>Als de straten en wegen nauw zijn, dat moeten we ze breder maken.
 <tr>Eğer yollar ve sokaklar darsa onları genişletmeliyiz.
 <en>If there are some corners,
+<es>Si hay algunas esquinas,
 <nl>Als er bochten zijn,
 <tr>Eğer köşeler varsa
 <en>drivers can’t see each other
+<es>los conductores no pueden verse el uno al otro
 <nl>dan kunnen bestuurders elkaar niet zien
 <tr>sürücüler birbirlerini göremezler
 <en>and cars crash into each other.
+<es>y los autos chocan entre ellos.
 <nl>en botsen auto's op elkaar.
 <tr>ve arabalar birbirleriyle çarpışırlar.
 <en>An accident happens.
+<es>Un accidente sucede.
 <nl>Een ongeluk gebeurt.
 <tr>Kaza olur.
 <en>Some people are killed and some people are injured.
+<es>Algunas personas mueren y algunas personas resultan heridas.
 <nl>Sommige mensen gaan dood en sommige mensen raken gewond.
 <tr>Bazı insanlar yaralanır, bazıları ölür.
 <en>So we must make the streets and roads straight.
+<es>Entonces debemos hacer que las calles y los caminos sean rectos.
 <nl>Dus moeten we de straten en wegen recht maken.
 <tr>Bu yüzden yolları ve sokakları düz hale getirmeliyiz.
 <en>
+<es>
 <tr>
 <nl>
 <en>If  pedestrians want to cross the street,
+<es>Si los peatones quieren cruzar la calle,
 <nl>Als voetgangers de straat willen oversteken,
 <tr>Eğer yayalar caddeyi karşıdan karşıya geçmek isterse,
 <en>they look right and left
+<es>miran a la derecha e izquierda
 <nl>dan moeten ze naar recht en naar links kijken
 <tr>sağa ve sola bakarlar
 <en>and cross the street.
+<es>y cruzan la calle.
 <nl>en de straat oversteken.
 <tr>ve caddeyi geçerler.
 <en>Sometimes they use pedestrian crossings.
+<es>A veces usan cruces de peatones.
 <nl>Soms gebruiken ze zebrapaden.
 <tr>Bazen yaya geçidini kullanırlar.
 <en>There are white lines on the street.
+<es>Hay líneas blancas en la calle.
 <nl>Dat zijn witte strepen op de straat.
 <tr>Caddede beyaz çizgiler vardır.
 <en>There are yellow lamps.
+<es>Hay lámparas amarillas.
 <nl>Er zijn gele lampen.
 <tr>Sarı ışıklar vardır.
 <en>The traffic lights flash.
-<nl>De verkeerslichten knipperen. 
+<es>Los semáforos parpadean.
+<nl>De verkeerslichten knipperen.
 <tr>Trafik ışıkları yanar söner.
 <en>All the cars stop.
+<es>Todos los autos se detienen.
 <nl>Alle auto's stoppen.
 <tr>Bütün arabalar durur.
 <en>The pedestrians cross the street
+<es>Los peatones cruzan la calle
 <nl>De voetgangers steken de straat over
 <tr>Yayalar geçer
-<en>because the pedestrians are superior to the cars. 
-<nl>omdat de voetgangers voorrang hebben op de auto's. 
+<en>because the pedestrians are superior to the cars.
+<es>porque los peatones son superiores a los autos.
+<nl>omdat de voetgangers voorrang hebben op de auto's.
 <tr>çünkü yayalar geçiş üstünlüğüne sahiptir.
 <en>If they want to cross the street,
+<es>Si quieren cruzar la calle,
 <nl>Als ze de straat willen oversteken,
 <tr>Eğer caddeyi karşıdan karşıya geçmek isterlerse
 <en>they sometimes use bridges and subways.
+<es>a veces usan puentes y vias subterráneas.
 <nl>gebruiken ze soms bruggen en tunnels.
 <tr>bazen alt ve üst geçitleri kullanırlar.
 <en>If there are no pedestrian crossings, no footbridges, no subways,
+<es>Si no hay pasos de peatones, ni puentes peatonales ni vias subterráneas,
 <nl>Als er geen oversteekplaatsen zijn, of bruggen of tunnels,
 <tr>Eğer hiç yaya geçidi, üst ve alt geçit yoksa
 <en>they use traffic lights.
+<es>usan semáforos
 <nl>gebruiken ze verkeerslichten.
 <tr>trafik ışıklarnı kullanırlar.
 <en>When it is red, they stop.
+<es>Cuando está rojo, se detienen.
 <nl>Als het rood is, stoppen ze.
 <tr>Kırmızı yandığında dururlar.
 <en>When it becomes yellow, they get ready.
+<es>Cuando se vuelve amarillo, se preparan.
 <nl>Als het geel wordt, maken ze zich klaar.
 <tr>Sarı olduğunda hazırlanırlar.
 <en>When it is green, they cross the street.
+<es>Cuando está verde, cruzan la calle.
 <nl>Als het groen is, steken ze de straat over.
 <tr>Yeşil yandığında geçerler.
 <en>
+<es>
 <tr>
 <nl>
 <en>There are police officers.
+<es>Hay oficiales de policía.
 <nl>Er zijn politiemensen.
 <tr>Polis memurları vardır.
 <en>They direct the traffic.
+<es>Ellos dirigen el tráfico.
 <nl>Ze regelen het verkeer.
 <tr>Trafiği onlar yönetirler.
 <en>Pedestrians  must obey the traffic rules.
+<es>Los peatones deben obedecer las reglas de tráfico.
 <nl>Voetgangers moeten de verkeersregels volgen.
 <tr>Yayalar trafik kurallarına uymalıdırlar.
 <en>If they don’t obey the traffic rules,
+<es>Si no obedecen las reglas de tráfico,
 <nl>Als ze de verkeersregels niet opvolgen,
 <tr>Eğer uymazlarsa
 <en>they break the law.
+<es>ellos violan la ley
 <nl>dan overtreden ze de wet.
 <tr>kanunları çiğnemiş olurlar.
 <en>Then the police officer will give them a traffic fine.
+<es>Entonces el oficial de policía les dará una multa de tráfico.
 <nl>Dan geeft de politieman ze een verkeersboete.
 <tr>Polis memuru onlara trafik cezası yazar.
 <en>He punishes them.
+<es>Él los castiga.
 <nl>Hij straft ze.
 <tr>Onları cezalandırır.
 <en>
+<es>
 <tr>
 <nl>
 <en>Sometimes it is rainy,
+<es>A veces está lluvioso,
 <nl>Soms is het regenachtig,
 <tr>Bazen hava yağmurlu olabilir,
 <en>and the streets may be slippery.
+<es>y las calles pueden estar resbaladizas.
 <nl>en zijn de straten glad.
 <tr>caddeler kaygan olabilir.
 <en>Pedestrians carry umbrellas,
+<es>Los peatones llevan sombrillas,
 <nl>Voetgangers dragen  paraplu's,
 <tr>Yayalar şemsiye taşırlar,
 <en>so they can’t see very well,
+<es>para que no puedan ver muy bien,
 <nl>waardoor ze niet goed kunnen zien,
 <tr>bu yüzden çok iyi göremezler,
 <en>and they may fall down.
+<es>y pueden caerse.
 <nl>en ze kunnen vallen.
 <tr>düşebilirler.
 <en>And an accident may happen,
+<es>Y puede ocurrir un accidente,
 <nl>En een ongeluk kan gebeuren.
 <tr>Ve kaza olabilir.
 <en>Pedestrians may be injured.
+<es>Los peatones pueden lesionarse.
 <nl>Voetgangers kunnen gewond raken.
 <tr>Yayalar yaralanabilirler.
 <en>So drivers should drive carefully.
+<es>Entonces los conductores deben conducir con cuidado.
 <nl>Dus bestuurders moeten voorzichtig rijden.
 <tr>Bu yüzden sürücüler dikkatli sürmelidir.
 <en>Vocabulary
+<es>Vocabulario
 <tr>Kelime hazinesi
 <nl>Vocabulair
 <en>lorry
+<es>(el) camión
 <nl>vrachtwagen
 <tr>kamyon
 <en>tram
+<es>(el) tranvía
 <nl>tram
 <tr>tramvay
 <en>bicycle
+<es>(la) bicicleta
 <nl>fiets
 <tr>bisiklet
 <en>motorcycle
+<es>(la) motocicleta
 <nl>brommer
 <tr>motorsiklet
 <en>padestrian
+<es>(el) peaton
 <nl>voetganger
 <tr>yaya
 <en>pavement
+<es>(el) pavimento
 <nl>stoep
 <tr>kaldırım
 <en>if
+<es>si
 <nl>als
 <tr>eğer
 <en>a lot of
+<es>mucho
 <nl>heel veel
 <tr>pek çok
 <en>street
+<es>(la) calle
 <nl>straat
 <tr>cadde
 <en>traffic jam
+<es>(el) embotellamiento
 <nl>file
 <tr>trafik sıkışıklığı
 <en>road
+<es>(el) camino/ (la) carretera
 <nl>weg
 <tr>yol
 <en>narrow
+<es>estrecho
 <nl>nauw, smal
 <tr>dar
 <en>wide
+<es>amplio
 <nl>wijd, breed
 <tr>geniş
 <en>must
+<es>debe
 <nl>moet
 <tr>-meli,-malı
 <en>some
+<es>algunos
 <nl>sommige
 <tr>biraz, birkaç
 <en>corner
+<es>(la) esquina
 <nl>hoek, bocht
 <tr>köşe
 <en>driver
+<es>(el) conductor
 <nl>bestuurder
 <tr>sürücü
 <en>each other
+<es>el uno al otro
 <nl>elkaar
 <tr>birbirini
 <en>accident
+<es>(el) accidente
 <nl>ongeluk
 <tr>kaza
 <en>so
+<es>asi que
 <nl>dus
 <tr>bu yüzden
 <en>straight
+<es>recto/ derecho
 <nl>recht
 <tr>düz
 <en>right
+<es>(la) derecha
 <nl>rechts
 <tr>sağ
 <en>left
+<es>(la) izquierda
 <nl>links
 <tr>sol
 <en>pedestrian crossing
+<es>(el) cruce peatonal
 <nl>zebrapad
 <tr>yaya geçidi
 <en>yellow
+<es>amarillo
 <nl>geel
 <tr>sarı
 <en>footbridge
+<es>(el) puente peatonal
 <nl>voetgangersbrug
 <tr>üst geçit
 <en>subway
+<es>(el) paso subterraneo
 <nl>tunnel
 <tr>alt geçit
 <en>traffic lights
+<es>(los) semáforos
 <nl>verkeerslicht, stoplicht
 <tr>trafik ışığı
 <en>green
+<es>verde
 <nl>groen
 <tr>yeşil
 <en>pollice officer
+<es>(el) oficial de policia
 <nl>politieman
 <tr>polis memuru
 <en>rules
+<es>(las) reglas
 <nl>regels
 <tr>kurallar
 <en>traffic rules
+<es>(las) normas de tráfico
 <nl>verkeersregels
 <tr>trafik kuralları
 <en>traffic law
+<es>(la) ley de tráfico
 <nl>verkeersregel
 <tr>trafik kanunu
 <en>traffic fine
+<es>(la) multa de tráfico
 <nl>(verkeers)boete, bon
 <tr>trafik cezası
 <en>rainy
+<es>lluvioso
 <nl>regenachtig
 <tr>yağmurlu
 <en>slippery
+<es>resbaladizo
 <nl>glad
 <tr>kaygan
 <en>umbrella
+<es>(el) paraguas
 <nl>paraplu
 <tr>şemsiye
 <en>carefully
+<es>cuidadosamente
 <nl>voorzichtig
 <tr>dikkatlice
 <en>walk
+<es>caminar
 <nl>lopen
 <tr>yürümek
 <en>crash into
+<es>estrellarse en/ estrellarse contra
 <nl>botsen
 <tr>çarpışmak
 <en>happen
+<es>ocurrir
 <nl>gebeuren
 <tr>olmak
 <en>kill
+<es>matar
 <nl>doden
 <tr>öldürmek
 <en>injured
+<es>lesionado
 <nl>gewond
 <tr>yaralanmak
 <en>want
+<es>querer
 <nl>willen
 <tr>istemek
 <en>look
+<es>mirar
 <nl>kijken
 <tr>bakmak
 <en>cross the street
+<es>cruzar la calle
 <nl>de straat oversteken
 <tr>caddeyi geçmek
 <en>use
+<es>usar/ utilizar
 <nl>gebruiken
 <tr>kullanmak
 <en>flash
+<es>destello
 <nl>knipperen
 <tr>yanıp sönmek
 <en>stop
+<es>detener
 <nl>stoppen
 <tr>durmak
 <en>superior to
+<es>superior a
 <nl>voorrang hebben
 <tr>üstün olmak
 <en>get ready
+<es>prepararse
 <nl>klaarstaan
 <tr>hazırlanmak
 <en>direct the traffic
+<es>dirigir el tráfico
 <nl>verkeer regelen
 <tr>trafiği yönetmek
 <en>obey
+<es>obedecer
 <nl>gehoorzamen, opvolgen
 <tr>uymak
 <en>break the law
+<es>violar la ley
 <nl>de wet overtreden
 <tr>kanunu çiğnemek
 <en>give
+<es>dar
 <nl>geven
 <tr>vermek
 <en>punish
+<es>castigar
 <nl>straffen
 <tr>cezalandırmak
 <en>should
+<es>deber/ tener que
 <nl>zullen
 <tr>-meli,-malı

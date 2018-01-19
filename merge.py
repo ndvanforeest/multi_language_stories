@@ -51,16 +51,17 @@ def merge(filename):
     res = []
     with open("source_files/{}.txt".format(fname), "r") as fp:
         for line in fp:
+            sentence = line.strip()
             if line[:4] == "<en>":
                 #sentence = line[4:].strip()
                 #trans = translation[sentence]
                 #res.append("<en>{}\n<{}>{}\n".format(sentence, target_language, trans))
-                sentence = line[4:].strip()
+                sentence = sentence[4:]
                 res.append("<en>{}".format(sentence))
                 trans = translation[sentence]
                 res.append("<{}>{}".format(target_language, trans))
             else:
-                res.append(line)
+                res.append(sentence)
 
     os.system("mv source_files/{}.txt source_files/{}_old.txt".format(fname, fname))
 

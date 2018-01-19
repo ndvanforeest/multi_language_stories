@@ -59,17 +59,17 @@ def section_title(t1, t2):
 def latex_parallel(story, words):
     # latex output for translation next to each other
 
-    #table_format = "\\begin{longtable}{L||R}\\toprule"
-    table_format = "\\begin{longtable}{L||L}\\toprule"
+    # In the next line we need the () at the end of toprule, for otherwise, when the next line starts with a (, the \toprule command will this as an option
+    table_format = "\\begin{longtable}{L||L}\\toprule()" 
     res = [] # list of latex strings
     #print(story)
     title = section_title(story[0][0],story[0][1])
     res.append(title)
     # start story table 
-    table_format = "\\begin{longtable}{L||L}\\toprule"
+    table_format = "\\begin{longtable}{L||L}\\toprule()"
     res.append(table_format)
     # header of table
-    res.append("{} & {} \\\\ \midrule".format(story[0][0], story[0][1]))
+    res.append("{} & {} \\\\ \midrule()".format(story[0][0], story[0][1]))
     # story itself
     for line in story[1:]:
         res.append("{} & {} \\\\".format(line[0], line[1]))
@@ -153,4 +153,4 @@ if __name__ == "__main__":
     make_all_doc("tr", "en", "turkish_english_columns")
     make_all_doc("nl", "en", "dutch_english_columns")
     make_all_doc("en", "nl", "english_dutch_columns")
-    #make_all_doc("es","en", "spanish_english")
+    make_all_doc("es","en", "spanish_english_columns")
