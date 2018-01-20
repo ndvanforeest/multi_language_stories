@@ -124,6 +124,7 @@ def make_all_doc(lang_left, lang_right, out_file):
     res = "\n".join(res)
     with open("dummy.tex", "w") as fp:
         fp.write(res)
+    quit()
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
@@ -132,7 +133,7 @@ def make_all_doc(lang_left, lang_right, out_file):
     os.system("rm dummy.*")
 
 if __name__ == "__main__":
-    make_all_doc("en", "nl", "english_dutch_facing")
+    #make_all_doc("en", "nl", "english_dutch_facing")
     #make_all_doc("nl", "en", "dutch_english_facing")
     #make_all_doc("tr", "en", "turkish_english_facing")
-    #make_all_doc("es", "en", "spanish_english_facing")
+    make_all_doc("es", "en", "spanish_english_facing")

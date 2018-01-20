@@ -8,12 +8,13 @@ def read_story_and_vocab(lang, fname):
     lang_string = "<{}>".format(lang)
     with open(r"source_files/{}".format(fname)) as fp:
         story = []
+        words = []
         for line in fp:
             if line[:-1] == config.vocabulary[lang]:
+                words = [line[4:].strip()]
                 break
             if line[:4] == lang_string:
                 story.append(line[4:].strip())
-        words = []
         for line in fp:
             if line[:4] == lang_string:
                 words.append(line[4:].strip())
@@ -76,12 +77,15 @@ def latex_parallel(story, words):
     # trailer
     res.append("\\bottomrule \\end{longtable}")
 
-    if words:
-        res.append(table_format)
-    for line in words:
+    if not words:
+        res.append("\\clearpage")
+        return "\n".join(res)
+        
+    res.append(table_format)
+    res.append("{} & {} \\\\ \\toprule()".format(words[0][0], words[0][1]))
+    for line in words[1:]:
         res.append("{} & {} \\\\".format(line[0], line[1]))
-    if words:
-        res.append("\\bottomrule \\end{longtable}")
+    res.append("\\bottomrule \\end{longtable}")
     
     res.append("\\clearpage")
     return "\n".join(res)
@@ -94,13 +98,15 @@ doc_template = r"""
 \usepackage{{ctable}} % for toprule
 \usepackage[utf8]{{inputenc}}
 \usepackage{{tgheros}}
+\usepackage[dutch, english]{{babel}}
 \usepackage{{longtable}}
 \usepackage{{url}}
 \usepackage{{multicol}}
 
 \newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
 \newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{6.5cm}}}}
+%\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{6.5cm}}}}
+\newcolumntype{{L}}{{p{{6.5cm}}}}
 
 \author{{en-nl: Nicky van Foreest\\
 en-tr: Onur Kilic\\
@@ -150,7 +156,7 @@ def make_all_doc(lang_left, lang_right, latex_file):
     os.system("rm {}.toc".format(latex_file))
 
 if __name__ == "__main__":
-    #make_all_doc("tr", "en", "turkish_english_columns")
-    #make_all_doc("nl", "en", "dutch_english_columns")
-    #make_all_doc("en", "nl", "english_dutch_columns")
+    make_all_doc("tr", "en", "turkish_english_columns")
+    make_all_doc("nl", "en", "dutch_english_columns")
+    make_all_doc("en", "nl", "english_dutch_columns")
     make_all_doc("es","en", "spanish_english_columns")

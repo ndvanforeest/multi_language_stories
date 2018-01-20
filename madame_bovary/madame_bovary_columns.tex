@@ -1,6 +1,7 @@
 \documentclass[a5paper]{book}
 
-\usepackage[margin=5mm]{{geometry}}
+%\usepackage[margin=5mm]{{geometry}}
+\usepackage[top=5mm, left=5mm, right=5mm, bottom=1.5cm]{geometry}
 \usepackage[french,english]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{ctable} % for toprule
@@ -24,20 +25,87 @@
 \newcolumntype{L}{>{\raggedright\arraybackslash}p{6.5cm}}
 \newcolumntype{P}{p{6.5cm}}
 
-\title{Madame Bovary\\
-Parallel French English translation}
-\author{Gustave Flaubert \\
-Translated from the French by Eleanor Marx-Aveling
-Project Gutenberg EBook\\
-\LaTeX: Nicky van Foreest
-}
-\date{Paris, 12 avril 1857\\ 
-Date on Project Gutenberg: September 14, 2016\\
-\LaTeX: \today}
 
 \begin{document}
-\maketitle
+\begin{titlepage} % Suppresses headers and footers on the title page
 
+	\centering % Centre everything on the title page
+	
+	\scshape % Use small caps for all text on the title page
+	
+	\vspace*{\baselineskip} % White space at the top of the page
+	
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal rule
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{0.75\baselineskip} % Whitespace above the title
+	
+	{\LARGE Madame Bovary\\} % Title
+	
+	\vspace{0.75\baselineskip} % Whitespace below the title
+	
+	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
+	\rule{\textwidth}{1.6pt} % Thick horizontal rule
+	
+	\vspace{2\baselineskip} % Whitespace after the title block
+	
+	%------------------------------------------------
+	%	Subtitle
+	%------------------------------------------------
+	
+	French-English Parallel Translations, Two Columns per Page % Subtitle or further description
+	
+	\vspace*{3\baselineskip} % Whitespace under the subtitle
+	
+	%------------------------------------------------
+	%	Editor(s)
+	%------------------------------------------------
+	
+	Written By
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\Large Gustave Flaubert \\} % Editor list
+	
+	\vspace{1\baselineskip} % Whitespace before the editors
+
+	Translated from the French By \\
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\large Eleanor Marx-Aveling \\} % Editor list
+
+	\vspace{1\baselineskip} % Whitespace before the editors
+
+	\LaTeX\/ Formatting By \\
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\large Nicky Van Foreest \\} % Editor list
+
+	%\vspace{0.5\baselineskip} % Whitespace below the editor list
+	
+	%\textit{The University of California \\ Berkeley} % Editor affiliation
+	
+	\vfill % Whitespace between editor names and publisher logo
+	
+	%------------------------------------------------
+	%	Publisher
+	%------------------------------------------------
+	
+	%\plogo % Publisher logo
+	
+	\vspace{0.3\baselineskip} % Whitespace under the publisher logo
+	
+	2017 % Publication year
+	
+	{\large Project Gutenberg EBook} % Publisher
+\end{titlepage}
+      
 \frontmatter
 \tableofcontents
 
@@ -61,68 +129,58 @@ print(r"\end{longtable}")
 \end{pycode}
 
 \mainmatter
-    % if include_print_section_numbers:
-    %     res = "\section{{ {} / {} }}".format(t1, t2)
-    % else:
-    %     res = "\section*{{{}}}".format(t1)
-    %     res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
-    % return res
+
+\begin{pycode}
+def make_chapters(french_file, english_file):
+    with open(english_file, "r") as fp:
+        english = [l for l in fp]
+
+    with open(french_file, "r") as fp:
+        french = [l for l in fp]
+
+    english_chapters = []
+    res = []
+    for l in english:
+        if l != "Chapter\n":
+            res. append(l)
+        else:
+            english_chapters.append(res)
+            res = []
+    english_chapters.append(res)
 
 
+    french_chapters = []
+    res = []
+    for l in french:
+        if l != "Chapitre\n":
+            res. append(l)
+        else:
+            french_chapters.append(res)
+            res = []
+    french_chapters.append(res)
+
+    chap_no = 0
+    for fr, eng in zip(french_chapters[1:], english_chapters[1:]):
+        chap_no += 1
+        print(r"\chapter{{Chapitre {} / Chapter {}}}".format(chap_no, chap_no))
+        print(r"\begin{longtable}{PP}")
+        for f, e in zip(fr, eng):
+            print("{} & {} \\\\".format(f, e))
+        print(r"\end{longtable}")
+\end{pycode}
+    
 \part*{Première Partie / Part One}
 \begin{pycode}
-with open("mbe_p1.txt", "r") as fp:
-    english = [l for l in fp]
-
-with open("mbf_p1.txt", "r") as fp:
-    french = [l for l in fp]
-
-english_chapters = []
-res = []
-for l in english:
-    if l != "Chapter\n":
-        res. append(l)
-    else:
-        english_chapters.append(res)
-        res = []
-english_chapters.append(res)
-
-french_chapters = []
-res = []
-for l in french:
-    if l != "Chapitre\n":
-        res. append(l)
-    else:
-        french_chapters.append(res)
-        res = []
-french_chapters.append(res)
-
-chap_no = 0
-for fr, eng in zip(french_chapters[1:], english_chapters[1:]):
-    chap_no += 1
-    print(r"\chapter{{Chapitre {} / Chapter {}}}".format(chap_no, chap_no))
-    print(r"\begin{longtable}{PP}")
-    for f, e in zip(fr, eng):
-        print("{} & {} \\\\".format(f, e))
-    print(r"\end{longtable}")
+make_chapters("mbf_p1.txt", "mbe_p1.txt")
 \end{pycode}
-
 
 \end{document}
 
-% Introductory chapters
-\chapter{Preface}
-% ...
+\part*{Deuxième Partie / Part two}
+\begin{pycode}
+make_chapters("mbf_p2.txt", "mbe_p2.txt")
+\end{pycode}
 
-\mainmatter
-\chapter{First chapter}
-% ...
-
-\appendix
-\chapter{First Appendix}
-
-\backmatter
-\chapter{Last note}
 \end{document}
 
 %%% Local Variables:
