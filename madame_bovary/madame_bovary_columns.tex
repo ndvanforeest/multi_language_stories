@@ -1,0 +1,131 @@
+\documentclass[a5paper]{book}
+
+\usepackage[margin=5mm]{{geometry}}
+\usepackage[french,english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ctable} % for toprule
+\usepackage[utf8]{inputenc}
+%\usepackage{{tgheros}}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{pythontex}
+
+% \renewcommand{\partname}{}
+% \renewcommand{\chaptername}{}
+% \renewcommand{\thechapter}{}
+
+\usepackage{titlesec}
+
+\titleformat{\part}[display]
+  {\centering\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}[display]
+  {\centering \normalfont\bfseries}{}{0pt}{\Large}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{6.5cm}}
+\newcolumntype{P}{p{6.5cm}}
+
+\title{Madame Bovary\\
+Parallel French English translation}
+\author{Gustave Flaubert \\
+Translated from the French by Eleanor Marx-Aveling
+Project Gutenberg EBook\\
+\LaTeX: Nicky van Foreest
+}
+\date{Paris, 12 avril 1857\\ 
+Date on Project Gutenberg: September 14, 2016\\
+\LaTeX: \today}
+
+\begin{document}
+\maketitle
+
+\frontmatter
+\tableofcontents
+
+
+\clearpage
+
+\begin{pycode}
+with open(r"frontispiece.txt") as fp:
+    french = []
+    english = []
+    for line in fp:
+        if line[:4] == "<fr>":
+            french.append(line[4:].strip())
+        else:
+            english.append(line[4:].strip())
+
+print(r"\begin{longtable}{PP}")
+for f, e in zip(french, english):
+    print("{} & {} \\\\".format(f,e))
+print(r"\end{longtable}")
+\end{pycode}
+
+\mainmatter
+    % if include_print_section_numbers:
+    %     res = "\section{{ {} / {} }}".format(t1, t2)
+    % else:
+    %     res = "\section*{{{}}}".format(t1)
+    %     res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
+    % return res
+
+
+\part*{Première Partie / Part One}
+\begin{pycode}
+with open("mbe_p1.txt", "r") as fp:
+    english = [l for l in fp]
+
+with open("mbf_p1.txt", "r") as fp:
+    french = [l for l in fp]
+
+english_chapters = []
+res = []
+for l in english:
+    if l != "Chapter\n":
+        res. append(l)
+    else:
+        english_chapters.append(res)
+        res = []
+english_chapters.append(res)
+
+french_chapters = []
+res = []
+for l in french:
+    if l != "Chapitre\n":
+        res. append(l)
+    else:
+        french_chapters.append(res)
+        res = []
+french_chapters.append(res)
+
+chap_no = 0
+for fr, eng in zip(french_chapters[1:], english_chapters[1:]):
+    chap_no += 1
+    print(r"\chapter{{Chapitre {} / Chapter {}}}".format(chap_no, chap_no))
+    print(r"\begin{longtable}{PP}")
+    for f, e in zip(fr, eng):
+        print("{} & {} \\\\".format(f, e))
+    print(r"\end{longtable}")
+\end{pycode}
+
+
+\end{document}
+
+% Introductory chapters
+\chapter{Preface}
+% ...
+
+\mainmatter
+\chapter{First chapter}
+% ...
+
+\appendix
+\chapter{First Appendix}
+
+\backmatter
+\chapter{Last note}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
