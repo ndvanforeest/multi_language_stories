@@ -18,7 +18,7 @@
 <nl>Ze hadden lange neuzen, en kleine ogen en oren.
 <en>They were jealous of Cindrella,
 <nl>Ze waren jaloers op Assepoester.
-<en>so they always scolded Cindrella: `Go to the kitchen, do the washing up. Do the cleaning. Do the cooking. Do the sweeping”
+<en>so they always scolded Cindrella: `Go to the kitchen, do the washing up. Do the cleaning. Do the cooking. Do the sweeping'
 <nl>Dus scholden ze altijd op Assepoester. `Ga naar de keuken, doe de afwas. Ga opruimen. Doe het koken. Ga vegen.'
 <en>Cindrella went to the kitchen and cried.
 <nl>Assepoester ging naar de keuken en huilde.
@@ -48,7 +48,7 @@
 <nl>Ze ging naar haar tante en vroeg beleefd:
 <en>`Sweet aunt. Please, may I go to the party?
 <nl>`Lieve tante, alsjeblieft, mag ik naar het feest?'
-<en>”Her aunt answered rudely, `No, you can’t. Go to the kitchen  immediately.'
+<en>Her aunt answered rudely, `No, you can’t. Go to the kitchen  immediately.'
 <nl>Haar tante antwoordde grof: `Nee, jij mag niet. Ga onmiddellijk naar de keuken.'
 <en>Poor Cindrella went to the kitchen.
 <nl>De arme Assepoester ging naar de keuken.
@@ -64,7 +64,7 @@
 <nl>Ze keek op,
 <en>and saw an old lady with a stick with a  shining star at the top.
 <nl>en zag een oude vrouw, met een stok met een glanzende ster aan de bovenkant.
-<en>`Don’t cry Cindrella” said the old lady. `I will help you. First bring me a pumpkin and a Mouse trap with two mice in it.”
+<en>`Don’t cry Cindrella' said the old lady. `I will help you. First bring me a pumpkin and a Mouse trap with two mice in it.'
 <nl>`Huil maar niet, Assepoester',  zei de oude vrouw. `Ik zal je helpen.  Breng me een pompoen en een muizenval met twee muizen er in.'
 <en>Cindrella stopped crying. She went to the cellar.
 <nl>Assepoester stopte met huilen. Ze ging naar de kelder.
@@ -103,7 +103,7 @@
 <en>She ran out of  the palace.
 <nl>Ze rende het paleis uit.
 <en>She went home but she  forgot one of the glass shoes on  the  steps.
-<nl>Ze ging naar huis, maar ze vergat 'e'en van de glazen schoenen op de trap.
+<nl>Ze ging naar huis, maar ze vergat \'e\'en van de glazen schoenen op de trap.
 <en>
 <nl>
 <en>The prince  found the glass shoe and  ordered  the soldiers to find Cindrella.
@@ -156,7 +156,7 @@
 <nl>mag ik
 <en>rude
 <nl>onbeleefd, lomp
-<en>İmmediately
+<en>Immediately
 <nl>onmiddellijk
 <en>coach
 <nl>koets
