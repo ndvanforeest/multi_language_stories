@@ -1,9 +1,11 @@
 # Parallel texts in multiple languages
 
 
-This repo contains English stories translated to (currently) Dutch and Turkish. The structure is like this.
+This repo contains English stories translated to (currently) Dutch, Turkish and Spanish. The structure is like this.
 
-The source_files directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in < > signs, like so <en>, <nl>, and so on.
+- pdf_files/ contains the parallel translations.
+
+- source_files/ contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in < > signs, like so <en>, <nl>, and so on.
 
 - make_facing.py: makes a pdf file with two languages on facing pages.
 
@@ -19,7 +21,7 @@ The process works like this.
 
 2. translate_to_target_language.py: have google translate the formated file to a draft translation. 
 
-3. Edit the file translated by google by hand to improve the translation by hand (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.)
+3. Edit the file translated by google by hand to improve the translation (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.)
 
 4. merge.py: merge the hand-edited file with the original source file. Copy the merged file to the source_files directory.
 
