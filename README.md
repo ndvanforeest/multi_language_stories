@@ -13,7 +13,7 @@ The structure is of the repo like this:
 
 - The pdf_files/ directory contains the parallel translations.
 
-- The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in < > signs, like so <<en>>, "<nl>", and so on.
+- The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in < > signs, like so &lt en, "<nl>", and so on.
 
 - The make_two_columns.py makes a pdf file with the two languages, each in one column, on one page.
 
