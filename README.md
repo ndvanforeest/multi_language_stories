@@ -13,7 +13,7 @@ The structure is of the repo like this:
 
 - The pdf_files/ directory contains the parallel translations.
 
-- The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in < > signs, like so &lt; en &gt;, "<nl>", and so on.
+- The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
 
 - The make_two_columns.py makes a pdf file with the two languages, each in one column, on one page.
 
@@ -25,7 +25,7 @@ The process works like this.
 
 1. start with some .txt (plain ascii) file.
 
-2. format_english_text.py: formates a raw txt file and splits it into lines each of which starts with '<en>'.
+2. format_english_text.py: formates a raw txt file and splits it into lines each of which starts with '&lt;en&gt;'.
 
 2. translate_to_target_language.py: have google translate the formated file to a draft translation. 
 
