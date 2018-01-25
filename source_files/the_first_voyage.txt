@@ -1,5 +1,5 @@
-<en>The First Voyage
-<nl>De eeste reis
+<en>First Voyage
+<nl>Eerste reis
 <en>
 <nl>
 <en>I had inherited considerable wealth from my parents, and being young and foolish I at first squandered it recklessly upon every kind of pleasure, but presently, finding that riches speedily take to themselves wings if managed as badly as I was managing mine, and remembering also that to be old and poor is misery indeed, I began to bethink me of how I could make the best of what still remained to me.
@@ -80,8 +80,6 @@
 <nl>Verschillende van de mensen die erop zaten kwamen om in de wateren, onder anderen deze ongelukkige Sindbad.
 <en>This merchandise is his, but I have resolved to dispose of it for the benefit of his family if I should ever chance to meet with them.'
 <nl>Deze koopwaar is van hem, maar ik heb besloten het te verkopen voor het welzijn van zijn familie als ik ooit de kans krijgen ze te ontmoeten.'
-<en>
-<nl>
 <en>`Captain,'
 <nl>`Kapitein,'
 <en>said I,
@@ -108,8 +106,6 @@
 <nl>`Heb geduld, en doe mij de gunst om mijn verhaal te horen,'
 <en>said I.
 <nl>zei ik
-<en>
-<nl>
 <en>`Speak then,'
 <nl>`Spreek dan,'
 <en>replied the captain,

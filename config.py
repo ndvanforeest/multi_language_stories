@@ -115,6 +115,7 @@ files = [
     "sindbad.txt",
     "the_first_voyage.txt",
     "the_second_voyage.txt",
+    "the_third_voyage.txt",
     "the_story_of_the_baked_head.txt",
 ]
 

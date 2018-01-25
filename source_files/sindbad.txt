@@ -71,7 +71,7 @@
 <en>`My lord,'
 <nl>`Mijn heer,'
 <en>replied the porter,
-<nl>antwoordde de portier,
+<nl>antwoordde de drager,
 <en>`I am called Hindbad.'
 <nl>`Ik heet Hindbad.'
 <en>
@@ -80,8 +80,6 @@
 <nl>`Ik ben verheugd je hier te zien,'
 <en>continued Sindbad.
 <nl>vervolgde Sindbad.
-<en>
-<nl>
 <en>`And I will answer for the rest of the company that they are equally pleased, but I wish you to tell me what it was that you said just now in the street.'
 <nl>`En ik spreek voor de rest van het gezelschap dat ze het allen net zo'n genoegen doet, maar ik zou graag willen dat je me vertelt wat het was dat je net op straat zei.'
 <en>For Sindbad, passing by the open window before the feast began, had heard his complaint and therefore had sent for him.
@@ -121,6 +119,6 @@
 <en>
 <nl>
 <en>As Sindbad was relating his adventures chiefly on account of the porter, he ordered, before beginning his tale, that the burden which had been left in the street should be carried by some of his own servants to the place for which Hindbad had set out at first, while he remained to listen to the story.
-<nl>Omdat Sindbad zich bij het vertellen van zijn avonturen hoofdzakelijk tot de portier richtte, beval hij, voordat hij aan zijn verhaal begon, dat de last die op straat was achtergelaten, door sommige van zijn eigen bedienden zou worden gedragen naar de plaats waar Hindbad eerst naar toe was gegaan, terwijl hij bleef om te luisteren naar het verhaal.
+<nl>Omdat Sindbad zich bij het vertellen van zijn avonturen hoofdzakelijk tot de drager richtte, beval hij, voordat hij aan zijn verhaal begon, dat de last die op straat was achtergelaten, door sommige van zijn eigen bedienden zou worden gedragen naar de plaats waar Hindbad eerst naar toe was gegaan, terwijl hij bleef om te luisteren naar het verhaal.
 <en>
 <nl>

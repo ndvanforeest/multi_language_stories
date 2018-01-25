@@ -1,0 +1,219 @@
+\documentclass[a5paper]{book}
+
+\usepackage[top=5mm, left=5mm, right=5mm, bottom=1.5cm]{geometry}
+%\usepackage[margin=5mm]{{geometry}}
+\usepackage[french,english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ctable} % for toprule
+\usepackage[utf8]{inputenc}
+%\usepackage{{tgheros}}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{pythontex}
+
+% \renewcommand{\partname}{}
+% \renewcommand{\chaptername}{}
+% \renewcommand{\thechapter}{}
+
+\usepackage[series={A},noend,nocritical]{reledmac}
+\usepackage[]{reledpar}
+\maxhnotesX{0.6\textheight}
+\beforenotesX{5pt}
+\setgoalfraction{0.95}
+\numberlinefalse
+
+%\AtBeginDocument{%
+%\Xmaxhnotes{0.6\textheight}
+%\maxhnotesX{0.6\textheight}
+%}
+
+
+\usepackage{titlesec}
+
+\titleformat{\part}[display]
+  {\centering\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}[display]
+  {\centering \normalfont\bfseries}{}{0pt}{\Large}
+
+%\newcommand{\plogo}{\fbox{$\mathcal{PL}$}} % Generic dummy publisher logo
+
+
+\begin{document}
+\begin{titlepage} % Suppresses headers and footers on the title page
+
+	\centering % Centre everything on the title page
+	
+	\scshape % Use small caps for all text on the title page
+	
+	\vspace*{\baselineskip} % White space at the top of the page
+	
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal rule
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{0.75\baselineskip} % Whitespace above the title
+	
+	{\LARGE Madame Bovary\\} % Title
+	
+	\vspace{0.75\baselineskip} % Whitespace below the title
+	
+	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
+	\rule{\textwidth}{1.6pt} % Thick horizontal rule
+	
+	\vspace{2\baselineskip} % Whitespace after the title block
+	
+	%------------------------------------------------
+	%	Subtitle
+	%------------------------------------------------
+	
+	French-English Parallel Translations on Facing Pages % Subtitle or further description
+	
+	\vspace*{3\baselineskip} % Whitespace under the subtitle
+	
+	%------------------------------------------------
+	%	Editor(s)
+	%------------------------------------------------
+	
+	Written By
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\Large Gustave Flaubert \\} % Editor list
+	
+	\vspace{1\baselineskip} % Whitespace before the editors
+
+	Translated from the French By \\
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\large Eleanor Marx-Aveling \\} % Editor list
+
+	\vspace{1\baselineskip} % Whitespace before the editors
+
+	\LaTeX\/ Formatting By \\
+	
+	\vspace{0.5\baselineskip} % Whitespace before the editors
+	
+	{\scshape\large Nicky Van Foreest \\} % Editor list
+
+	%\vspace{0.5\baselineskip} % Whitespace below the editor list
+	
+	%\textit{The University of California \\ Berkeley} % Editor affiliation
+	
+	\vfill % Whitespace between editor names and publisher logo
+	
+	%------------------------------------------------
+	%	Publisher
+	%------------------------------------------------
+	
+	%\plogo % Publisher logo
+	
+	\vspace{0.3\baselineskip} % Whitespace under the publisher logo
+	
+	2017 % Publication year
+	
+	{\large Project Gutenberg EBook} % Publisher
+
+\end{titlepage}
+
+\frontmatter
+\tableofcontents
+
+
+\clearpage
+
+\mainmatter
+
+\begin{pycode}
+def make_chapters(french_file, english_file):
+    with open(english_file, "r") as fp:
+        english = [l for l in fp]
+
+    with open(french_file, "r") as fp:
+        french = [l for l in fp]
+
+    english_chapters = []
+    res = []
+    for l in english:
+        if l != "Chapter\n":
+            res. append(l)
+        else:
+            english_chapters.append(res)
+            res = []
+    english_chapters.append(res)
+
+    french_chapters = []
+    res = []
+    for l in french:
+        if l != "Chapitre\n":
+            res. append(l)
+        else:
+            french_chapters.append(res)
+            res = []
+    french_chapters.append(res)
+
+    for i in range(1, len(french_chapters)):
+        print(r"\begin{pages}")
+        print(r"\begin{Leftside}")
+        print(r"\selectlanguage{french}")
+        print(r"\beginnumbering")
+        print(r"\pstart")
+        print(r"\eledchapter{{Chapitre {}}}".format(i))
+        print(r"\pend")
+        print(r"\pstart")
+        for line in french_chapters[i]:
+            l = line.strip()
+            if len(l) == 0: 
+                print(r"\pend")
+                print(r"\pstart")
+            else:
+                print(l)
+        print(r"\pend")
+        print(r"\endnumbering")
+        print(r"\end{Leftside}")
+        print(r"\end{pages}")
+
+        print(r"\begin{pages}")
+        print(r"\begin{Rightside}")
+        print(r"\selectlanguage{english}")
+        print(r"\beginnumbering")
+        print(r"\pstart")
+        print(r"\eledchapter{{Chapter {}}}".format(i))
+        print(r"\pend")
+        print(r"\pstart")
+        for line in english_chapters[i]:
+            l = line.strip()
+            if len(l) == 0: 
+                print(r"\pend")
+                print(r"\pstart")
+            else:
+                print(l)
+        print(r"\pend")
+        print(r"\endnumbering")
+        print(r"\end{Rightside}")
+        print(r"\end{pages}")
+        print(r"\Pages")
+\end{pycode}
+
+\part{Première Partie / Part One}
+\begin{pycode}
+make_chapters("mbf_p1.txt", "mbe_p1.txt")
+\end{pycode}
+
+
+\end{document}
+\part*{Deuxième Partie / Part two}
+\begin{pycode}
+make_chapters("mbf_p2.txt", "mbe_p2.txt")
+\end{pycode}
+
+\end{document}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

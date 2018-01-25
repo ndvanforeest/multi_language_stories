@@ -28,16 +28,18 @@ def make_latex(story):
     for line in story[1:]:
         res.append(line)
     # trailer
-    res.append("\\clearpage")
+    #res.append("\\clearpage")
     return "\n".join(res)
 
 
 doc_template = r"""
-\documentclass[a5paper]{{article}}
+\documentclass[a4paper]{{article}}
 \usepackage[margin=5mm]{{geometry}}
+%\usepackage{{a4wide}}
 \usepackage[T1]{{fontenc}}
 \usepackage[utf8]{{inputenc}}
-\usepackage{{tgheros}}
+%\usepackage{{tgheros}}
+\usepackage{{fouriernc}}
 \usepackage{{url}}
 \usepackage{{multicol}}
 
@@ -90,7 +92,7 @@ def make_all_doc(lang, latex_file):
     os.system("rm {}.toc".format(latex_file))
 
 if __name__ == "__main__":
-    make_all_doc("tr", "turkish")
+    #make_all_doc("tr", "turkish")
     make_all_doc("nl", "dutch")
-    make_all_doc("en", "english")
-    make_all_doc("es", "spanish")
+    #make_all_doc("en", "english")
+    #make_all_doc("es", "spanish")

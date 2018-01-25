@@ -1,0 +1,4 @@
+rm -rf pythontex-files-madame_bovary_columns/
+pdflatex madame_bovary_columns.tex
+pythontex madame_bovary_columns.tex
+pdflatex madame_bovary_columns.tex

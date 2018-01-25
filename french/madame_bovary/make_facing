@@ -1,0 +1,4 @@
+rm -rf pythontex-files-madame_bovary_facing/
+pdflatex madame_bovary_facing.tex
+pythontex madame_bovary_facing.tex
+pdflatex madame_bovary_facing.tex

@@ -1,9 +1,7 @@
-<en>The Story of the Baked head
-<nl>Het verhaal van het gebakken hoofd
-<en>From J.J. Morier, The Adventures of Hajji Baba, 1824
-<nl>Uit J.J. Morier, De avonturen van Hajji Baba, 1824.
-<en>The present Khon-khor of Roum---literally `Blood drinker'; so the Sultan of \emph{Roum} or Turkey is styled in Persia.---is a staunch Mussulman and a rigid upholder of the true faith.
-<nl>De huidige Khon-khor van Roum---letterlijk `bloed drinker'; aldus wordt de sultan van \emph{Roum} of Turkije getypeerd in Perzi\"e.---is een fervent Musselman en een rigide handhaver van het ware geloof.
+<en>The Story of the Baked head\footnote{From J.J. Morier, The Adventures of Hajji Baba, 1824}
+<nl>Het verhaal van het gebakken hoofd\footnote{Uit J.J. Morier, De avonturen van Hajji Baba, 1824.}
+<en>The present Khon-khor of Roum\footnote{literally `Blood drinker'; so the Sultan of \emph{Roum} or Turkey is styled in Persia.} is a staunch Mussulman and a rigid upholder of the true faith.
+<nl>De huidige Khon-khor van Roum\footnote{letterlijk `bloed drinker'; aldus wordt de sultan van \emph{Roum} of Turkije getypeerd in Perzi\"e.} is een fervent Musselman en een rigide handhaver van het ware geloof.
 <en>Upon his coming to the throne, he announced his intention of doing away with many customs common to the infidels, which had crept into the administration of the state during the reign of his predecessor; and he thought it his duty to endeavour to restore things to their primitive simplicity and to adopt a mode of government purely Turkish.
 <nl>Toen hij op de troon kwam, kondigde hij zijn voornemen aan veel gebruiken  weg te doen, gebruiken gemeenschappelijk aan de ongelovigen, die in het bestuur van de staat waren binnengedrongen tijdens de heerschappij van zijn voorganger; en hij vond het zijn plicht te streven de dingen weer in hun oorspronkelijke eenvoud te herstellen en een  puur Turkse regeringsvorm te adopteren.
 <en>Accordingly he resumed a custom which had almost got into disuse,--that of going about the city in tebdil, or disguise; and he was so careful about the disguises which he adopted, and the people whom he admitted into his secrets on these occasions, that he took all sorts of precautions, and invented all sorts of schemes of secrecy, in whatever related to his dresses, and the characters in which he chose to appear.

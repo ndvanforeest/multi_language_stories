@@ -10,7 +10,7 @@
 <nl>Hij zag een aap in een boom.  
 <tr>Ağaçta bir maymun görmüş. 
 <es>Él vio un mono en un arbol.
-<en>`Will you be my friend?', asked the elephant  
+<en>`Will you be my friend?', asked the elephant. 
 <nl>`Wil jij mijn  vriend zijn?', vroeg de olifant.  
 <tr>`Benim arkadaşım olur musun?' diye sormuş fil. 
 <es>`¿Quieres ser mi amigo?,' preguntó el elefante.

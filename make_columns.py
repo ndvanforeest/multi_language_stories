@@ -97,8 +97,9 @@ doc_template = r"""
 \usepackage[T1]{{fontenc}}
 \usepackage{{ctable}} % for toprule
 \usepackage[utf8]{{inputenc}}
-\usepackage{{tgheros}}
-\usepackage[dutch, english]{{babel}}
+%\usepackage{{tgheros}}
+\usepackage{{fouriernc}}
+\usepackage[english, dutch]{{babel}}
 \usepackage{{longtable}}
 \usepackage{{url}}
 \usepackage{{multicol}}
