@@ -1,0 +1,71 @@
+\documentclass[a5paper]{article}
+
+%\usepackage[margin=5mm]{{geometry}}
+\usepackage[top=5mm, left=5mm, right=5mm, bottom=1.5cm]{geometry}
+\usepackage[french,english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ctable} % for toprule
+\usepackage[utf8]{inputenc}
+%\usepackage{{tgheros}}
+\usepackage{fouriernc}
+\usepackage{longtable}
+\usepackage{pythontex}
+\usepackage{url}
+
+\usepackage{titlesec}
+
+\titleformat{\part}[display]
+  {\centering\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}[display]
+  {\centering \normalfont\bfseries}{}{0pt}{\Large}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{6.5cm}}
+\newcolumntype{P}{p{6.5cm}}
+
+
+\begin{document}
+\tableofcontents
+\clearpage
+
+\begin{pycode}
+import re
+
+def make_print(fname):
+    with open(fname, "r") as fp:
+        french = []
+        english = []
+        for line in fp:
+            if line[:4] == "<fr>":
+                french.append(line[4:].strip())
+            else:
+                english.append(line[4:].strip())
+
+    name = re.sub("_", " ", fname[13:])
+    print(r"\section{" + name + "}")
+    print(r"\begin{longtable}{PP}")
+    for f, e in zip(french, english):
+        print("{} & {} \\\\".format(f,e))
+    print(r"\end{longtable}")
+    print(r"\clearpage")
+
+
+
+files = [
+    "source_files/histoire_gribouille.txt",
+    "source_files/zobeida.txt",
+]
+
+
+for fname in files:
+    make_print(fname)
+\end{pycode}
+
+
+
+\end{document}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
