@@ -124,7 +124,6 @@ def make_all_doc(lang_left, lang_right, out_file):
     res = "\n".join(res)
     with open("dummy.tex", "w") as fp:
         fp.write(res)
-    quit()
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
     os.system("pdflatex dummy.tex")
