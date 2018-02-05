@@ -1,207 +1,276 @@
-<en>The lion and the mouse  
-<nl>De leeuw en de muis  
-<tr>Aslan ile fare 
+<en>The lion and the mouse
+<es>El león y el ratón
+<nl>De leeuw en de muis
+<tr>Aslan ile fare
 <en>A little mouse lives in a big forest.
+<es>Un pequeño ratón vive en un gran bosque.
 <nl>Een muis woont in een groot bos.
 <tr>Ormanın birinde bir fare yaşar.
 <en>One day he is hungry.
-<nl>Op een dag heeft hij honger. 
+<es>Un día él está hambriento.
+<nl>Op een dag heeft hij honger.
 <tr>Bir gün karnı acıkır.
 <en>So he walks in the forest
+<es>Así que camina en el bosque
 <nl>Dus loopt hij het bos in
 <tr>Buyüzden ormanda yürür
 <en>and looks for some food.
+<es>y busca algo de comida
 <nl>en zoekt naar eten.
 <tr>ve yiyecek arar.
 <en>
+<es>
 <nl>
 <tr>
 <en>Suddenly he meets a lion.
+<es>De repente se encuentra con un león.
 <nl>Ineens ontmoet hij een leeuw.
 <tr>Aniden bir aslana rastlar.
 <en>The lion roars.
+<es>El león ruge.
 <nl>De leeuw brult.
 <tr>Aslan kükrer.
 <en>The mouse is frightened.
+<es>El mouse está asustado.
 <nl>De muis is bang.
 <tr>Fare korkar.
 <en>And the lion catches the mouse.
-<nl>En de leeuw vangt de muis. 
+<es>Y el león atrapa al ratón
+<nl>En de leeuw vangt de muis.
 <tr>Ve aslan fareyi yakalar.
 <en>The mouse screams, `Please, Mr Lion, let me go.
+<es>El ratón grita: `Por favor, señor León, déjame ir".
 <nl>De muis gilt: `Alstublieft, meneer Leeuw, laat me gaan.
-<tr>Fare çığlık atar: `Lütfen bay aslan, beni bırak gideyim,' der. 
+<tr>Fare çığlık atar: `Lütfen bay aslan, beni bırak gideyim,' der.
 <en>If you let me go, one day I will help you.'
+<es>Si me dejas ir, un día te ayudaré.
 <nl>Als je mij laat gaan, dan zal ik jou op een dag helpen.'
 <tr>`Eğer beni bırakırsan bir gün sana yardım ederim.'
 <en>The lion is surprised.
+<es>El león está sorprendido.
 <nl>De leeuw is verbaasd.
 <tr>Aslan şaşırır.
-<en>Then he says, laughing, 
+<en>Then he says, laughing,
+<es>Entonces él dice, riendo,
 <nl>Dan zegt hij lachend,
 <tr>Sonra aslan,
 <en>`You are small.
+<es>`Eres pequeño.
 <nl>`Jij bent klein.
 <tr>`Sen küçüksün.
 <en>I am big.
+<es>Soy grande.
 <nl>Ik ben groot.
 <tr>Ben büyüğüm.
 <en>How can you help me?'
+<es>¿Cómo puedes ayudarme?'
 <nl>Hoe kan jij mij helpen?'
 <tr>Sen bana nasıl yardım edebilirsin,' diye güler.
 <en>The mouse begs, `Please, give me permission to go.'
+<es>El ratón ruega: `Por favor, dame permiso para ir".
 <nl>De muis smeekt: `Alstublieft, geef me toestemming te gaan.
-<tr>Fare yalvarır, `Lütfen gitmeme izin ver.  
+<tr>Fare yalvarır, `Lütfen gitmeme izin ver.
 <en>I have children at home.
+<es>Tengo hijos en casa.
 <nl>Ik heb kinderen thuis.
 <tr>Evde çocuklarım var.
-<en>They are hungry. 
+<en>They are hungry.
+<es>Tienen hambre.
 <nl>Ze hebben honger.
-<tr>Onların karınları aç. 
+<tr>Onların karınları aç.
 <en>They are waiting for me.
-<nl>Ze wachten op mij. 
-<tr>Onlar beni bekliyorlar. 
+<es>Ellos me están esperando.
+<nl>Ze wachten op mij.
+<tr>Onlar beni bekliyorlar.
 <en>Have mercy on us.'
+<es>Ten piedad de nosotros.'
 <nl>Heb medelijden met ons.'
 <tr>Acı bize.'
 <en>The lion hears these words and becomes sad.
+<es>El león oye estas palabras y se pone triste.
 <nl>De leeuw hoort deze woorden, en wordt treurig.
 <tr>Aslan bu sözleri duyar ve üzülür.
 <en>Then the lion says, `Yes, you can go.
+<es>Entonces el león dice: `Sí, puedes irte".
 <nl>Dan zegt de leeuw: `Ja, jij kan gaan.
 <tr>Sonra aslan, `tamam gidebilirsin.
 <en>However from now on, walk carefully.'
+<es>Sin embargo, de ahora en adelante, camina con cuidado".
 <nl>Maar, vanaf nu, wees voorzichtig.'
 <tr>Ancak  bundan sonra dikkatli yürü.'
 <en>The mouse says, `Thank you very much.'
+<es>El ratón dice, `Muchas gracias'.
 <nl>De muis zegt: `Dank u wel.'
 <tr>`Çok teşekkürler,' der fare.
 <en>The lion says: `You’re welcome.'
+<es>El león dice: `De nada".
 <nl>De leeuw zegt, `Alsjeblieft.'
 <tr>Aslan,  `bir şey değil,' der.
 <en>
+<es>
 <nl>
 <tr>
 <en>The next week the mouse is hungry again.
+<es>La próxima semana, el ratón está hambriento nuevamente.
 <nl>De volgende week heeft de muis weer honger.
 <tr>Ertesi hafta fare tekrar acıkır.
 <en>The mouse walks in the forest again.
+<es>El ratón vuelve a caminar por el bosque.
 <nl>De muis loopt opnieuw het bos in.
 <tr>Ertesi hafta fare ormanda tekrar yürür.
 <en>He looks for some food again.
-<nl>Hij zoekt opnieuw naar wat te eten. 
+<es>Él busca algo de comida de nuevo.
+<nl>Hij zoekt opnieuw naar wat te eten.
 <tr>Tekrar yiyecek birşeyler arar.
 <en>He meets the same lion again,
+<es>Se encuentra con el mismo león otra vez,
 <nl>Hij ontmoet dezelfde leeuw opnieuw.
 <tr>Aynı aslana tekrar rastlar.
 <en>But this time he is under a tree in a trap.
+<es>Pero esta vez está bajo un árbol en una trampa.
 <nl>Maar deze keer zit hij onder een boom in een val.
-<tr>Ama bu kez o bir ağacın altında tuzak içindedir. 
+<tr>Ama bu kez o bir ağacın altında tuzak içindedir.
 <en>He goes to the lion.
+<es>Él va al león.
 <nl>Hij gaat naar de leeuw.
 <tr>Fare aslanın yanına gider.
 <en>He says, `Wait for me.
+<es>Él dice, `Espérame.
 <nl>Hij zegt: `Wacht op mij.
 <tr>`Beni bekle.
 <en>I will help you.’
-<nl>Ik zal jou helpen.' 
+<es>Te ayudaré.'
+<nl>Ik zal jou helpen.'
 <tr>Sana yardım edeceğim,' der.
 <en>He climbs the net.
+<es>Él sube a la red.
 <nl>Hij klimt in het net.
 <tr>Ağa tırmanır.
 <en>He bites one rope after the other,  until the lion is free.
+<es>Muerde una cuerda tras otra, hasta que el león está libre.
 <nl>Hij bijt het ene  na het andere touw door, totdat de leeuw bevrijd is.
-<tr>Aslan özgür kalana kadar bir ipi sonra diğerini ısırır. 
+<tr>Aslan özgür kalana kadar bir ipi sonra diğerini ısırır.
 <en>At last the lion is free.
+<es>Por fin el león es libre.
 <nl>Uiteindelijk is de leeuw vrij.
 <tr>Sonunda aslan özgürdür.
 <en>He says, `Thank you.'
+<es>Él dice, `Gracias'.
 <nl>Hij zegt: `Dank je.'
 <tr>`Teşekkür ederim,'  der.
 <en>The mouse says, `You’re welcome.'
+<es>El ratón dice, `De nada'.
 <nl>De muis zegt: `Alsjeblieft.'
 <tr>Fare, `bir şey değil,' der.
 <en>Vocabulary
+<es>Vocabulario
 <nl>Vocabulair
 <tr>Kelime hazinesi
-<en>belly 
-<nl>buik 
-<tr>karın 
-<en>to be hungry 
-<nl>honger hebben 
-<tr>karnı acıkmak 
-<en>to let go, release 
-<nl>laten gaan, los laten 
-<tr> bırakmak
+<en>belly
+<es>vientre
+<nl>buik
+<tr>karın
+<en>to be hungry
+<es>estar hambriento
+<nl>honger hebben
+<tr>karnı acıkmak
+<en>to let go, release
+<es>soltar, liberar
+<nl>laten gaan, los laten
+<tr>bırakmak
 <en>scream
+<es>gritar
 <nl>gillen
 <tr>çığlık atmak
-<en> he screams 
-<nl>hij gilt 
+<en>he screams
+<es>él grita
+<nl>hij gilt
 <tr>çığlık atar
-<en>to give permission 
-<nl>toestemming geven 
-<tr> izin vermek 
-<en> give me permission 
-<nl>geef me toestemming 
-<tr> izin ver 
+<en>to give permission
+<es>dar permiso
+<nl>toestemming geven
+<tr>izin vermek
+<en>give me permission
+<es>dame permiso
+<nl>geef me toestemming
+<tr>izin ver
 <en>meet
+<es>reunirse/ conocer
 <nl>ontmoeten
 <tr>buluşmak, karşılaşmak
 <en>catch
+<es>capturar
 <nl>vangen
 <tr>yakalamak
 <en>beg
+<es>mendigar
 <nl>smeken
 <tr>yalvarmak
 <en>laugh
+<es>reir/ risa
 <nl>lachen
 <tr>gülmek
-<en>however 
-<nl>echter 
+<en>however
+<es>sin embargo
+<nl>echter
 <tr>ancak
 <en>from now on
+<es>de ahora en adelante
 <nl>vanaf nu
 <tr>bundan sonra
 <en>careful
+<es>cuidadoso
 <nl>voorzichtig
 <tr>dikkatli
 <en>the next week
+<es>la próxima semana
 <nl>de volgende week
 <tr>ertesi hafta
 <en>again
+<es>de nuevo
 <nl>opnieuw
 <tr>tekrar
 <en>this time
+<es>esta vez
 <nl>deze keer
 <tr>bu kez
-<en> trap 
-<nl>val 
-<tr> tuzak 
-<en> in a trap 
-<nl>in een val 
-<tr> tuzak içindedir
+<en>trap
+<es>trampa
+<nl>val
+<tr>tuzak
+<en>in a trap
+<es>en una trampa
+<nl>in een val
+<tr>tuzak içindedir
 <en>net
+<es>red
 <nl>net
 <tr>ağ
 <en>rope
+<es>cuerda
 <nl>touw
 <tr>bir ip
-<en>soon 
+<en>soon
+<es>pronto
 <nl>gauw
 <tr>çok geçmeden
 <en>free
+<es>libre
 <nl>vrij
 <tr>özgür
-<en> to become free 
-<nl>bevrijd worden 
-<tr> özgür kalmak  
-<en> until he became free 
-<nl>totdat hij bevrijd was 
-<tr> özgür kalana kadar 
+<en>to become free
+<es>ser libre
+<nl>bevrijd worden
+<tr>özgür kalmak
+<en>until he became free
+<es>hasta que fue libre
+<nl>totdat hij bevrijd was
+<tr>özgür kalana kadar
 <en>climb
+<es>escalar
 <nl>klimmen
 <tr>tırmanmak
 <en>bite
+<es>morder
 <nl>bijten
 <tr>ısırmak

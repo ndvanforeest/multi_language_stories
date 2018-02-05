@@ -39,7 +39,8 @@ def translate(fname):
         fp.write("\n".join(res))
 
 
-fname="histoire_gribouille.txt"
+fname="mille_nuit.txt"
+fname="mille_nuit_2.txt"
 
 format_single_file_raw(fname)
 translate(fname)

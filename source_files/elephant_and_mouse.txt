@@ -1,247 +1,328 @@
 <en>The story of the elephant and the mouse
+<es>La historia del elefante y el ratón
 <nl>Het verhaal van de olifant en de muis
-<tr>Fil ve Farenin Hikayesi  
+<tr>Fil ve Farenin Hikayesi
 <en>An elephant and a mouse were very good friends.
-<nl>Een olifant en een muis waren hele goede vrienden.  
-<tr>Fil ve fare çok iyi arkadaşlarmış. 
+<es>Un elefante y un ratón eran muy buenos amigos.
+<nl>Een olifant en een muis waren hele goede vrienden.
+<tr>Fil ve fare çok iyi arkadaşlarmış.
 <en>On a day, while walking in the forest, they saw a big bag filled with peanuts.
-<nl>Op een dag, terwijl  ze aan het wandelen waren in het bos, zagen ze  een grote zak vol met pinda's. 
+<es>En un día, mientras caminaban por el bosque, vieron una gran bolsa llena de cacahuates.
+<nl>Op een dag, terwijl  ze aan het wandelen waren in het bos, zagen ze  een grote zak vol met pinda's.
 <tr>Bir gün ormanda yürürlerken karşılarına kocaman bir çuval dolusu fıstık çıkmış.
 <en>The two friends liked peanuts a lot, so they were very excited.
-<nl>De twee vrienden vonden pinda's erg  lekker, dus waren ze heel enthousiast. 
-<tr>İki arkadaş da fıstığı çok severlermiş, çok heveslenmişler. 
+<es>A los dos amigos les gustaban mucho los cacahuates, así que estaban muy emocionados.
+<nl>De twee vrienden vonden pinda's erg  lekker, dus waren ze heel enthousiast.
+<tr>İki arkadaş da fıstığı çok severlermiş, çok heveslenmişler.
 <en>
+<es>
 <nl>
 <tr>
 <en>They decide to carry the bag to their nest.
-<nl>Ze besloten de zak  naar hun nest te dragen. 
-<tr>Yuvalarına taşımaya karar vermişler.  
+<es>Deciden llevar la bolsa a su nido.
+<nl>Ze besloten de zak  naar hun nest te dragen.
+<tr>Yuvalarına taşımaya karar vermişler.
 <en>The elephant tried to lift the bag, but to no avail.
-<nl>De olifant probeerde de zak van zijn plaats te tillen, maar dat lukte niet. 
-<tr>Fil çuvalı yerinden kaldırmaya çalışmış ama nafile. 
+<es>El elefante intentó levantar la bolsa, pero fue en vano.
+<nl>De olifant probeerde de zak van zijn plaats te tillen, maar dat lukte niet.
+<tr>Fil çuvalı yerinden kaldırmaya çalışmış ama nafile.
 <en>The bag was so heavy that it was impossible to move it.
+<es>La bolsa era tan pesada que era imposible moverla.
 <nl>De zak was zo zwaar dat hij niet van plaats kwam.
 <tr>Çuval o kadar ağırmış ki yerinden kalkmıyormuş.
-<en> He tried it a few times. 
+<en>He tried it a few times.
+<es>Lo intentó algunas veces.
 <nl>Hij probeerde het een paar keer.
-<tr>Birkaç kere daha denemiş. 
+<tr>Birkaç kere daha denemiş.
 <en>But it did not work.
-<nl>Maar het lukte niet. 
-<tr>Olmamış. 
+<es>Pero no funcionó.
+<nl>Maar het lukte niet.
+<tr>Olmamış.
 <en>Eventually he gave up.
-<nl>Uiteindelijk gaf hij op. 
+<es>Finalmente, se dió por vencido.
+<nl>Uiteindelijk gaf hij op.
 <tr>En sonunda vazgeçmiş.
-<en> Disappointed they went back to their nest.
+<en>Disappointed they went back to their nest.
+<es>Decepcionados, volvieron a su nido.
 <nl>Teleurgesteld keerden ze terug naar hun nest.
-<tr>Hayal kırıklığına uğramış bir şekilde yuvalarına dönmüşler. 
-<en> The elephant was so tired that he fell asleep right away. 
-<nl>De olifant was zo moe geworden dat hij meteen in slaap viel. 
+<tr>Hayal kırıklığına uğramış bir şekilde yuvalarına dönmüşler.
+<en>The elephant was so tired that he fell asleep right away.
+<es>El elefante estaba tan cansado que se durmió de inmediato.
+<nl>De olifant was zo moe geworden dat hij meteen in slaap viel.
 <tr>Fil o kadar yorulmuş ki hemen uyuyakalmış.
 <en>
+<es>
 <nl>
 <tr>
-<en> When he woke up, he was surprised.
-<nl>Toen hij wakker werd, was hij verbaasd. 
-<tr>Uyandığında ise şaşırmış. 
-<en> Because the bag with peanuts was standing next to him.
-<nl>Want de zak met pinda's stond naast hem. 
-<tr>Çünkü fıstık çuvalı yanındaymış. 
-<en> How did this happen?, he asked the mouse.
+<en>When he woke up, he was surprised.
+<es>Cuando se despertó, se sorprendió.
+<nl>Toen hij wakker werd, was hij verbaasd.
+<tr>Uyandığında ise şaşırmış.
+<en>Because the bag with peanuts was standing next to him.
+<es>Porque la bolsa con cacahuates estaba parada junto a él.
+<nl>Want de zak met pinda's stond naast hem.
+<tr>Çünkü fıstık çuvalı yanındaymış.
+<en>How did this happen?, he asked the mouse.
+<es>¿Cómo sucedió esto?, le preguntó al ratón.
 <nl>`Hoe is dit gebeurd?'', vroeg hij aan de muis.
 <tr>`Nasıl oldu bu iş?' diye sormuş fareye.
-<en> It was impossible to move it.
+<en>It was impossible to move it.
+<es>Era imposible moverla.
 <nl>`Het wat onmogelijk om hem te verplaatsen.'
 <tr>`Bunu kıpırdatmak bile imkansızdı.'
-<en>To this, the mouse said: 
-<nl>De muis zei hierop: 
-<tr>Fare de demiş ki, 
+<en>To this, the mouse said:
+<es>A esto, el ratón dijo:
+<nl>De muis zei hierop:
+<tr>Fare de demiş ki,
 <en>`You are right. I couldn't carry the bag, but I could carry one peanut. And so I did: one peanut per time.'
-<nl>`Je hebt gelijk. Ik kon de zak niet dragen, maar ik kon 'e'en pinda dragen. En zo heb ik het gedaan. 1 pinda per keer.' 
+<es>`Tienes razón. No podía llevar la bolsa, pero podía llevar un maní. Y así lo hice: un maní a la vez ".
+<nl>`Je hebt gelijk. Ik kon de zak niet dragen, maar ik kon 'e'en pinda dragen. En zo heb ik het gedaan. 1 pinda per keer.'
 <tr>`Haklısın, çuvalı taşıyamazdım ama ben sadece 1 fıstık taşıyabiliyordum. Öyle de yaptım. Her defasında 1 fıstık.'
 <en>
+<es>
 <nl>
 <tr>
-<en> The moral of this story. 
-<nl>De moraal van dit verhaal. 
+<en>The moral of this story.
+<es>La moraleja de esta historia.
+<nl>De moraal van dit verhaal.
 <tr>Kıssadan hisse.
-<en> If you chop up a goal, that seems to lie beyond your capabilities, into small pieces that you can handle, nothing is impossible.
-<nl>Als je een doel, dat je vermogens te boven lijkt te gaan, verdeelt in kleine stukjes die wel binnen je vermogens liggen, is niets onmogelijk. 
-<tr>kapasitenizin üstünde gibi görünen bir hedefi kapasiteniz dahilinde küçük küçük parçalara bölerseniz `imkansız' diye bir şey olmaz. 
+<en>If you chop up a goal, that seems to lie beyond your capabilities, into small pieces that you can handle, nothing is impossible.
+<es>Si partes un objetivo, que parece estar más allá de tus capacidades, en pequeños pedazos que puedes manejar, nada es imposible.
+<nl>Als je een doel, dat je vermogens te boven lijkt te gaan, verdeelt in kleine stukjes die wel binnen je vermogens liggen, is niets onmogelijk.
+<tr>kapasitenizin üstünde gibi görünen bir hedefi kapasiteniz dahilinde küçük küçük parçalara bölerseniz `imkansız' diye bir şey olmaz.
 <en>Vocabulary
+<es>Vocabulario
 <nl>Vocabulair
 <tr>Kelime hazinesi
-<es>Vocabulario
-<en> big 
-<nl>groot 
-<tr> kocaman 
-<en> while they were walking 
-<nl> terwijl zij aan het wandelen zijn 
-<tr> yürürlerken
-<en> to meet 
-<nl>tegen komen 
-<tr> karşısına çıkmak 
-<en> to be exited 
-<nl>opgewonden zijn 
-<tr> heveslenmek 
-<en> decision 
-<nl>beslissing, besluit 
-<tr>  karar 
-<en> to take a decision 
-<nl>besluiten, een beslissing nemen 
-<tr> karar vermek 
-<en> they decide 
-<nl> zij beslissen 
-<tr> karar verirler 
-<en> they decided
-<nl>zij besloten 
-<tr> karar vermişler
-<en> to carry 
-<nl>dragen 
-<tr> taşımak
-<en> location 
-<nl>plaats 
-<tr> yer 
-<en> its place 
-<nl>zijn plaats 
-<tr> yeri  
-<en> from its place 
-<nl>van zijn plaats 
-<tr> yerinden 
-<en> to lift 
-<nl>optillen 
-<tr> kaldırmak 
-<en>  to stand up, to leave 
-<nl>opstaan, vertrekken 
-<tr> kalkmak 
-<en> it doesn't move 
-<nl>het staat stil 
-<tr> kalkmıyor 
-<en> it wasn't moving 
-<nl>het bewoog niet 
-<tr> kalkmıyordu   
-<en> it didn't move 
-<nl>het heeft/had niet bewogen 
-<tr>  kalkmıyormuş 
-<en> a few times  
-<nl>een aantal maal/keer 
-<tr> birka\c{c} kere 
-<en> to succeed 
-<nl>lukken 
-<tr> başarmak 
-<en> to not succeed 
-<nl>niet  lukken 
-<tr> başaramamak 
-<en> finally, 
-<nl>Uiteindelijk 
-<tr> en sonunda 
-<en> give up 
-<nl>opgeven 
-<tr> vazgeçmek 
-<en> to disappoint 
-<nl>teleurstellen 
-<tr> hayal kırıklığına uğramak 
-<en> being disappointed 
-<nl>teleurgesteld zijn 
-<tr> hayal kırıklığına uğramış şekilde 
-<en> sad 
-<nl>verdrietig 
-<tr> üzgün
-<en> right away 
-<nl>meteen 
-<tr> hemen 
-<en> to all asleep 
-<nl>in slaap vallen 
-<tr> uykuya dalmak
-<en> he fell asleep 
-<nl>hij viel in slaap 
-<tr> uykuya dalmiş 
-<en> because 
-<nl>want 
-<tr> çünkü  
-<en> just/even  
-<nl>even/zelfs 
-<tr>bile  
-<en>at most 
-<nl>alleen/hoogstens 
-<tr> sadece
-<en> goal 
-<nl>het  doel 
-<tr> hedef 
-<en> task 
-<nl>de taak 
-<tr> görev 
-<en> look like, resemble 
-<nl> eruit zien als/lijken 
-<tr> gibi görünmek 
-<en>a goal that appears to go beyond your capacity 
-<nl>een doel dat je vermogens te boven lijkt te  gaan 
+<en>big
+<es>grande
+<nl>groot
+<tr>kocaman
+<en>while they were walking
+<es>mientras caminaban
+<nl>terwijl zij aan het wandelen zijn
+<tr>yürürlerken
+<en>to meet
+<es>conocer
+<nl>tegen komen
+<tr>karşısına çıkmak
+<en>to be excited
+<es>estar emocionado
+<nl>opgewonden zijn
+<tr>heveslenmek
+<en>decision
+<es>(la) decisión
+<nl>beslissing, besluit
+<tr> karar
+<en>to take a decision
+<es>tomar una decisión
+<nl>besluiten, een beslissing nemen
+<tr>karar vermek
+<en>they decide
+<es>ellos deciden
+<nl>zij beslissen
+<tr>karar verirler
+<en>they decided
+<es>ellos decidieron
+<nl>zij besloten
+<tr>karar vermişler
+<en>to carry
+<es>llevar
+<nl>dragen
+<tr>taşımak
+<en>location
+<es>(la) ubicación
+<nl>plaats
+<tr>yer
+<en>its place
+<es>su lugar
+<nl>zijn plaats
+<tr>yeri
+<en>from its place
+<es>desde su lugar
+<nl>van zijn plaats
+<tr>yerinden
+<en>to lift
+<es>levantar
+<nl>optillen
+<tr>kaldırmak
+<en>to stand up, to leave
+<es>levantarse, irse
+<nl>opstaan, vertrekken
+<tr>kalkmak
+<en>it doesn't move
+<es>no se mueve
+<nl>het staat stil
+<tr>kalkmıyor
+<en>it wasn't moving
+<es>no se estaba moviendo
+<nl>het bewoog niet
+<tr>kalkmıyordu
+<en>it didn't move
+<es>no se movió
+<nl>het heeft/had niet bewogen
+<tr>kalkmıyormuş
+<en>a few times
+<es>unas pocas veces
+<nl>een aantal maal/keer
+<tr>birka\c{c} kere
+<en>to succeed
+<es>triunfar
+<nl>lukken
+<tr>başarmak
+<en>to not succeed
+<es>no tener éxito
+<nl>niet  lukken
+<tr>başaramamak
+<en>finally,
+<es>finalmente,
+<nl>Uiteindelijk
+<tr>en sonunda
+<en>give up
+<es>rendirse
+<nl>opgeven
+<tr>vazgeçmek
+<en>to disappoint
+<es>decepcionar
+<nl>teleurstellen
+<tr>hayal kırıklığına uğramak
+<en>being disappointed
+<es>estar decepcionado
+<nl>teleurgesteld zijn
+<tr>hayal kırıklığına uğramış şekilde
+<en>sad
+<es>triste
+<nl>verdrietig
+<tr>üzgün
+<en>right away
+<es>inmediatamente
+<nl>meteen
+<tr>hemen
+<en>to fall asleep
+<es>quedarse dormido
+<nl>in slaap vallen
+<tr>uykuya dalmak
+<en>he fell asleep
+<es>el se quedó dormido
+<nl>hij viel in slaap
+<tr>uykuya dalmiş
+<en>because
+<es>porque
+<nl>want
+<tr>çünkü
+<en>just/even
+<es>justo/incluso
+<nl>even/zelfs
+<tr>bile
+<en>at most
+<es>como mucho
+<nl>alleen/hoogstens
+<tr>sadece
+<en>goal
+<es>meta
+<nl>het  doel
+<tr>hedef
+<en>task
+<es>tarea
+<nl>de taak
+<tr>görev
+<en>look like, resemble
+<es>parece, se asemeja
+<nl>eruit zien als/lijken
+<tr>gibi görünmek
+<en>a goal that appears to go beyond your capacity
+<es>un objetivo que parece ir más allá de tu capacidad
+<nl>een doel dat je vermogens te boven lijkt te  gaan
 <tr>kapasitenizin üstünde gibi görünen bir hedef
-<en> capacity 
-<nl>vermogens 
-<tr> kapasite 
-<en> above 
-<nl>te boven (gaan) 
-<tr>üstünde 
-<en> to chop up, break, divide 
-<nl>verdelen,  ophakken 
-<tr> bölmek 
-<en> I divide 
-<nl> ik verdeel  
-<tr> bölersem  
-<en> you divide 
-<nl>jij verdeelt  
-<tr> bölersen  
-<en> he divides 
-<nl> hij/zij verdeelt 
-<tr> bölerse
-<en> we divide 
-<nl> wij verdelen 
-<tr> bölersek
-<en> you divide 
-<nl>u verdeelt,  
-<tr> bölerseniz 
-<en> they divide 
-<nl> zij verdelen 
-<tr> bölerlerse  
-<en> break up in pieces 
-<nl>in stukken verdelen/in delen scheiden  
-<tr>parçalara bölmek/ayirmak  
-<en> to can 
-<nl>kunnen 
-<tr> -ebilmek
-<en> cannot 
-<nl>niet kunnen 
-<tr> -ememek  
-<en> in the inside 
-<nl>er binnen/binnenin 
-<tr> dahilinde 
-<en> I carry 
-<nl>ik draag 
-<tr> tac\c{s}\i r\i m
-<en> I do not carry 
-<nl>ik draag niet 
-<tr> taşımam 
-<en> I can carry 
-<nl>Ik kan dragen 
-<tr> taşıyabilirim 
-<en> I cannot carry 
-<nl>ik kan niet dragen 
-<tr> taşıyamam 
-<en> I carried 
-<nl>Ik droeg 
-<tr> taşıdım
-<en> I did not  carry 
-<nl>Ik droeg niet 
-<tr> taşımadım 
-<en> I could carry 
-<nl>Ik kon dragen 
-<tr> taşıyabildim 
-<en> I couldn't carry 
-<nl>ik kon niet dragen 
-<tr> taşıyamadım  
-<en> I used to be  able to carry 
-<nl>vroeger kon ik dragen 
-<tr> taşıyabilirdim 
-<en> I used to be unable to carry 
-<nl>vroeger kon ik niet dragen 
-<tr> taşıyamazdım 
+<en>capacity
+<es>capacidad
+<nl>vermogens
+<tr>kapasite
+<en>above
+<es>encima
+<nl>te boven (gaan)
+<tr>üstünde
+<en>to chop up, break, divide
+<es>cortar, romper, dividir
+<nl>verdelen,  ophakken
+<tr>bölmek
+<en>I divide
+<es>Yo divido
+<nl>ik verdeel
+<tr>bölersem
+<en>you divide
+<es>tú divides
+<nl>jij verdeelt
+<tr>bölersen
+<en>he divides
+<es>él divide
+<nl>hij/zij verdeelt
+<tr>bölerse
+<en>we divide
+<es>nosotros dividimos
+<nl>wij verdelen
+<tr>bölersek
+<en>you divide
+<es>tú divides
+<nl>u verdeelt,
+<tr>bölerseniz
+<en>they divide
+<es>ellos dividen
+<nl>zij verdelen
+<tr>bölerlerse
+<en>break up in pieces
+<es>romper en pedazos
+<nl>in stukken verdelen/in delen scheiden
+<tr>parçalara bölmek/ayirmak
+<en>to can
+<es>poder
+<nl>kunnen
+<tr>-ebilmek
+<en>cannot
+<es>no poder
+<nl>niet kunnen
+<tr>-ememek
+<en>in the inside
+<es>en el interior
+<nl>er binnen/binnenin
+<tr>dahilinde
+<en>I carry
+<es>yo llevo
+<nl>ik draag
+<tr>tac\c{s}\i r\i m
+<en>I do not carry
+<es>no llevo
+<nl>ik draag niet
+<tr>taşımam
+<en>I can carry
+<es>puedo llevar
+<nl>Ik kan dragen
+<tr>taşıyabilirim
+<en>I cannot carry
+<es>no puedo llevar
+<nl>ik kan niet dragen
+<tr>taşıyamam
+<en>I carried
+<es>yo llevé
+<nl>Ik droeg
+<tr>taşıdım
+<en>I did not  carry
+<es>no llevé
+<nl>Ik droeg niet
+<tr>taşımadım
+<en>I could carry
+<es>podría llevar/ pude llevar
+<nl>Ik kon dragen
+<tr>taşıyabildim
+<en>I couldn't carry
+<es>no podría llevar/ no pude llevar
+<nl>ik kon niet dragen
+<tr>taşıyamadım
+<en>I used to be  able to carry
+<es>solía ser capaz de llevar
+<nl>vroeger kon ik dragen
+<tr>taşıyabilirdim
+<en>I used to be unable to carry
+<es>yo solía ser incapaz de llevar
+<nl>vroeger kon ik niet dragen
+<tr>taşıyamazdım

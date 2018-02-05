@@ -11,4 +11,7 @@ source_files/*.txt_old
 source_files/*_old.txt
 parallel.*
 pdf_files/mth*
-madame_bovary/*
+*pythontex-*
+french/
+mth
+
