@@ -1,5 +1,0 @@
-rm -rf pythontex-files-french_columns/
-pdflatex french_columns
-pythontex french_columns
-pdflatex french_columns 
-pdflatex french_columns 

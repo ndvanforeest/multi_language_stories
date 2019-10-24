@@ -9,7 +9,7 @@
 <en>He was very learned in all languages, and knew a great deal about herbs and medicines.
 <nl>Hij was zeer geleerd in alle talen en wist heel veel over kruiden en medicijnen.
 <en>As soon as he was told of the king's illness he put on his best robe and presented himself before the king.
-<nl>Zodra hem werd verteld over de ziekte van de koning, trok hij zijn beste gewaad aan en presenteerde hij zich voor de koning.
+<nl>Zodra hem werd verteld over de ziekte van de koning, trok hij zijn beste gewaad aan en presenteerde hij zich aan de koning.
 <en>
 <nl>
 <en>`Sire,'

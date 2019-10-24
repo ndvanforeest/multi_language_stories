@@ -1,3 +1,0 @@
-rm *.log *.aux *.pdf *.toc *.pytxcode -rf pythontex-files* *.1* *.2* *.3*
-rm *.eledsec*
-rm *.8* *.7* *.5* *.6* *.4* *.9* *.rel
