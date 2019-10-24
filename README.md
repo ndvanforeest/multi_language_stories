@@ -7,13 +7,23 @@ So, why did I build this? In the first place, I dislike reading
 grammar books. Second, I find the stories in most language learners
 books very boring, so boring in fact that I hate to read them twice,
 let alone multiple times. However, I don't mind reading a good story
-multiple times, and study a language in the mean time. Third,
+multiple times, and studying a language in the mean time. Third,
 memorizing words in a new language becomes, for me at least, much
 easier when they are used right away in a story; these words acquire
-meaning in this context.
+meaning in the context.
 
 
-In case you like to add a language, or otherwise contribute to this project let me know. The idea is to take the English stories as leading, and translate those stories to a target language, in my case Dutch. Mind that the target audience is a language learner. Thus, the sentences in the target language 1) should be natural to a native speaker, 2) but at the same time, try to stay as close as possible to the English source, both in word sequence as in meaning. If you deviate too much from the English original, it will often become too hard to understand for somebody new to the language. Of course, in general it is impossible to translate the English in a one-to-one way to a target language. However, we should aim for it at least.
+In case you like to add a language, or otherwise contribute to this
+project let me know. The idea is to take the English stories as
+leading, and translate those stories to a target language, in my case
+Dutch. Mind that the target audience is a language learner. Thus, the
+sentences in the target language 1) should be natural to a native
+speaker, 2) but at the same time, try to stay as close as possible to
+the English source, both in word sequence as in meaning. If you
+deviate too much from the English original, it will often become too
+hard to understand for somebody new to the language. Of course, in
+general it is impossible to translate the English in a one-to-one way
+to a target language. However, we should aim for it at least.
 
 
 The structure is of the repo like this:
