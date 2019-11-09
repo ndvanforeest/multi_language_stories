@@ -1,0 +1,35 @@
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fouriernc}
+\usepackage[dutch,english]{babel}
+
+\usepackage[rerun=always]{pythontex}
+
+\usepackage{a4wide}
+
+\usepackage{paracol}
+\usepackage{ragged2e}
+\author{Nicky van Foreest}
+
+\title{Parallel Translations, Dutch-English}
+
+\begin{document}
+
+\maketitle
+\RaggedRight
+
+\tableofcontents
+
+\begin{pycode}
+import make_columns as make
+
+make.make_all_doc("nl", "en")
+\end{pycode}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

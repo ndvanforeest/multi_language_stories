@@ -1,12 +1,12 @@
-#!/usr/bin/python3
 import os
-import re
 
 import config
 
+
 def read_story_and_vocab(lang, fname):
-    lang_string = "<{}>".format(lang)
-    with open(r"source_files/{}".format(fname)) as fp:
+    lang_string = f"<{lang}>"
+    # with open(f"source_files/{fname}".format(fname)) as fp:
+    with open(f"source_files/{fname}", "r") as fp:
         story = []
         words = []
         for line in fp:
@@ -19,13 +19,13 @@ def read_story_and_vocab(lang, fname):
             if line[:4] == lang_string:
                 words.append(line[4:].strip())
     return story, words
-    
 
-def select_story_and_vocab(lang_left, lang_right, fname):
+
+def merge_story_and_vocab(lang_left, lang_right, fname):
     story_left, words_left = read_story_and_vocab(lang_left, fname)
     story_right, words_right = read_story_and_vocab(lang_right, fname)
 
-    if len(story_left)==0 or len(story_right)==0:
+    if len(story_left) == 0 or len(story_right) == 0:
         # the left or right language story is not in the file
         return None, None
 
@@ -39,125 +39,64 @@ def select_story_and_vocab(lang_left, lang_right, fname):
         print(words_right)
         quit()
 
-    story = [[l, r] for l, r in zip(story_left, story_right)]
+    story = [[lang_left, lang_right]]
+    story += [[l, r] for l, r in zip(story_left, story_right)]
     words = [[l, r] for l, r in zip(words_left, words_right)]
     return story, words
 
-def section_title(t1, t2):
-    if "footnote" in t1:
-        t1 = re.sub(r'\\footnote{.*}', "", t1)
-    if "footnote" in t2:
-        t2 = re.sub(r'\\footnote{.*}', "", t2)
-    include_print_section_numbers = False
-    if include_print_section_numbers:
-        res = "\section{{ {} / {} }}".format(t1, t2)
-    else:
-        res = "\section*{{{}}}".format(t1)
-        res += r"\addcontentsline{toc}{section}{\protect\numberline{}" + t1 + "}"
-    return res
-    
-        
-def latex_parallel(story, words):
-    # latex output for translation next to each other
 
-    # In the next line we need the () at the end of toprule, for otherwise, when the next line starts with a (, the \toprule command will this as an option
-    table_format = "\\begin{longtable}{L||L}\\toprule()" 
-    res = [] # list of latex strings
-    #print(story)
-    title = section_title(story[0][0],story[0][1])
-    res.append(title)
-    # start story table 
-    table_format = "\\begin{longtable}{L||L}\\toprule()"
-    res.append(table_format)
-    # header of table
-    res.append("{} & {} \\\\ \midrule()".format(story[0][0], story[0][1]))
-    # story itself
-    for line in story[1:]:
-        res.append("{} & {} \\\\".format(line[0], line[1]))
-    # trailer
-    res.append("\\bottomrule \\end{longtable}")
+def make_two_columns(story, words):
+    lang_left = config.language[story[0][0]]
+    lang_right = config.language[story[0][1]]
+
+    title = story[1]
+    print(r"\begin{paracol}{2}")
+    print(f"\selectlanguage{{{lang_left}}}")
+    print(f"\section{{{title[0]}}}")
+    print(r"\switchcolumn")
+    print(f"\selectlanguage{{{lang_right}}}")
+    print(f"\section*{{{title[1]}}}")
+    print(r"\switchcolumn*")
+
+    for line in story[2:]:
+        print(f"\selectlanguage{{{lang_left}}}")
+        print(line[0])
+        print(r"\switchcolumn")
+        print(f"\selectlanguage{{{lang_right}}}")
+        print(line[1])
+        print(r"\switchcolumn*")
+    print(r"\end{paracol}")
 
     if not words:
-        res.append("\\clearpage")
-        return "\n".join(res)
-        
-    res.append(table_format)
-    res.append("{} & {} \\\\ \\toprule()".format(words[0][0], words[0][1]))
-    for line in words[1:]:
-        res.append("{} & {} \\\\".format(line[0], line[1]))
-    res.append("\\bottomrule \\end{longtable}")
-    
-    res.append("\\clearpage")
-    return "\n".join(res)
+        print("\\clearpage")
+        return
+
+    print(r"\vspace{1cm}")
+
+    print(r"\begin{paracol}{2}")
+    for line in words:
+        print(f"\selectlanguage{{{lang_left}}}")
+        print(line[0])
+        print(r"\switchcolumn")
+        print(f"\selectlanguage{{{lang_right}}}")
+        print(line[1])
+        print(r"\switchcolumn*")
+    print(r"\end{paracol}")
 
 
-doc_template = r"""
-\documentclass[a5paper]{{article}}
-\usepackage[margin=5mm]{{geometry}}
-\usepackage[T1]{{fontenc}}
-\usepackage{{ctable}} % for toprule
-\usepackage[utf8]{{inputenc}}
-%\usepackage{{tgheros}}
-\usepackage{{fouriernc}}
-\usepackage[english, dutch]{{babel}}
-\usepackage{{longtable}}
-\usepackage{{url}}
-\usepackage{{multicol}}
-
-\newcommand{{\oak}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-\newcommand{{\nvf}}[1]{{{{\leavevmode\color{{red}}#1}}\marginnote{{\dbend}}}}
-%\newcolumntype{{L}}{{>{{\raggedright\arraybackslash}}p{{6.5cm}}}}
-\newcolumntype{{L}}{{p{{6.5cm}}}}
-
-\author{{en-nl: Nicky van Foreest\\
-en-tr: Onur Kilic\\
-en-es: Cesar Sala
-}}
-\title{{Parallel translations ({}-{}) }}
-
-\begin{{document}}
-\maketitle
-
-\begin{{multicols}}{{2}}
-  \tableofcontents
-\end{{multicols}}
-
-\clearpage
-
-{}
-
-\end{{document}}
-"""
-
-
-def make_all_doc(lang_left, lang_right, latex_file):
-    res = []
+def make_all_doc(lang_left, lang_right):
     for fname in config.files:
-        if not os.path.isfile("./source_files/"+fname):
+        if not os.path.isfile("./source_files/" + fname):
             continue
-        story, words = select_story_and_vocab(lang_left, lang_right, fname)
-        if story is None:
+        stories, words = merge_story_and_vocab(lang_left, lang_right, fname)
+        if stories is None:
             continue
-        res.append(latex_parallel(story, words))
-    res = doc_template.format(lang_left, lang_right, "\n".join(res))
-    with open(latex_file+".tex", "w") as fp:
-        fp.write(res)
-    try:
-        # quit if an error occurs, rather than trying to pdflatex the
-        # file a few times.
-        os.system("pdflatex {}.tex".format(latex_file))
-    except:
-        quit()
-    os.system("pdflatex {}.tex".format(latex_file))
-    os.system("mv {}.pdf pdf_files/{}.pdf".format(latex_file, latex_file))
-    #os.system("pdflatex {}.tex".format(latex_file))
-    os.system("rm {}.aux".format(latex_file))
-    os.system("rm {}.log".format(latex_file))
-    os.system("rm {}.tex".format(latex_file))
-    os.system("rm {}.toc".format(latex_file))
+        make_two_columns(stories, words)
+        # return
+
 
 if __name__ == "__main__":
-    #make_all_doc("tr", "en", "turkish_english_columns")
-    make_all_doc("nl", "en", "dutch_english_columns")
-    #make_all_doc("en", "nl", "english_dutch_columns")
-    #make_all_doc("es","en", "spanish_english_columns")
+    # make_all_doc("tr", "en")
+    make_all_doc("nl", "en")
+    # make_all_doc("en", "nl")
+    # make_all_doc("es","en")
