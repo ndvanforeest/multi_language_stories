@@ -71,10 +71,16 @@ def make_two_columns(story, words):
         print("\\clearpage")
         return
 
-    print(r"\vspace{1cm}")
+    print(r"\vspace{0.5cm}")
 
     print(r"\begin{paracol}{2}")
-    for line in words:
+    print(f"\selectlanguage{{{lang_left}}}")
+    print(r"\textbf{" + words[0][0] +"}")
+    print(r"\switchcolumn")
+    print(f"\selectlanguage{{{lang_right}}}")
+    print(r"\textbf{" + words[0][1] +"}")
+    print(r"\switchcolumn*")
+    for line in words[1:]:
         print(f"\selectlanguage{{{lang_left}}}")
         print(line[0])
         print(r"\switchcolumn")
@@ -97,6 +103,6 @@ def make_all_doc(lang_left, lang_right):
 
 if __name__ == "__main__":
     # make_all_doc("tr", "en")
-    make_all_doc("nl", "en")
+    # make_all_doc("nl", "en")
     # make_all_doc("en", "nl")
-    # make_all_doc("es","en")
+    make_all_doc("es","en")

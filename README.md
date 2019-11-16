@@ -30,29 +30,22 @@ The structure is of the repo like this:
 
 - The pdf files with the dual language texts can be found [here](https://github.com/ndvanforeest/parallel-translations/tree/master/pdf_files).
 
-- The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
+- Sources file are [here](https://github.com/ndvanforeest/parallel-translations/tree/master/source_files). Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
+
+- 'config.py' contains the source files you want to include.
 
 
-
-Then there is an example file 
-
-- The python program make_facing.py makes a pdf file with two languages, each on a facing page.
-
-- make_one_language.py makes pdf file for just one languate, i.e., no translations.
-
-The process works like this.
-
-1. start with some .txt (plain ascii) file.
-
-2. format_english_text.py: formates a raw txt file and splits it into lines each of which starts with '&lt;en&gt;'.
-
-2. translate_to_target_language.py: have google translate the formated file to a draft translation. 
-
-3. Then, edit the file translated by google by hand to improve the translation (e.g., an ass is not always a donkey, but in the stories I included, the word ass only refers to a donkey.) This step takes the most time. The other are more or less automatic.
-
-4. merge.py: merge the hand-edited file with the original source file. Copy the merged file to the source_files directory.
+Then there is an example file `dutch_english.tex` to make
+dutch-english parallel file. This contains some python code,
+`make_columns.py` that is run by `pythontex` to read the source files
+and put it in an a two column file. To make a file you should run
+`pdflatex` first, then `pythontex`, and then `pdflatex` again. Check
+the docs on `pythontex`; it's really useful.
 
 
-An interesting extension would be to read the stories (by a native) and record them (with your mobile) to  mp3, and share the mp3. Like this, one can first read and study a story, and then later listen to it, while biking to work,  hanging out the wash, or something similar.
+An interesting extension would be to read the stories (by a native)
+and record them (with your mobile) to mp3, and share the mp3. Like
+this, one can first read and study a story, and then later listen to
+it, while biking to work, hanging out the wash, or something similar.
 
 

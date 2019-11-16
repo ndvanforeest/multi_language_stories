@@ -121,6 +121,9 @@ files = [
     "the_story_of_the_baked_head.txt",
 ]
 
+#files = [
+#    "everyday.txt",
+#]
 
 if __name__ == "__main__":
     source_files = set(os.listdir("source_files/"))
