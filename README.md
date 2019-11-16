@@ -28,11 +28,13 @@ to a target language. However, we should aim for it at least.
 
 The structure is of the repo like this:
 
-- The pdf_files/ directory contains the parallel translations.
+- The pdf files with the dual language texts can be found [here]](https://github.com/ndvanforeest/parallel-translations/tree/master/pdf_files).
 
 - The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
 
-- The make_two_columns.py makes a pdf file with the two languages, each in one column, on one page.
+
+
+Then there is an example file 
 
 - The python program make_facing.py makes a pdf file with two languages, each on a facing page.
 
