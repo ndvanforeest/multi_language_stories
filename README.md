@@ -32,7 +32,7 @@ The structure is of the repo like this:
 
 - Sources file are [here](https://github.com/ndvanforeest/parallel-translations/tree/master/source_files). Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
 
-- 'config.py' contains the source files you want to include.
+- `config.py` contains the source files you want to include.
 
 
 Then there is an example file `dutch_english.tex` to make
