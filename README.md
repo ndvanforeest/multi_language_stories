@@ -28,7 +28,7 @@ to a target language. However, we should aim for it at least.
 
 The structure is of the repo like this:
 
-- The pdf files with the dual language texts can be found [here]](https://github.com/ndvanforeest/parallel-translations/tree/master/pdf_files).
+- The pdf files with the dual language texts can be found [here](https://github.com/ndvanforeest/parallel-translations/tree/master/pdf_files).
 
 - The source_files/ directory contains the source files. Each source file contains one story. A file consists of sets of lines, each starting with the country code in &lt; &gt; signs, like so &lt;en&gt;, &lt;nl&gt;, and so on.
 
